@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 01-09-2002 t/m 31-12-2002
+Geldend van 01-01-2003 t/m 31-12-2003
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -1101,7 +1101,7 @@ Artikel 88
 
 2.	De aandeelhouder heeft het stemrecht op de aandelen waarop een vruchtgebruik is gevestigd.
 
-3.	In afwijking van het voorgaande lid komt het stemrecht toe aan de vruchtgebruiker, indien zulks bij de vestiging van het vruchtgebruik is bepaald en de vruchtgebruiker een persoon is, aan wie de aandelen vrijelijk kunnen worden overgedragen. Indien de vruchtgebruiker een persoon is aan wie de aandelen niet vrijelijk kunnen worden overgedragen, komt hem het stemrecht uitsluitend toe, indien dit bij de vestiging van het vruchtgebruik is bepaald en zowel deze bepaling als - bij overdracht van het vruchtgebruik - de overgang van het stemrecht is goedgekeurd door het vennootschapsorgaan dat bij de statuten is aangewezen om goedkeuring te verlenen tot een voorgenomen overdracht van aandelen, dan wel - bij ontbreken van zodanige aanwijzing - door de algemene vergadering van aandeelhouders. Van het bepaalde in de vorige zin kan in de statuten worden afgeweken.
+3.	In afwijking van het voorgaande lid komt het stemrecht toe aan de vruchtgebruiker, indien zulks bij de vestiging van het vruchtgebruik is bepaald en de vruchtgebruiker een persoon is, aan wie de aandelen vrijelijk kunnen worden overgedragen. Indien de vruchtgebruiker een persoon is aan wie de aandelen niet vrijelijk kunnen worden overgedragen, komt hem het stemrecht uitsluitend toe, indien dit bij de vestiging van het vruchtgebruik is bepaald en zowel deze bepaling als - bij overdracht van het vruchtgebruik - de overgang van het stemrecht is goedgekeurd door het vennootschapsorgaan dat bij de statuten is aangewezen om goedkeuring te verlenen tot een voorgenomen overdracht van aandelen, dan wel - bij ontbreken van zodanige aanwijzing - door de algemene vergadering van aandeelhouders. Van het bepaalde in de vorige zin kan in de statuten worden afgeweken. Bij een vruchtgebruik als bedoeld in de artikelen 19 en 21 van Boek 4 komt het stemrecht eveneens aan de vruchtgebruiker toe, tenzij bij de vestiging van het vruchtgebruik door partijen of door de kantonrechter op de voet van artikel 23 lid 4 van Boek 4 anders wordt bepaald.
 
 4.	De aandeelhouder die geen stemrecht heeft, en de vruchtgebruiker die stemrecht heeft, hebben de rechten, die door de wet zijn toegekend aan de houders van met medewerking ener vennootschap uitgegeven certificaten van aandelen. De vruchtgebruiker die geen stemrecht heeft, heeft deze rechten, tenzij deze hem bij de vestiging of de overdracht van het vruchtgebruik of bij de statuten der vennootschap worden onthouden.
 
@@ -2235,7 +2235,7 @@ Artikel 197
 
 2.	De aandeelhouder heeft het stemrecht op de aandelen waarop een vruchtgebruik is gevestigd.
 
-3.	In afwijking van het voorgaande lid komt het stemrecht toe aan de vruchtgebruiker, indien zulks bij de vestiging van het vruchtgebruik is bepaald en de vruchtgebruiker een persoon is, aan wie de aandelen overeenkomstig artikel 195 lid 1 van dit Boek vrijelijk kunnen worden overgedragen. Indien de vruchtgebruiker niet zulk een persoon is, komt hem het stemrecht uitsluitend toe, indien dit bij de vestiging van het vruchtgebruik is bepaald en de statuten dit niet verbieden, mits zowel deze bepaling als - bij overdracht van het vruchtgebruik - de overgang van het stemrecht is goedgekeurd door het vennootschapsorgaan dat bij de statuten is aangewezen om goedkeuring te verlenen tot een voorgenomen overdracht van aandelen, dan wel - bij ontbreken van zodanige aanwijzing - door de algemene vergadering van aandeelhouders.
+3.	In afwijking van het voorgaande lid komt het stemrecht toe aan de vruchtgebruiker, indien zulks bij de vestiging van het vruchtgebruik is bepaald en de vruchtgebruiker een persoon is, aan wie de aandelen overeenkomstig artikel 195 lid 1 van dit Boek vrijelijk kunnen worden overgedragen. Indien de vruchtgebruiker niet zulk een persoon is, komt hem het stemrecht uitsluitend toe, indien dit bij de vestiging van het vruchtgebruik is bepaald en de statuten dit niet verbieden, mits zowel deze bepaling als - bij overdracht van het vruchtgebruik - de overgang van het stemrecht is goedgekeurd door het vennootschapsorgaan dat bij de statuten is aangewezen om goedkeuring te verlenen tot een voorgenomen overdracht van aandelen, dan wel - bij ontbreken van zodanige aanwijzing - door de algemene vergadering van aandeelhouders. Bij een vruchtgebruik als bedoeld in de artikelen 19 en 21 van Boek 4 komt het stemrecht eveneens aan de vruchtgebruiker toe, tenzij bij de vestiging van het vruchtgebruik door partijen of door de kantonrechter op de voet van artikel 23 lid 4 van Boek 4 anders wordt bepaald.
 
 4.	De aandeelhouder die geen stemrecht heeft en de vruchtgebruiker die stemrecht heeft, hebben de rechten, die door de wet zijn toegekend aan de houders van met medewerking ener vennootschap uitgegeven certificaten van aandelen. De vruchtgebruiker die geen stemrecht heeft, heeft deze rechten, indien de statuten dit bepalen en bij de vestiging of overdracht van het vruchtgebruik niet anders is bepaald.
 
@@ -3050,7 +3050,7 @@ Artikel 286
 
 1.	Een stichting moet worden opgericht bij notariële akte.
 
-2.	De akte moet worden verleden in de Nederlandse taal. Indien de stichting haar zetel heeft in de provincie Fryslân kan de akte in de Friese taal worden verleden. Een volmacht tot medewerking aan de akte moet schriftelijk zijn verleend. De stichting kan worden opgericht bij openbaar testament dat in een andere dan de Nederlandse of de Friese taal is verleden; de statuten van de stichting moeten ook dan in de Nederlandse of Friese taal luiden.
+2.	De akte moet worden verleden in de Nederlandse taal. Indien de stichting haar zetel heeft in de provincie Fryslân kan de akte in de Friese taal worden verleden. Een volmacht tot medewerking aan de akte moet schriftelijk zijn verleend. De stichting kan worden opgericht door een uiterste wilsbeschikking, gemaakt bij een notariële akte die in een vreemde taal is verleden; de statuten van de stichting moeten ook dan in de Nederlandse of Friese taal luiden.
 
 3.	De akte bevat de statuten van de stichting.
 
@@ -3069,11 +3069,7 @@ Bij gebreke van een aanwijzing van een zetel in de statuten, heeft de stichting 
 
 Artikel 288
 
-1.	Wanneer een erflater iets heeft vermaakt aan een stichting die hij in een bij notariële akte gemaakte uiterste wilsbeschikking heeft in het leven geroepen, is de stichting erfgenaam of legataris, naar gelang het haar vermaakte aan een erfstelling of aan een legaat beantwoordt.
-
-2.	Heeft hij bij een in andere vorm gemaakte uiterste wil verklaard een stichting in het leven te roepen, dan wordt deze beschikking aangemerkt als een aan de gezamenlijke erfgenamen opgelegde last om die stichting op te richten.
-
-3.	Degene op wie een last om een stichting op te richten rust, kan daartoe op vordering van het openbaar ministerie worden veroordeeld door de rechtbank van het sterfhuis, of, indien de erflater zijn laatste woonplaats niet in Nederland had, door de rechtbank te 's-Gravenhage. De rechter kan bepalen, dat het vonnis dezelfde rechtskracht heeft als een in wettige vorm opgemaakte akte van hem die tot de rechtshandeling gehouden is of dat een door de rechter aan te wijzen vertegenwoordiger de handeling zal verrichten.
+[Vervallen per 01-01-2003]
 
 Artikel 289
 
