@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 30-06-2004 t/m 30-06-2004
+Geldend van 01-07-2004 t/m 30-09-2004
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -312,7 +312,7 @@ Artikel 24
 
 1.	De boeken, bescheiden en andere gegevensdragers van een ontbonden rechtspersoon moeten worden bewaard gedurende zeven jaren nadat de rechtspersoon heeft opgehouden te bestaan. Bewaarder is degene die bij of krachtens de statuten, dan wel door de algemene vergadering of, als de rechtspersoon een stichting was, door het bestuur als zodanig is aangewezen.
 
-2.	Ontbreekt een bewaarder en is de laatste vereffenaar niet bereid te bewaren, dan wordt een bewaarder, zo mogelijk uit de kring dergenen die bij de rechtspersoon waren betrokken, op verzoek van een belanghebbende benoemd door de kantonrechter binnen wiens rechtsgebied de rechtspersoon woonplaats had. Rechtsmiddelen staan niet open.
+2.	Ontbreekt een bewaarder en is de laatste vereffenaar niet bereid te bewaren, dan wordt een bewaarder, zo mogelijk uit de kring dergenen die bij de rechtspersoon waren betrokken, op verzoek van een belanghebbende benoemd door de kantonrechter van de rechtbank van het arrondissement waarin de rechtspersoon woonplaats had. Rechtsmiddelen staan niet open.
 
 3.	Binnen acht dagen na het ingaan van zijn bewaarplicht moet de bewaarder zijn naam en adres opgeven aan de registers waarin de ontbonden rechtspersoon was ingeschreven.
 
@@ -3836,7 +3836,7 @@ Artikel 336
 
 2.	De vordering kan niet worden ingesteld door de vennootschap of een dochtermaatschappij van de vennootschap. De houder van aandelen waarvan de vennootschap of een dochtermaatschappij certificaten houdt, kan de vordering slechts instellen indien en voor zover certificaten door anderen worden gehouden. Een aandeelhouder ten titel van beheer kan de vordering slechts voor door hem beheerde aandelen instellen indien de desbetreffende certificaathouders daarmee tevoren hebben ingestemd.
 
-3.	Tot de kennisneming van de vordering is in eerste aanleg bevoegd de arrondissementsrechtbank van de woonplaats van de vennootschap. Hoger beroep kan uitsluitend worden ingesteld bij de ondernemingskamer van het gerechtshof te Amsterdam. Artikel 344 van het Wetboek van Burgerlijke Rechtsvordering is van toepassing met dien verstande dat voor "een meervoudige kamer" wordt gelezen: de ondernemingskamer.
+3.	Tot de kennisneming van de vordering is in eerste aanleg bevoegd de rechtbank van de woonplaats van de vennootschap. Hoger beroep kan uitsluitend worden ingesteld bij de ondernemingskamer van het gerechtshof te Amsterdam. Artikel 344 van het Wetboek van Burgerlijke Rechtsvordering is van toepassing met dien verstande dat voor "een meervoudige kamer" wordt gelezen: de ondernemingskamer.
 
 4.	De rechter kan zijn beslissing omtrent de vordering voor een door hem te bepalen termijn aanhouden, indien ten processe blijkt dat de vennootschap of één of meer aandeelhouders op zich nemen maatregelen te treffen waardoor het nadeel dat de vennootschap lijdt zoveel mogelijk wordt ongedaan gemaakt of beperkt.
 
