@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 01-07-2004 t/m 30-09-2004
+Geldend van 01-10-2004 t/m 31-12-2004
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -1331,7 +1331,7 @@ Artikel 98
 	a.	het eigen vermogen, verminderd met de verkrijgingsprijs, niet kleiner is dan het gestorte en opgevraagde deel van het kapitaal, vermeerderd met de reserves die krachtens de wet of de statuten moeten worden aangehouden, en
 	b.	het nominale bedrag van de aandelen in haar kapitaal die de vennootschap verkrijgt, houdt of in pand houdt of die worden gehouden door een dochtermaatschappij, niet meer beloopt dan een tiende van het geplaatste kapitaal.
 
-3.	Voor het vereiste in lid 2 onder a is bepalend de grootte van het eigen vermogen volgens de laatst vastgestelde balans, verminderd met de verkrijgingsprijs voor aandelen in het kapitaal van de vennootschap en uitkeringen uit winst of reserves aan anderen die zij en haar dochtermaatschappijen na de balansdatum verschuldigd werden. Is een boekjaar meer dan zes maanden verstreken zonder dat de jaarrekening is vastgesteld en zo nodig goedgekeurd, dan is verkrijging overeenkomstig lid 2 niet toegestaan.
+3.	Voor het vereiste in lid 2 onder a is bepalend de grootte van het eigen vermogen volgens de laatst vastgestelde balans, verminderd met de verkrijgingsprijs voor aandelen in het kapitaal van de vennootschap en uitkeringen uit winst of reserves aan anderen die zij en haar dochtermaatschappijen na de balansdatum verschuldigd werden. Is een boekjaar meer dan zes maanden verstreken zonder dat de jaarrekening is vastgesteld, dan is verkrijging overeenkomstig lid 2 niet toegestaan.
 
 4.	Verkrijging anders dan om niet moet door de statuten zijn toegelaten en de algemene vergadering van aandeelhouders moet het bestuur daartoe hebben gemachtigd. Deze machtiging geldt voor ten hoogste achttien maanden. De algemene vergadering moet in de machtiging bepalen hoeveel aandelen mogen worden verkregen, hoe zij mogen worden verkregen en tussen welke grenzen de prijs moet liggen.
 
@@ -1418,13 +1418,13 @@ Artikel 100
 
 Artikel 101
 
-1.	Jaarlijks binnen vijf maanden na afloop van het boekjaar der vennootschap, behoudens verlenging van deze termijn met ten hoogste zes maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de aandeelhouders ter inzage ten kantore van de vennootschap. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de aandeelhouders, tenzij de artikelen 396 lid 6, of 403 voor de vennootschap gelden. De termijn kan voor beleggingsmaatschappijen waaraan ingevolge de Wet toezicht beleggingsinstellingen (Stb. 1990, 380) een vergunning is verleend, bij of krachtens die wet worden bekort.
+1.	Jaarlijks binnen vijf maanden na afloop van het boekjaar der vennootschap, behoudens verlenging van deze termijn met ten hoogste zes maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de aandeelhouders ter inzage ten kantore van de vennootschap. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de aandeelhouders, tenzij de artikelen 396 lid 6, of 403 voor de vennootschap gelden. De termijn kan voor beleggingsmaatschappijen waaraan ingevolge de Wet toezicht beleggingsinstellingen (Stb. 1990, 380) een vergunning is verleend, bij of krachtens die wet worden bekort. Het bestuur van de vennootschap waarop de artikelen 158 tot en met 161 en 164 van toepassing zijn, zendt de jaarrekening ook toe aan de in artikel 158 lid 11 bedoelde ondernemingsraad.
 
 2.	De jaarrekening wordt ondertekend door de bestuurders en door de commissarissen; ontbreekt de ondertekening van een of meer hunner, dan wordt daarvan onder opgave van reden melding gemaakt.
 
-3.	De jaarrekening wordt vastgesteld door de algemene vergadering, tenzij deze bevoegdheid overeenkomstig artikel 163 van dit Boek toekomt aan de raad van commissarissen; in dat geval behoeft de jaarrekening echter de goedkeuring van de algemene vergadering van aandeelhouders. Vaststelling of goedkeuring van de jaarrekening strekt niet tot kwijting aan een bestuurder onderscheidenlijk commissaris.
+3.	De jaarrekening wordt vastgesteld door de algemene vergadering. Vaststelling van de jaarrekening strekt niet tot kwijting aan een bestuurder onderscheidenlijk commissaris.
 
-4.	Onverminderd het bepaalde in artikel 163 worden besluiten waarbij de jaarrekening wordt vastgesteld in de statuten niet onderworpen aan de goedkeuring van een orgaan van de vennootschap of van derden.
+4.	Besluiten waarbij de jaarrekening wordt vastgesteld, worden in de statuten niet onderworpen aan de goedkeuring van een orgaan van de vennootschap of van derden.
 
 5.	De statuten bevatten geen bepalingen die toelaten dat voorschriften of bindende voorstellen voor de jaarrekening of enige post daarvan worden gegeven.
 
@@ -1454,7 +1454,7 @@ Artikel 105
 
 2.	De naamloze vennootschap kan aan de aandeelhouders en andere gerechtigden tot de voor uitkering vatbare winst slechts uitkeringen doen voor zover haar eigen vermogen groter is dan het bedrag van het gestorte en opgevraagde deel van het kapitaal vermeerderd met de reserves die krachtens de wet of de statuten moeten worden aangehouden.
 
-3.	Uitkering van winst geschiedt na de vaststelling of goedkeuring van de jaarrekening waaruit blijkt dat zij geoorloofd is.
+3.	Uitkering van winst geschiedt na de vaststelling van de jaarrekening waaruit blijkt dat zij geoorloofd is.
 
 4.	De vennootschap mag tussentijds slechts uitkeringen doen, indien de statuten dit toelaten en aan het vereiste van het tweede lid is voldaan blijkens een tussentijdse vermogensopstelling. Deze heeft betrekking op de stand van het vermogen op ten vroegste de eerste dag van de derde maand voor de maand waarin het besluit tot uitkering bekend wordt gemaakt. Zij wordt opgemaakt met inachtneming van in het maatschappelijke verkeer als aanvaardbaar beschouwde waarderingsmethoden. In de vermogensopstelling worden de krachtens de wet of de statuten te reserveren bedragen opgenomen. Zij wordt ondertekend door de bestuurders; ontbreekt de handtekening van een of meer hunner, dan wordt daarvan onder opgave van reden melding gemaakt. De vennootschap legt de vermogensopstelling ten kantore van het handelsregister neer binnen acht dagen na de dag waarop het besluit tot uitkering wordt bekend gemaakt.
 
@@ -1481,6 +1481,15 @@ Artikel 107
 1.	Aan de algemene vergadering van aandeelhouders behoort, binnen de door de wet en de statuten gestelde grenzen, alle bevoegdheid, die niet aan het bestuur of aan anderen is toegekend.
 
 2.	Het bestuur en de raad van commissarissen verschaffen haar alle verlangde inlichtingen, tenzij een zwaarwichtig belang der vennootschap zich daartegen verzet.
+
+Artikel 107a
+
+1.	Aan de goedkeuring van de algemene vergadering zijn onderworpen de besluiten van het bestuur omtrent een belangrijke verandering van de identiteit of het karakter van de vennootschap of de onderneming, waaronder in ieder geval:
+	a.	overdracht van de onderneming of vrijwel de gehele onderneming aan een derde;
+	b.	het aangaan of verbreken van duurzame samenwerking van de vennootschap of een dochtermaatschappij met een andere rechtspersoon of vennootschap dan wel als volledig aansprakelijke vennote in een commanditaire vennootschap of vennootschap onder firma, indien deze samenwerking of verbreking van ingrijpende betekenis is voor de vennootschap;
+	c.	het nemen of afstoten van een deelneming in het kapitaal van een vennootschap ter waarde van ten minste een derde van het bedrag van de activa volgens de balans met toelichting of, indien de vennootschap een geconsolideerde balans opstelt, volgens de geconsolideerde balans met toelichting volgens de laatst vastgestelde jaarrekening van de vennootschap, door haar of een dochtermaatschappij.
+
+2.	Het ontbreken van de goedkeuring van de algemene vergadering op een besluit als bedoeld in lid 1 tast de vertegenwoordigingsbevoegdheid van bestuur of bestuurders niet aan.
 
 Artikel 108
 
@@ -1530,6 +1539,16 @@ Artikel 114
 
 3.	Mededelingen welke krachtens de wet of de statuten aan de algemene vergadering moeten worden gericht, kunnen geschieden door opneming hetzij in de oproeping hetzij in het stuk dat ter kennisneming ten kantore der vennootschap is neergelegd, mits daarvan in de oproeping melding wordt gemaakt.
 
+Artikel 114a
+
+1.	Een onderwerp, waarvan de behandeling schriftelijk is verzocht door een of meer houders van aandelen die daartoe krachtens het volgende lid gerechtigd zijn, wordt opgenomen in de oproeping of op dezelfde wijze aangekondigd indien de vennootschap het verzoek niet later dan op de zestigste dag voor die van de vergadering heeft ontvangen en mits geen zwaarwichtig belang van de vennootschap zich daartegen verzet.
+
+2.	Om behandeling kan worden verzocht door een of meer houders van aandelen die alleen of gezamenlijk ten minste een honderdste gedeelte van het geplaatste kapitaal vertegenwoordigen of, indien de aandelen zijn toegelaten tot de officiële notering van een effectenbeurs in de zin van artikel 1, onderdeel e, van de Wet toezicht effectenverkeer 1995, die onder toezicht staat van de overheid of van een door de overheid erkende autoriteit of instelling, volgens de prijscourant van die effectenbeurs ten minste een waarde vertegenwoordigen van € 50 miljoen. Bij algemene maatregel van bestuur kan dit bedrag worden verhoogd of verlaagd in verband met de ontwikkeling van het loon- en prijspeil.
+
+3.	In de statuten kan het vereiste gedeelte van het kapitaal of de waarde van de aandelen lager worden gesteld en de termijn voor indiening van het verzoek worden verkort.
+
+4.	Voor de toepassing van dit artikel worden met de houders van aandelen gelijkgesteld de houders van de certificaten van aandelen die met medewerking van de vennootschap zijn uitgegeven.
+
 Artikel 115
 
 Behoudens het bepaalde bij de tweede zin van het eerste lid van artikel 111 van dit Boek, geschiedt de oproeping niet later dan op de vijftiende dag vóór die der vergadering. Was die termijn korter of heeft de oproeping niet plaats gehad, dan kunnen geen wettige besluiten worden genomen, tenzij met algemene stemmen in een vergadering, waarin het gehele geplaatste kapitaal vertegenwoordigd is.
@@ -1565,6 +1584,24 @@ Artikel 118
 6.	Onderaandelen die tezamen het bedrag van een aandeel uitmaken worden met een zodanig aandeel gelijkgesteld.
 
 7.	Voor een aandeel dat toebehoort aan de vennootschap of aan een dochtermaatschappij daarvan kan in de algemene vergadering geen stem worden uitgebracht; evenmin voor een aandeel waarvan een hunner de certificaten houdt. Vruchtgebruikers en pandhouders van aandelen die aan de vennootschap en haar dochtermaatschappijen toebehoren, zijn evenwel niet van hun stemrecht uitgesloten, indien het vruchtgebruik of pandrecht was gevestigd voordat het aandeel aan de vennootschap of een dochtermaatschappij daarvan toebehoorde. De vennootschap of een dochtermaatschappij daarvan kan geen stem uitbrengen voor een aandeel waarop zij een recht van vruchtgebruik of een pandrecht heeft.
+
+Artikel 118a
+
+1.	Indien met medewerking van de vennootschap certificaten van aandelen zijn uitgegeven die zijn toegelaten tot de officiële notering van een effectenbeurs in de zin van artikel 1, onderdeel e, van de Wet toezicht effectenverkeer 1995, die onder toezicht staat van de overheid of van een door de overheid erkende autoriteit of instelling, wordt de houder van de certificaten op zijn verzoek gevolmachtigd om met uitsluiting van de volmachtgever het stemrecht verbonden aan het betreffende aandeel of de betreffende aandelen uit te oefenen in een in de volmacht aangegeven algemene vergadering. Een aldus gevolmachtigde certificaathouder kan het stemrecht naar eigen inzicht uitoefenen. De artikelen 88 lid 4 en 89 lid 4 zijn niet van toepassing.
+
+2.	De stemgerechtigde kan de volmacht slechts beperken, uitsluiten of een gegeven volmacht herroepen indien:
+	a.	een openbaar bod is aangekondigd of uitgebracht op aandelen in het kapitaal van de vennootschap of op certificaten of de gerechtvaardigde verwachting bestaat dat daartoe zal worden overgegaan, zonder dat over het bod overeenstemming is bereikt met de vennootschap;
+	b.	een houder van certificaten of meerdere houders van certificaten en aandelen volgens een onderlinge regeling tot samenwerking al dan niet samen met dochtermaatschappijen ten minste 25% van het geplaatst kapitaal van de vennootschap verschaffen of doen verschaffen; of
+	c.	naar het oordeel van de stemgerechtigde uitoefening van het stemrecht door een houder van certificaten wezenlijk in strijd is met het belang van de vennootschap en de daarmee verbonden onderneming.
+
+De stemgerechtigde brengt het besluit tot beperking, intrekking of herroeping gemotiveerd ter kennis van de certificaathouders en de overige aandeelhouders.
+
+3.	De bevoegdheid tot beperking, uitsluiting of herroeping bestaat niet indien de stemgerechtigde rechtspersoonlijkheid heeft en de meerderheid van stemmen in het bestuur van de rechtspersoon kan worden uitgebracht door
+	a.	bestuurders of gewezen bestuurders alsmede commissarissen of gewezen commissarissen van de vennootschap of haar groepsmaatschappijen;
+	b.	natuurlijke personen in dienst van de vennootschap of haar groepsmaatschappijen;
+	c.	vaste adviseurs van de vennootschap of haar groepsmaatschappijen.
+
+4.	Bij het besluit tot het beperken, uitsluiten of herroepen van de volmacht en het besluit over de wijze waarop het stemrecht wordt uitgeoefend, kunnen de in het lid 3 bedoelde personen geen stem uitbrengen.
 
 Artikel 119
 
@@ -1694,7 +1731,13 @@ Artikel 134
 
 Artikel 135
 
-Voor zover bij de statuten niet anders is bepaald, wordt de bezoldiging van bestuurders door de algemene vergadering vastgesteld.
+1.	De vennootschap heeft een beleid op het terrein van bezoldiging van het bestuur. Het beleid wordt vastgesteld door de algemene vergadering. In het bezoldigingsbeleid komen ten minste de in artikel 383c tot en met e omschreven onderwerpen aan de orde, voor zover deze het bestuur betreffen.
+
+2.	Indien de vennootschap krachtens wettelijke bepalingen een ondernemingsraad heeft ingesteld wordt het beloningsbeleid schriftelijk en gelijktijdig met de aanbieding aan de algemene vergadering van aandeelhouders ter kennisneming aan de ondernemingsraad aangeboden. Voor de toepassing van de vorige zin is het bepaalde in artikel 158 lid 11 van overeenkomstige toepassing op de dochtermaatschappij bedoeld in de leden 1 en 2 van artikel 24a.
+
+3.	De bezoldiging van bestuurders wordt met inachtneming van het beleid, bedoeld in lid 1, vastgesteld door de algemene vergadering, tenzij bij de statuten een ander orgaan is aangewezen.
+
+4.	Indien in de statuten is bepaald dat een ander orgaan dan de algemene vergadering van aandeelhouders de bezoldiging vaststelt, legt dat orgaan ten aanzien van regelingen in de vorm van aandelen of rechten tot het nemen van aandelen een voorstel ter goedkeuring voor aan de algemene vergadering. In het voorstel moet ten minste zijn bepaald hoeveel aandelen of rechten tot het nemen van aandelen aan het bestuur mogen worden toegekend en welke criteria gelden voor toekenning of wijziging. Het ontbreken van de goedkeuring van de algemene vergadering tast de vertegenwoordigingbevoegdheid van het orgaan niet aan.
 
 Artikel 136
 
@@ -1744,15 +1787,17 @@ Artikel 140
 
 Artikel 141
 
-Het bestuur verschaft de raad van commissarissen tijdig de voor de uitoefening van diens taak noodzakelijke gegevens.
+1.	Het bestuur verschaft de raad van commissarissen tijdig de voor de uitoefening van diens taak noodzakelijke gegevens.
+
+2.	Het bestuur stelt ten minste een keer per jaar de raad van commissarissen schriftelijk op de hoogte van de hoofdlijnen van het strategisch beleid, de algemene en financiële risico's en het beheers- en controlesysteem van de vennootschap.
 
 Artikel 142
 
-1.	De commissarissen die niet reeds bij de akte van oprichting zijn aangewezen, worden benoemd door de algemene vergadering van aandeelhouders, tenzij de benoeming overeenkomstig artikel 158 van dit Boek geschiedt. De statuten kunnen de kring van benoembare personen beperken door eisen te stellen waaraan de commissarissen moeten voldoen. De eisen kunnen terzijde worden gesteld door een besluit van de algemene vergadering genomen met twee derden van de uitgebrachte stemmen die meer dan de helft van het geplaatste kapitaal vertegenwoordigen.
+1.	De commissarissen die niet reeds bij de akte van oprichting zijn aangewezen, worden benoemd door de algemene vergadering van aandeelhouders. De statuten kunnen de kring van benoembare personen beperken door eisen te stellen waaraan de commissarissen moeten voldoen. De eisen kunnen terzijde worden gesteld door een besluit van de algemene vergadering genomen met twee derden van de uitgebrachte stemmen die meer dan de helft van het geplaatste kapitaal vertegenwoordigen.
 
 2.	De eerste twee leden van artikel 133 van dit Boek zijn van overeenkomstige toepassing, indien de benoeming door de algemene vergadering van aandeelhouders geschiedt.
 
-3.	Bij een aanbeveling of voordracht tot benoeming van een commissaris worden van de kandidaat medegedeeld zijn leeftijd, zijn beroep, het bedrag aan door hem gehouden aandelen in het kapitaal der vennootschap en de betrekkingen die hij bekleedt of die hij heeft bekleed voor zover die van belang zijn in verband met de vervulling van de taak van een commissaris. Tevens wordt vermeld aan welke rechtspersonen hij reeds als commissaris is verbonden; indien zich daaronder rechtspersonen bevinden, die tot een zelfde groep behoren, kan met de aanduiding van de groep worden volstaan. De aanbeveling en de voordracht worden met redenen omkleed.
+3.	Bij een aanbeveling of voordracht tot benoeming van een commissaris worden van de kandidaat medegedeeld zijn leeftijd, zijn beroep, het bedrag aan door hem gehouden aandelen in het kapitaal der vennootschap en de betrekkingen die hij bekleedt of die hij heeft bekleed voor zover die van belang zijn in verband met de vervulling van de taak van een commissaris. Tevens wordt vermeld aan welke rechtspersonen hij reeds als commissaris is verbonden; indien zich daaronder rechtspersonen bevinden, die tot een zelfde groep behoren, kan met de aanduiding van de groep worden volstaan. De aanbeveling en de voordracht tot benoeming of herbenoeming worden gemotiveerd. Bij herbenoeming wordt rekening gehouden met de wijze waarop de kandidaat zijn taak als commissaris heeft vervuld.
 
 Artikel 143
 
@@ -1760,13 +1805,13 @@ Bij de statuten kan worden bepaald dat een of meer commissarissen, doch ten hoog
 
 Artikel 144
 
-1.	Een commissaris kan worden geschorst en ontslagen door degene, die bevoegd is tot benoeming, tenzij artikel 161 leden 2 en 3 van dit Boek van toepassing is.
+1.	Een commissaris kan worden geschorst en ontslagen door degene, die bevoegd is tot benoeming, tenzij artikel 161 leden 2 en 3 of artikel 161a van dit Boek van toepassing is.
 
 2.	Het tweede en het derde lid van artikel 134 van dit Boek zijn van overeenkomstige toepassing.
 
 Artikel 145
 
-Tenzij de statuten anders bepalen, kan de algemene vergadering van aandeelhouders aan de commissarissen als zodanig een bezoldiging toekennen.
+De algemene vergadering kan aan de commissarissen een bezoldiging toekennen.
 
 Artikel 146
 
@@ -1806,7 +1851,7 @@ In deze afdeling wordt onder een afhankelijke maatschappij verstaan:
 
 Artikel 153
 
-1.	Een naamloze vennootschap moet, indien het volgende lid op haar van toepassing is, binnen twee maanden na de vaststelling of goedkeuring van haar jaarrekening door de algemene vergadering van aandeelhouders ten kantore van het handelsregister opgaaf doen, dat zij aan de in dat lid gestelde voorwaarden voldoet. Totdat artikel 154 lid 3 van dit Boek toepassing heeft gevonden, vermeldt het bestuur in elk volgend jaarverslag wanneer de opgaaf is gedaan; wordt de opgaaf doorgehaald, dan wordt daarvan melding gemaakt in het eerste jaarverslag dat na de datum van die doorhaling wordt uitgebracht.
+1.	Een naamloze vennootschap moet, indien het volgende lid op haar van toepassing is, binnen twee maanden na de vaststelling van haar jaarrekening door de algemene vergadering van aandeelhouders ten kantore van het handelsregister opgaaf doen, dat zij aan de in dat lid gestelde voorwaarden voldoet. Totdat artikel 154 lid 3 van dit Boek toepassing heeft gevonden, vermeldt het bestuur in elk volgend jaarverslag wanneer de opgaaf is gedaan; wordt de opgaaf doorgehaald, dan wordt daarvan melding gemaakt in het eerste jaarverslag dat na de datum van die doorhaling wordt uitgebracht.
 
 2.	De verplichting tot het doen van een opgaaf geldt, indien:
 	a.	het geplaatste kapitaal der vennootschap tezamen met de reserves volgens de balans met toelichting ten minste een bij koninklijk besluit vastgesteld grensbedrag[Red: Bij Stb. 2000/290 is dit bedrag m.i.v. 1 september 2000 vastgesteld op 13 000 000 euro.] beloopt,
@@ -1831,9 +1876,17 @@ Artikel 154
 
 3.	De vennootschap brengt haar statuten in overeenstemming met de artikelen 158-164 welke voor haar gelden, uiterlijk met ingang van de dag waarop die artikelen krachtens lid 1 op haar van toepassing worden.
 
+4.	In de eerstvolgende vergadering nadat de vennootschap waarop de artikelen 158 tot en met 164 of 158 tot en met 161 en 164 van toepassing zijn gaat voldoen aan de voorwaarden bedoeld in de artikelen 153 lid 3, 154 lid 2, 155 of 155a, doet het bestuur aan de algemene vergadering het voorstel in de statuten de wijze van benoeming en ontslag van commissarissen en de taak en bevoegdheden van de raad van commissarissen te regelen zonder toepassing van de artikelen 158 tot en met 164 respectievelijk de artikelen 158 tot en met 161 en 164, dan wel het voorstel deze artikelen geheel of met uitzondering van artikel 162 te blijven toepassen. Het besluit wordt genomen met volstrekte meerderheid van stemmen. De bevoegdheid van de algemene vergadering tot het nemen van een besluit ter uitvoering van dit artikel kan niet worden beperkt.
+
+5.	Uiterlijk twaalf maanden nadat het besluit bedoeld in lid 4 is genomen, legt het bestuur aan de algemene vergadering een voorstel tot wijziging van de statuten voor. Indien de algemene vergadering geen besluit tot statutenwijziging neemt, stelt de ondernemingskamer van het gerechtshof te Amsterdam op verzoek van degene die daartoe krachtens het volgende lid bevoegd is, de statuten vast. De laatste twee zinnen van lid 4 zijn van overeenkomstige toepassing.
+
+6.	Een verzoek tot vaststelling van de statuten kan worden ingediend door een daartoe aangewezen vertegenwoordiger van het bestuur of van de raad van commissarissen en door degene die gerechtigd is tot agendering ingevolge artikel 114a.
+
+7.	De ondernemingskamer regelt zo nodig de gevolgen van de door haar genomen beslissing. De griffier van de ondernemingskamer doet ten kantore van het handelsregister waar de vennootschap is ingeschreven een afschrift van de beschikking van de ondernemingskamer neerleggen.
+
 Artikel 155
 
-1.	In afwijking van het vorige artikel gelden de artikelen 162 en 163 van dit Boek niet voor een vennootschap waarin een deelneming voor ten minste de helft van het geplaatste kapitaal wordt gehouden:
+1.	In afwijking van artikel 154 geldt artikel 162 niet voor een vennootschap waarin een deelneming voor ten minste de helft van het geplaatste kapitaal wordt gehouden:
 	a.	door een rechtspersoon waarvan de werknemers in meerderheid buiten Nederland werkzaam zijn, of door afhankelijke maatschappijen daarvan
 	b.	volgens een onderlinge regeling tot samenwerking door een aantal van zulke rechtspersonen of maatschappijen, of
 	c.	volgens een onderlinge regeling tot samenwerking door een of meer van zulke rechtspersonen en een of meer rechtspersonen waarvoor artikel 153 lid 3 onder a of artikel 263 lid 3 onder a geldt of waarop de artikelen 63f tot en met 63j, de artikelen 158 tot en met 161 en 164 of de artikelen 268 tot en met 271 en 274 van toepassing zijn.
@@ -1842,53 +1895,57 @@ Artikel 155
 
 3.	Voor de toepassing van dit artikel worden onder werknemers, in dienst van een rechtspersoon, begrepen de werknemers in dienst van groepsmaatschappijen.
 
+Artikel 155a
+
+1.	In afwijking van artikel 154 geldt artikel 162 niet voor een vennootschap waarin:
+	a.	een natuurlijk persoon het gehele geplaatste kapitaal verschaft of doet verschaffen, of twee of meer natuurlijke personen volgens een onderlinge regeling tot samenwerking het gehele geplaatste kapitaal verschaffen of doen verschaffen;
+	b.	een stichting, een vereniging of een rechtspersoon als bedoeld in artikel 1 het gehele geplaatste kapitaal voor eigen rekening verschaft of doet verschaffen, of twee of meer van zulke rechtspersonen volgens een onderlinge regeling tot samenwerking het gehele geplaatste kapitaal voor eigen rekening verschaffen of doen verschaffen.
+
+2.	Met de natuurlijke persoon bedoeld in lid 1 worden gelijkgesteld de echtgenoot of echtgenote en de geregistreerde partner. Eveneens worden gelijkgesteld de bloedverwanten in rechte lijn, mits dezen binnen zes maanden na het overlijden van de natuurlijke persoon een onderlinge regeling tot samenwerking zijn aangegaan.
+
 Artikel 156
 
 Onze Minister van Justitie kan, gehoord de Sociaal-Economische Raad, aan een vennootschap op haar verzoek ontheffing verlenen van een of meer der artikelen 158-164 van dit Boek; de ontheffing kan onder beperkingen worden verleend en daaraan kunnen voorschriften worden verbonden; zij kan voorts worden gewijzigd en ingetrokken.
 
 Artikel 157
 
-1.	Een vennootschap waarvoor artikel 154 van dit Boek niet geldt, kan bij haar statuten de wijze van benoeming en ontslag van commissarissen en de taak en bevoegdheden van de raad van commissarissen regelen overeenkomstig de artikelen 158-164 van dit Boek indien zij of een afhankelijke maatschappij een ondernemingsraad heeft ingesteld waarop de bepalingen van de Wet op de ondernemingsraden van toepassing zijn. Zij mag daarbij artikel 162 van dit Boek, artikel 163 van dit Boek of deze beide artikelen buiten toepassing laten. De in dit lid bedoelde regeling in de statuten verliest haar gelding zodra de ondernemingsraad ophoudt te bestaan of op de ondernemingsraad niet langer de bepalingen van de Wet op de ondernemingsraden van toepassing zijn.
+1.	Een vennootschap waarvoor artikel 154 van dit Boek niet geldt, kan bij haar statuten de wijze van benoeming en ontslag van commissarissen en de taak en bevoegdheden van de raad van commissarissen regelen overeenkomstig de artikelen 158-164 van dit Boek indien zij of een afhankelijke maatschappij een ondernemingsraad heeft ingesteld waarop de bepalingen van de Wet op de ondernemingsraden van toepassing zijn. Zij mag daarbij artikel 162 buiten toepassing laten. De in dit lid bedoelde regeling in de statuten verliest haar gelding zodra de ondernemingsraad ophoudt te bestaan of op de ondernemingsraad niet langer de bepalingen van de Wet op de ondernemingsraden van toepassing zijn.
 
-2.	Een vennootschap waarvoor artikel 155 van dit Boek geldt, kan de bevoegdheid tot benoeming en ontslag van bestuurders en die tot vaststelling van de jaarrekening regelen overeenkomstig de artikelen 162 en 163 van dit Boek.
+2.	Een vennootschap waarvoor artikel 155 of 155a geldt, kan de bevoegdheid tot benoeming en ontslag van bestuurders regelen overeenkomstig artikel 162.
 
 Artikel 158
 
 1.	De vennootschap heeft een raad van commissarissen.
 
-2.	De commissarissen worden, behoudens het bepaalde in het voorlaatste lid, benoemd door de raad van commissarissen, voor zover de benoeming niet reeds is geschied bij de akte van oprichting of voordat dit artikel op de vennootschap van toepassing is geworden. De bevoegdheid tot benoeming kan niet door enige bindende voordracht worden beperkt. Onverminderd het bepaalde in artikel 160 kunnen de statuten de kring van benoembare personen niet beperken.
+2.	De raad van commissarissen bestaat uit ten minste drie leden. Is het aantal commissarissen minder dan drie, dan neemt de raad onverwijld maatregelen tot aanvulling van zijn ledental.
 
-3.	De raad van commissarissen bestaat uit ten minste drie leden. Is het aantal commissarissen minder dan drie, dan neemt de raad onverwijld maatregelen tot aanvulling van zijn ledental.
+3.	De raad van commissarissen stelt een profielschets voor zijn omvang en samenstelling vast, rekening houdend met de aard van de onderneming, haar activiteiten en de gewenste deskundigheid en achtergrond van de commissarissen. De raad bespreekt de profielschets voor het eerst bij vaststelling en vervolgens bij iedere wijziging in de algemene vergadering van aandeelhouders en met de ondernemingsraad.
 
-4.	De algemene vergadering van aandeelhouders, de ondernemingsraad en het bestuur kunnen aan de raad van commissarissen personen voor benoeming tot commissaris aanbevelen. De raad van commissarissen deelt hun daartoe tijdig mede, wanneer en ten gevolge waarvan in zijn midden een plaats moet worden vervuld.
+4.	De commissarissen worden, behoudens het bepaalde in lid 9, op voordracht van de raad van commissarissen benoemd door de algemene vergadering van aandeelhouders, voor zover de benoeming niet reeds is geschied bij de akte van oprichting of voordat dit artikel op de vennootschap van toepassing is geworden. De raad van commissarissen maakt de voordracht gelijktijdig bekend aan de algemene vergadering van aandeelhouders en aan de ondernemingsraad. De voordracht is met redenen omkleed. Onverminderd het bepaalde in artikel 160 kunnen de statuten de kring van benoembare personen niet beperken.
 
-5.	De raad geeft aan de algemene vergadering van aandeelhouders en de ondernemingsraad kennis van de naam van degene die hij wenst te benoemen, met inachtneming van het derde lid van artikel 142 van dit Boek.
+5.	De algemene vergadering en de ondernemingsraad kunnen aan de raad van commissarissen personen aanbevelen om als commissaris te worden voorgedragen. De raad deelt hun daartoe tijdig mede wanneer, ten gevolge waarvan en overeenkomstig welk profiel in zijn midden een plaats moet worden vervuld. Indien voor de plaats het in lid 6 bedoelde versterkte recht van aanbeveling geldt, doet de raad van commissarissen daarvan eveneens mededeling.
 
-6.	De raad benoemt deze persoon, tenzij de algemene vergadering of de ondernemingsraad tegen de voorgenomen benoeming bezwaar maakt op grond dat de voorschriften van lid 4, tweede volzin, of lid 5 niet behoorlijk zijn nageleefd, dan wel op grond van de verwachting dat de voorgedragen persoon ongeschikt zal zijn voor de vervulling van de taak van commissaris of dat de raad van commissarissen bij benoeming overeenkomstig het voornemen niet naar behoren zal zijn samengesteld.
+6.	Voor een derde van het aantal leden van de raad van commissarissen geldt dat de raad van commissarissen een door de ondernemingsraad aanbevolen persoon op de voordracht plaatst, tenzij de raad van commissarissen bezwaar maakt tegen de aanbeveling op grond van de verwachting dat de aanbevolen persoon ongeschikt zal zijn voor de vervulling van de taak van commissaris of dat de raad van commissarissen bij benoeming overeenkomstig de aanbeveling niet naar behoren zal zijn samengesteld. Indien het getal der leden van de raad van commissarissen niet door drie deelbaar is, wordt het naastgelegen lagere getal dat wel door drie deelbaar is in aanmerking genomen voor de vaststelling van het aantal leden waarvoor dit versterkte recht van aanbeveling geldt.
 
-7.	Het besluit van de algemene vergadering tot het kenbaar maken van bezwaar moet worden genomen in de eerstvolgende vergadering na het verstrijken van een termijn van veertien dagen na de kennisgeving. De ondernemingsraad moet het besluit tot het kenbaar maken van bezwaar nemen binnen twee maanden na de kennisgeving.
+7.	Indien de raad van commissarissen bezwaar maakt, deelt hij de ondernemingsraad het bezwaar onder opgave van redenen mede. De raad treedt onverwijld in overleg met de ondernemingsraad met het oog op het bereiken van overeenstemming over de voordracht. Indien de raad van commissarissen constateert dat geen overeenstemming kan worden bereikt, verzoekt een daartoe aangewezen vertegenwoordiger van de raad aan de ondernemingskamer van het gerechtshof te Amsterdam het bezwaar gegrond te verklaren. Het verzoek wordt niet eerder ingediend dan nadat vier weken zijn verstreken na aanvang van het overleg met de ondernemingsraad. De raad van commissarissen plaatst de aanbevolen persoon op de voordracht indien de ondernemingskamer het bezwaar ongegrond verklaart. Verklaart de ondernemingskamer het bezwaar gegrond, dan kan de ondernemingsraad een nieuwe aanbeveling doen overeenkomstig het bepaalde in lid 6.
 
-8.	Het bezwaar wordt aan de raad van commissarissen onder opgave van redenen medegedeeld.
+8.	De ondernemingskamer doet de ondernemingsraad oproepen. Tegen de beslissing van de ondernemingskamer staat geen rechtsmiddel open. De ondernemingskamer kan geen veroordeling in de proceskosten uitspreken.
 
-9.	Niettegenstaande het bezwaar van de algemene vergadering of de ondernemingsraad kan de benoeming overeenkomstig het voornemen geschieden, indien de ondernemingskamer van het gerechtshof te Amsterdam op verzoek van een daartoe aangewezen vertegenwoordiger van de raad van commissarissen het bezwaar ongegrond verklaart.
+9.	De algemene vergadering kan bij volstrekte meerderheid van de uitgebrachte stemmen vertegenwoordigend ten minste een derde van het geplaatste kapitaal de voordracht afwijzen. Indien niet ten minste een derde van het geplaatste kapitaal ter vergadering vertegenwoordigd was, kan een nieuwe vergadering worden bijeengeroepen waarin de voordracht kan worden afgewezen met volstrekte meederheid van de uitgebrachte stemmen. Alsdan maakt de raad van commissarissen een nieuwe voordracht op. De leden 5 tot en met 8 zijn van toepassing. Indien de algemene vergadering de voorgedragen persoon niet benoemt en niet besluit tot afwijzing van de voordracht, benoemt de raad van commissarissen de voorgedragen persoon.
 
-10.	Een verweerschrift kan worden ingediend door een daartoe aangewezen vertegenwoordiger van de algemene vergadering of van de ondernemingsraad die het in lid 6 bedoelde bezwaar heeft gemaakt. De ondernemingskamer doet ook de vertegenwoordigers oproepen die door de algemene vergadering of de ondernemingsraad die geen bezwaar heeft gemaakt, zijn aangewezen. Tegen de beslissing van de ondernemingskamer is geen hogere voorziening toegelaten. De ondernemingskamer kan geen veroordeling in de proceskosten uitspreken.
+10.	De algemene vergadering van aandeelhouders kan de bevoegdheid die haar volgens lid 5 toekomt voor een door haar te bepalen duur van telkens ten hoogste twee achtereenvolgende jaren, overdragen aan een commissie van aandeelhouders waarvan zij de leden aanwijst; in dat geval doet de raad van commissarissen aan de commissie de mededeling bedoeld in lid 5. De algemene vergadering kan te allen tijde de overdracht ongedaan maken.
 
-11.	De algemene vergadering van aandeelhouders kan de bevoegdheden en verplichtingen die haar en haar vertegenwoordigers volgens dit artikel toekomen, voor een door haar te bepalen duur van telkens ten hoogste twee achtereenvolgende jaren, overdragen aan een commissie van aandeelhouders waarvan zij de leden aanwijst; in dat geval geeft de raad van commissarissen, met inachtneming van het derde lid van artikel 142 van dit Boek, aan de commissie kennis van de naam van degene die hij tot commissaris wenst te benoemen. De algemene vergadering kan te allen tijde de overdracht ongedaan maken.
+11.	Voor de toepassing van dit artikel wordt onder de ondernemingsraad verstaan de ondernemingsraad van de onderneming van de vennootschap of van de onderneming van een afhankelijke maatschappij. Indien er meer dan één ondernemingsraad is, worden de bevoegdheden van dit artikel door deze raden afzonderlijk uitgeoefend; als er sprake is van een voordracht als bedoeld in lid 6 worden de bevoegdheden van dit lid door deze raden gezamenlijk uitgeoefend. Is voor de betrokken onderneming of ondernemingen een centrale ondernemingsraad ingesteld, dan komen de bevoegdheden van de ondernemingsraad volgens dit artikel toe aan de centrale ondernemingsraad.
 
-12.	De statuten kunnen bepalen dat een of meer commissarissen van overheidswege worden benoemd. Met betrekking tot een zodanige benoeming heeft degene die met deze benoeming is belast, de bevoegdheden en verplichtingen die volgens de voorgaande leden voor de raad van commissarissen gelden, en hebben jegens hem de algemene vergadering van aandeelhouders, de ondernemingsraad en het bestuur de bevoegdheden en verplichtingen die zij volgens de voorgaande leden hebben jegens de raad van commissarissen; de raad van commissarissen kan voor deze benoeming een aanbeveling doen.
-
-13.	Voor de toepassing van dit artikel wordt onder de ondernemingsraad verstaan de ondernemingsraad van de onderneming der vennootschap of van de onderneming van een afhankelijke maatschappij. Indien er meer dan één ondernemingsraad is, zijn deze raden gelijkelijk bevoegd. Is voor de betrokken onderneming of ondernemingen een centrale ondernemingsraad ingesteld, dan komen de bevoegdheden van de ondernemingsraad volgens dit artikel toe aan de centrale ondernemingsraad. De ondernemingsraad neemt geen besluit als bedoeld in dit artikel, dan nadat over de betrokken aangelegenheid ten minste éénmaal overleg is gepleegd tussen de vennootschap en de ondernemingsraad.
+12.	In de statuten kan worden afgeweken van de leden 2, 4 tot en met 7 en 9, met dien verstande dat niet kan worden afgeweken van de eerste twee zinnen van lid 9. Voor het besluit tot wijziging van de statuten is de voorafgaande goedkeuring van de raad van commissarissen en de toestemming van de ondernemingsraad vereist.
 
 Artikel 159
 
-1.	Ontbreken alle commissarissen, dan geschiedt de benoeming door de algemene vergadering van aandeelhouders.
+1.	Ontbreken alle commissarissen, anders dan ingevolge het bepaalde in artikel 161a, dan geschiedt de benoeming door de algemene vergadering van aandeelhouders.
 
-2.	De ondernemingsraad en het bestuur kunnen personen voor benoeming tot commissaris aanbevelen. Degene die de algemene vergadering van aandeelhouders bijeenroept, deelt de ondernemingsraad tijdig mede dat de benoeming van commissarissen onderwerp van behandeling in de algemene vergadering zal zijn.
+2.	De ondernemingsraad kan personen voor benoeming tot commissaris aanbevelen. Degene die de algemene vergadering van aandeelhouders bijeenroept, deelt de ondernemingsraad daartoe tijdig mede dat de benoeming van commissarissen onderwerp van behandeling in de algemene vergadering zal zijn, met vermelding of benoeming van een commissaris plaatsvindt overeenkomstig het aanbevelingsrecht van de ondernemingsraad op grond van artikel 158 lid 6.
 
-3.	De benoeming is van kracht, tenzij de ondernemingsraad, na overeenkomstig het vijfde lid van het vorige artikel in kennis te zijn gesteld van de naam van de benoemde persoon, onder opgave van redenen een bezwaar tegen de benoeming aan de vennootschap kenbaar maakt. Niettegenstaande het bezwaar van de ondernemingsraad wordt de benoeming van kracht, indien de ondernemingskamer van het gerechtshof te Amsterdam op verzoek van een daartoe aangewezen vertegenwoordiger van de algemene vergadering het bezwaar ongegrond verklaart.
-
-4.	Het zesde, zevende, tiende, elfde en dertiende lid van het vorige artikel zijn van overeenkomstige toepassing.
+3.	De leden 6, 7, 8, 10 en 11 van het vorig artikel zijn van overeenkomstige toepassing.
 
 Artikel 160
 
@@ -1901,11 +1958,19 @@ Artikel 161
 
 1.	Een commissaris treedt uiterlijk af, indien hij na zijn laatste benoeming vier jaren commissaris is geweest. De termijn kan bij de statuten worden verlengd tot de dag van de eerstvolgende algemene vergadering van aandeelhouders na afloop van de vier jaren of na de dag waarop dit artikel voor de rechtspersoon is gaan gelden.
 
-2.	De ondernemingskamer van het gerechtshof te Amsterdam kan op een desbetreffend verzoek een commissaris ontslaan wegens verwaarlozing van zijn taak, wegens andere gewichtige redenen of wegens ingrijpende wijziging der omstandigheden op grond waarvan handhaving als commissaris redelijkerwijze niet van de vennootschap kan worden verlangd. Het verzoek kan worden ingediend door de vennootschap, ten deze vertegenwoordigd door de raad van commissarissen, alsmede door een daartoe aangewezen vertegenwoordiger van de algemene vergadering van aandeelhouders of van de ondernemingsraad, bedoeld in het laatste lid van artikel 158 van dit Boek. Het elfde en het dertiende lid van artikel 158 zijn van overeenkomstige toepassing.
+2.	De ondernemingskamer van het gerechtshof te Amsterdam kan op een desbetreffend verzoek een commissaris ontslaan wegens verwaarlozing van zijn taak, wegens andere gewichtige redenen of wegens ingrijpende wijziging der omstandigheden op grond waarvan handhaving als commissaris redelijkerwijze niet van de vennootschap kan worden verlangd. Het verzoek kan worden ingediend door de vennootschap, ten deze vertegenwoordigd door de raad van commissarissen, alsmede door een daartoe aangewezen vertegenwoordiger van de algemene vergadering van aandeelhouders of van de ondernemingsraad, bedoeld in lid 11 van artikel 158. De leden 10 en 11 van artikel 158 zijn van overeenkomstige toepassing.
 
 3.	Een commissaris kan worden geschorst door de raad van commissarissen; de schorsing vervalt van rechtswege, indien de vennootschap niet binnen een maand na de aanvang der schorsing een verzoek als bedoeld in het vorige lid bij de ondernemingskamer heeft ingediend.
 
-4.	Onverminderd het bepaalde in het eerste en het tweede lid kan een commissaris die van overheidswege is aangewezen, worden geschorst en ontslagen door degene die met de benoeming is belast; het voorgaande lid is niet op hem van toepassing.
+Artikel 161a
+
+1.	De algemene vergadering kan bij volstrekte meerderheid van de uitgebrachte stemmen, vertegenwoordigend ten minste een derde van het geplaatste kapitaal, het vertrouwen in de raad van commissarissen opzeggen. Het besluit is met redenen omkleed. Het besluit kan niet worden genomen ten aanzien van commissarissen die zijn aangesteld door de ondernemingskamer overeenkomstig lid 3.
+
+2.	Een besluit als bedoeld in lid 1 wordt niet genomen dan nadat het bestuur de ondernemingsraad van het voorstel voor het besluit en de gronden daartoe in kennis heeft gesteld. De kennisgeving geschiedt ten minste 30 dagen voor de algemene vergadering waarin het voorstel wordt behandeld. Indien de ondernemingsraad een standpunt over het voorstel bepaalt, stelt het bestuur de raad van commissarissen en de algemene vergadering van dit standpunt op de hoogte. De ondernemingsraad kan zijn standpunt in de algemene vergadering doen toelichten.
+
+3.	Het besluit bedoeld in lid 1 heeft het onmiddellijk ontslag van de leden van de raad van commissarissen tot gevolg. Alsdan verzoekt het bestuur onverwijld aan de ondernemingskamer van het gerechtshof te Amsterdam tijdelijk een of meer commissarissen aan te stellen. De ondernemingskamer regelt de gevolgen van de aanstelling.
+
+4.	De raad van commissarissen bevordert dat binnen een door de ondernemingskamer vastgestelde termijn een nieuwe raad wordt samengesteld met inachtneming van artikel 158.
 
 Artikel 162
 
@@ -1913,7 +1978,7 @@ De raad van commissarissen benoemt de bestuurders der vennootschap; deze bevoegd
 
 Artikel 163
 
-De raad van commissarissen stelt de jaarrekening vast. Hij legt deze gelijktijdig ter goedkeuring aan de algemene vergadering van aandeelhouders en ter bespreking aan de in artikel 158 lid 13 bedoelde ondernemingsraad over.
+[Vervallen per 01-10-2004]
 
 Artikel 164
 
@@ -2180,9 +2245,9 @@ Artikel 195
 
 5.	Het vierde lid vindt geen toepassing, voor zover de statuten een blokkeringsregeling bevatten, volgens welke de aandeelhouder die een of meer aandelen wil vervreemden, deze eerst moet aanbieden aan zijn mede-aandeelhouders. Deze regeling kan voorts inhouden dat, zo de mede-aandeelhouders het aanbod niet aanvaarden, het aanbod moet geschieden aan andere gegadigden, aangewezen door een bij de statuten daarmede belast orgaan der vennootschap. De aanbieder blijft bevoegd zijn aanbod in te trekken, mits dit geschiedt binnen een maand nadat hem bekend is aan welke gegadigden hij al de aandelen waarop het aanbod betrekking heeft kan verkopen en tegen welke prijs. Indien vaststaat dat niet al de aandelen waarop het aanbod betrekking heeft tegen contante betaling worden gekocht, zal de aanbieder de aandelen binnen drie maanden na die vaststelling vrijelijk mogen overdragen.
 
-6.	De blokkeringsregeling dient zodanig te zijn dat de aandeelhouder, indien hij dit verlangt, van degenen die als gegadigden in de zin van het derde lid worden opgegeven of aan wie ingevolge de blokkeringsregeling als bedoeld in het vierde lid moet worden aangeboden een prijs ontvangt, gelijk aan de waarde van zijn aandeel of aandelen, vastgesteld door een of meer onafhankelijke deskundigen.
+6.	De blokkeringsregeling dient zodanig te zijn dat de aandeelhouder, indien hij dit verlangt, van degenen die als gegadigden in de zin van het vierde lid worden opgegeven of aan wie ingevolge de blokkeringsregeling als bedoeld in het vijfde lid moet worden aangeboden een prijs ontvangt, gelijk aan de waarde van zijn aandeel of aandelen, vastgesteld door een of meer onafhankelijke deskundigen.
 
-7.	De vennootschap zelf kan slechts met de instemming van de aandeelhouder ingevolge het derde of het vierde lid gegadigde zijn.
+7.	De vennootschap zelf kan slechts met de instemming van de aandeelhouder ingevolge het vierde of het vijfde lid gegadigde zijn.
 
 8.	Beperking van de overdraagbaarheid van de aandelen kan niet zodanig geschieden, dat die overdracht onmogelijk of uiterst bezwaarlijk wordt gemaakt. Hetzelfde geldt voor toedeling van aandelen uit een gemeenschap.
 
@@ -2419,7 +2484,7 @@ Artikel 207
 	c.	de statuten de verkrijging toestaan, en
 	d.	machtiging tot de verkrijging is verleend door de algemene vergadering van aandeelhouders of door een ander vennootschapsorgaan dat daartoe bij de statuten of door de algemene vergadering van aandeelhouders is aangewezen.
 
-3.	Voor de geldigheid van de verkrijging is bepalend de grootte van het eigen vermogen volgens de laatst vastgestelde balans, verminderd met de verkrijgingsprijs voor aandelen in het kapitaal van de vennootschap en uitkeringen uit winst of reserves aan anderen, die zij en haar dochtermaatschappijen na de balansdatum verschuldigd werden. Is een boekjaar meer dan zes maanden verstreken zonder dat de jaarrekening is vastgesteld en zo nodig goedgekeurd, dan is verkrijging overeenkomstig lid 2 niet toegestaan.
+3.	Voor de geldigheid van de verkrijging is bepalend de grootte van het eigen vermogen volgens de laatst vastgestelde balans, verminderd met de verkrijgingsprijs voor aandelen in het kapitaal van de vennootschap en uitkeringen uit winst of reserves aan anderen, die zij en haar dochtermaatschappijen na de balansdatum verschuldigd werden. Is een boekjaar meer dan zes maanden verstreken zonder dat de jaarrekening is vastgesteld, dan is verkrijging overeenkomstig lid 2 niet toegestaan.
 
 4.	De vorige leden gelden niet voor aandelen die de vennootschap onder algemene titel verkrijgt.
 
@@ -2485,13 +2550,13 @@ Artikel 209
 
 Artikel 210
 
-1.	Jaarlijks binnen vijf maanden na afloop van het boekjaar der vennootschap, behoudens verlenging van deze termijn met ten hoogste zes maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de aandeelhouders ter inzage ten kantore van de vennootschap. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de aandeelhouders, tenzij de artikelen 396 lid 6, of 403 voor de vennootschap gelden. De termijn kan voor beleggingsmaatschappijen waaraan ingevolge de Wet toezicht beleggingsinstellingen (Stb. 1990, 380) een vergunning is verleend, bij of krachtens die wet worden bekort.
+1.	Jaarlijks binnen vijf maanden na afloop van het boekjaar der vennootschap, behoudens verlenging van deze termijn met ten hoogste zes maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de aandeelhouders ter inzage ten kantore van de vennootschap. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de aandeelhouders, tenzij de artikelen 396 lid 6, of 403 voor de vennootschap gelden. De termijn kan voor beleggingsmaatschappijen waaraan ingevolge de Wet toezicht beleggingsinstellingen (Stb. 1990, 380) een vergunning is verleend, bij of krachtens die wet worden bekort. Het bestuur van de vennootschap waarop de artikelen 268 tot en met 271 en 274 van toepassing zijn, zendt de jaarrekening ook toe aan de in artikel 268 lid 11 bedoelde ondernemingsraad.
 
 2.	De jaarrekening wordt ondertekend door de bestuurders en door de commissarissen; ontbreekt de ondertekening van een of meer hunner, dan wordt daarvan onder opgave van reden melding gemaakt.
 
-3.	De jaarrekening wordt vastgesteld door de algemene vergadering, tenzij deze bevoegdheid overeenkomstig artikel 273 van dit Boek toekomt aan de raad van commissarissen; in dat geval behoeft de jaarrekening echter de goedkeuring van de algemene vergadering van aandeelhouders. Vaststelling of goedkeuring van de jaarrekening strekt niet tot kwijting aan een bestuurder onderscheidenlijk commissaris.
+3.	De jaarrekening wordt vastgesteld door de algemene vergadering. Vaststelling van de jaarrekening strekt niet tot kwijting aan een bestuurder onderscheidenlijk commissaris.
 
-4.	Onverminderd het bepaalde in artikel 273 worden besluiten waarbij de jaarrekening wordt vastgesteld in de statuten niet onderworpen aan de goedkeuring van een orgaan van de vennootschap of van derden.
+4.	Besluiten waarbij de jaarrekening wordt vastgesteld, worden in de statuten niet onderworpen aan de goedkeuring van een orgaan van de vennootschap of van derden.
 
 5.	De statuten bevatten geen bepalingen die toelaten dat voorschriften of bindende voorstellen voor de jaarrekening of enige post daarvan worden gegeven.
 
@@ -2525,7 +2590,7 @@ Artikel 216
 
 2.	De vennootschap kan aan de aandeelhouders en andere gerechtigden tot de voor uitkering vatbare winst slechts uitkeringen doen voor zover het eigen vermogen groter is dan het gestorte en opgevraagde deel van het kapitaal vermeerderd met de reserves die krachtens de wet of de statuten moeten worden aangehouden.
 
-3.	Uitkering van winst geschiedt na de vaststelling of goedkeuring van de jaarrekening waaruit blijkt dat zij geoorloofd is.
+3.	Uitkering van winst geschiedt na de vaststelling van de jaarrekening waaruit blijkt dat zij geoorloofd is.
 
 4.	De vennootschap mag tussentijds slechts uitkeringen doen, indien de statuten dit toelaten en aan het vereiste van het tweede lid is voldaan.
 
@@ -2588,6 +2653,12 @@ Artikel 224
 2.	Omtrent onderwerpen waarvan de behandeling niet bij de oproeping of op de zelfde wijze is aangekondigd met inachtneming van de voor oproeping gestelde termijn, kan niet wettig worden besloten, tenzij het besluit met algemene stemmen wordt genomen in een vergadering waarin het gehele geplaatste kapitaal vertegenwoordigd is.
 
 3.	Mededelingen welke krachtens de wet of de statuten aan de algemene vergadering moeten worden gericht, kunnen geschieden door opneming in de oproepingsbrieven alsmede, in voorkomend geval, hetzij in de aankondiging in een dag- of nieuwsblad, hetzij in het stuk dat ter kennisneming ten kantore van de vennootschap is neergelegd, mits daarvan in de aankondiging melding wordt gemaakt.
+
+Artikel 224a
+
+1.	Een onderwerp, waarvan de behandeling schriftelijk is verzocht door een of meer houders van aandelen die alleen of gezamenlijk ten minste een honderdste gedeelte van het geplaatste kapitaal vertegenwoordigen, wordt opgenomen in de oproeping of op dezelfde wijze aangekondigd indien de vennootschap het verzoek niet later dan op de dertigste dag voor die van de vergadering heeft ontvangen en mits geen zwaarwichtig belang van de vennootschap zich daartegen verzet. In de statuten kan het vereiste gedeelte van het kapitaal lager worden gesteld en de termijn voor indiening van het verzoek worden verkort.
+
+2.	Voor de toepassing van dit artikel worden met de houders van aandelen gelijkgesteld de houders van de certificaten van aandelen die met medewerking van de vennootschap zijn uitgegeven.
 
 Artikel 225
 
@@ -2797,15 +2868,17 @@ Artikel 250
 
 Artikel 251
 
-Het bestuur verschaft de raad van commissarissen tijdig de voor de uitoefening van diens taak noodzakelijke gegevens.
+1.	Het bestuur verschaft de raad van commissarissen tijdig de voor de uitoefening van diens taak noodzakelijke gegevens.
+
+2.	Het bestuur stelt ten minste een keer per jaar de raad van commissarissen schriftelijk op de hoogte van de hoofdlijnen van het strategisch beleid, de algemene en financiële risico's en het beheers- en controlesysteem van de vennootschap.
 
 Artikel 252
 
-1.	De commissarissen die niet reeds bij de akte van oprichting zijn aangewezen, worden benoemd door de algemene vergadering van aandeelhouders, tenzij de benoeming overeenkomstig artikel 268 van dit Boek geschiedt. De statuten kunnen de kring van benoembare personen beperken door eisen te stellen waaraan de commissarissen moeten voldoen. De eisen kunnen terzijde worden gesteld door een besluit van de algemene vergadering genomen met twee derden van de uitgebrachte stemmen die meer dan de helft van het geplaatste kapitaal vertegenwoordigen.
+1.	De commissarissen die niet reeds bij de akte van oprichting zijn aangewezen, worden benoemd door de algemene vergadering van aandeelhouders. De statuten kunnen de kring van benoembare personen beperken door eisen te stellen waaraan de commissarissen moeten voldoen. De eisen kunnen terzijde worden gesteld door een besluit van de algemene vergadering genomen met twee derden van de uitgebrachte stemmen die meer dan de helft van het geplaatste kapitaal vertegenwoordigen.
 
 2.	De eerste twee leden van artikel 243 van dit Boek zijn van overeenkomstige toepassing, indien de benoeming door de algemene vergadering van aandeelhouders geschiedt.
 
-3.	Bij een aanbeveling of voordracht tot benoeming van een commissaris worden van de kandidaat medegedeeld zijn leeftijd, zijn beroep, het bedrag aan door hem gehouden aandelen in het kapitaal der vennootschap en de betrekkingen die hij bekleedt of die hij heeft bekleed voor zover die van belang zijn in verband met de vervulling van de taak van een commissaris. Tevens wordt vermeld aan welke rechtspersonen hij reeds als commissaris is verbonden; indien zich daaronder rechtspersonen bevinden, die tot een zelfde groep behoren, kan met de aanduiding van die groep worden volstaan. De aanbeveling en de voordracht worden met redenen omkleed.
+3.	Bij een aanbeveling of voordracht tot benoeming van een commissaris worden van de kandidaat medegedeeld zijn leeftijd, zijn beroep, het bedrag aan door hem gehouden aandelen in het kapitaal der vennootschap en de betrekkingen die hij bekleedt of die hij heeft bekleed voor zover die van belang zijn in verband met de vervulling van de taak van een commissaris. Tevens wordt vermeld aan welke rechtspersonen hij reeds als commissaris is verbonden; indien zich daaronder rechtspersonen bevinden, die tot een zelfde groep behoren, kan met de aanduiding van die groep worden volstaan. De aanbeveling en de voordracht tot benoeming of herbenoeming worden gemotiveerd. Bij herbenoeming wordt rekening gehouden met de wijze waarop de kandidaat zijn taak als commissaris heeft vervuld.
 
 Artikel 253
 
@@ -2813,13 +2886,13 @@ Bij de statuten kan worden bepaald dat een of meer commissarissen, doch ten hoog
 
 Artikel 254
 
-1.	Een commissaris kan worden geschorst en ontslagen door degene die bevoegd is tot benoeming, tenzij artikel 271 leden 2 en 3 van dit Boek van toepassing is.
+1.	Een commissaris kan worden geschorst en ontslagen door degene die bevoegd is tot benoeming, tenzij artikel 271 leden 2 en 3 of artikel 271a van dit Boek van toepassing is.
 
 2.	Het tweede en het derde lid van artikel 244 van dit Boek zijn van overeenkomstige toepassing.
 
 Artikel 255
 
-Tenzij de statuten anders bepalen, kan de algemene vergadering van aandeelhouders aan de commissarissen als zodanig een bezoldiging toekennen.
+De algemene vergadering kan aan de commissarissen een bezoldiging toekennen.
 
 Artikel 256
 
@@ -2859,12 +2932,10 @@ In deze afdeling wordt onder een afhankelijke maatschappij verstaan:
 
 Artikel 263
 
-1.	Een besloten vennootschap met beperkte aansprakelijkheid moet, indien het volgende lid op haar van toepassing is, binnen twee maanden na de vaststelling of goedkeuring van haar jaarrekening door de algemene vergadering van aandeelhouders ten kantore van het handelsregister opgaaf doen, dat zij aan de in dat lid gestelde voorwaarden voldoet. Totdat artikel 264 lid 3 van dit Boek toepassing heeft gevonden, vermeldt het bestuur in elk volgend jaarverslag wanneer de opgaaf is gedaan; wordt de opgaaf doorgehaald, dan wordt daarvan melding gemaakt in het eerste jaarverslag dat na de datum van die doorhaling wordt uitgebracht.
+1.	Een besloten vennootschap met beperkte aansprakelijkheid moet, indien het volgende lid op haar van toepassing is, binnen twee maanden na de vaststelling van haar jaarrekening door de algemene vergadering van aandeelhouders ten kantore van het handelsregister opgaaf doen, dat zij aan de in dat lid gestelde voorwaarden voldoet. Totdat artikel 264 lid 3 van dit Boek toepassing heeft gevonden, vermeldt het bestuur in elk volgend jaarverslag wanneer de opgaaf is gedaan; wordt de opgaaf doorgehaald, dan wordt daarvan melding gemaakt in het eerste jaarverslag dat na de datum van die doorhaling wordt uitgebracht.
 
-2.	
-
-De verplichting tot het doen van opgaaf geldt, indien:
-	a.	het geplaatste kapitaal der vennootschap te zamen met de reserves volgens de balans met toelichting ten minste een bij koninklijk besluit vastgesteld grensbedrag[Red: Bij Stb. 2000/290 is dit bedrag m.i.v. 1 september 2000 vastgesteld op 13 000 000 euro.] beloopt,
+2.	De verplichting tot het doen van opgaaf geldt, indien:
+	a.	het geplaatste kapitaal der vennootschap te zamen met de reserves volgens de balans met toelichting ten minste een bij koninklijk besluit vastgesteld grensbedrag beloopt,
 	b.	de vennootschap of een afhankelijke maatschappij krachtens wettelijke verplichting een ondernemingsraad heeft ingesteld, en
 	c.	bij de vennootschap en haar afhankelijke maatschappijen, tezamen in de regel ten minste honderd werknemers in Nederland werkzaam zijn.
 
@@ -2886,9 +2957,17 @@ Artikel 264
 
 3.	De vennootschap brengt haar statuten in overeenstemming met de artikelen 268-274 welke voor haar gelden, uiterlijk met ingang van de dag waarop die artikelen krachtens lid 1 op haar van toepassing worden.
 
+4.	In de eerstvolgende vergadering nadat de vennootschap waarop de artikelen 268 tot en met 274 of 268 tot en met 271 en 274 van toepassing zijn gaat voldoen aan de voorwaarden bedoeld in de artikelen 263 lid 3, 264 lid 2, 265 of 265a, doet het bestuur aan de algemene vergadering het voorstel in de statuten de wijze van benoeming en ontslag van commissarissen en de taak en bevoegdheden van de raad van commissarissen te regelen zonder toepassing van de artikelen 268 tot en met 274 respectievelijk de artikelen 268 tot en met 271 en 274, dan wel het voorstel deze artikelen geheel of met uitzondering van artikel 272 te blijven toepassen. Het besluit wordt genomen met volstrekte meerderheid van stemmen. De bevoegdheid van de algemene vergadering tot het nemen van een besluit ter uitvoering van dit artikel kan niet worden beperkt.
+
+5.	Uiterlijk twaalf maanden nadat het besluit bedoeld in lid 4 is genomen, legt het bestuur aan de algemene vergadering een voorstel tot wijziging van de statuten voor. Indien de algemene vergadering geen besluit tot statutenwijziging neemt, stelt de ondernemingskamer van het gerechtshof te Amsterdam op verzoek van degene die daartoe krachtens het volgende lid bevoegd is, de statuten vast.
+
+6.	Een verzoek tot vaststelling van de statuten kan worden ingediend door een daartoe aangewezen vertegenwoordiger van het bestuur of van de raad van commissarissen en door degene die gerechtigd is tot agendering ingevolge artikel 224a.
+
+7.	De ondernemingskamer regelt zo nodig de gevolgen van de door haar genomen beslissing. De griffier van de ondernemingskamer doet ten kantore van het handelsregister waar de vennootschap is ingeschreven een afschrift van de beschikking van de ondernemingskamer neerleggen.
+
 Artikel 265
 
-1.	In afwijking van het vorige artikel gelden de artikelen 272 en 273 van dit Boek niet voor een vennootschap waarin een deelneming voor ten minste de helft van het geplaatste kapitaal wordt gehouden:
+1.	In afwijking van artikel 264 geldt artikel 272 niet voor een vennootschap waarin een deelneming voor ten minste de helft van het geplaatste kapitaal wordt gehouden:
 	a.	door een rechtspersoon waarvan de werknemers in meerderheid buiten Nederland werkzaam zijn, of door afhankelijke maatschappijen daarvan
 	b.	volgens een onderlinge regeling tot samenwerking door een aantal van zulke rechtspersonen of maatschappijen, of
 	c.	volgens een onderlinge regeling tot samenwerking door een of meer van zulke rechtspersonen en een of meer rechtspersonen waarvoor artikel 153 lid 3 onder a of artikel 263 lid 3 onder a geldt of waarop de artikelen 63f tot en met 63j, de artikelen 158 tot en met 161 en 164 of de artikelen 268 tot en met 271 en 274 van toepassing zijn.
@@ -2897,53 +2976,57 @@ Artikel 265
 
 3.	Voor de toepassing van dit artikel worden onder werknemers, in dienst van een rechtspersoon, begrepen de werknemers in dienst van groepsmaatschappijen.
 
+Artikel 265a
+
+1.	In afwijking van artikel 264 geldt artikel 272 niet voor een vennootschap waarin:
+	a.	een natuurlijk persoon het gehele geplaatste kapitaal verschaft of doet verschaffen, of twee of meer natuurlijke personen volgens een onderlinge regeling tot samenwerking het gehele geplaatste kapitaal verschaffen of doen verschaffen;
+	b.	een stichting, een vereniging of een rechtspersoon als bedoeld in artikel 1 het gehele geplaatste kapitaal voor eigen rekening verschaft of doet verschaffen, of twee of meer van zulke rechtspersonen volgens een onderlinge regeling tot samenwerking het gehele geplaatste kapitaal voor eigen rekening verschaffen of doen verschaffen.
+
+2.	Met de natuurlijke persoon bedoeld in lid 1 worden gelijkgesteld de echtgenoot of echtgenote en de geregistreerde partner. Eveneens worden gelijkgesteld de bloedverwanten in rechte lijn, mits dezen binnen zes maanden na het overlijden van de natuurlijke persoon een onderlinge regeling tot samenwerking zijn aangegaan.
+
 Artikel 266
 
 Onze Minister van Justitie kan, gehoord de Sociaal-Economische Raad, aan een vennootschap op haar verzoek ontheffing verlenen van een of meer der artikelen 268-274 van dit Boek; de ontheffing kan onder beperkingen worden verleend en daaraan kunnen voorschriften worden verbonden; zij kan voorts worden gewijzigd en ingetrokken.
 
 Artikel 267
 
-1.	Een vennootschap waarvoor artikel 264 van dit Boek niet geldt, kan bij haar statuten de wijze van benoeming en ontslag van commissarissen en de taak en bevoegdheden van de raad van commissarissen regelen overeenkomstig de artikelen 268-274 van dit Boek indien zij of een afhankelijke maatschappij een ondernemingsraad heeft ingesteld waarop de bepalingen van de Wet op de ondernemingsraden van toepassing zijn. Zij mag daarbij artikel 272 van dit Boek, artikel 273 van dit Boek of deze beide artikelen buiten toepassing laten. De in dit lid bedoelde regeling in de statuten verliest haar gelding zodra de ondernemingsraad ophoudt te bestaan of op de ondernemingsraad niet langer de bepalingen van de Wet op de ondernemingsraden van toepassing zijn.
+1.	Een vennootschap waarvoor artikel 264 van dit Boek niet geldt, kan bij haar statuten de wijze van benoeming en ontslag van commissarissen en de taak en bevoegdheden van de raad van commissarissen regelen overeenkomstig de artikelen 268-274 van dit Boek indien zij of een afhankelijke maatschappij een ondernemingsraad heeft ingesteld waarop de bepalingen van de Wet op de ondernemingsraden van toepassing zijn. Zij mag daarbij artikel 272 buiten toepassing laten. De in dit lid bedoelde regeling in de statuten verliest haar gelding zodra de ondernemingsraad ophoudt te bestaan of op de ondernemingsraad niet langer de bepalingen van de Wet op de ondernemingsraden van toepassing zijn.
 
-2.	Een vennootschap waarvoor artikel 265 van dit Boek geldt, kan de bevoegdheid tot benoeming en ontslag van bestuurders en die tot vaststelling van de jaarrekening regelen overeenkomstig de artikelen 272 en 273 van dit Boek.
+2.	Een vennootschap waarvoor artikel 265 of 265a geldt, kan de bevoegdheid tot benoeming en ontslag van bestuurders regelen overeenkomstig artikel 272.
 
 Artikel 268
 
 1.	De vennootschap heeft een raad van commissarissen.
 
-2.	De commissarissen worden, behoudens het bepaalde in het voorlaatste lid, benoemd door de raad van commissarissen, voor zover de benoeming niet reeds is geschied bij de akte van oprichting of voordat dit artikel op de vennootschap van toepassing is geworden. De bevoegdheid tot benoeming kan niet door enige bindende voordracht worden beperkt. Onverminderd het bepaalde in artikel 270 kunnen de statuten de kring van benoembare personen niet beperken.
+2.	De raad van commissarissen bestaat uit ten minste drie leden. Is het aantal commissarissen minder dan drie, dan neemt de raad onverwijld maatregelen tot aanvulling van zijn ledental.
 
-3.	De raad van commissarissen bestaat uit ten minste drie leden. Is het aantal commissarissen minder dan drie, dan neemt de raad onverwijld maatregelen tot aanvulling van zijn ledental.
+3.	De raad van commissarissen stelt een profielschets voor zijn omvang en samenstelling vast, rekening houdend met de aard van de onderneming, haar activiteiten en de gewenste deskundigheid en achtergrond van de commissarissen. De raad bespreekt de profielschets voor het eerst bij vaststelling en vervolgens bij iedere wijziging in de algemene vergadering van aandeelhouders en met de ondernemingsraad.
 
-4.	De algemene vergadering van aandeelhouders, de ondernemingsraad en het bestuur kunnen aan de raad van commissarissen personen voor benoeming tot commissaris aanbevelen. De raad van commissarissen deelt hun daartoe tijdig mede, wanneer en ten gevolge waarvan in zijn midden een plaats moet worden vervuld.
+4.	De commissarissen worden, behoudens het bepaalde in lid 9, op voordracht van de raad van commissarissen benoemd door de algemene vergadering van aandeelhouders, voor zover de benoeming niet reeds is geschied bij de akte van oprichting of voordat dit artikel op de vennootschap van toepassing is geworden. De voordracht is met redenen omkleed. Onverminderd het bepaalde in artikel 270 kunnen de statuten de kring van benoembare personen niet beperken.
 
-5.	De raad geeft aan de algemene vergadering van aandeelhouders en de ondernemingsraad kennis van de naam van degene die hij wenst te benoemen, met inachtneming van het derde lid van artikel 252 van dit Boek.
+5.	De algemene vergadering en de ondernemingsraad kunnen aan de raad van commissarissen personen aanbevelen om als commissaris te worden voorgedragen. De raad deelt hun daartoe tijdig mede wanneer, ten gevolge waarvan en overeenkomstig welk profiel in zijn midden een plaats moet worden vervuld. Indien voor de plaats het in lid 6 bedoelde versterkte recht van aanbeveling geldt, doet de raad van commissarissen daarvan eveneens mededeling. De raad van commissarissen maakt de voordracht gelijktijdig bekend aan de algemene vergadering van aandeelhouders en aan de ondernemingsraad. De voordracht wordt met redenen omkleed.
 
-6.	De raad benoemt deze persoon, tenzij de algemene vergadering of de ondernemingsraad tegen de voorgenomen benoeming bezwaar maakt op grond dat de voorschriften van lid 4, tweede volzin, of lid 5 niet behoorlijk zijn nageleefd, dan wel op grond van de verwachting dat de voorgedragen persoon ongeschikt zal zijn voor de vervulling van de taak van commissaris of dat de raad van commissarissen bij benoeming overeenkomstig het voornemen niet naar behoren zal zijn samengesteld.
+6.	Voor een derde van het aantal leden van de raad van commissarissen geldt dat de raad van commissarissen een door de ondernemingsraad aanbevolen persoon op de voordracht plaatst, tenzij de raad van commissarissen bezwaar maakt tegen de aanbeveling op grond van de verwachting dat de aanbevolen persoon ongeschikt zal zijn voor de vervulling van de taak van commissaris of dat de raad van commissarissen bij benoeming overeenkomstig de aanbeveling niet naar behoren zal zijn samengesteld. Indien het getal der leden van de raad van commissarissen niet door drie deelbaar is, wordt het naastgelegen lagere getal dat wel door drie deelbaar is in aanmerking genomen voor de vaststelling van het aantal leden waarvoor dit versterkte recht van aanbeveling geldt.
 
-7.	Het besluit van de algemene vergadering tot het kenbaar maken van bezwaar moet worden genomen in de eerstvolgende vergadering na het verstrijken van een termijn van veertien dagen na de kennisgeving. De ondernemingsraad moet het besluit tot het kenbaar maken van bezwaar nemen binnen twee maanden na de kennisgeving.
+7.	Indien de raad van commissarissen bezwaar maakt, deelt hij de ondernemingsraad het bezwaar onder opgave van redenen mede. De raad treedt onverwijld in overleg met de ondernemingsraad met het oog op het bereiken van overeenstemming over de voordracht. Indien de raad van commissarissen constateert dat geen overeenstemming kan worden bereikt, verzoekt een daartoe aangewezen vertegenwoordiger van de raad aan de ondernemingskamer van het gerechtshof te Amsterdam het bezwaar gegrond te verklaren. Het verzoek wordt niet eerder ingediend dan nadat vier weken zijn verstreken na aanvang van het overleg met de ondernemingsraad. De raad van commissarissen plaatst de aanbevolen persoon op de voordracht indien de ondernemingskamer het bezwaar ongegrond verklaart. Verklaart de ondernemingskamer het bezwaar gegrond, dan kan de ondernemingsraad een nieuwe aanbeveling doen overeenkomstig het bepaalde in lid 6.
 
-8.	Het bezwaar wordt aan de raad van commissarissen onder opgave van redenen medegedeeld.
+8.	De ondernemingskamer doet de ondernemingsraad oproepen. Tegen de beslissing van de ondernemingskamer staat geen rechtsmiddel open. De ondernemingskamer kan geen veroordeling in de proceskosten uitspreken.
 
-9.	Niettegenstaande het bezwaar van de algemene vergadering of de ondernemingsraad kan de benoeming overeenkomstig het voornemen geschieden, indien de ondernemingskamer van het gerechtshof te Amsterdam op verzoek van een daartoe aangewezen vertegenwoordiger van de raad van commissarissen het bezwaar ongegrond verklaart.
+9.	De algemene vergadering kan bij volstrekte meerderheid van de uitgebrachte stemmen vertegenwoordigend ten minste een derde van het geplaatste kapitaal de voordracht afwijzen. Indien niet ten minste een derde van het geplaatste kapitaal ter vergadering vertegenwoordigd was, kan een nieuwe vergadering worden bijeengeroepen waarin de voordracht kan worden afgewezen met volstrekte meederheid van de uitgebrachte stemmen. Alsdan maakt de raad van commissarissen een nieuwe voordracht op. De leden 5 tot en met 8 zijn van toepassing. Indien de algemene vergadering de voorgedragen persoon niet benoemt en niet besluit tot afwijzing van de voordracht, benoemt de raad van commissarissen de voorgedragen persoon.
 
-10.	Een verweerschrift kan worden ingediend door een daartoe aangewezen vertegenwoordiger van de algemene vergadering of van de ondernemingsraad die het in lid 6 bedoelde bezwaar heeft gemaakt. De ondernemingskamer doet ook de vertegenwoordigers oproepen die door de algemene vergadering of de ondernemingsraad die geen bezwaar heeft gemaakt, zijn aangewezen. Tegen de beslissing van de ondernemingskamer is geen hogere voorziening toegelaten. De ondernemingskamer kan geen veroordeling in de proceskosten uitspreken.
+10.	De algemene vergadering van aandeelhouders kan de bevoegdheid die haar volgens lid 5 toekomt voor een door haar te bepalen duur van telkens ten hoogste twee achtereenvolgende jaren, overdragen aan een commissie van aandeelhouders waarvan zij de leden aanwijst; in dat geval geeft de raad van commissarissen aan de commissie de kennisgeving van lid 5. De algemene vergadering kan te allen tijde de overdracht ongedaan maken.
 
-11.	De algemene vergadering van aandeelhouders kan de bevoegdheden en verplichtingen die haar en haar vertegenwoordigers volgens dit artikel toekomen, voor een door haar te bepalen duur van telkens ten hoogste twee achtereenvolgende jaren, overdragen aan een commissie van aandeelhouders waarvan zij de leden aanwijst; in dat geval geeft de raad van commissarissen, met inachtneming van het derde lid van artikel 252 van dit Boek, aan de commissie kennis van de naam van degene die hij tot commissaris wenst te benoemen. De algemene vergadering kan te allen tijde de overdracht ongedaan maken.
+11.	Voor de toepassing van dit artikel wordt onder de ondernemingsraad verstaan de ondernemingsraad van de onderneming van de vennootschap of van de onderneming van een afhankelijke maatschappij. Indien er meer dan één ondernemingsraad is, worden de bevoegdheden van dit artikel door deze raden afzonderlijk uitgeoefend; als er sprake is van een voordracht als bedoeld in lid 6 worden de bevoegdheden van dit lid door deze raden gezamenlijk uitgeoefend. Is voor de betrokken onderneming of ondernemingen een centrale ondernemingsraad ingesteld, dan komen de bevoegdheden van de ondernemingsraad volgens dit artikel toe aan de centrale ondernemingsraad.
 
-12.	De statuten kunnen bepalen dat een of meer commissarissen van overheidswege worden benoemd. Met betrekking tot een zodanige benoeming heeft degene die met deze benoeming is belast, de bevoegdheden en verplichtingen die volgens de voorgaande leden voor de raad van commissarissen gelden, en hebben jegens hem de algemene vergadering van aandeelhouders, de ondernemingsraad en het bestuur de bevoegdheden en verplichtingen die zij volgens de voorgaande leden hebben jegens de raad van commissarissen; de raad van commissarissen kan voor deze benoeming een aanbeveling doen.
-
-13.	Voor de toepassing van dit artikel wordt onder de ondernemingsraad verstaan de ondernemingsraad van de onderneming der vennootschap of van de onderneming van een afhankelijke maatschappij. Indien er meer dan één ondernemingsraad is, zijn deze raden gelijkelijk bevoegd. Is voor de betrokken onderneming of ondernemingen een centrale ondernemingsraad ingesteld, dan komen de bevoegdheden van de ondernemingsraad volgens dit artikel toe aan de centrale ondernemingsraad. De ondernemingsraad neemt geen besluit als bedoeld in dit artikel, dan nadat over de betrokken aangelegenheid ten minste éénmaal overleg is gepleegd tussen de vennootschap en de ondernemingsraad.
+12.	In de statuten kan worden afgeweken van de leden 2, 4 tot en met 7 en 9, met dien verstande dat niet kan worden afgeweken van de eerste twee zinnen van lid 9. Voor het besluit tot wijziging van de statuten is de voorafgaande goedkeuring van de raad van commissarissen en de toestemming van de ondernemingsraad vereist.
 
 Artikel 269
 
-1.	Ontbreken alle commissarissen, dan geschiedt de benoeming door de algemene vergadering van aandeelhouders.
+1.	Ontbreken alle commissarissen, anders dan ingevolge het bepaalde in artikel 271a, dan geschiedt de benoeming door de algemene vergadering van aandeelhouders.
 
-2.	De ondernemingsraad en het bestuur kunnen personen voor benoeming tot commissaris aanbevelen. Degene die de algemene vergadering van aandeelhouders bijeenroept, deelt de ondernemingsraad tijdig mede dat de benoeming van commissarissen onderwerp van behandeling in de algemene vergadering zal zijn.
+2.	De ondernemingsraad kan personen voor benoeming tot commissaris aanbevelen. Degene die de algemene vergadering van aandeelhouders bijeenroept, deelt de ondernemingsraad daartoe tijdig mede dat de benoeming van commissarissen onderwerp van behandeling in de algemene vergadering zal zijn, met vermelding of benoeming van een commissaris plaatsvindt overeenkomstig het aanbevelingsrecht van de ondernemingsraad op grond van artikel 268 lid 6.
 
-3.	De benoeming is van kracht, tenzij de ondernemingsraad, na overeenkomstig het vijfde lid van het vorige artikel in kennis te zijn gesteld van de naam van de benoemde persoon, onder opgave van redenen een bezwaar tegen de benoeming aan de vennootschap kenbaar maakt. Niettegenstaande het bezwaar van de ondernemingsraad wordt de benoeming van kracht, indien de ondernemingskamer van het gerechtshof te Amsterdam op verzoek van een daartoe aangewezen vertegenwoordiger van de algemene vergadering het bezwaar ongegrond verklaart.
-
-4.	Het zesde, zevende, tiende, elfde en dertiende lid van het vorige artikel zijn van overeenkomstige toepassing.
+3.	De leden 6, 7, 8, 10 en 11 van het vorig artikel zijn van overeenkomstige toepassing.
 
 Artikel 270
 
@@ -2956,11 +3039,19 @@ Artikel 271
 
 1.	Een commissaris treedt uiterlijk af, indien hij na zijn laatste benoeming vier jaren commissaris is geweest. De termijn kan bij de statuten worden verlengd tot de dag van de eerstvolgende algemene vergadering van aandeelhouders na afloop van de vier jaren of na de dag waarop dit artikel voor de rechtspersoon is gaan gelden.
 
-2.	De ondernemingskamer van het gerechtshof te Amsterdam kan op een desbetreffend verzoek een commissaris ontslaan wegens verwaarlozing van zijn taak, wegens andere gewichtige redenen of wegens ingrijpende wijziging der omstandigheden op grond waarvan handhaving als commissaris redelijkerwijze niet van de vennootschap kan worden verlangd. Het verzoek kan worden ingediend door de vennootschap, ten deze vertegenwoordigd door de raad van commissarissen, alsmede door een daartoe aangewezen vertegenwoordiger van de algemene vergadering van aandeelhouders of van de ondernemingsraad, bedoeld in het laatste lid van artikel 268 van dit Boek. Het elfde en het dertiende lid van artikel 268 zijn van overeenkomstige toepassing.
+2.	De ondernemingskamer van het gerechtshof te Amsterdam kan op een desbetreffend verzoek een commissaris ontslaan wegens verwaarlozing van zijn taak, wegens andere gewichtige redenen of wegens ingrijpende wijziging der omstandigheden op grond waarvan handhaving als commissaris redelijkerwijze niet van de vennootschap kan worden verlangd. Het verzoek kan worden ingediend door de vennootschap, ten deze vertegenwoordigd door de raad van commissarissen, alsmede door een daartoe aangewezen vertegenwoordiger van de algemene vergadering van aandeelhouders of van de ondernemingsraad, bedoeld in lid 11 van artikel 268. De leden 10 en 11 van artikel 268 zijn van overeenkomstige toepassing.
 
 3.	Een commissaris kan worden geschorst door de raad van commissarissen; de schorsing vervalt van rechtswege, indien de vennootschap niet binnen een maand na de aanvang der schorsing een verzoek als bedoeld in het vorige lid bij de ondernemingskamer heeft ingediend.
 
-4.	Onverminderd het bepaalde in het eerste en het tweede lid kan een commissaris die van overheidswege is aangewezen, worden geschorst en ontslagen door degene die met de benoeming is belast; het voorgaande lid is niet op hem van toepassing.
+Artikel 271a
+
+1.	De algemene vergadering kan bij volstrekte meerderheid van de uitgebrachte stemmen, vertegenwoordigend ten minste een derde van het geplaatste kapitaal, het vertrouwen in de raad van commissarissen opzeggen. Het besluit is met redenen omkleed. Het besluit kan niet worden genomen ten aanzien van commissarissen die zijn aangesteld door de ondernemingskamer overeenkomstig lid 3.
+
+2.	Een besluit als bedoeld in lid 1 wordt niet genomen dan nadat het bestuur de ondernemingsraad van het voorstel voor het besluit en de gronden daartoe in kennis heeft gesteld. De kennisgeving geschiedt ten minste 30 dagen voor de algemene vergadering waarin het voorstel wordt behandeld. Indien de ondernemingsraad een standpunt over het voorstel bepaalt, stelt het bestuur de raad van commissarissen en de algemene vergadering van dit standpunt op de hoogte. De ondernemingsraad kan zijn standpunt in de algemene vergadering doen toelichten.
+
+3.	Het besluit bedoeld in lid 1 heeft het onmiddellijk ontslag van de leden van de raad van commissarissen tot gevolg. Alsdan verzoekt het bestuur onverwijld aan de ondernemingskamer van het gerechtshof te Amsterdam tijdelijk een of meer commissarissen aan te stellen. De ondernemingskamer regelt de gevolgen van de aanstelling.
+
+4.	De raad van commissarissen bevordert dat binnen een door de ondernemingskamer vastgestelde termijn een nieuwe raad wordt samengesteld met inachtneming van artikel 268.
 
 Artikel 272
 
@@ -2968,7 +3059,7 @@ De raad van commissarissen benoemt de bestuurders der vennootschap; deze bevoegd
 
 Artikel 273
 
-De raad van commissarissen stelt de jaarrekening vast. Hij legt deze gelijktijdig ter goedkeuring aan de algemene vergadering van aandeelhouders en ter bespreking aan de in artikel 268 lid 13 bedoelde ondernemingsraad over.
+[Vervallen per 01-10-2004]
 
 Artikel 274
 
@@ -4063,7 +4154,7 @@ Artikel 361
 
 2.	Coöperaties en de in artikel 360 lid 3 bedoelde stichtingen en verenigingen vervangen de winst- en verliesrekening door een exploitatierekening, indien het in artikel 362 lid 1 bedoelde inzicht daardoor wordt gediend; op deze rekening zijn de bepalingen omtrent de winst- en verliesrekening zoveel mogelijk van overeenkomstige toepassing. Bepalingen omtrent winst en verlies zijn zoveel mogelijk van overeenkomstige toepassing op het exploitatiesaldo.
 
-3.	De bepalingen van deze titel gelden voor jaarrekeningen en hun onderdelen, zowel in de vorm waarin zij door het bestuur zijn opgemaakt als in de vorm waarin zij door het bevoegde orgaan van de rechtspersoon zijn vastgesteld of goedgekeurd.
+3.	De bepalingen van deze titel gelden voor jaarrekeningen en hun onderdelen, zowel in de vorm waarin zij door het bestuur zijn opgemaakt als in de vorm waarin zij door het bevoegde orgaan van de rechtspersoon zijn vastgesteld.
 
 4.	Bij de toepassing van de artikelen 367, 370 lid 1, 375, 376, 377 lid 5 en 381 moeten overeenkomstige vermeldingen als met betrekking tot groepsmaatschappijen worden opgenomen met betrekking tot andere maatschappijen:
 	a.	die op voet van de leden 1, 3 en 4 van artikel 24a rechten in de rechtspersoon kunnen uitoefenen, ongeacht of zij rechtspersoonlijkheid hebben, of
@@ -4081,7 +4172,7 @@ Artikel 362
 
 5.	De baten en lasten van het boekjaar worden in de jaarrekening opgenomen, onverschillig of zij tot ontvangsten of uitgaven in dat boekjaar hebben geleid.
 
-6.	De jaarrekening wordt vastgesteld en aan goedkeuring onderworpen met inachtneming van hetgeen omtrent de financiële toestand op de balansdatum is gebleken tussen het opmaken van de jaarrekening en de algemene vergadering waarin zij wordt behandeld, voor zover dat onontbeerlijk is voor het in lid 1 bedoelde inzicht. Blijkt nadien dat de jaarrekening in ernstige mate tekortschiet in het geven van dit inzicht, dan bericht het bestuur daaromtrent onverwijld aan de leden of aandeelhouders en legt het een mededeling daaromtrent neder ten kantore van het handelsregister; bij de mededeling wordt een accountantsverklaring gevoegd, indien de jaarrekening overeenkomstig artikel 393 is onderzocht.
+6.	De jaarrekening wordt vastgesteld met inachtneming van hetgeen omtrent de financiële toestand op de balansdatum is gebleken tussen het opmaken van de jaarrekening en de algemene vergadering waarin zij wordt behandeld, voor zover dat onontbeerlijk is voor het in lid 1 bedoelde inzicht. Blijkt nadien dat de jaarrekening in ernstige mate tekortschiet in het geven van dit inzicht, dan bericht het bestuur daaromtrent onverwijld aan de leden of aandeelhouders en legt het een mededeling daaromtrent neder ten kantore van het handelsregister; bij de mededeling wordt een accountantsverklaring gevoegd, indien de jaarrekening overeenkomstig artikel 393 is onderzocht.
 
 7.	Indien de werkzaamheid van de rechtspersoon of de internationale vertakking van zijn groep dat rechtvaardigt, mag de jaarrekening of alleen de geconsolideerde jaarrekening worden opgesteld in een vreemde geldeenheid. De posten worden in de Nederlandse taal omschreven, tenzij de algemene vergadering tot het gebruik van een andere taal heeft besloten.
 
@@ -4356,7 +4447,7 @@ Vermeld wordt tot welke belangrijke, niet in de balans opgenomen, financiële ve
 
 Artikel 382
 
-Medegedeeld wordt het gemiddelde aantal gedurende het boekjaar bij de rechtspersoon werkzame werknemers, ingedeeld op een wijze die is afgestemd op de inrichting van het bedrijf. Heeft artikel 377 lid 3 geen toepassing in de winst- en verliesrekening gevonden, dan worden de aldaar onder e en f verlangde gegevens vermeld.
+Medegedeeld wordt het gemiddelde aantal gedurende het boekjaar bij de rechtspersoon werkzame werknemers, ingedeeld op een wijze die is afgestemd op de inrichting van het bedrijf. De vennootschap doet daarbij opgave van het aantal werknemers dat buiten Nederland werkzaam is. Heeft artikel 377 lid 3 geen toepassing in de winst- en verliesrekening gevonden, dan worden de aldaar onder e en f verlangde gegevens vermeld.
 
 Artikel 383
 
@@ -4519,6 +4610,10 @@ Artikel 391
 
 3.	Het jaarverslag mag niet in strijd zijn met de jaarrekening.
 
+4.	Bij algemene maatregel van bestuur kunnen nadere voorschriften worden gesteld omtrent de inhoud van het jaarverslag. Deze voorschriften kunnen in het bijzonder betrekking hebben op naleving van een in de algemene maatregel van bestuur aan te wijzen gedragscode.
+
+5.	De voordracht voor een krachtens lid 4 vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+
 Afdeling 8. Overige gegevens
 
 Artikel 392
@@ -4555,7 +4650,7 @@ Artikel 393
 
 5.	De accountant geeft de uitslag van zijn onderzoek weer in een verklaring omtrent de getrouwheid van de jaarrekening; voor het onderzoek volgens de tweede zin van lid 3 mag hij volstaan met de vermelding van hem gebleken tekortkomingen.
 
-6.	De jaarrekening kan niet worden vastgesteld of goedgekeurd, indien het daartoe bevoegde orgaan geen kennis heeft kunnen nemen van de verklaring van de accountant, die aan de jaarrekening moest zijn toegevoegd, tenzij onder de overige gegevens een wettige grond wordt medegedeeld waarom de verklaring ontbreekt.
+6.	De jaarrekening kan niet worden vastgesteld, indien het daartoe bevoegde orgaan geen kennis heeft kunnen nemen van de verklaring van de accountant, die aan de jaarrekening moest zijn toegevoegd, tenzij onder de overige gegevens een wettige grond wordt medegedeeld waarom de verklaring ontbreekt.
 
 7.	Iedere belanghebbende kan van de rechtspersoon nakoming van de in lid 1 omschreven verplichting vorderen.
 
@@ -4563,9 +4658,9 @@ Afdeling 10. Openbaarmaking
 
 Artikel 394
 
-1.	De rechtspersoon is verplicht tot openbaarmaking van de jaarrekening binnen acht dagen na de vaststelling; behoeft de jaarrekening goedkeuring, dan loopt de termijn van de goedkeuring af. De openbaarmaking geschiedt door nederlegging van een volledig in de Nederlandse taal gesteld exemplaar of, als dat niet is vervaardigd, een exemplaar in het Frans, Duits of Engels, ten kantore van het handelsregister dat wordt gehouden door de Kamer van Koophandel en Fabrieken die overeenkomstig de artikelen 6 en 7 van de Handelsregisterwet 1996 bevoegd is. Op het exemplaar moet de dag van vaststelling en goedkeuring zijn aangetekend.
+1.	De rechtspersoon is verplicht tot openbaarmaking van de jaarrekening binnen acht dagen na de vaststelling. De openbaarmaking geschiedt door nederlegging van een volledig in de Nederlandse taal gesteld exemplaar of, als dat niet is vervaardigd, een exemplaar in het Frans, Duits of Engels, ten kantore van het handelsregister dat wordt gehouden door de Kamer van Koophandel en Fabrieken die overeenkomstig de artikelen 6 en 7 van de Handelsregisterwet 1996 bevoegd is. Op het exemplaar moet de dag van vaststelling en goedkeuring zijn aangetekend.
 
-2.	Is de jaarrekening niet binnen twee maanden na afloop van de voor het opmaken voorgeschreven termijn overeenkomstig de wettelijke voorschriften vastgesteld en goedgekeurd, dan maakt het bestuur onverwijld de opgemaakte jaarrekening op de in lid 1 voorgeschreven wijze openbaar; op de jaarrekening wordt vermeld dat zij nog niet is vastgesteld of goedgekeurd. Binnen twee maanden na gerechtelijke vernietiging van een jaarrekening moet de rechtspersoon een afschrift van de in de uitspraak opgenomen bevelen met betrekking tot de jaarrekening neerleggen ten kantore van het handelsregister, met vermelding van de uitspraak.
+2.	Is de jaarrekening niet binnen twee maanden na afloop van de voor het opmaken voorgeschreven termijn overeenkomstig de wettelijke voorschriften vastgesteld, dan maakt het bestuur onverwijld de opgemaakte jaarrekening op de in lid 1 voorgeschreven wijze openbaar; op de jaarrekening wordt vermeld dat zij nog niet is vastgesteld. Binnen twee maanden na gerechtelijke vernietiging van een jaarrekening moet de rechtspersoon een afschrift van de in de uitspraak opgenomen bevelen met betrekking tot de jaarrekening neerleggen ten kantore van het handelsregister, met vermelding van de uitspraak.
 
 3.	Uiterlijk dertien maanden na afloop van het boekjaar moet de rechtspersoon de jaarrekening op de in lid 1 voorgeschreven wijze openbaar hebben gemaakt.
 
@@ -4583,7 +4678,7 @@ Artikel 395
 
 2.	Wordt slechts de balans of de winst- en verliesrekening, al dan niet met toelichting, of wordt de jaarrekening in beknopte vorm op andere wijze dan ingevolge het vorige artikel openbaar gemaakt, dan wordt dit ondubbelzinnig vermeld onder verwijzing naar de openbaarmaking krachtens wettelijk voorschrift, of, zo deze niet is geschied, onder mededeling van dit feit. De in artikel 393 lid 5 bedoelde accountantsverklaring mag alsdan niet worden toegevoegd. Bij de openbaarmaking wordt medegedeeld of de accountant deze verklaring heeft afgelegd. Is de verklaring afgelegd, dan wordt een mededeling van de accountant toegevoegd welke strekking zijn verklaring bij de jaarrekening heeft. Is de verklaring niet afgelegd, dan wordt de reden daarvan vermeld.
 
-3.	Is de jaarrekening nog niet vastgesteld of goedgekeurd, dan wordt dit bij de in lid 1 en lid 2 bedoelde stukken vermeld. Indien een mededeling als bedoeld in de laatste zin van artikel 362 lid 6 is gedaan, wordt dit eveneens vermeld.
+3.	Is de jaarrekening nog niet vastgesteld, dan wordt dit bij de in lid 1 en lid 2 bedoelde stukken vermeld. Indien een mededeling als bedoeld in de laatste zin van artikel 362 lid 6 is gedaan, wordt dit eveneens vermeld.
 
 Afdeling 11. Vrijstellingen op grond van de omvang van het bedrijf van de rechtspersoon
 
@@ -4665,7 +4760,7 @@ Artikel 403
 
 1.	Een tot een groep behorende rechtspersoon behoeft de jaarrekening niet overeenkomstig de voorschriften van deze titel in te richten, mits:
 	a.	de balans in elk geval vermeldt de som van de vaste activa, de som van de vlottende activa, en het bedrag van het eigen vermogen, van de voorzieningen en van de schulden, en de winst- en verliesrekening in elk geval vermeldt het resultaat uit de gewone bedrijfsuitoefening en het saldo der overige baten en lasten, een en ander na belastingen;
-	b.	de leden of aandeelhouders na de aanvang van het boekjaar en voor de vaststelling of goedkeuring van de jaarrekening schriftelijk hebben verklaard met afwijking van de voorschriften in te stemmen;
+	b.	de leden of aandeelhouders na de aanvang van het boekjaar en voor de vaststelling van de jaarrekening schriftelijk hebben verklaard met afwijking van de voorschriften in te stemmen;
 	c.	de financiële gegevens van de rechtspersoon door een andere rechtspersoon of vennootschap zijn geconsolideerd in een geconsolideerde jaarrekening waarop krachtens het toepasselijke recht de zevende richtlijn van de Raad van de Europese Gemeenschappen inzake het vennootschapsrecht of een der beide richtlijnen van de Raad van de Europese Gemeenschappen betreffende de jaarrekening en de geconsolideerde jaarrekening van banken en andere financiële instellingen dan wel van verzekeringsondernemingen van toepassing is;
 	d.	de geconsolideerde jaarrekening, voor zover niet gesteld of vertaald in het Nederlands, is gesteld of vertaald in het Frans, Duits of Engels;
 	e.	de accountantsverklaring en het jaarverslag, zijn gesteld of vertaald in de zelfde taal als de geconsolideerde jaarrekening;
