@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 01-01-2005 t/m 31-03-2005
+Geldend van 01-04-2005 t/m 26-07-2005
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -1854,12 +1854,12 @@ Artikel 153
 1.	Een naamloze vennootschap moet, indien het volgende lid op haar van toepassing is, binnen twee maanden na de vaststelling van haar jaarrekening door de algemene vergadering van aandeelhouders ten kantore van het handelsregister opgaaf doen, dat zij aan de in dat lid gestelde voorwaarden voldoet. Totdat artikel 154 lid 3 van dit Boek toepassing heeft gevonden, vermeldt het bestuur in elk volgend jaarverslag wanneer de opgaaf is gedaan; wordt de opgaaf doorgehaald, dan wordt daarvan melding gemaakt in het eerste jaarverslag dat na de datum van die doorhaling wordt uitgebracht.
 
 2.	De verplichting tot het doen van een opgaaf geldt, indien:
-	a.	het geplaatste kapitaal der vennootschap tezamen met de reserves volgens de balans met toelichting ten minste een bij koninklijk besluit vastgesteld grensbedrag[Red: Bij Stb. 2000/290 is dit bedrag m.i.v. 1 september 2000 vastgesteld op 13 000 000 euro.] beloopt,
+	a.	het geplaatste kapitaal der vennootschap tezamen met de reserves volgens de balans met toelichting ten minste een bij koninklijk besluit vastgesteld grensbedrag beloopt,
 	b.	de vennootschap of een afhankelijke maatschappij krachtens wettelijke verplichting een ondernemingsraad heeft ingesteld, en
 	c.	bij de vennootschap en haar afhankelijke maatschappijen, tezamen in de regel ten minste honderd werknemers in Nederland werkzaam zijn.
 
 3.	De verplichting tot het doen van een opgaaf geldt niet voor:
-	a.	een vennootschap die afhankelijke maatschappij is van een rechtspersoon waarop de artikelen 63f tot en met 63j, de artikelen 158 tot en met 161 en 164 of de artikelen 268 tot en met 271 en 274 van toepassing zijn,
+	a.	een vennootschap die afhankelijke maatschappij is van een rechtspersoon waarop de artikelen 63f tot en met 63j, de artikelen 158 tot en met 161 en 164 of de artikelen 268 tot en met 271 en 274 van toepassing zijn, danwel een vennootschap die afhankelijke maatschappij is van een Europese naamloze vennootschap in de zin van Verordening (EG) Nr. 2157/2001 (Pb L 294) waarvan in de statuten is bepaald dat de artikelen 158 leden 1 tot en met 12, 159, 161, 161a en 164 van overeenkomstige toepassing zijn,
 	b.	een vennootschap wier werkzaamheid zich uitsluitend of nagenoeg uitsluitend beperkt tot het beheer en de financiering van groepsmaatschappijen, en van haar en hun deelnemingen in andere rechtspersonen, mits de werknemers in dienst van de vennootschap en de groepsmaatschappijen in meerderheid buiten Nederland werkzaam zijn,
 	c.	een vennootschap die uitsluitend of nagenoeg uitsluitend aan een vennootschap als bedoeld onder b of in artikel 263 lid 3 onder b, en aan de in die bepalingen genoemde groepsmaatschappijen en rechtspersonen diensten ten behoeve van het beheer en de financiering verleent, en
 	d.	een vennootschap waarin voor ten minste de helft van het geplaatste kapitaal volgens een onderlinge regeling tot samenwerking wordt deelgenomen door twee of meer rechtspersonen waarop de artikelen 63f tot en met 63j, de artikelen 158 tot en met 161 en 164 of de artikelen 268 tot en met 271 en 274 van toepassing zijn of die afhankelijke maatschappij zijn van zulk een rechtspersoon.
