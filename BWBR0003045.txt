@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 01-07-2002 t/m 31-08-2002
+Geldend van 01-09-2002 t/m 31-12-2002
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -656,7 +656,7 @@ Artikel 57a
 
 Artikel 58
 
-1.	Jaarlijks binnen zes maanden na afloop van het boekjaar, behoudens verlenging van deze termijn met ten hoogste vijf maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de leden ter inzage ten kantore van de rechtspersoon. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de leden, tenzij de artikelen 396 lid 6, eerste volzin, of 403 voor de rechtspersoon gelden. De termijn kan voor beleggingsmaatschappijen waaraan ingevolge de Wet toezicht beleggingsinstellingen (Stb. 1990, 380) een vergunning is verleend, bij of krachtens die wet worden bekort. De jaarrekening wordt vastgesteld door de algemene vergadering die het bestuur uiterlijk een maand na afloop van de termijn doet houden. Artikel 48 lid 2 is van overeenkomstige toepassing. Vaststelling van de jaarrekening strekt niet tot kwijting aan een bestuurder onderscheidenlijk commissaris.
+1.	Jaarlijks binnen zes maanden na afloop van het boekjaar, behoudens verlenging van deze termijn met ten hoogste vijf maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de leden ter inzage ten kantore van de rechtspersoon. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de leden, tenzij de artikelen 396 lid 6, of 403 voor de rechtspersoon gelden. De termijn kan voor beleggingsmaatschappijen waaraan ingevolge de Wet toezicht beleggingsinstellingen (Stb. 1990, 380) een vergunning is verleend, bij of krachtens die wet worden bekort. De jaarrekening wordt vastgesteld door de algemene vergadering die het bestuur uiterlijk een maand na afloop van de termijn doet houden. Artikel 48 lid 2 is van overeenkomstige toepassing. Vaststelling van de jaarrekening strekt niet tot kwijting aan een bestuurder onderscheidenlijk commissaris.
 
 2.	De opgemaakte jaarrekening wordt ondertekend door de bestuurders en door de commissarissen; ontbreekt de ondertekening van een of meer hunner, dan wordt daarvan onder opgave van reden melding gemaakt.
 
@@ -1418,7 +1418,7 @@ Artikel 100
 
 Artikel 101
 
-1.	Jaarlijks binnen vijf maanden na afloop van het boekjaar der vennootschap, behoudens verlenging van deze termijn met ten hoogste zes maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de aandeelhouders ter inzage ten kantore van de vennootschap. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de aandeelhouders, tenzij de artikelen 396 lid 6, eerste volzin, of 403 voor de vennootschap gelden. De termijn kan voor beleggingsmaatschappijen waaraan ingevolge de Wet toezicht beleggingsinstellingen (Stb. 1990, 380) een vergunning is verleend, bij of krachtens die wet worden bekort.
+1.	Jaarlijks binnen vijf maanden na afloop van het boekjaar der vennootschap, behoudens verlenging van deze termijn met ten hoogste zes maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de aandeelhouders ter inzage ten kantore van de vennootschap. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de aandeelhouders, tenzij de artikelen 396 lid 6, of 403 voor de vennootschap gelden. De termijn kan voor beleggingsmaatschappijen waaraan ingevolge de Wet toezicht beleggingsinstellingen (Stb. 1990, 380) een vergunning is verleend, bij of krachtens die wet worden bekort.
 
 2.	De jaarrekening wordt ondertekend door de bestuurders en door de commissarissen; ontbreekt de ondertekening van een of meer hunner, dan wordt daarvan onder opgave van reden melding gemaakt.
 
@@ -2483,7 +2483,7 @@ Artikel 209
 
 Artikel 210
 
-1.	Jaarlijks binnen vijf maanden na afloop van het boekjaar der vennootschap, behoudens verlenging van deze termijn met ten hoogste zes maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de aandeelhouders ter inzage ten kantore van de vennootschap. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de aandeelhouders, tenzij de artikelen 396 lid 6, eerste volzin, of 403 voor de vennootschap gelden. De termijn kan voor beleggingsmaatschappijen waaraan ingevolge de Wet toezicht beleggingsinstellingen (Stb. 1990, 380) een vergunning is verleend, bij of krachtens die wet worden bekort.
+1.	Jaarlijks binnen vijf maanden na afloop van het boekjaar der vennootschap, behoudens verlenging van deze termijn met ten hoogste zes maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de aandeelhouders ter inzage ten kantore van de vennootschap. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de aandeelhouders, tenzij de artikelen 396 lid 6, of 403 voor de vennootschap gelden. De termijn kan voor beleggingsmaatschappijen waaraan ingevolge de Wet toezicht beleggingsinstellingen (Stb. 1990, 380) een vergunning is verleend, bij of krachtens die wet worden bekort.
 
 2.	De jaarrekening wordt ondertekend door de bestuurders en door de commissarissen; ontbreekt de ondertekening van een of meer hunner, dan wordt daarvan onder opgave van reden melding gemaakt.
 
@@ -4368,6 +4368,55 @@ Artikel 383a
 
 De in artikel 360 lid 3 bedoelde stichtingen en verenigingen vermelden zowel de statutaire regeling omtrent de bestemming van het resultaat als de wijze waarop het resultaat na belastingen wordt bestemd.
 
+Artikel 383b
+
+In afwijking van artikel 383 gelden de artikelen 383c tot en met 383e voor de naamloze vennootschap, met uitzondering van de naamloze vennootschap waarvan de statuten uitsluitend aandelen op naam kennen, een blokkeringsregeling bevatten en niet toelaten dat met medewerking van de vennootschap certificaten aan toonder worden uitgegeven.
+
+Artikel 383c
+
+1.	De vennootschap doet opgave van het bedrag van de bezoldiging voor iedere bestuurder. Dit bedrag wordt uitgesplitst naar
+	a.	periodiek betaalde beloningen,
+	b.	beloningen betaalbaar op termijn,
+	c.	uitkeringen bij beëindiging van het dienstverband,
+	d.	winstdelingen en bonusbetalingen,
+
+voor zover deze bedragen in het boekjaar ten laste van de vennootschap zijn gekomen.
+
+Indien de vennootschap een bezoldiging in de vorm van bonus heeft betaald die geheel of gedeeltelijk is gebaseerd op het bereiken van de door of vanwege de vennootschap gestelde doelen, doet zij hiervan mededeling. Daarbij vermeldt de vennootschap of deze doelen in het verslagjaar zijn bereikt.
+
+2.	De vennootschap doet opgave van het bedrag van de bezoldiging voor iedere gewezen bestuurder, uitgesplitst naar beloningen betaalbaar op termijn en uitkeringen bij beëindiging van het dienstverband, voor zover deze bedragen in het boekjaar ten laste van de vennootschap zijn gekomen.
+
+3.	De vennootschap doet opgave van het bedrag van de bezoldiging voor iedere commissaris, voor zover deze bedragen in het boekjaar ten laste van de vennootschap zijn gekomen. Indien de vennootschap een bezoldiging in de vorm van winstdeling of bonus heeft toegekend, vermeldt zij deze afzonderlijk onder opgave van de redenen die ten grondslag liggen aan het besluit tot het toekennen van bezoldiging in deze vorm aan een commissaris. De laatste twee volzinnen van lid 1 zijn van overeenkomstige toepassing.
+
+4.	De vennootschap doet opgave van het bedrag van de bezoldiging van iedere gewezen commissaris, voor zover dit bedrag in het boekjaar ten laste van de vennootschap is gekomen.
+
+5.	Indien de vennootschap dochtermaatschappijen heeft of de financiële gegevens van andere maatschappijen consolideert, worden de bedragen die in het boekjaar te hunnen laste zijn gekomen, in de opgaven begrepen, toegerekend naar de betreffende categorie van bezoldiging bedoeld in de leden 1 tot en met 4.
+
+Artikel 383d
+
+1.	De vennootschap die bestuurders of werknemers rechten toekent om aandelen in het kapitaal van de vennootschap of een dochtermaatschappij te nemen of te verkrijgen, doet voor iedere bestuurder en voor de werknemers gezamenlijk opgave van:
+	a.	de uitoefenprijs van de rechten en de prijs van de onderliggende aandelen in het kapitaal van de vennootschap indien die uitoefenprijs lager ligt dan de prijs van die aandelen op het moment van toekenning van de rechten;
+	b.	het aantal aan het begin van het boekjaar nog niet uitgeoefende rechten;
+	c.	het aantal door de vennootschap in het boekjaar verleende rechten met de daarbij behorende voorwaarden; indien dergelijke voorwaarden gedurende het boekjaar worden gewijzigd, dienen deze wijzigingen afzonderlijk te worden vermeld;
+	d.	het aantal gedurende het boekjaar uitgeoefende rechten, waarbij in ieder geval worden vermeld het bij die uitoefening behorende aantal aandelen en de uitoefenprijzen;
+	e.	het aantal aan het einde van het boekjaar nog niet uitgeoefende rechten, waarbij worden vermeld:
+		–	de uitoefenprijs van de verleende rechten;
+		–	de resterende looptijd van de nog niet uitgeoefende rechten;
+		–	de belangrijkste voorwaarden die voor uitoefening van de rechten gelden;
+		–	een financieringsregeling die in verband met de toekenning van de rechten is getroffen; en
+andere gegevens die voor de beoordeling van de waarde van de rechten van belang zijn;
+	f.	indien van toepassing: de door de vennootschap gehanteerde criteria die gelden voor de toekenning of uitoefening van de rechten.
+
+2.	De vennootschap die commissarissen rechten toekent om aandelen in het kapitaal van de vennootschap of een dochtermaatschappij te verkrijgen, doet voorts voor iedere commissaris opgave van deze rechten, alsmede van de redenen die ten grondslag liggen aan het besluit tot het toekennen van deze rechten aan de commissaris. Lid 1 is van overeenkomstige toepassing.
+
+3.	De vennootschap vermeldt hoeveel aandelen in het kapitaal van de vennootschap per balansdatum zijn ingekocht of na balansdatum zullen worden ingekocht dan wel hoeveel nieuwe aandelen per balansdatum zijn geplaatst of na balansdatum zullen worden geplaatst ten behoeve van de uitoefening van de rechten bedoeld in lid 1 en lid 2.
+
+4.	Voor de toepassing van dit artikel wordt onder aandelen tevens verstaan de certificaten van aandelen welke met medewerking van de vennootschap zijn uitgegeven.
+
+Artikel 383e
+
+De vennootschap doet opgave van het bedrag van de leningen, voorschotten en garanties, ten behoeve van iedere bestuurder en iedere commissaris van de vennootschap verstrekt door de vennootschap, haar dochtermaatschappijen en de maatschappijen waarvan zij de gegevens consolideert. Opgegeven worden de nog openstaande bedragen, de rentevoet, de belangrijkste overige bepalingen, en de aflossingen gedurende het boekjaar.
+
 Afdeling 6. Voorschriften omtrent de grondslagen van waardering en van bepaling van het resultaat
 
 Artikel 384
@@ -4466,7 +4515,7 @@ Artikel 391
 
 1.	Het jaarverslag geeft een getrouw beeld omtrent de toestand op de balansdatum en de gang van zaken gedurende het boekjaar van de rechtspersoon en van de groepsmaatschappijen waarvan de financiële gegevens in zijn jaarrekening zijn opgenomen. Het jaarverslag wordt in de Nederlandse taal gesteld, tenzij de algemene vergadering tot het gebruik van een andere taal heeft besloten.
 
-2.	In het jaarverslag worden mededelingen gedaan omtrent de verwachte gang van zaken; daarbij wordt, voor zover gewichtige belangen zich hiertegen niet verzetten, in het bijzonder aandacht besteed aan de investeringen, de financiering en de personeelsbezetting en aan de omstandigheden waarvan de ontwikkeling van de omzet en van de rentabiliteit afhankelijk is. Mededelingen worden gedaan omtrent de werkzaamheden op het gebied van onderzoek en ontwikkeling. Vermeld wordt hoe bijzondere gebeurtenissen waarmee in de jaarrekening geen rekening behoeft te worden gehouden, de verwachtingen hebben beïnvloed.
+2.	In het jaarverslag worden mededelingen gedaan omtrent de verwachte gang van zaken; daarbij wordt, voor zover gewichtige belangen zich hiertegen niet verzetten, in het bijzonder aandacht besteed aan de investeringen, de financiering en de personeelsbezetting en aan de omstandigheden waarvan de ontwikkeling van de omzet en van de rentabiliteit afhankelijk is. Mededelingen worden gedaan omtrent de werkzaamheden op het gebied van onderzoek en ontwikkeling. Vermeld wordt hoe bijzondere gebeurtenissen waarmee in de jaarrekening geen rekening behoeft te worden gehouden, de verwachtingen hebben beïnvloed. De naamloze vennootschap waarop artikel 383b van toepassing is, doet voorts mededeling van het beleid van de vennootschap aangaande de bezoldiging van haar bestuurders en commissarissen en de wijze waarop dit beleid in het verslagjaar in de praktijk is gebracht.
 
 3.	Het jaarverslag mag niet in strijd zijn met de jaarrekening.
 
@@ -4553,7 +4602,7 @@ Artikel 396
 
 5.	Het in artikel 378 lid 1 genoemde overzicht wordt slechts gegeven voor de herwaarderingsreserve, behoudens de tweede zin van artikel 378 lid 3; opgegeven worden het aantal geplaatste aandelen en het bedrag per soort, aantal en bedrag van de in het boekjaar uitgegeven aandelen en van de aandelen en certificaten daarvan die de rechtspersoon of een dochtermaatschappij voor eigen rekening houdt. De artikelen 380 en 383 lid 1 zijn niet van toepassing.
 
-6.	Artikel 391 is niet van toepassing, tenzij krachtens wettelijke verplichting een ondernemingsraad moet worden ingesteld. Artikel 393 lid 1 is niet van toepassing.
+6.	De artikelen 383b tot en met 383e, 391 en 393 lid 1 zijn niet van toepassing.
 
 7.	Artikel 394 is slechts van toepassing met betrekking tot een overeenkomstig lid 3 beperkte balans en de toelichting. In de openbaar gemaakte toelichting blijven achterwege de nadere gegevens omtrent de winst- en verliesrekening, alsmede de gegevens bedoeld in artikel 378 lid 3, tweede zin.
 
@@ -4712,7 +4761,7 @@ De financiële gegevens van een rechtspersoon of vennootschap mogen in de gecons
 
 Artikel 410
 
-1.	De bepalingen van deze titel over de jaarrekening en onderdelen daarvan, uitgezonderd de artikelen 365 lid 2, 378, 379, 383, 389 leden 6, 8 en 9, en 390, zijn van overeenkomstige toepassing op de geconsolideerde jaarrekening.
+1.	De bepalingen van deze titel over de jaarrekening en onderdelen daarvan, uitgezonderd de artikelen 365 lid 2, 378, 379, 383, 383b tot en met 383e, 389 leden 6, 8 en 9, en 390, zijn van overeenkomstige toepassing op de geconsolideerde jaarrekening.
 
 2.	Voorraden hoeven niet te worden uitgesplitst, indien dat wegens bijzondere omstandigheden onevenredige kosten zou vergen.
 
