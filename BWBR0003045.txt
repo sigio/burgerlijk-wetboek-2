@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 01-04-2005 t/m 26-07-2005
+Geldend van 27-07-2005 t/m 31-08-2005
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -1567,7 +1567,9 @@ Artikel 117
 
 4.	De bestuurders en de commissarissen hebben als zodanig in de algemene vergaderingen een raadgevende stem.
 
-5.	Aan de eis van schriftelijkheid van de volmacht wordt voldaan indien de volmacht elektronisch is vastgelegd.
+5.	De accountant aan wie de opdracht tot het onderzoek van de jaarrekening is verleend, bedoeld in artikel 393 lid 1, is bevoegd de algemene vergadering die besluit over de vaststelling van de jaarrekening bij te wonen en daarin het woord te voeren.
+
+6.	Aan de eis van schriftelijkheid van de volmacht wordt voldaan indien de volmacht elektronisch is vastgelegd.
 
 Artikel 118
 
@@ -4150,7 +4152,7 @@ Afdeling 2. Algemene bepalingen omtrent de jaarrekening
 
 Artikel 361
 
-1.	In dit boek wordt onder jaarrekening verstaan: de balans en de winst- en verliesrekening met de toelichting.
+1.	Onder jaarrekening wordt verstaan: de enkelvoudige jaarrekening die bestaat uit de balans en de winst- en verliesrekening met de toelichting, en de geconsolideerde jaarrekening indien de rechtspersoon een geconsolideerde jaarrekening opstelt.
 
 2.	Coöperaties en de in artikel 360 lid 3 bedoelde stichtingen en verenigingen vervangen de winst- en verliesrekening door een exploitatierekening, indien het in artikel 362 lid 1 bedoelde inzicht daardoor wordt gediend; op deze rekening zijn de bepalingen omtrent de winst- en verliesrekening zoveel mogelijk van overeenkomstige toepassing. Bepalingen omtrent winst en verlies zijn zoveel mogelijk van overeenkomstige toepassing op het exploitatiesaldo.
 
@@ -4162,7 +4164,7 @@ Artikel 361
 
 Artikel 362
 
-1.	De jaarrekening geeft volgens normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd een zodanig inzicht dat een verantwoord oordeel kan worden gevormd omtrent het vermogen en het resultaat, alsmede voor zover de aard van een jaarrekening dat toelaat, omtrent de solvabiliteit en de liquiditeit van de rechtspersoon. Indien de internationale vertakking van zijn groep dit rechtvaardigt kan de rechtspersoon de jaarrekening opstellen naar de normen die in het maatschappelijk verkeer in een van de andere lidstaten van de Europese Gemeenschappen als aanvaardbaar worden beschouwd en het in de eerste volzin bedoelde inzicht geven. Indien de rechtspersoon van deze mogelijkheid gebruik maakt wordt door hem hiervan in de toelichting melding gemaakt.
+1.	De jaarrekening geeft volgens normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd een zodanig inzicht dat een verantwoord oordeel kan worden gevormd omtrent het vermogen en het resultaat, alsmede voor zover de aard van een jaarrekening dat toelaat, omtrent de solvabiliteit en de liquiditeit van de rechtspersoon. Indien de internationale vertakking van zijn groep dit rechtvaardigt kan de rechtspersoon de jaarrekening opstellen naar de normen die in het maatschappelijk verkeer in een van de andere lidstaten van de Europese Gemeenschappen als aanvaardbaar worden beschouwd en het in de eerste volzin bedoelde inzicht geven.
 
 2.	De balans met de toelichting geeft getrouw, duidelijk en stelselmatig de grootte van het vermogen en zijn samenstelling in actief- en passiefposten op het einde van het boekjaar weer. De balans mag het vermogen weergeven, zoals het wordt samengesteld met inachtneming van de bestemming van de winst of de verwerking van het verlies, of, zolang deze niet vaststaat, met inachtneming van het voorstel daartoe. Bovenaan de balans wordt aangegeven of daarin de bestemming van het resultaat is verwerkt.
 
@@ -4175,6 +4177,12 @@ Artikel 362
 6.	De jaarrekening wordt vastgesteld met inachtneming van hetgeen omtrent de financiële toestand op de balansdatum is gebleken tussen het opmaken van de jaarrekening en de algemene vergadering waarin zij wordt behandeld, voor zover dat onontbeerlijk is voor het in lid 1 bedoelde inzicht. Blijkt nadien dat de jaarrekening in ernstige mate tekortschiet in het geven van dit inzicht, dan bericht het bestuur daaromtrent onverwijld aan de leden of aandeelhouders en legt het een mededeling daaromtrent neder ten kantore van het handelsregister; bij de mededeling wordt een accountantsverklaring gevoegd, indien de jaarrekening overeenkomstig artikel 393 is onderzocht.
 
 7.	Indien de werkzaamheid van de rechtspersoon of de internationale vertakking van zijn groep dat rechtvaardigt, mag de jaarrekening of alleen de geconsolideerde jaarrekening worden opgesteld in een vreemde geldeenheid. De posten worden in de Nederlandse taal omschreven, tenzij de algemene vergadering tot het gebruik van een andere taal heeft besloten.
+
+8.	Een rechtspersoon kan de jaarrekening opstellen volgens de door de International Accounting Standards Board vastgestelde en door de Europese Commissie goedgekeurde standaarden, mits de rechtspersoon daarbij alle voor hem van toepassing zijnde vastgestelde en goedgekeurde standaarden toepast. Een rechtspersoon die de geconsolideerde jaarrekening opstelt volgens deze titel, kan niet de enkelvoudige jaarrekening opstellen volgens de vastgestelde en goedgekeurde standaarden. Een rechtspersoon die de geconsolideerde jaarrekening opstelt volgens de in de eerste zin van dit lid genoemde standaarden, kan in de enkelvoudige jaarrekening de waarderingsgrondslagen toepassen die hij ook in de geconsolideerde jaarrekening heeft toegepast.
+
+9.	De rechtspersoon die de jaarrekening opstelt volgens de in lid 8 bedoelde standaarden, past van deze titel slechts de afdelingen 7 tot en met 10 en de artikelen 365 lid 2, 373, 383, 383b tot en met 383e, 389 leden 8 en 10, en 390 toe. Banken passen tevens artikel 421 lid 5 toe.
+
+10.	De rechtspersoon vermeldt in de toelichting volgens welke standaarden de jaarrekening is opgesteld.
 
 Artikel 363
 
@@ -4299,16 +4307,13 @@ Artikel 373
 
 3.	Het kapitaal wordt niet verminderd met het bedrag van eigen aandelen of certificaten daarvan die de rechtspersoon of een dochtermaatschappij houdt.
 
-4.	Wettelijke reserves zijn de reserves die moeten worden aangehouden ingevolge de artikelen 67a lid 2, 67a lid 3, 94a lid 3 onderdeel f., 178 lid 3, 178a lid 2, 178a lid 3, 207c lid 3, 365 lid 2, 389 lid 6, en 390.
+4.	Wettelijke reserves zijn de reserves die moeten worden aangehouden ingevolge de artikelen 67a lid 2, 67a lid 3, 94a lid 3 onderdeel f., 178 lid 3, 178a lid 2, 178a lid 3, 207c lid 3, 365 lid 2, 389, leden 6 en 8, 390, 401 lid 2, en 423 lid 4.
 
 5.	In een jaarrekening die in een vreemde geldeenheid wordt opgesteld, wordt de in lid 1 onderdeel a bedoelde post opgenomen in die geldeenheid, naar de koers op de balansdatum. Tevens worden dan deze koers en het bedrag in Nederlands geld vermeld. Voor de toepassing van artikel 178 lid 3 wordt naar de zelfde koers gerekend.
 
 Artikel 374
 
-1.	Op de balans worden voorzieningen opgenomen tegen:
-	a.	verplichtingen en verliezen waarvan de omvang op de balansdatum onzeker is, doch redelijkerwijs is te schatten;
-	b.	op de balansdatum bestaande risico’s ter zake van bepaalde te verwachten verplichtingen of verliezen waarvan de omvang redelijkerwijs is te schatten;
-	c.	kosten welke in een volgend boekjaar zullen worden gemaakt, mits het maken van die kosten zijn oorsprong mede vindt in het boekjaar of in een voorafgaand boekjaar en de voorziening strekt tot gelijkmatige verdeling van lasten over een aantal boekjaren.
+1.	Op de balans worden voorzieningen opgenomen tegen naar hun aard duidelijk omschreven verplichtingen die op de balansdatum als waarschijnlijk of als vaststaand worden beschouwd, maar waarvan niet bekend is in welke omvang of wanneer zij zullen ontstaan. Tevens kunnen voorzieningen worden opgenomen tegen uitgaven die in een volgend boekjaar zullen worden gedaan, voor zover het doen van die uitgaven zijn oorsprong mede vindt voor het einde van het boekjaar en de voorziening strekt tot gelijkmatige verdeling van lasten over een aantal boekjaren.
 
 2.	Waardevermindering van een actief wordt niet door vorming van een voorziening tot uitdrukking gebracht.
 
@@ -4421,7 +4426,7 @@ Artikel 379
 
 2.	Van elke in onderdeel a van lid 1 bedoelde maatschappij vermeldt de rechtspersoon ook het bedrag van het eigen vermogen en resultaat volgens haar laatst vastgestelde jaarrekening, tenzij:
 	a.	de rechtspersoon de financiële gegevens van de maatschappij consolideert;
-	b.	de rechtspersoon de maatschappij op zijn balans of geconsolideerde balans overeenkomstig artikel 389 leden 1 tot en met 8 verantwoordt;
+	b.	de rechtspersoon de maatschappij op zijn balans of geconsolideerde balans overeenkomstig artikel 389 leden 1 tot en met 7 verantwoordt;
 	c.	de rechtspersoon de financiële gegevens van de maatschappij wegens te verwaarlozen belang dan wel op grond van artikel 408 niet consolideert; of
 	d.	minder dan de helft van het kapitaal van de maatschappij voor rekening van de rechtspersoon wordt verschaft en de maatschappij wettig haar balans niet openbaar maakt.
 
@@ -4444,6 +4449,23 @@ Artikel 380
 Artikel 381
 
 Vermeld wordt tot welke belangrijke, niet in de balans opgenomen, financiële verplichtingen de rechtspersoon voor een aantal toekomstige jaren is verbonden, zoals die welke uit langlopende overeenkomsten voortvloeien. Daarbij worden afzonderlijk vermeld de verplichtingen jegens groepsmaatschappijen. Artikel 375 lid 3 is van overeenkomstige toepassing.
+
+Artikel 381a
+
+Indien financiële instrumenten tegen de actuele waarde worden gewaardeerd, vermeldt de rechtspersoon:
+	a.	indien de actuele waarde met behulp van waarderingsmodellen en -technieken is bepaald, de aannames die daaraan ten grondslag liggen;
+	b.	per categorie van financiële instrumenten, de actuele waarde, de waardeveranderingen die in de winst- en verliesrekening zijn opgenomen, de waardeveranderingen die op grond van artikel 390 lid 1 in de herwaarderingsreserve zijn opgenomen, en de waardeveranderingen die op de vrije reserves in mindering zijn gebracht; en
+	c.	per categorie van afgeleide financiële instrumenten, informatie over de omvang en de aard van de instrumenten, alsmede de voorwaarden die op het bedrag, het tijdstip en de zekerheid van toekomstige kasstromen van invloed kunnen zijn.
+
+Artikel 381b
+
+Indien financiële instrumenten niet tegen de actuele waarde worden gewaardeerd, vermeldt de rechtspersoon:
+	a.	voor iedere categorie afgeleide financiële instrumenten:
+		1°.	de actuele waarde van de instrumenten, indien deze kan worden bepaald door middel van een van de krachtens artikel 384 lid 4 voorgeschreven methoden;
+		2°.	informatie over de omvang en de aard van de instrumenten; en
+	b.	voor financiële vaste activa die zijn gewaardeerd tegen een hoger bedrag dan de actuele waarde en zonder dat uitvoering is gegeven aan de tweede zin van artikel 387 lid 4:
+		1°.	de boekwaarde en de actuele waarde van de afzonderlijke activa of van passende groepen van de afzonderlijke activa;
+		2°.	de reden waarom de boekwaarde niet is verminderd, alsmede de aard van de aanwijzingen die ten grondslag liggen aan de overtuiging dat de boekwaarde zal kunnen worden gerealiseerd.
 
 Artikel 382
 
@@ -4512,9 +4534,9 @@ Afdeling 6. Voorschriften omtrent de grondslagen van waardering en van bepaling 
 
 Artikel 384
 
-1.	Bij de keuze van een grondslag voor de waardering van een actief en van een passief en voor de bepaling van het resultaat laat de rechtspersoon zich leiden door de voorschriften van artikel 362 leden 1-4. Als grondslag komen in aanmerking de verkrijgings- of vervaardigingsprijs en, voor de materiële en financiële vaste activa en de voorraden, tevens de actuele waarde.
+1.	Bij de keuze van een grondslag voor de waardering van een actief en van een passief en voor de bepaling van het resultaat laat de rechtspersoon zich leiden door de voorschriften van artikel 362 leden 1-4. Als grondslag komen in aanmerking de verkrijgings- of vervaardigingsprijs en de actuele waarde.
 
-2.	Bij de toepassing van de grondslagen wordt voorzichtigheid betracht. Winsten worden slechts opgenomen, voor zover zij op de balansdatum zijn verwezenlijkt. Verliezen en risico’s die hun oorsprong vinden vóór het einde van het boekjaar, worden in acht genomen, indien zij vóór het opmaken van de jaarrekening zijn bekend geworden.
+2.	Bij de toepassing van de grondslagen wordt voorzichtigheid betracht. Winsten worden slechts opgenomen, voor zover zij op de balansdatum zijn verwezenlijkt. Verplichtingen die hun oorsprong vinden vóór het einde van het boekjaar, worden in acht genomen, indien zij vóór het opmaken van de jaarrekening zijn bekend geworden. Voorzienbare verplichtingen en mogelijke verliezen die hun oorsprong vinden vóór het einde van het boekjaar kunnen in acht worden genomen indien zij vóór het opmaken van de jaarrekening bekend zijn geworden.
 
 3.	Bij de waardering van activa en passiva wordt uitgegaan van de veronderstelling dat het geheel der werkzaamheden van de rechtspersoon waaraan die activa en passiva dienstbaar zijn, wordt voortgezet, tenzij die veronderstelling onjuist is of haar juistheid aan gerede twijfel onderhevig is; alsdan wordt dit onder mededeling van de invloed op vermogen en resultaat in de toelichting uiteengezet.
 
@@ -4524,6 +4546,13 @@ Artikel 384
 
 6.	Slechts wegens gegronde redenen mogen de waardering van activa en passiva en de bepaling van het resultaat geschieden op andere grondslagen dan die welke in het voorafgaande boekjaar zijn toegepast. De reden der verandering wordt in de toelichting uiteengezet. Tevens wordt inzicht gegeven in haar betekenis voor vermogen en resultaat, aan de hand van aangepaste cijfers voor het boekjaar of voor het voorafgaande boekjaar.
 
+7.	Waardeveranderingen van:
+	a.	financiële instrumenten;
+	b.	andere beleggingen; en
+	c.	agrarische voorraden waarvoor frequente marktnoteringen bestaan die op grond van lid 1 tegen de actuele waarde worden gewaardeerd, kunnen in afwijking van de tweede zin van lid 2 onmiddellijk in het resultaat worden opgenomen, tenzij in deze afdeling anders is bepaald. Waardeveranderingen van afgeleide financiële instrumenten, voorzover niet bedoeld in lid 8, worden, zo nodig in afwijking van lid 2, onmiddellijk ten gunste of ten laste van het resultaat gebracht.
+
+8.	Waardeveranderingen van financiële instrumenten die dienen en effectief zijn ter dekking van risico’s inzake activa, activa in bestelling en andere nog niet op de balans opgenomen verplichtingen, dan wel inzake voorgenomen transacties worden rechtstreeks ten gunste dan wel ten laste van de herwaarderingsreserve gebracht, voor zover dat noodzakelijk is om te bereiken dat deze waardeveranderingen in dezelfde periode in het resultaat worden verwerkt als de waardeveranderingen die zij beogen af te dekken.
+
 Artikel 385
 
 1.	De activa en passiva worden, voor zover zij in hun betekenis voor het in artikel 362 lid 1 bedoelde inzicht verschillen, afzonderlijk gewaardeerd.
@@ -4532,7 +4561,7 @@ Artikel 385
 
 3.	Materiële vaste activa en voorraden van grond- en hulpstoffen die geregeld worden vervangen en waarvan de gezamenlijke waarde van ondergeschikte betekenis is, mogen tegen een vaste hoeveelheid en waarde worden opgenomen, indien de hoeveelheid, samenstelling en waarde slechts aan geringe veranderingen onderhevig zijn.
 
-4.	De in artikel 365 lid 1 onder c-e genoemde activa worden opgenomen tot ten hoogste de daarvoor gedane uitgaven, verminderd met de afschrijvingen.
+4.	De in artikel 365 lid 1 onder d en e genoemde activa worden opgenomen tot ten hoogste de daarvoor gedane uitgaven, verminderd met de afschrijvingen.
 
 5.	Eigen aandelen of certificaten daarvan die de rechtspersoon houdt of doet houden, mogen niet worden geactiveerd. De aan het belang in een dochtermaatschappij toegekende waarde wordt, al dan niet evenredig aan het belang, verminderd met de verkrijgingsprijs van aandelen in de rechtspersoon en van certificaten daarvan, die de dochtermaatschappij voor eigen rekening houdt of doet houden; heeft zij deze aandelen of certificaten verkregen voor het tijdstip waarop zij dochtermaatschappij werd, dan komt evenwel hun boekwaarde op dat tijdstip in mindering of een evenredig deel daarvan.
 
@@ -4542,7 +4571,7 @@ Artikel 386
 
 2.	De methoden volgens welke de afschrijvingen zijn berekend, worden in de toelichting uiteengezet.
 
-3.	De geactiveerde kosten in verband met de oprichting en met de uitgifte van aandelen en de kosten van onderzoek en ontwikkeling worden afgeschreven in ten hoogste vijf jaren. De geactiveerde kosten van goodwill worden afgeschreven naar gelang van de verwachte gebruiksduur. De afschrijvingsduur mag vijf jaren slechts te boven gaan, indien de goodwill aan een aanzienlijk langer tijdvak kan worden toegerekend; alsdan moet de afschrijvingsduur met de redenen hiervoor worden opgegeven.
+3.	De geactiveerde kosten in verband met de oprichting en met de uitgifte van aandelen worden afgeschreven in ten hoogste vijf jaren. De kosten van onderzoek en ontwikkeling voor zover geactiveerd en de geactiveerde kosten van goodwill worden afgeschreven naar gelang van de verwachte gebruiksduur. De afschrijvingsduur mag vijf jaren slechts te boven gaan, indien de goodwill aan een aanzienlijk langer tijdvak kan worden toegerekend; alsdan moet de afschrijvingsduur met de redenen hiervoor worden opgegeven.
 
 4.	Op vaste activa met beperkte gebruiksduur wordt jaarlijks afgeschreven volgens een stelsel dat op de verwachte toekomstige gebruiksduur is afgestemd.
 
@@ -4552,7 +4581,7 @@ Artikel 387
 
 1.	Waardeverminderingen van activa worden onafhankelijk van het resultaat van het boekjaar in aanmerking genomen.
 
-2.	Vlottende activa worden gewaardeerd tegen marktwaarde, indien deze op de balansdatum lager is dan de verkrijgings- of vervaardigingsprijs. De waardering geschiedt tegen een andere lagere waarde, indien het in artikel 362 lid 1 bedoelde inzicht daardoor wordt gediend.
+2.	Vlottende activa worden gewaardeerd tegen actuele waarde, indien deze op de balansdatum lager is dan de verkrijgings- of vervaardigingsprijs. De waardering geschiedt tegen een andere lagere waarde, indien het in artikel 362 lid 1 bedoelde inzicht daardoor wordt gediend.
 
 3.	Indien redelijkerwijs een buitengewone waardevermindering van vlottende activa op korte termijn valt te voorzien, mag bij de waardering hiermede rekening worden gehouden.
 
@@ -4580,21 +4609,23 @@ Deze uitzondering behoeft niet te worden toegepast ten aanzien van deelnemingen,
 
 5.	In de jaarrekening van een rechtspersoon die geen verzekeringsmaatschappij is als bedoeld in artikel 427 mag de verantwoording van een deelneming in een verzekeringsmaatschappij overeenkomstig afdeling 15 van deze titel geschieden. In de jaarrekening van een verzekeringsmaatschappij als bedoeld in artikel 427 wordt een deelneming in een rechtspersoon die geen verzekeringsmaatschappij is, verantwoord overeenkomstig de voorschriften voor verzekeringsmaatschappijen, onverminderd de eerste zin van lid 4 van dit artikel.
 
-6.	De rechtspersoon moet een reserve aanhouden ter hoogte van zijn aandeel in de resultaten uit de deelnemingen sedert de eerste waardering overeenkomstig lid 2 of lid 3, verminderd met de uitkeringen waarop hij sedertdien tot het vaststellen van zijn jaarrekening recht heeft verkregen; uitkeringen waarvan hij zonder beperking ontvangst in Nederland kan bewerkstelligen, mogen eveneens in mindering worden gebracht. Deze reserve kan in kapitaal worden omgezet. Onder de in dit lid bedoelde uitkeringen worden niet begrepen uitkeringen in aandelen.
+6.	De rechtspersoon houdt een reserve aan ter hoogte van zijn aandeel in het positieve resultaat uit deelnemingen en in rechtstreekse vermogensvermeerderingen sedert de eerste waardering overeenkomstig lid 2 of lid 3. Deelnemingen waarvan het cumulatief resultaat sedert die eerste waardering niet positief is, worden daarbij niet in aanmerking genomen. De reserve wordt verminderd met de uitkeringen waarop de rechtspersoon sedertdien tot het moment van het vaststellen van de jaarrekening recht heeft verkregen, alsmede met rechtstreekse vermogensverminderingen bij de deelneming; uitkeringen die hij zonder beperkingen kan bewerkstelligen, worden eveneens in mindering gebracht. Deze reserve kan in kapitaal worden omgezet. Onder de in dit lid bedoelde uitkeringen worden niet begrepen uitkeringen in aandelen.
 
 7.	Indien de waarde bij de eerste waardering overeenkomstig lid 2 of lid 3 lager is dan de verkrijgingsprijs of de voorafgaande boekwaarde van de deelneming, wordt het verschil zichtbaar ten laste van de winst- en verliesrekening of van het eigen vermogen gebracht, dan wel als goodwill geactiveerd. Voor deze berekening wordt ook de verkrijgingsprijs verminderd overeenkomstig artikel 385 lid 5.
 
-8.	Indien de waarde bij de eerste waardering overeenkomstig lid 2 of lid 3 hoger is dan de verkrijgingsprijs, is artikel 390 van toepassing op het verschil, voor zover dit geen nadelen weerspiegelt die voor de rechtspersoon aan de deelneming zijn verbonden. Voor deze berekening wordt ook de verkrijgingsprijs verminderd overeenkomstig artikel 385 lid 5.
+8.	Waardevermeerderingen of waardeverminderingen van deelnemingen wegens omrekening van het daarin geïnvesteerde vermogen en het resultaat vanuit de valuta van de deelneming naar de valuta waarin de rechtspersoon zijn jaarrekening opmaakt, komen ten gunste respectievelijk ten laste van een reserve omrekeningsverschillen. Valutakoersverschillen op leningen aangegaan ter dekking van valutakoersrisico van buitenlandse deelnemingen, komen eveneens ten gunste respectievelijk ten laste van deze reserve. De reserve kan een negatief saldo hebben. Bij gehele of gedeeltelijke vervreemding van het belang in de desbetreffende deelneming wordt het gedeelte van de reserve dat op het vervreemde deel van die deelneming betrekking heeft aan deze reserve onttrokken. Indien de reserve omrekeningsverschillen een negatief saldo heeft, kunnen ter hoogte van dit saldo geen uitkeringen worden gedaan ten laste van de reserves.
 
 9.	Wegens in de toelichting te vermelden gegronde redenen mag worden afgeweken van toepassing van lid 1.
 
+10.	Verschillen in het eigen vermogen en het resultaat volgens de enkelvoudige jaarrekening en volgens de geconsolideerde jaarrekening van de rechtspersoon worden in de toelichting bij de enkelvoudige jaarrekening vermeld.
+
 Artikel 390
 
-1.	De rechtspersoon die een actief herwaardeert op een hoger bedrag, neemt op de balans een herwaarderingsreserve op ter grootte van het verschil tussen de boekwaarde van voor en na de herwaardering.
+1.	Waardevermeerderingen van materiële vaste activa, immateriële vaste activa en voorraden die geen agrarische voorraden zijn, worden opgenomen in een herwaarderingsreserve. Waardevermeerderingen van andere activa die tegen actuele waarde worden gewaardeerd, worden opgenomen in een herwaarderingsreserve, tenzij ze krachtens artikel 384 ten gunste van het resultaat worden gebracht. Voorts vormt de rechtspersoon een herwaarderingsreserve ten laste van de vrije reserves of uit het resultaat van het boekjaar, voor zover in het boekjaar waardevermeerderingen van activa die op de balansdatum nog aanwezig zijn, ten gunste van het resultaat van het boekjaar zijn gebracht. Een herwaarderingsreserve wordt niet gevormd voor activa bedoeld in de vorige zin waarvoor frequente marktnoteringen bestaan. Ter hoogte van het bedrag van ten laste van de herwaarderingsreserve gebrachte uitgestelde verliezen op financiële instrumenten als bedoeld in artikel 384 lid 8, kunnen geen uitkeringen ten laste van de reserves worden gedaan. De herwaarderingsreserve kan worden verminderd met latente belastingverplichtingen met betrekking tot activa die zijn geherwaardeerd op een hoger bedrag.
 
 2.	De herwaarderingsreserve kan in kapitaal worden omgezet.
 
-3.	De herwaarderingsreserve wordt verminderd voor zover de gereserveerde bedragen niet meer noodzakelijk zijn voor de toepassing van het gekozen waarderingsstelsel en voor het bereiken van het doel der herwaardering. De herwaarderingsreserve mag niet verder worden verminderd dan tot de som der in de reserve opgenomen herwaarderingen van activa welke op de balansdatum nog aanwezig zijn.
+3.	De herwaarderingsreserve is niet hoger dan het verschil tussen de boekwaarde op basis van de verkrijgings- of vervaardigingsprijs en de boekwaarde op basis van de bij de waardering gehanteerde actuele waarde van de activa waarop de herwaarderingsreserve betrekking heeft. Deze reserve wordt verminderd met het uit hoofde van een bepaald actief in de reserve opgenomen bedrag als het desbetreffende actief wordt vervreemd. Een waardevermindering van een activum, gewaardeerd tegen actuele waarde, wordt ten laste van de herwaarderingsreserve gebracht voor zover dit activum hieraan voorafgaande ten gunste van de herwaarderingsreserve is opgewaardeerd.
 
 4.	De verminderingen van de herwaarderingsreserve die ten gunste van de winst- en verliesrekening worden gebracht, worden in een afzonderlijke post opgenomen.
 
@@ -4604,15 +4635,17 @@ Afdeling 7. Jaarverslag
 
 Artikel 391
 
-1.	Het jaarverslag geeft een getrouw beeld omtrent de toestand op de balansdatum en de gang van zaken gedurende het boekjaar van de rechtspersoon en van de groepsmaatschappijen waarvan de financiële gegevens in zijn jaarrekening zijn opgenomen. Het jaarverslag wordt in de Nederlandse taal gesteld, tenzij de algemene vergadering tot het gebruik van een andere taal heeft besloten.
+1.	Het jaarverslag geeft een getrouw beeld van de toestand op de balansdatum, de ontwikkeling gedurende het boekjaar en de resultaten van de rechtspersoon en van de groepsmaatschappijen waarvan de financiële gegevens in zijn jaarrekening zijn opgenomen. Het jaarverslag bevat, in overeenstemming met de omvang en de complexiteit van de rechtspersoon en groepsmaatschappijen, een evenwichtige en volledige analyse van de toestand op de balansdatum, de ontwikkeling gedurende het boekjaar en de resultaten. Indien noodzakelijk voor een goed begrip van de ontwikkeling, de resultaten of de positie van de rechtspersoon en groepsmaatschappijen, omvat de analyse zowel financiële als niet-financiële prestatie-indicatoren, met inbegrip van milieu- en personeelsaangelegenheden. Het jaarverslag geeft tevens een beschrijving van de voornaamste risico’s en onzekerheden waarmee de rechtspersoon wordt geconfronteerd. Het jaarverslag wordt in de Nederlandse taal gesteld, tenzij de algemene vergadering tot het gebruik van een andere taal heeft besloten.
 
 2.	In het jaarverslag worden mededelingen gedaan omtrent de verwachte gang van zaken; daarbij wordt, voor zover gewichtige belangen zich hiertegen niet verzetten, in het bijzonder aandacht besteed aan de investeringen, de financiering en de personeelsbezetting en aan de omstandigheden waarvan de ontwikkeling van de omzet en van de rentabiliteit afhankelijk is. Mededelingen worden gedaan omtrent de werkzaamheden op het gebied van onderzoek en ontwikkeling. Vermeld wordt hoe bijzondere gebeurtenissen waarmee in de jaarrekening geen rekening behoeft te worden gehouden, de verwachtingen hebben beïnvloed. De naamloze vennootschap waarop artikel 383b van toepassing is, doet voorts mededeling van het beleid van de vennootschap aangaande de bezoldiging van haar bestuurders en commissarissen en de wijze waarop dit beleid in het verslagjaar in de praktijk is gebracht.
 
-3.	Het jaarverslag mag niet in strijd zijn met de jaarrekening.
+3.	Ten aanzien van het gebruik van financiële instrumenten door de rechtspersoon en voor zover zulks van betekenis is voor de beoordeling van zijn activa, passiva, financiële toestand en resultaat, worden de doelstellingen en het beleid van de rechtspersoon inzake risicobeheer vermeld. Daarbij wordt aandacht besteed aan het beleid inzake de afdekking van risico’s verbonden aan alle belangrijke soorten voorgenomen transacties. Voorts wordt aandacht besteed aan de door de rechtspersoon gelopen prijs-, krediet-, liquiditeits- en kasstroomrisico’s.
 
-4.	Bij algemene maatregel van bestuur kunnen nadere voorschriften worden gesteld omtrent de inhoud van het jaarverslag. Deze voorschriften kunnen in het bijzonder betrekking hebben op naleving van een in de algemene maatregel van bestuur aan te wijzen gedragscode.
+4.	Het jaarverslag mag niet in strijd zijn met de jaarrekening. Indien het verschaffen van het in lid 1 bedoelde overzicht dit vereist, bevat het jaarverslag verwijzingen naar en aanvullende uitleg over posten in de jaarrekening.
 
-5.	De voordracht voor een krachtens lid 4 vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+5.	Bij algemene maatregel van bestuur kunnen nadere voorschriften worden gesteld omtrent de inhoud van het jaarverslag. Deze voorschriften kunnen in het bijzonder betrekking hebben op naleving van een in de algemene maatregel van bestuur aan te wijzen gedragscode.
+
+6.	De voordracht voor een krachtens lid 4 vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
 Afdeling 8. Overige gegevens
 
@@ -4648,11 +4681,24 @@ Artikel 393
 
 4.	De accountant brengt omtrent zijn onderzoek verslag uit aan de raad van commissarissen en aan het bestuur. Hij maakt daarbij ten minste melding van zijn bevindingen met betrekking tot de betrouwbaarheid en continuïteit van de geautomatiseerde gegevensverwerking.
 
-5.	De accountant geeft de uitslag van zijn onderzoek weer in een verklaring omtrent de getrouwheid van de jaarrekening; voor het onderzoek volgens de tweede zin van lid 3 mag hij volstaan met de vermelding van hem gebleken tekortkomingen.
+5.	De accountant geeft de uitslag van zijn onderzoek weer in een verklaring omtrent de getrouwheid van de jaarrekening. De accountant kan een afzonderlijke verklaring afgeven voor de enkelvoudige jaarrekening en voor de geconsolideerde jaarrekening. De accountantsverklaring omvat ten minste:
+	a.	een vermelding op welke jaarrekening het onderzoek betrekking heeft en welke wettelijke voorschriften op de jaarrekening toepasselijk zijn;
+	b.	een beschrijving van de reikwijdte van het onderzoek, waarin ten minste wordt vermeld welke richtlijnen voor de accountantscontrole in acht zijn genomen;
+	c.	een oordeel of de jaarrekening het vereiste inzicht geeft en aan de bij en krachtens de wet gestelde regels voldoet;
+	d.	een verwijzing naar bepaalde zaken waarop de accountant in het bijzonder de aandacht vestigt, zonder een verklaring als bedoeld in lid 6, onderdeel b, af te geven;
+	e.	een oordeel over de verenigbaarheid van het jaarverslag met de jaarrekening.
 
-6.	De jaarrekening kan niet worden vastgesteld, indien het daartoe bevoegde orgaan geen kennis heeft kunnen nemen van de verklaring van de accountant, die aan de jaarrekening moest zijn toegevoegd, tenzij onder de overige gegevens een wettige grond wordt medegedeeld waarom de verklaring ontbreekt.
+6.	De accountantsverklaring, bedoeld in lid 5, heeft de vorm van:
+	a.	een goedkeurende verklaring;
+	b.	een verklaring met beperking;
+	c.	een afkeurende verklaring; of
+	d.	een verklaring van oordeelonthouding.
 
-7.	Iedere belanghebbende kan van de rechtspersoon nakoming van de in lid 1 omschreven verplichting vorderen.
+De accountant ondertekent en dagtekent de accountantsverklaring.
+
+7.	De jaarrekening kan niet worden vastgesteld, indien het daartoe bevoegde orgaan geen kennis heeft kunnen nemen van de verklaring van de accountant, die aan de jaarrekening moest zijn toegevoegd, tenzij onder de overige gegevens een wettige grond wordt medegedeeld waarom de verklaring ontbreekt.
+
+8.	Iedere belanghebbende kan van de rechtspersoon nakoming van de in lid 1 omschreven verplichting vorderen.
 
 Afdeling 10. Openbaarmaking
 
@@ -4676,7 +4722,7 @@ Artikel 395
 
 1.	Wordt de jaarrekening op andere wijze dan ingevolge het vorige artikel openbaar gemaakt, dan wordt daaraan in ieder geval de in artikel 393 lid 5 bedoelde accountantsverklaring toegevoegd. Voor de toepassing van de vorige zin geldt als de jaarrekening van een rechtspersoon waarop artikel 397 van toepassing is, mede de jaarrekening in de vorm waarin zij ingevolge dat artikel openbaar mag worden gemaakt. Is de verklaring niet afgelegd, dan wordt de reden daarvan vermeld.
 
-2.	Wordt slechts de balans of de winst- en verliesrekening, al dan niet met toelichting, of wordt de jaarrekening in beknopte vorm op andere wijze dan ingevolge het vorige artikel openbaar gemaakt, dan wordt dit ondubbelzinnig vermeld onder verwijzing naar de openbaarmaking krachtens wettelijk voorschrift, of, zo deze niet is geschied, onder mededeling van dit feit. De in artikel 393 lid 5 bedoelde accountantsverklaring mag alsdan niet worden toegevoegd. Bij de openbaarmaking wordt medegedeeld of de accountant deze verklaring heeft afgelegd. Is de verklaring afgelegd, dan wordt een mededeling van de accountant toegevoegd welke strekking zijn verklaring bij de jaarrekening heeft. Is de verklaring niet afgelegd, dan wordt de reden daarvan vermeld.
+2.	Wordt slechts de balans of de winst- en verliesrekening, al dan niet met toelichting, of wordt de jaarrekening in beknopte vorm op andere wijze dan ingevolge het vorige artikel openbaar gemaakt, dan wordt dit ondubbelzinnig vermeld onder verwijzing naar de openbaarmaking krachtens wettelijk voorschrift, of, zo deze niet is geschied, onder mededeling van dit feit. De in artikel 393 lid 5 bedoelde accountantsverklaring mag alsdan niet worden toegevoegd. Bij de openbaarmaking wordt medegedeeld of de accountant deze verklaring heeft afgelegd. Is de verklaring afgelegd, dan wordt vermeld welke strekking als bedoeld in artikel 393 lid 6 de accountantsverklaring heeft en wordt tevens vermeld of de accountant in de verklaring in het bijzonder de aandacht heeft gevestigd op bepaalde zaken, zonder een verklaring als bedoeld in artikel 393 lid 6, onderdeel b, af te geven. Is de verklaring niet afgelegd, dan wordt de reden daarvan vermeld.
 
 3.	Is de jaarrekening nog niet vastgesteld, dan wordt dit bij de in lid 1 en lid 2 bedoelde stukken vermeld. Indien een mededeling als bedoeld in de laatste zin van artikel 362 lid 6 is gedaan, wordt dit eveneens vermeld.
 
@@ -4695,7 +4741,7 @@ Artikel 396
 
 4.	In de winst- en verliesrekening worden de posten genoemd in artikel 377 lid 3 onder a-d en g, onderscheidenlijk lid 4 onder a-c en f, samengetrokken tot een post bruto-bedrijfsresultaat; de rechtspersoon vermeldt in een verhoudingscijfer in welke mate de netto-omzet ten opzichte van die van het vorige jaar is gestegen of gedaald.
 
-5.	Het in artikel 378 lid 1 genoemde overzicht wordt slechts gegeven voor de herwaarderingsreserve, behoudens de tweede zin van artikel 378 lid 3; opgegeven worden het aantal geplaatste aandelen en het bedrag per soort, aantal en bedrag van de in het boekjaar uitgegeven aandelen en van de aandelen en certificaten daarvan die de rechtspersoon of een dochtermaatschappij voor eigen rekening houdt. De artikelen 380 en 383 lid 1 zijn niet van toepassing.
+5.	Het in artikel 378 lid 1 genoemde overzicht wordt slechts gegeven voor de herwaarderingsreserve, behoudens de tweede zin van artikel 378 lid 3; opgegeven worden het aantal geplaatste aandelen en het bedrag per soort, aantal en bedrag van de in het boekjaar uitgegeven aandelen en van de aandelen en certificaten daarvan die de rechtspersoon of een dochtermaatschappij voor eigen rekening houdt. De artikelen 380, 381b, aanhef en onder a, en 383 lid 1 zijn niet van toepassing.
 
 6.	De artikelen 383b tot en met 383e, 391 en 393 lid 1 zijn niet van toepassing.
 
@@ -4707,7 +4753,7 @@ Artikel 396
 
 Artikel 397
 
-1.	Behoudens artikel 396 gelden de leden 3, 4, 5 en 6 voor een rechtspersoon die op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, heeft voldaan aan twee of drie van de volgende vereisten:
+1.	Behoudens artikel 396 gelden de leden 3 tot en met 7 voor een rechtspersoon die op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, heeft voldaan aan twee of drie van de volgende vereisten:
 	a.	de waarde van de activa volgens de balans met toelichting, bedraagt, op de grondslag van verkrijgings- en vervaardigingsprijs, niet meer dan € 14 600 000;
 	b.	de netto-omzet over het boekjaar bedraagt niet meer dan € 29 200 000;
 	c.	het gemiddeld aantal werknemers over het boekjaar bedraagt minder dan 250.
@@ -4718,19 +4764,23 @@ Artikel 397
 
 4.	Artikel 380 is niet van toepassing.
 
-5.	Van de in afdeling 3 voorgeschreven opgaven behoeven in de openbaar gemaakte balans met toelichting slechts vermelding die welke voorkomen in de artikelen 364, 365 lid 1 onder d , 366, 367 onder a-d, 370 lid 1 onder b en c , 373, 374 leden 3 en 4, 375 lid 1 onder a, b, f en g en lid 3, alsmede 376 en de overlopende posten. De leden 2 van de artikelen 370 en 375 vinden toepassing zowel op het totaal van de vorderingen en schulden als op de posten uit lid 1 van die artikelen welke afzonderlijke vermelding behoeven. De openbaar te maken winst- en verliesrekening en de toelichting mogen worden beperkt overeenkomstig lid 3 en lid 4.
+5.	Van de in afdeling 3 voorgeschreven opgaven behoeven in de openbaar gemaakte balans met toelichting slechts vermelding die welke voorkomen in de artikelen 364, 365 lid 1 onder d, 366, 367 onder a-d, 370 lid 1 onder b en c , 373, 374 leden 3 en 4, 375 lid 1 onder a, b, f en g en lid 3, alsmede 376 en de overlopende posten. De leden 2 van de artikelen 370 en 375 vinden toepassing zowel op het totaal van de vorderingen en schulden als op de posten uit lid 1 van die artikelen welke afzonderlijke vermelding behoeven. De openbaar te maken winst- en verliesrekening en de toelichting mogen worden beperkt overeenkomstig lid 3 en lid 4.
 
 6.	De gegevens, bedoeld in artikel 392 lid 1, onderdelen e en f, en lid 3, worden niet openbaar gemaakt.
+
+7.	In het jaarverslag behoeft geen aandacht te worden besteed aan niet-financiële prestatie-indicatoren als bedoeld in artikel 391 lid 1.
 
 Artikel 398
 
 1.	Artikel 396 of artikel 397 geldt voor het eerste en tweede boekjaar ook voor een rechtspersoon die op de balansdatum van het eerste boekjaar aan de desbetreffende vereisten heeft voldaan.
 
-2.	Artikel 396 leden 3 tot en met 7 en artikel 397 leden 3 tot en met 6 zijn van toepassing voor zover de algemene vergadering uiterlijk zes maanden na het begin van het boekjaar niet anders heeft besloten.
+2.	Artikel 396 leden 3 tot en met 7 en artikel 397 leden 3 tot en met 7 zijn van toepassing voor zover de algemene vergadering uiterlijk zes maanden na het begin van het boekjaar niet anders heeft besloten.
 
-3.	De artikelen 396 en 397 zijn niet van toepassing op een rechtspersoon waarvoor artikel 401 lid 1 geldt.
+3.	De artikelen 396 en 397 zijn niet van toepassing op een rechtspersoon:
+	a.	die effecten heeft uitstaan die zijn toegelaten tot de handel op een effectenbeurs als bedoeld in artikel 1, onderdeel e, van de Wet toezicht effectenverkeer 1995; of
+	b.	waarvoor artikel 401 lid 1 geldt.
 
-4.	Bij algemene maatregel van bestuur worden de in artikel 396 lid 1 en artikel 397 lid 1 genoemde bedragen verlaagd, indien het recht van de Europese Gemeenschappen daartoe verplicht, en kunnen zij worden verhoogd, voor zover geoorloofd, telkens tot een veelvoud van een half miljoen gulden.
+4.	Bij algemene maatregel van bestuur worden de in artikel 396 lid 1 en artikel 397 lid 1 genoemde bedragen verlaagd, indien het recht van de Europese Gemeenschappen daartoe verplicht, en kunnen zij worden verhoogd, voor zover geoorloofd.
 
 5.	Voor de toepassing van de artikelen 396 lid 1 en 397 lid 1 op een stichting of een vereniging als bedoeld in artikel 360 lid 3 wordt uitgegaan van het totaal van de activa van de stichting of vereniging en, met inachtneming van artikel 396 lid 2, van de netto-omzet en het gemiddeld aantal werknemers van de onderneming of ondernemingen die deze stichting of vereniging in stand houdt.
 
@@ -4748,7 +4798,7 @@ Artikel 401
 
 1.	Een beleggingsmaatschappij waaraan ingevolge de Wet toezicht beleggingsinstellingen (Stb. 1990, 380) een vergunning is verleend, moet in aanvulling op de bepalingen van deze titel tevens voldoen aan de vereisten voor haar jaarrekening, gesteld bij of krachtens de Wet toezicht beleggingsinstellingen. Voor deze beleggingsmaatschappij kan bij of krachtens die wet van artikel 394, tweede, derde en vierde lid, worden afgeweken.
 
-2.	Een beleggingsmaatschappij mag haar beleggingen tegen marktwaarde waarderen. Nadelige koersverschillen ten opzichte van de voorafgaande balansdatum behoeven niet ten laste van de winst- en verliesrekening te worden gebracht, mits zij op de reserves worden afgeboekt; voordelige koersverschillen mogen op de reserves worden bijgeboekt. De bedragen worden in de balans of in de toelichting vermeld. Onder beleggingsmaatschappij wordt in dit lid verstaan een rechtspersoon die uitsluitend ten doel heeft het vermogen zodanig te beleggen dat de risico’s daarvan worden gespreid, teneinde de leden of aandeelhouders in de opbrengst te doen delen.
+2.	Een beleggingsmaatschappij mag haar beleggingen tegen actuele waarde waarderen. Nadelige koersverschillen ten opzichte van de voorafgaande balansdatum behoeven niet ten laste van de winst- en verliesrekening te worden gebracht, mits zij op de reserves worden afgeboekt; voordelige koersverschillen mogen op de reserves worden bijgeboekt. De bedragen worden in de balans of in de toelichting vermeld. Onder beleggingsmaatschappij wordt in dit lid verstaan een rechtspersoon die uitsluitend ten doel heeft het vermogen zodanig te beleggen dat de risico’s daarvan worden gespreid, teneinde de leden of aandeelhouders in de opbrengst te doen delen.
 
 3.	Op een beleggingsmaatschappij met veranderlijk kapitaal is artikel 378 lid 3, tweede zin, niet van toepassing.
 
@@ -4761,7 +4811,7 @@ Artikel 403
 1.	Een tot een groep behorende rechtspersoon behoeft de jaarrekening niet overeenkomstig de voorschriften van deze titel in te richten, mits:
 	a.	de balans in elk geval vermeldt de som van de vaste activa, de som van de vlottende activa, en het bedrag van het eigen vermogen, van de voorzieningen en van de schulden, en de winst- en verliesrekening in elk geval vermeldt het resultaat uit de gewone bedrijfsuitoefening en het saldo der overige baten en lasten, een en ander na belastingen;
 	b.	de leden of aandeelhouders na de aanvang van het boekjaar en voor de vaststelling van de jaarrekening schriftelijk hebben verklaard met afwijking van de voorschriften in te stemmen;
-	c.	de financiële gegevens van de rechtspersoon door een andere rechtspersoon of vennootschap zijn geconsolideerd in een geconsolideerde jaarrekening waarop krachtens het toepasselijke recht de zevende richtlijn van de Raad van de Europese Gemeenschappen inzake het vennootschapsrecht of een der beide richtlijnen van de Raad van de Europese Gemeenschappen betreffende de jaarrekening en de geconsolideerde jaarrekening van banken en andere financiële instellingen dan wel van verzekeringsondernemingen van toepassing is;
+	c.	de financiële gegevens van de rechtspersoon door een andere rechtspersoon of vennootschap zijn geconsolideerd in een geconsolideerde jaarrekening waarop krachtens het toepasselijke recht de verordening van het Europees Parlement en de Raad betreffende de toepassing van internationale standaarden voor jaarrekeningen, de zevende richtlijn van de Raad van de Europese Gemeenschappen inzake het vennootschapsrecht of een der beide richtlijnen van de Raad van de Europese Gemeenschappen betreffende de jaarrekening en de geconsolideerde jaarrekening van banken en andere financiële instellingen dan wel van verzekeringsondernemingen van toepassing is;
 	d.	de geconsolideerde jaarrekening, voor zover niet gesteld of vertaald in het Nederlands, is gesteld of vertaald in het Frans, Duits of Engels;
 	e.	de accountantsverklaring en het jaarverslag, zijn gesteld of vertaald in de zelfde taal als de geconsolideerde jaarrekening;
 	f.	de onder c bedoelde rechtspersoon of vennootschap schriftelijk heeft verklaard zich hoofdelijk aansprakelijk te stellen voor de uit rechtshandelingen van de rechtspersoon voortvloeiende schulden; en
@@ -4801,36 +4851,32 @@ Afdeling 13. Geconsolideerde jaarrekening
 
 Artikel 405
 
-1.	Een geconsolideerde jaarrekening is de jaarrekening waarin de activa, passiva, baten en lasten van de rechtspersonen en vennootschappen die een groep of groepsdeel vormen, als één geheel worden opgenomen.
+1.	Een geconsolideerde jaarrekening is de jaarrekening waarin de activa, passiva, baten en lasten van de rechtspersonen en vennootschappen die een groep of groepsdeel vormen en andere in de consolidatie meegenomen rechtspersonen en vennootschappen, als één geheel worden opgenomen.
 
-2.	De geconsolideerde jaarrekening moet overeenkomstig artikel 362 lid 1 inzicht geven betreffende de groep of het groepsdeel.
+2.	De geconsolideerde jaarrekening moet overeenkomstig artikel 362 lid 1 inzicht geven betreffende het geheel van de in de consolidatie opgenomen rechtspersonen en vennootschappen.
 
 Artikel 406
 
-1.	De rechtspersoon die, alleen of samen met een andere groepsmaatschappij, aan het hoofd staat van zijn groep, neemt in de toelichting van zijn jaarrekening een geconsolideerde jaarrekening op van de eigen financiële gegevens met die van zijn dochtermaatschappijen in de groep en andere groepsmaatschappijen.
+1.	De rechtspersoon die, alleen of samen met een andere groepsmaatschappij, aan het hoofd staat van zijn groep, stelt een geconsolideerde jaarrekening op, waarin opgenomen de eigen financiële gegevens met die van zijn dochtermaatschappijen in de groep, andere groepsmaatschappijen en andere rechtspersonen waarop hij een overheersende zeggenschap kan uitoefenen of waarover hij de centrale leiding heeft.
 
-2.	Een rechtspersoon waarop lid 1 niet van toepassing is, maar die in zijn groep een of meer dochtermaatschappijen heeft, neemt in de toelichting van zijn jaarrekening een geconsolideerde jaarrekening op. Deze omvat de financiële gegevens van het groepsdeel, bestaande uit de rechtspersoon, zijn dochtermaatschappijen in de groep en andere groepsmaatschappijen die onder de rechtspersoon vallen.
+2.	Een rechtspersoon waarop lid 1 niet van toepassing is, maar die in zijn groep een of meer dochtermaatschappijen heeft of andere rechtspersonen waarop hij een overheersende zeggenschap kan uitoefenen of waarover hij de centrale leiding heeft, stelt een geconsolideerde jaarrekening op. Deze omvat de financiële gegevens van het groepsdeel, bestaande uit de rechtspersoon, zijn dochtermaatschappijen in de groep, andere groepsmaatschappijen die onder de rechtspersoon vallen en andere rechtspersonen waarop hij een overheersende zeggenschap kan uitoefenen of waarover hij de centrale leiding heeft.
 
-3.	Indien consolidatie van een groepsmaatschappij wegens verschil in werkzaamheden strijdig zou zijn met het wettelijk vereiste inzicht, moet haar jaarrekening, of in voorkomend geval haar geconsolideerde jaarrekening, afzonderlijk in de toelichting worden opgenomen. Belangrijke niet zichtbare gevolgen van de afzondering moeten worden toegelicht.
+3.	De rechtspersoon die geen bank als bedoeld in artikel 415 is, en waarvan de geconsolideerde jaarrekening voor een belangrijk deel de financiële gegevens van één of meer banken bevat, geeft in de toelichting ten minste inzicht in de solvabiliteit van de banken als één geheel.
 
-4.	De rechtspersoon die geen bank als bedoeld in artikel 415 is, en waarvan de geconsolideerde jaarrekening voor een belangrijk deel de financiële gegevens van banken bevat, geeft in de toelichting ten minste dat inzicht in de financiële gegevens van de banken als één geheel dat vereist is volgens de voorschriften van de richtlijn van de Raad van de Europese Gemeenschappen betreffende de jaarrekening en de geconsolideerde jaarrekening van banken en andere financiële instellingen; belangrijke gevolgen van de uitsplitsing van deze gegevens moeten worden toegelicht.
+4.	De rechtspersoon die geen verzekeringsmaatschappij als bedoeld in artikel 427 lid 1 is, en waarvan de geconsolideerde jaarrekening voor een belangrijk deel de financiële gegevens van één of meer verzekeringsmaatschappijen bevat, geeft in de toelichting ten minste inzicht in de solvabiliteit van de verzekeringsmaatschappijen als één geheel.
 
-5.	De rechtspersoon die geen verzekeringsmaatschappij als bedoeld in artikel 427 lid 1 is, en waarvan de geconsolideerde jaarrekening voor een belangrijk deel de financiële gegevens van verzekeringsmaatschappijen bevat, geeft in de toelichting ten minste dat inzicht in de financiële gegevens van de verzekeringsmaatschappijen als één geheel dat vereist is volgens de voorschriften van de richtlijn van de Raad van de Europese Gemeenschappen betreffende de jaarrekening en de geconsolideerde jaarrekening van verzekeringsondernemingen; belangrijke gevolgen van de uitsplitsing van de gegevens moeten worden toegelicht.
-
-6.	De uitsplitsing van de gegevens, bedoeld in de leden 4 en 5, geschiedt wat betreft de balans zoveel mogelijk in overeenstemming met de vormvoorschriften opgenomen in de richtlijnen, bedoeld in de leden 4 en 5, en biedt in ieder geval inzicht in het eigen vermogen van de banken onderscheidenlijk de verzekeringsmaatschappijen als één geheel.
-
-7.	In de geconsolideerde jaarrekening van een rechtspersoon, die geen bank als bedoeld in artikel 415 is, mag ten aanzien van groepsmaatschappijen die bank zijn, te zamen met de in artikel 426 lid 1 bedoelde andere groepsmaatschappijen, artikel 424 worden toegepast.
+5.	In de geconsolideerde jaarrekening van een rechtspersoon, die geen bank als bedoeld in artikel 415 is, mag ten aanzien van in de consolidatie te betrekken maatschappijen die bank zijn, tezamen met de in artikel 426 lid 1, tweede zin, bedoelde maatschappijen, artikel 424 worden toegepast.
 
 Artikel 407
 
 1.	De verplichting tot consolidatie geldt niet voor gegevens:
-	a.	van groepsmaatschappijen wier gezamenlijke betekenis te verwaarlozen is op het geheel,
-	b.	van groepsmaatschappijen waarvan de nodige gegevens slechts tegen onevenredige kosten of met grote vertraging te verkrijgen of te ramen zijn,
-	c.	van groepsmaatschappijen waarin het belang slechts wordt gehouden om het te vervreemden.
+	a.	van in de consolidatie te betrekken maatschappijen wier gezamenlijke betekenis te verwaarlozen is op het geheel,
+	b.	van in de consolidatie te betrekken maatschappijen waarvan de nodige gegevens slechts tegen onevenredige kosten of met grote vertraging te verkrijgen of te ramen zijn,
+	c.	van in de consolidatie te betrekken maatschappijen waarin het belang slechts wordt gehouden om het te vervreemden.
 
 2.	Consolidatie mag achterwege blijven, indien
 	a.	bij consolidatie de grenzen van artikel 396 niet zouden worden overschreden;
-	b.	geen in de consolidatie te betrekken maatschappij effecten heeft uitstaan die zijn opgenomen in de prijscourant van een beurs; en
+	b.	geen in de consolidatie te betrekken maatschappij effecten heeft uitstaan die zijn toegelaten tot de handel op een effectenbeurs als bedoeld in artikel 1, onderdeel e, van de Wet toezicht effectenverkeer 1995; en
 	c.	niet binnen zes maanden na de aanvang van het boekjaar daartegen schriftelijk bezwaar bij de rechtspersoon is gemaakt door ten minste een tiende der leden of door houders van ten minste een tiende van het geplaatste kapitaal.
 
 3.	Indien de rechtspersoon groepsmaatschappijen beheert krachtens een regeling tot samenwerking met een rechtspersoon waarvan de financiële gegevens niet in zijn geconsolideerde jaarrekening worden opgenomen, mag hij zijn eigen financiële gegevens buiten de geconsolideerde jaarrekening houden. Dit geldt slechts, indien de rechtspersoon geen andere werkzaamheden heeft dan het beheren en financieren van groepsmaatschappijen en deelnemingen, en indien hij in zijn balans artikel 389 toepast.
@@ -4856,7 +4902,7 @@ De financiële gegevens van een rechtspersoon of vennootschap mogen in de gecons
 
 Artikel 410
 
-1.	De bepalingen van deze titel over de jaarrekening en onderdelen daarvan, uitgezonderd de artikelen 365 lid 2, 378, 379, 383, 383b tot en met 383e, 389 leden 6, 8 en 9, en 390, zijn van overeenkomstige toepassing op de geconsolideerde jaarrekening.
+1.	De bepalingen van deze titel over de jaarrekening en onderdelen daarvan, uitgezonderd de artikelen 365 lid 2, 378, 379, 383, 383b tot en met 383e, 389 leden 6 en 8, en 390, zijn van overeenkomstige toepassing op de geconsolideerde jaarrekening.
 
 2.	Voorraden hoeven niet te worden uitgesplitst, indien dat wegens bijzondere omstandigheden onevenredige kosten zou vergen.
 
@@ -4871,8 +4917,6 @@ Artikel 411
 1.	In de geconsolideerde jaarrekening behoeft het eigen vermogen niet te worden uitgesplitst.
 
 2.	Het aandeel in het groepsvermogen en in het geconsolideerde resultaat dat niet aan de rechtspersoon toekomt, wordt vermeld.
-
-3.	Verschillen tussen het eigen vermogen volgens de balans en volgens de geconsolideerde balans en tussen het resultaat na belastingen volgens de winst- en verliesrekening en volgens de geconsolideerde winst- en verliesrekening moeten worden toegelicht.
 
 Artikel 412
 
@@ -4936,7 +4980,7 @@ Artikel 420
 
 2.	Het eerste lid is eveneens van toepassing op de waardeverminderingen en ongedaanmakingen van de afboekingen ter zake van vorderingen op bankiers, klanten en voorzieningen voor voorwaardelijke verplichtingen en onherroepelijk toegezegde verplichtingen die tot een kredietrisico kunnen leiden.
 
-3.	Waardestijgingen van de niet tot de vaste activa, maar wel tot de handelsportefeuille behorende effecten die tegen marktwaarde worden gewaardeerd, worden in de winst- en verliesrekening in aanmerking genomen. Waardeverminderingen van deze effecten worden overeenkomstig artikel 387 leden 1 tot en met 3 in aanmerking genomen.
+3.	Waardestijgingen van de niet tot de vaste activa, maar wel tot de handelsportefeuille behorende effecten die tegen actuele waarde worden gewaardeerd, worden in de winst- en verliesrekening in aanmerking genomen. Waardeverminderingen van deze effecten worden overeenkomstig artikel 387 leden 1 tot en met 3 in aanmerking genomen.
 
 Artikel 421
 
@@ -4956,7 +5000,7 @@ Artikel 422
 
 2.	Indien deze waardepapieren tegen aflossingswaarde in de balans worden opgenomen, wordt het verschil tussen de verkrijgingsprijs en de aflossingswaarde vermeld en over de jaren sinds de aanschaf gespreid als resultaat verantwoord. Het verschil mag ook in één keer worden verantwoord, indien de verkrijgingsprijs hoger was dan de aflossingswaarde.
 
-3.	De niet tot de vaste activa behorende effecten worden gewaardeerd op de grondslag van de verkrijgingsprijs of tegen marktwaarde. Het verschil tussen beide waarden wordt voor het geheel van deze effecten vermeld.
+3.	De niet tot de vaste activa behorende effecten worden gewaardeerd op de grondslag van de verkrijgingsprijs, tegen aflossingswaarde of tegen actuele waarde. In geval van waardering tegen aflossingswaarde wordt de eerste zin van lid 2 op overeenkomstige wijze toegepast.
 
 Artikel 423
 
@@ -4978,7 +5022,7 @@ Een bank ten aanzien waarvan een beslissing als bedoeld in artikel 12, eerste li
 
 Artikel 426
 
-1.	In de geconsolideerde jaarrekening van een bank worden ten minste groepsmaatschappijen wier werkzaamheden rechtstreeks in het verlengde van het bankbedrijf liggen of die bestaan uit het verrichten van nevendiensten in het verlengde van het bankbedrijf geconsolideerd overeenkomstig de voorschriften voor banken. Andere groepsmaatschappijen die geen bank zijn en die in de geconsolideerde jaarrekening van een bank worden opgenomen, worden eveneens verantwoord overeenkomstig de voorschriften voor banken, met uitzondering evenwel van artikel 424. Is de groepsmaatschappij die in de geconsolideerde jaarrekening van een bankengroep wordt opgenomen, een verzekeringsmaatschappij als bedoeld in artikel 427, dan wordt deze geconsolideerd overeenkomstig de voorschriften voor verzekeringsmaatschappijen.
+1.	Maatschappijen die geen bank zijn en die in de geconsolideerde jaarrekening van een bank worden opgenomen, worden verantwoord overeenkomstig de voorschriften voor banken. Artikel 424 mag evenwel slechts ten aanzien van maatschappijen als bedoeld in de vorige zin wier werkzaamheden rechtstreeks in het verlengde van het bankbedrijf liggen of die bestaan uit het verrichten van nevendiensten in het verlengde van het bankbedrijf, worden toegepast.
 
 2.	De groepsmaatschappij aan het hoofd van de groep die de gegevens consolideert van een groep of een groepsdeel, welke geen of nagenoeg geen andere werkzaamheid heeft dan de uitoefening van het bankbedrijf, wordt in de geconsolideerde jaarrekening opgenomen overeenkomstig de voorschriften voor banken. Dit geldt slechts, indien deze groepsmaatschappij geen andere werkzaamheid heeft dan het beheren en financieren van groepsmaatschappijen en deelnemingen.
 
@@ -5000,7 +5044,7 @@ Artikel 428
 
 1.	Voor zover in deze afdeling niet anders is bepaald, gelden de afdelingen 1, 2, 5 tot en met 10 en 13 van deze titel voor verzekeringsmaatschappijen, alsmede de artikelen 365, 366 lid 2, 368 lid 1, 373, 374, 375, leden 2, 3 en 5 tot en met 7,376,377 lid 7, 402, 403 en 404.
 
-2.	Voor verzekeringsmaatschappijen gelden de deelnemingen, de immateriële activa en de beleggingen als vaste activa. Verdere activa gelden als vaste activa, voor zover zij bestemd zijn om duurzaam voor de bedrijfsuitoefening te worden gebruikt.
+2.	Voor verzekeringsmaatschappijen gelden de deelnemingen en de immateriële activa als vaste activa. Andere beleggingen en verdere activa gelden als vaste activa, voor zover zij bestemd zijn om duurzaam voor de bedrijfsuitoefening te worden gebruikt.
 
 3.	Over ontwerpen van een algemene maatregel van bestuur als bedoeld in de artikelen 363 lid 6 of 442 lid 1, voor zover deze strekken ter uitvoering van de bepalingen van deze afdeling, en over een ontwerp van een algemene maatregel van bestuur als bedoeld in artikel 444 lid 2 wordt de Pensioen- & Verzekeringskamer gehoord.
 
@@ -5015,8 +5059,9 @@ Artikel 429
 	b.	de beleggingen;
 	c.	de beleggingen waarbij de tot uitkering gerechtigde het beleggingsrisico draagt, alsmede de spaarkasbeleggingen;
 	d.	de vorderingen;
-	e.	de overige activa; en
-	f.	de overlopende activa.
+	e.	de overige activa;
+	f.	de overlopende activa; en
+	g.	afgeleide financiële instrumenten.
 
 2.	Onder de passiva worden afzonderlijk opgenomen:
 	a.	het eigen vermogen, op de wijze bepaald in artikel 373;
@@ -5025,8 +5070,14 @@ Artikel 429
 	d.	de technische voorzieningen voor verzekeringen waarbij de tot uitkering gerechtigde het beleggingsrisico draagt en die voor spaarkassen;
 	e.	de voorzieningen, op de wijze bepaald in artikel 374;
 	f.	de niet-opeisbare schulden in het kader van een herverzekeringsovereenkomst van een maatschappij die haar verplichtingen herverzekert;
-	g.	de schulden; en
-	h.	de overlopende passiva.
+	g.	de schulden;
+	h.	de overlopende passiva; en
+	i.	afgeleide financiële instrumenten.
+
+3.	Indien toepassing is gegeven aan artikel 430 lid 6, worden de beleggingen, bedoeld in lid 1, onderdeel b, onderscheiden in:
+	a.	beleggingen die gelden als vaste activa;
+	b.	beleggingen die gelden als vlottende activa, behorende tot de handelsportefeuille; en
+	c.	beleggingen die gelden als vlottende activa, niet behorende tot de handelsportefeuille.
 
 Artikel 430
 
@@ -5053,6 +5104,11 @@ Artikel 430
 	g.	andere financiële beleggingen.
 
 5.	Tenzij de post andere financiële beleggingen van ondergeschikte betekenis is op het geheel van de overige financiële beleggingen, wordt zij naar aard en omvang toegelicht.
+
+6.	Indien beleggingen die gelden als vaste activa op andere grondslagen worden gewaardeerd dan beleggingen die gelden als vlottende activa en die al dan niet behoren tot de handelsportefeuille, worden de beleggingen, genoemd in lid 1, onderdelen a of c, en lid 4, onderdelen a tot en met g, onderscheiden in:
+	a.	beleggingen die gelden als vaste activa,
+	b.	beleggingen die gelden als vlottende activa, behorende tot de handelsportefeuille; en
+	c.	beleggingen die gelden als vlottende activa, niet behorende tot de handelsportefeuille.
 
 Artikel 431
 
@@ -5165,6 +5221,8 @@ Artikel 438
 
 4.	Waardestijgingen van beleggingen die op de grondslag van de actuele waarde worden gewaardeerd, mogen in de winst- en verliesrekening in aanmerking worden genomen onder post c van lid 1 of, indien de uitzondering van het tweede lid zich niet voordoet dan wel artikel 445 lid 3 wordt toegepast, in de niet-technische rekening. Indien de eerste volzin toepassing vindt, worden de waardeverminderingen van deze beleggingen niet als een last in verband met beleggingen overeenkomstig artikel 440 lid 5 onder b verantwoord, maar opgenomen onder post j van lid 1. Waardestijgingen en waardeverminderingen van de beleggingen, bedoeld in artikel 429 lid 1, onder c, moeten in de winst- en verliesrekening in aanmerking worden genomen op de wijze als in de eerste twee volzinnen aangegeven.
 
+5.	Tenzij toepassing is gegeven aan de eerste zin van lid 4, worden in het boekjaar gerealiseerde waardestijgingen van beleggingen die op de grondslag van de actuele waarde worden gewaardeerd in de winst- en verliesrekening in aanmerking genomen onder post b van lid 1.
+
 Artikel 439
 
 1.	Op de technische en niet-technische rekeningen worden de volgende posten, naar gelang zij daarop voorkomen, overeenkomstig de volgende leden uitgesplitst.
@@ -5200,14 +5258,14 @@ Artikel 440
 3.	Bij de opbrengsten uit beleggingen worden afzonderlijk vermeld:
 	a.	de opbrengsten uit deelnemingen;
 	b.	de opbrengsten uit andere beleggingen, gesplitst naar opbrengsten uit terreinen en gebouwen en uit de overige beleggingen;
-	c.	de terugnemingen van de waardeverminderingen van beleggingen, voor zover niet krachtens artikel 390 lid 3 in de herwaarderingsreserve opgenomen;
+	c.	de terugnemingen van de waardeverminderingen van beleggingen, voor zover niet in de herwaarderingsreserve opgenomen;
 	d.	de opbrengsten bij verkoop van beleggingen.
 
 4.	Onderscheiden naar de in lid 3 onder a en b genoemde groepen worden de opbrengsten uit de verhouding met groepsmaatschappijen aangegeven.
 
 5.	Bij de lasten in verband met beleggingen worden afzonderlijk vermeld:
 	a.	de kosten in verband met het beheer van beleggingen, met inbegrip van de rentekosten;
-	b.	de waardeverminderingen van beleggingen, voor zover niet krachtens artikel 390 lid 3 aan de herwaarderingsreserve onttrokken, alsmede de afschrijvingen op beleggingen;
+	b.	de waardeverminderingen van beleggingen, voor zover niet aan de herwaarderingsreserve onttrokken, alsmede de afschrijvingen op beleggingen;
 	c.	het verlies bij verkoop van beleggingen.
 
 6.	Het bedrag van de winstdeling en dat van de kortingen worden in de toelichting opgenomen.
@@ -5267,9 +5325,7 @@ Artikel 442
 
 2.	De beleggingen waarbij de tot uitkering gerechtigde het beleggingsrisico draagt, alsmede spaarkasbeleggingen worden gewaardeerd op de grondslag van de actuele waarde.
 
-3.	Voor elk der posten behorende tot de beleggingen die op de balansdatum aanwezig zijn, worden opgegeven:
-	a.	de verkrijgings- of vervaardigingsprijs, indien de waardering op de grondslag van de actuele waarde geschiedt;
-	b.	de actuele waarde op de balansdatum, indien de waardering op de grondslag van de verkrijgings- of vervaardigingsprijs geschiedt.
+3.	Voor elk der posten behorende tot de beleggingen die op de balansdatum aanwezig zijn, wordt de verkrijgings- of vervaardigingsprijs opgegeven, indien de waardering op de grondslag van de actuele waarde geschiedt.
 
 4.	Indien beleggingen in terreinen en gebouwen op de grondslag van de actuele waarde worden gewaardeerd, behoeft artikel 386 lid 4 niet te worden toegepast. Indien het beleggingen in terreinen en gebouwen in eigen gebruik betreft, wordt in de toelichting op de winst- en verliesrekening het bedrag van de aan deze beleggingen toegerekende opbrengst aangegeven alsmede het toegerekende bedrag van de huisvestingskosten.
 
@@ -5293,7 +5349,7 @@ Artikel 444
 
 Artikel 445
 
-1.	In de geconsolideerde jaarrekening van een verzekeringsmaatschappij worden groepsmaatschappijen die geen verzekeringsmaatschappij zijn en die in de geconsolideerde jaarrekening worden opgenomen, verantwoord overeenkomstig de voorschriften voor verzekeringsmaatschappijen. Is de groepsmaatschappij die in de geconsolideerde jaarrekening van een verzekeringsgroep wordt opgenomen, een bank als bedoeld in artikel 415, dan wordt deze geconsolideerd overeenkomstig de voorschriften voor banken.
+1.	Maatschappijen die geen verzekeringsmaatschappij zijn en die in de geconsolideerde jaarrekening van een verzekeringsmaatschappij worden opgenomen, worden verantwoord overeenkomstig de voorschriften voor verzekeringsmaatschappijen.
 
 2.	De groepsmaatschappij aan het hoofd van de groep die de gegevens consolideert van een groep of een groepsdeel, welke geen of nagenoeg geen andere werkzaamheid heeft dan de uitoefening van het verzekeringsbedrijf, wordt in de geconsolideerde jaarrekening opgenomen overeenkomstig de voorschriften voor verzekeringsmaatschappijen. Dit geldt slechts, indien deze groepsmaatschappij geen of nagenoeg geen andere werkzaamheid heeft dan het beheren en financieren van groepsmaatschappijen en deelnemingen.
 
@@ -5303,7 +5359,7 @@ Artikel 445
 
 Artikel 446
 
-1.	Winsten en verliezen die voortvloeien uit overeenkomsten tussen in de consolidatie opgenomen groepsmaatschappijen behoeven niet te worden geëlimineerd, indien de overeenkomsten op basis van marktvoorwaarden zijn aangegaan en daaruit ten gunste van tot uitkering gerechtigden rechten voortvloeien. De toepassing van deze uitzondering wordt vermeld, alsmede de invloed daarvan op het vermogen en resultaat, tenzij deze invloed van ondergeschikte betekenis is.
+1.	Winsten en verliezen die voortvloeien uit overeenkomsten tussen in de consolidatie opgenomen maatschappijen behoeven niet te worden geëlimineerd, indien de overeenkomsten op basis van marktvoorwaarden zijn aangegaan en daaruit ten gunste van tot uitkering gerechtigden rechten voortvloeien. De toepassing van deze uitzondering wordt vermeld, alsmede de invloed daarvan op het vermogen en resultaat, tenzij deze invloed van ondergeschikte betekenis is.
 
 2.	De termijn van drie maanden, bedoeld in artikel 412 lid 2, wordt verlengd tot zes maanden voor in de geconsolideerde jaarrekening op te nemen gegevens ter zake van herverzekering.
 
