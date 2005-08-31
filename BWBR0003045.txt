@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 27-07-2005 t/m 31-08-2005
+Geldend van 01-09-2005 t/m 14-10-2005
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -556,7 +556,7 @@ Artikel 48
 
 Artikel 49
 
-1.	Jaarlijks binnen zes maanden na afloop van het boekjaar van een vereniging als bedoeld in artikel 360 lid 3, behoudens verlenging van deze termijn met ten hoogste vijf maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de leden ter inzage ten kantore van de vereniging. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de leden, tenzij de artikelen 396 lid 6, eerste volzin, of 403 voor de vereniging gelden. De termijn kan voor beleggingsmaatschappijen waaraan ingevolge de Wet toezicht beleggingsinstellingen een vergunning is verleend, bij of krachtens die wet worden bekort.
+1.	Jaarlijks binnen zes maanden na afloop van het boekjaar van een vereniging als bedoeld in artikel 360 lid 3, behoudens verlenging van deze termijn met ten hoogste vijf maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de leden ter inzage ten kantore van de vereniging. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de leden, tenzij de artikelen 396 lid 6, eerste volzin, of 403 voor de vereniging gelden. De termijn kan voor beheerders waaraan ingevolge de Wet toezicht beleggingsinstellingen een vergunning is verleend, bij of krachtens die wet worden bekort.
 
 2.	De jaarrekening wordt ondertekend door de bestuurders en door de commissarissen; ontbreekt de ondertekening van een of meer hunner, dan wordt daarvan onder opgave van reden melding gemaakt.
 
@@ -656,7 +656,7 @@ Artikel 57a
 
 Artikel 58
 
-1.	Jaarlijks binnen zes maanden na afloop van het boekjaar, behoudens verlenging van deze termijn met ten hoogste vijf maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de leden ter inzage ten kantore van de rechtspersoon. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de leden, tenzij de artikelen 396 lid 6, of 403 voor de rechtspersoon gelden. De termijn kan voor beleggingsmaatschappijen waaraan ingevolge de Wet toezicht beleggingsinstellingen (Stb. 1990, 380) een vergunning is verleend, bij of krachtens die wet worden bekort. De jaarrekening wordt vastgesteld door de algemene vergadering die het bestuur uiterlijk een maand na afloop van de termijn doet houden. Artikel 48 lid 2 is van overeenkomstige toepassing. Vaststelling van de jaarrekening strekt niet tot kwijting aan een bestuurder onderscheidenlijk commissaris.
+1.	Jaarlijks binnen zes maanden na afloop van het boekjaar, behoudens verlenging van deze termijn met ten hoogste vijf maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de leden ter inzage ten kantore van de rechtspersoon. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de leden, tenzij de artikelen 396 lid 6, of 403 voor de rechtspersoon gelden. De termijn kan voor beheerders waaraan ingevolge de Wet toezicht beleggingsinstellingen (Stb. 1990, 380) een vergunning is verleend, bij of krachtens die wet worden bekort. De jaarrekening wordt vastgesteld door de algemene vergadering die het bestuur uiterlijk een maand na afloop van de termijn doet houden. Artikel 48 lid 2 is van overeenkomstige toepassing. Vaststelling van de jaarrekening strekt niet tot kwijting aan een bestuurder onderscheidenlijk commissaris.
 
 2.	De opgemaakte jaarrekening wordt ondertekend door de bestuurders en door de commissarissen; ontbreekt de ondertekening van een of meer hunner, dan wordt daarvan onder opgave van reden melding gemaakt.
 
@@ -931,10 +931,10 @@ Artikel 76a
 1.	Onder beleggingsmaatschappij met veranderlijk kapitaal wordt verstaan een naamloze vennootschap,
 	a.	die uitsluitend ten doel heeft haar vermogen zodanig te beleggen dat de risico’s daarvan worden gespreid, ten einde haar aandeelhouders in de opbrengst te doen delen,
 	b.	waarvan het bestuur krachtens de statuten bevoegd is aandelen in haar kapitaal uit te geven, te verwerven en te vervreemden,
-	c.	waarvan de aandelen, met uitzondering van aandelen waaraan de statuten een bijzonder recht inzake de zeggenschap in de vennootschap verbinden, worden opgenomen in de prijscourant van een beurs, en
+	c.	waarvoor aan een beheerder een vergunning is verleend als bedoeld in artikel 5 van de Wet toezicht beleggingsinstellingen voor plaatsing van haar aandelen, en
 	d.	waarvan de statuten bepalen dat de vennootschap beleggingsmaatschappij met veranderlijk kapitaal is.
 
-2.	De vennootschap moet aan het handelsregister opgeven dat zij "beleggingsmaatschappij met veranderlijk kapitaal" is. Deze woorden moeten ook in alle geschriften, gedrukte stukken en aankondigingen, waarin de beleggingsmaatschappij met veranderlijk kapitaal partij is of die van haar uitgaan, met uitzondering van telegrammen en reclames, duidelijk bij haar naam worden vermeld.
+2.	De vennootschap doet aan het handelsregister en aan de rechtspersoon waaraan ingevolge artikel 29 van de Wet toezicht beleggingsinstellingen taken en bevoegdheden zijn overgedragen opgave dat zij een beleggingsmaatschappij met veranderlijk kapitaal is. Deze woorden moeten ook in alle geschriften, gedrukte stukken en aankondigingen, waarin de beleggingsmaatschappij met veranderlijk kapitaal partij is of die van haar uitgaan, met uitzondering van telegrammen en reclames, duidelijk bij haar naam worden vermeld.
 
 Artikel 77
 
@@ -1418,7 +1418,7 @@ Artikel 100
 
 Artikel 101
 
-1.	Jaarlijks binnen vijf maanden na afloop van het boekjaar der vennootschap, behoudens verlenging van deze termijn met ten hoogste zes maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de aandeelhouders ter inzage ten kantore van de vennootschap. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de aandeelhouders, tenzij de artikelen 396 lid 6, of 403 voor de vennootschap gelden. De termijn kan voor beleggingsmaatschappijen waaraan ingevolge de Wet toezicht beleggingsinstellingen (Stb. 1990, 380) een vergunning is verleend, bij of krachtens die wet worden bekort. Het bestuur van de vennootschap waarop de artikelen 158 tot en met 161 en 164 van toepassing zijn, zendt de jaarrekening ook toe aan de in artikel 158 lid 11 bedoelde ondernemingsraad.
+1.	Jaarlijks binnen vijf maanden na afloop van het boekjaar der vennootschap, behoudens verlenging van deze termijn met ten hoogste zes maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de aandeelhouders ter inzage ten kantore van de vennootschap. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de aandeelhouders, tenzij de artikelen 396 lid 6, of 403 voor de vennootschap gelden. De termijn kan voor beheerders waaraan ingevolge de Wet toezicht beleggingsinstellingen (Stb. 1990, 380) een vergunning is verleend, bij of krachtens die wet worden bekort. Het bestuur van de vennootschap waarop de artikelen 158 tot en met 161 en 164 van toepassing zijn, zendt de jaarrekening ook toe aan de in artikel 158 lid 11 bedoelde ondernemingsraad.
 
 2.	De jaarrekening wordt ondertekend door de bestuurders en door de commissarissen; ontbreekt de ondertekening van een of meer hunner, dan wordt daarvan onder opgave van reden melding gemaakt.
 
@@ -2552,7 +2552,7 @@ Artikel 209
 
 Artikel 210
 
-1.	Jaarlijks binnen vijf maanden na afloop van het boekjaar der vennootschap, behoudens verlenging van deze termijn met ten hoogste zes maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de aandeelhouders ter inzage ten kantore van de vennootschap. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de aandeelhouders, tenzij de artikelen 396 lid 6, of 403 voor de vennootschap gelden. De termijn kan voor beleggingsmaatschappijen waaraan ingevolge de Wet toezicht beleggingsinstellingen (Stb. 1990, 380) een vergunning is verleend, bij of krachtens die wet worden bekort. Het bestuur van de vennootschap waarop de artikelen 268 tot en met 271 en 274 van toepassing zijn, zendt de jaarrekening ook toe aan de in artikel 268 lid 11 bedoelde ondernemingsraad.
+1.	Jaarlijks binnen vijf maanden na afloop van het boekjaar der vennootschap, behoudens verlenging van deze termijn met ten hoogste zes maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de aandeelhouders ter inzage ten kantore van de vennootschap. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de aandeelhouders, tenzij de artikelen 396 lid 6, of 403 voor de vennootschap gelden. De termijn kan voor beheerders waaraan ingevolge de Wet toezicht beleggingsinstellingen (Stb. 1990, 380) een vergunning is verleend, bij of krachtens die wet worden bekort. Het bestuur van de vennootschap waarop de artikelen 268 tot en met 271 en 274 van toepassing zijn, zendt de jaarrekening ook toe aan de in artikel 268 lid 11 bedoelde ondernemingsraad.
 
 2.	De jaarrekening wordt ondertekend door de bestuurders en door de commissarissen; ontbreekt de ondertekening van een of meer hunner, dan wordt daarvan onder opgave van reden melding gemaakt.
 
@@ -3240,7 +3240,7 @@ Een stichting die een of meer ondernemingen in stand houdt welke ingevolge de we
 
 Artikel 300
 
-1.	Jaarlijks binnen zes maanden na afloop van het boekjaar van een stichting als bedoeld in artikel 360 lid 3, behoudens verlenging van deze termijn met ten hoogste vijf maanden door het in lid 3 bedoelde orgaan op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor hen die deel uitmaken van het in lid 3 bedoelde orgaan ter inzage ten kantore van de stichting. Binnen deze termijn legt het bestuur ook de krachtens artikel 392 lid 1 toe te voegen gegevens ter inzage voor hen die deel uitmaken van het in lid 3 bedoelde orgaan en het jaarverslag, tenzij artikel 396 lid 6, eerste volzin, voor zover het betreft het jaarverslag, of artikel 403 voor de stichting gelden. De termijn kan voor beleggingsmaatschappijen waaraan ingevolge de Wet toezicht beleggingsinstellingen een vergunning is verleend, bij of krachtens die wet worden bekort. Zij die deel uitmaken van het in lid 3 bedoelde orgaan kunnen kosteloos een afschrift van deze stukken verkrijgen.
+1.	Jaarlijks binnen zes maanden na afloop van het boekjaar van een stichting als bedoeld in artikel 360 lid 3, behoudens verlenging van deze termijn met ten hoogste vijf maanden door het in lid 3 bedoelde orgaan op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor hen die deel uitmaken van het in lid 3 bedoelde orgaan ter inzage ten kantore van de stichting. Binnen deze termijn legt het bestuur ook de krachtens artikel 392 lid 1 toe te voegen gegevens ter inzage voor hen die deel uitmaken van het in lid 3 bedoelde orgaan en het jaarverslag, tenzij artikel 396 lid 6, eerste volzin, voor zover het betreft het jaarverslag, of artikel 403 voor de stichting gelden. De termijn kan voor beheerders waaraan ingevolge de Wet toezicht beleggingsinstellingen een vergunning is verleend, bij of krachtens die wet worden bekort. Zij die deel uitmaken van het in lid 3 bedoelde orgaan kunnen kosteloos een afschrift van deze stukken verkrijgen.
 
 2.	De jaarrekening wordt ondertekend door de bestuurders en door hen die deel uitmaken van het toezicht houdende orgaan; ontbreekt de ondertekening van een of meer hunner, dan wordt daarvan onder opgave van reden melding gemaakt.
 
@@ -4796,9 +4796,9 @@ Onze Minister van Financiën kan financiële instellingen die geen bank als bedo
 
 Artikel 401
 
-1.	Een beleggingsmaatschappij waaraan ingevolge de Wet toezicht beleggingsinstellingen (Stb. 1990, 380) een vergunning is verleend, moet in aanvulling op de bepalingen van deze titel tevens voldoen aan de vereisten voor haar jaarrekening, gesteld bij of krachtens de Wet toezicht beleggingsinstellingen. Voor deze beleggingsmaatschappij kan bij of krachtens die wet van artikel 394, tweede, derde en vierde lid, worden afgeweken.
+1.	Een beheerder waaraan ingevolge de Wet toezicht beleggingsinstellingen (Stb. 1990, 380) een vergunning is verleend, moet in aanvulling op de bepalingen van deze titel tevens voldoen aan de vereisten voor haar jaarrekening, gesteld bij of krachtens de Wet toezicht beleggingsinstellingen. Voor deze beheerder kan bij of krachtens die wet van artikel 394, tweede, derde en vierde lid, worden afgeweken.
 
-2.	Een beleggingsmaatschappij mag haar beleggingen tegen actuele waarde waarderen. Nadelige koersverschillen ten opzichte van de voorafgaande balansdatum behoeven niet ten laste van de winst- en verliesrekening te worden gebracht, mits zij op de reserves worden afgeboekt; voordelige koersverschillen mogen op de reserves worden bijgeboekt. De bedragen worden in de balans of in de toelichting vermeld. Onder beleggingsmaatschappij wordt in dit lid verstaan een rechtspersoon die uitsluitend ten doel heeft het vermogen zodanig te beleggen dat de risico’s daarvan worden gespreid, teneinde de leden of aandeelhouders in de opbrengst te doen delen.
+2.	Een beheerder als bedoeld in artikel 1, onderdeel e, van de Wet toezicht beleggingsinstellingen mag haar beleggingen tegen actuele waarde waarderen. Nadelige koersverschillen ten opzichte van de voorafgaande balansdatum behoeven niet ten laste van de winst- en verliesrekening te worden gebracht, mits zij op de reserves worden afgeboekt; voordelige koersverschillen mogen op de reserves worden bijgeboekt. De bedragen worden in de balans of in de toelichting vermeld. Onder beleggingsmaatschappij wordt in dit lid verstaan een rechtspersoon die uitsluitend ten doel heeft het vermogen zodanig te beleggen dat de risico’s daarvan worden gespreid, teneinde de leden of aandeelhouders in de opbrengst te doen delen.
 
 3.	Op een beleggingsmaatschappij met veranderlijk kapitaal is artikel 378 lid 3, tweede zin, niet van toepassing.
 
