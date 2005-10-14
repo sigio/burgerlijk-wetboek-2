@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 01-09-2005 t/m 14-10-2005
+Geldend van 15-10-2005 t/m 31-12-2005
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -1755,7 +1755,7 @@ Artikel 138
 
 1.	In geval van faillissement van de naamloze vennootschap is iedere bestuurder jegens de boedel hoofdelijk aansprakelijk voor het bedrag van de schulden voor zover deze niet door vereffening van de overige baten kunnen worden voldaan, indien het bestuur zijn taak kennelijk onbehoorlijk heeft vervuld en aannemelijk is dat dit een belangrijke oorzaak is van het faillissement.
 
-2.	Indien het bestuur niet heeft voldaan aan zijn verplichtingen uit de artikelen 10 of 394, heeft het zijn taak onbehoorlijk vervuld en wordt vermoed dat onbehoorlijke taakvervulling een belangrijke oorzaak is van het faillissement. Hetzelfde geldt indien de vennootschap volledig aansprakelijk vennoot is van een vennootschap onder firma of commanditaire vennootschap en niet voldaan is aan de verplichtingen uit artikel 15a van Boek 3. Een onbelangrijk verzuim wordt niet in aanmerking genomen.
+2.	Indien het bestuur niet heeft voldaan aan zijn verplichtingen uit de artikelen 10 of 394, heeft het zijn taak onbehoorlijk vervuld en wordt vermoed dat onbehoorlijke taakvervulling een belangrijke oorzaak is van het faillissement. Hetzelfde geldt indien de vennootschap volledig aansprakelijk vennoot is van een vennootschap onder firma of commanditaire vennootschap en niet voldaan is aan de verplichtingen uit artikel 15i van Boek 3. Een onbelangrijk verzuim wordt niet in aanmerking genomen.
 
 3.	Niet aansprakelijk is de bestuurder die bewijst dat de onbehoorlijke taakvervulling door het bestuur niet aan hem te wijten is en dat hij niet nalatig is geweest in het treffen van maatregelen om de gevolgen daarvan af te wenden.
 
@@ -2836,7 +2836,7 @@ Artikel 248
 
 1.	In geval van faillissement van de vennootschap is iedere bestuurder jegens de boedel hoofdelijk aansprakelijk voor het bedrag van de schulden voor zover deze niet door vereffening van de overige baten kunnen worden voldaan, indien het bestuur zijn taak kennelijk onbehoorlijk heeft vervuld en aannemelijk is dat dit een belangrijke oorzaak is van het faillissement.
 
-2.	Indien het bestuur niet heeft voldaan aan zijn verplichtingen uit de artikelen 10 of 394, heeft het zijn taak onbehoorlijk vervuld en wordt vermoed dat onbehoorlijke taakvervulling een belangrijke oorzaak is van het faillissement. Hetzelfde geldt indien de vennootschap volledig aansprakelijk vennoot is van een vennootschap onder firma of commanditaire vennootschap en niet voldaan is aan de verplichtingen uit artikel 15a van Boek 3. Een onbelangrijk verzuim wordt niet in aanmerking genomen.
+2.	Indien het bestuur niet heeft voldaan aan zijn verplichtingen uit de artikelen 10 of 394, heeft het zijn taak onbehoorlijk vervuld en wordt vermoed dat onbehoorlijke taakvervulling een belangrijke oorzaak is van het faillissement. Hetzelfde geldt indien de vennootschap volledig aansprakelijk vennoot is van een vennootschap onder firma of commanditaire vennootschap en niet voldaan is aan de verplichtingen uit artikel 15i van Boek 3. Een onbelangrijk verzuim wordt niet in aanmerking genomen.
 
 3.	Niet aansprakelijk is de bestuurder die bewijst dat de onbehoorlijke taakvervulling door het bestuur niet aan hem te wijten is en dat hij niet nalatig is geweest in het treffen van maatregelen om de gevolgen daarvan af te wenden.
 
