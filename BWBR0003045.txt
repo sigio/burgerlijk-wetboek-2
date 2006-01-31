@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 01-01-2006 t/m 31-01-2006
+Geldend van 01-02-2006 t/m 31-05-2006
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -247,7 +247,7 @@ Artikel 22a
 
 3.	De beschikking wordt onverwijld, zo mogelijk op dezelfde dag, betekend aan de aandeelhouders en de vennootschap. De griffier draagt zorg voor de inschrijving van de beschikking in het register waarin de rechtspersoon is ingeschreven.
 
-4.	Binnen acht dagen na de betekening in het vorige lid vermeld kunnen de aandeelhouders tegen de beschikking in verzet komen. Het verzet schorst het bevel niet, behoudens de bevoegdheid van de aandeelhouders om daarop in kort geding door de president van de rechtbank te doen beslissen. Verzet tegen de beschikking kan niet gegrond zijn op de bewering dat de aandeelhouder zijn aandelen wil overdragen.
+4.	Binnen acht dagen na de betekening in het vorige lid vermeld kunnen de aandeelhouders tegen de beschikking in verzet komen. Het verzet schorst het bevel niet, behoudens de bevoegdheid van de aandeelhouders om daarop in kort geding door de voorzieningenrechter van de rechtbank te doen beslissen. Verzet tegen de beschikking kan niet gegrond zijn op de bewering dat de aandeelhouder zijn aandelen wil overdragen.
 
 5.	Het verzoek tot ontbinding moet binnen acht dagen nadat deze is ingesteld aan de aandeelhouder worden betekend.
 
@@ -1933,7 +1933,7 @@ Artikel 158
 
 8.	De ondernemingskamer doet de ondernemingsraad oproepen. Tegen de beslissing van de ondernemingskamer staat geen rechtsmiddel open. De ondernemingskamer kan geen veroordeling in de proceskosten uitspreken.
 
-9.	De algemene vergadering kan bij volstrekte meerderheid van de uitgebrachte stemmen vertegenwoordigend ten minste een derde van het geplaatste kapitaal de voordracht afwijzen. Indien niet ten minste een derde van het geplaatste kapitaal ter vergadering vertegenwoordigd was, kan een nieuwe vergadering worden bijeengeroepen waarin de voordracht kan worden afgewezen met volstrekte meederheid van de uitgebrachte stemmen. Alsdan maakt de raad van commissarissen een nieuwe voordracht op. De leden 5 tot en met 8 zijn van toepassing. Indien de algemene vergadering de voorgedragen persoon niet benoemt en niet besluit tot afwijzing van de voordracht, benoemt de raad van commissarissen de voorgedragen persoon.
+9.	De algemene vergadering kan bij volstrekte meerderheid van de uitgebrachte stemmen vertegenwoordigend ten minste een derde van het geplaatste kapitaal de voordracht afwijzen. Indien niet ten minste een derde van het geplaatste kapitaal ter vergadering vertegenwoordigd was, kan een nieuwe vergadering worden bijeengeroepen waarin de voordracht kan worden afgewezen met volstrekte meerderheid van de uitgebrachte stemmen. Alsdan maakt de raad van commissarissen een nieuwe voordracht op. De leden 5 tot en met 8 zijn van toepassing. Indien de algemene vergadering de voorgedragen persoon niet benoemt en niet besluit tot afwijzing van de voordracht, benoemt de raad van commissarissen de voorgedragen persoon.
 
 10.	De algemene vergadering van aandeelhouders kan de bevoegdheid die haar volgens lid 5 toekomt voor een door haar te bepalen duur van telkens ten hoogste twee achtereenvolgende jaren, overdragen aan een commissie van aandeelhouders waarvan zij de leden aanwijst; in dat geval doet de raad van commissarissen aan de commissie de mededeling bedoeld in lid 5. De algemene vergadering kan te allen tijde de overdracht ongedaan maken.
 
@@ -2961,7 +2961,7 @@ Artikel 264
 
 4.	In de eerstvolgende vergadering nadat de vennootschap waarop de artikelen 268 tot en met 274 of 268 tot en met 271 en 274 van toepassing zijn gaat voldoen aan de voorwaarden bedoeld in de artikelen 263 lid 3, 264 lid 2, 265 of 265a, doet het bestuur aan de algemene vergadering het voorstel in de statuten de wijze van benoeming en ontslag van commissarissen en de taak en bevoegdheden van de raad van commissarissen te regelen zonder toepassing van de artikelen 268 tot en met 274 respectievelijk de artikelen 268 tot en met 271 en 274, dan wel het voorstel deze artikelen geheel of met uitzondering van artikel 272 te blijven toepassen. Het besluit wordt genomen met volstrekte meerderheid van stemmen. De bevoegdheid van de algemene vergadering tot het nemen van een besluit ter uitvoering van dit artikel kan niet worden beperkt.
 
-5.	Uiterlijk twaalf maanden nadat het besluit bedoeld in lid 4 is genomen, legt het bestuur aan de algemene vergadering een voorstel tot wijziging van de statuten voor. Indien de algemene vergadering geen besluit tot statutenwijziging neemt, stelt de ondernemingskamer van het gerechtshof te Amsterdam op verzoek van degene die daartoe krachtens het volgende lid bevoegd is, de statuten vast.
+5.	Uiterlijk twaalf maanden nadat het besluit bedoeld in lid 4 is genomen, legt het bestuur aan de algemene vergadering een voorstel tot wijziging van de statuten voor. Indien de algemene vergadering geen besluit tot statutenwijziging neemt, stelt de ondernemingskamer van het gerechtshof te Amsterdam op verzoek van degene die daartoe krachtens het volgende lid bevoegd is, de statuten vast. De laatste twee zinnen van lid 4 zijn van overeenkomstige toepassing.
 
 6.	Een verzoek tot vaststelling van de statuten kan worden ingediend door een daartoe aangewezen vertegenwoordiger van het bestuur of van de raad van commissarissen en door degene die gerechtigd is tot agendering ingevolge artikel 224a.
 
@@ -3014,7 +3014,7 @@ Artikel 268
 
 8.	De ondernemingskamer doet de ondernemingsraad oproepen. Tegen de beslissing van de ondernemingskamer staat geen rechtsmiddel open. De ondernemingskamer kan geen veroordeling in de proceskosten uitspreken.
 
-9.	De algemene vergadering kan bij volstrekte meerderheid van de uitgebrachte stemmen vertegenwoordigend ten minste een derde van het geplaatste kapitaal de voordracht afwijzen. Indien niet ten minste een derde van het geplaatste kapitaal ter vergadering vertegenwoordigd was, kan een nieuwe vergadering worden bijeengeroepen waarin de voordracht kan worden afgewezen met volstrekte meederheid van de uitgebrachte stemmen. Alsdan maakt de raad van commissarissen een nieuwe voordracht op. De leden 5 tot en met 8 zijn van toepassing. Indien de algemene vergadering de voorgedragen persoon niet benoemt en niet besluit tot afwijzing van de voordracht, benoemt de raad van commissarissen de voorgedragen persoon.
+9.	De algemene vergadering kan bij volstrekte meerderheid van de uitgebrachte stemmen vertegenwoordigend ten minste een derde van het geplaatste kapitaal de voordracht afwijzen. Indien niet ten minste een derde van het geplaatste kapitaal ter vergadering vertegenwoordigd was, kan een nieuwe vergadering worden bijeengeroepen waarin de voordracht kan worden afgewezen met volstrekte meerderheid van de uitgebrachte stemmen. Alsdan maakt de raad van commissarissen een nieuwe voordracht op. De leden 5 tot en met 8 zijn van toepassing. Indien de algemene vergadering de voorgedragen persoon niet benoemt en niet besluit tot afwijzing van de voordracht, benoemt de raad van commissarissen de voorgedragen persoon.
 
 10.	De algemene vergadering van aandeelhouders kan de bevoegdheid die haar volgens lid 5 toekomt voor een door haar te bepalen duur van telkens ten hoogste twee achtereenvolgende jaren, overdragen aan een commissie van aandeelhouders waarvan zij de leden aanwijst; in dat geval geeft de raad van commissarissen aan de commissie de kennisgeving van lid 5. De algemene vergadering kan te allen tijde de overdracht ongedaan maken.
 
@@ -3393,7 +3393,7 @@ Artikel 316
 
 1.	Ten minste een van de te fuseren rechtspersonen moet, op straffe van gegrondverklaring van een verzet als bedoeld in het volgende lid, voor iedere schuldeiser van deze rechtspersonen die dit verlangt zekerheid stellen of hem een andere waarborg geven voor de voldoening van zijn vordering. Dit geldt niet, indien de schuldeiser voldoende waarborgen heeft of de vermogenstoestand van de verkrijgende rechtspersoon na de fusie niet minder waarborg zal bieden dat de vordering zal worden voldaan, dan er voordien is.
 
-2.	Tot een maand nadat alle te fuseren rechtspersonen de nederlegging van het voorstel tot fusie hebben aangekondigd kan iedere schuldeiser door een verzoekschrift aan de rechtbank tegen het voorstel tot fusie in verzet komen met vermelding van de waarborg die wordt verlangt.
+2.	Tot een maand nadat alle te fuseren rechtspersonen de nederlegging van het voorstel tot fusie hebben aangekondigd kan iedere schuldeiser door een verzoekschrift aan de rechtbank tegen het voorstel tot fusie in verzet komen met vermelding van de waarborg die wordt verlangd.
 
 3.	Voordat de rechter beslist, kan hij de rechtspersonen in de gelegenheid stellen binnen een door hem gestelde termijn een door hem omschreven waarborg te geven.
 
