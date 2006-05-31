@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 01-02-2006 t/m 31-05-2006
+Geldend van 01-06-2006 t/m 30-09-2006
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -5144,12 +5144,13 @@ Artikel 434
 Artikel 435
 
 1.	Onder de technische voorzieningen worden afzonderlijk opgenomen:
-	a.	de voorziening voor niet-verdiende premies en lopende risico's;
+	a.	de voorziening voor niet-verdiende premies en de voorziening voor lopende risico’s, waaronder de catastrofevoorziening indien deze is getroffen;
 	b.	de voorziening voor levensverzekering;
 	c.	de voorziening voor te betalen schaden of voor te betalen uitkeringen;
 	d.	de voorziening voor winstdeling en kortingen;
-	e.	de egalisatievoorziening, voor zover egalisatie van winsten en verliezen bij of krachtens de wet is toegestaan;
-	f.	de overige technische voorzieningen.
+	e.	de voorziening voor latente winstdelingsverplichtingen;
+	f.	de egalisatievoorziening, voor zover egalisatie van winsten en verliezen bij of krachtens de wet is toegestaan;
+	g.	de overige technische voorzieningen.
 
 2.	Artikel 374 is van toepassing op de verzekeringstechnische voorzieningen, voor zover de aard van de technische voorzieningen zich daartegen niet verzet.
 
@@ -5157,11 +5158,28 @@ Artikel 435
 
 4.	Indien op de technische voorzieningen acquisitiekosten in mindering zijn gebracht, worden deze afzonderlijk vermeld.
 
-5.	Indien de technische voorziening voor lopende risico’s niet wordt opgenomen bij de technische voorziening niet-verdiende premies, wordt zij in de overige technische voorzieningen opgenomen. Tenzij de voorziening voor lopende risico’s van ondergeschikte betekenis is op het geheel van de voorziening niet-verdiende premies wordt de omvang toegelicht.
+5.	Tenzij de voorziening voor lopende risico’s van ondergeschikte betekenis is op het geheel van de voorziening niet-verdiende premies wordt de omvang toegelicht.
 
 6.	In het levensverzekeringsbedrijf behoeft geen technische voorziening voor niet-verdiende premies onderscheidenlijk voor te betalen uitkeringen te worden vermeld.
 
 7.	Onder de technische voorziening levensverzekering mag de voorziening, bedoeld in artikel 374 lid 4, onder b, worden opgenomen. In dat geval wordt in de toelichting het bedrag van de voorziening vermeld.
+
+Artikel 435a
+
+1.	In de toelichting worden mutatieoverzichten opgenomen betreffende:
+	a.	de onder de voorziening voor lopende risico’s opgenomen catastrofevoorziening;
+	b.	de op de technische voorzieningen in mindering gebrachte nog af te schrijven post rentestandkortingen;
+	c.	de nog af te schrijven acquisitiekosten;
+	d.	de voorziening voor latente winstdelingverplichtingen.
+
+2.	Uit elk van de in lid 1 bedoelde overzichten blijkt:
+	a.	het bedrag van de post aan het begin van het boekjaar;
+	b.	de toevoegingen of verminderingen van de post over het boekjaar, gesplitst naar hun aard;
+	c.	het bedrag van de post aan het einde van het boekjaar.
+
+3.	In de toelichting worden de grondslagen voor de vorming en waardering van een voorziening voor latente winstdelingverplichtingen vermeld.
+
+4.	Een verzekeringsmaatschappij met zetel in Nederland die het levensverzekeringsbedrijf uitoefent, vermeldt in een in de toelichting opgenomen overzicht de kwantitatieve uitkomst en de gehanteerde grondslagen van de krachtens de Wet op het financieel toezicht door de Nederlandsche Bank voorgeschreven toets op de toereikendheid van de technische voorzieningen.
 
 Artikel 436
 
@@ -5243,7 +5261,7 @@ Artikel 439
 	a.	de toe- of afneming van de technische voorziening voor levensverzekering voor eigen rekening met afzonderlijke opneming van het herverzekeringsdeel en van de som van beide bedragen;
 	b.	de toe- of afneming van de overige technische voorzieningen.
 
-6.	Tenzij van ondergeschikte betekenis op het geheel van toe- of afneming van de voorziening voor te betalen schaden of uitkeringen, worden de aard en omvang aangegeven van het verloop in het boekjaar van het deel van de voorziening dat betreft de nog niet afgewikkelde schaden uit eerdere boekjaren.
+6.	Tenzij de cumulatieve uitloop over de drie voorgaande boekjaren en de uitloop in het boekjaar telkens minder bedraagt dan tien procent van het resultaat van de technische rekening van het desbetreffende boekjaar, worden in de toelichting in een overzicht per branchegroep vermeld de aard en omvang van de uitloop in het boekjaar van de ten laste van de drie voorgaande boekjaren gevormde voorzieningen voor te betalen schaden of uitkeringen. In dit overzicht worden tevens per branchegroep vermeld de aard en omvang van de totale uitloop in het boekjaar van de ten laste van het vierde voorgaande boekjaar en de boekjaren daarvoor gevormde voorzieningen voor te betalen schaden of uitkeringen. In dit overzicht wordt het effect van toegepaste discontering aangegeven.
 
 Artikel 440
 
@@ -5269,6 +5287,12 @@ Artikel 440
 	c.	het verlies bij verkoop van beleggingen.
 
 6.	Het bedrag van de winstdeling en dat van de kortingen worden in de toelichting opgenomen.
+
+§ 2a. Het overzicht van de samenstelling van het totaalresultaat
+
+Artikel 440a
+
+In aansluiting op de winst- en verliesrekening wordt een overzicht van de samenstelling van het totaalresultaat opgenomen. Het totaalresultaat is gelijk aan het verschil in eigen vermogen tussen de balans aan het begin van het boekjaar en de balans aan het eind van het boekjaar, gecorrigeerd voor kapitaalstortingen en kapitaalonttrekkingen.
 
 § 4. Bijzondere voorschriften omtrent de toelichting
 
@@ -5317,6 +5341,11 @@ telkens indien dat bedrag groter is dan het twintigste deel van het totaal van d
 
 8.	Opgegeven wordt het bedrag van de betaalde en verschuldigde provisies, ongeacht de aard van de provisie.
 
+9.	In de toelichting wordt vermeld:
+	a.	het bedrag van de solvabiliteit waarover de verzekeringsmaatschappij tenminste moet beschikken;
+	b.	het bedrag van de solvabiliteit dat het bestuur van de verzekeringsmaatschappij noodzakelijk acht;
+	c.	het bedrag van de aanwezige solvabiliteit.
+
 § 5. Bijzondere voorschriften omtrent de grondslagen van waardering en van bepaling van het resultaat
 
 Artikel 442
@@ -5329,13 +5358,15 @@ Artikel 442
 
 4.	Indien beleggingen in terreinen en gebouwen op de grondslag van de actuele waarde worden gewaardeerd, behoeft artikel 386 lid 4 niet te worden toegepast. Indien het beleggingen in terreinen en gebouwen in eigen gebruik betreft, wordt in de toelichting op de winst- en verliesrekening het bedrag van de aan deze beleggingen toegerekende opbrengst aangegeven alsmede het toegerekende bedrag van de huisvestingskosten.
 
+5.	De beleggingen, bedoeld in artikel 430 lid 4, onder a, waaronder de beleggingen in converteerbare obligaties en afgeleide financiële instrumenten, voor zover niet bedoeld in artikel 384 lid 8, worden op de grondslag van de actuele waarde gewaardeerd.
+
 Artikel 443
 
-1.	Waardepapieren met een vaste of van de rentestand afhankelijke rente die tot de beleggingen behoren, mogen tegen aflossingswaarde worden gewaardeerd, onverminderd de toepassing van artikel 387 lid 4.
+1.	Waardepapieren met een vaste rente of van de rentestand afhankelijke rente die tot de beleggingen behoren, worden op de grondslag van de actuele waarde of tegen de aflossingswaarde gewaardeerd, onverminderd de toepassing van artikel 387 lid 4. Indien deze waardepapieren geen aflossingswaarde kennen, worden zij op grondslag van de actuele waarde of tegen de verkrijgingsprijs gewaardeerd, onverminderd de toepassing van artikel 387 lid 4.
 
 2.	Indien deze waardepapieren tegen aflossingswaarde op de balans worden opgenomen, wordt het verschil tussen de verkrijgingsprijs en de aflossingswaarde vermeld en over de jaren sinds de aanschaf gespreid als resultaat verantwoord. Het verschil mag ook in één keer als resultaat worden verantwoord, indien de verkrijgingsprijs hoger was dan de aflossingswaarde.
 
-3.	Indien deze waardepapieren voor het einde van de looptijd worden verkocht en de opbrengst wordt aangewend voor de aankoop van soortgelijke waardepapieren, mag het verschil tussen de opbrengst en de boekwaarde gelijkelijk gespreid over de resterende looptijd van de oorspronkelijke waardepapieren als resultaat worden verantwoord. De vorige zin is niet van toepassing indien de waardepapieren op de grondslag van de actuele waarde worden gewaardeerd.
+3.	[Vervallen.]
 
 4.	De vorderingen uit leningen voor welke zakelijke zekerheid is gesteld en de andere vorderingen uit leningen, bedoeld in artikel 430 lid 4, onder d en e, mogen eveneens tegen aflossingswaarde worden gewaardeerd.
 
