@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 01-06-2006 t/m 30-09-2006
+Geldend van 01-10-2006 t/m 12-10-2006
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -1289,7 +1289,7 @@ Artikel 96
 
 3.	De vennootschap legt binnen acht dagen na een besluit van de algemene vergadering tot uitgifte of tot aanwijzing een volledige tekst daarvan neer ten kantore van het handelsregister.
 
-4.	De vennootschap doet binnen acht dagen na elke uitgifte van aandelen hiervan opgave ten kantore van het handelsregister, met vermelding van aantal en soort.
+4.	De vennootschap doet binnen acht dagen na afloop van elk kalenderkwartaal ten kantore van het handelsregister opgave van elke uitgifte van aandelen in het afgelopen kalenderkwartaal, met vermelding van aantal en soort.
 
 5.	Dit artikel is van overeenkomstige toepassing op het verlenen van rechten tot het nemen van aandelen, maar is niet van toepassing op het uitgeven van aandelen aan iemand die een voordien reeds verkregen recht tot het nemen van aandelen uitoefent.
 
@@ -5397,3 +5397,7 @@ Artikel 446
 3.	Indien een buitenlandse verzekeringsmaatschappij deel uitmaakt van de groep, mogen de technische voorzieningen van deze maatschappij in de consolidatie worden opgenomen overeenkomstig de waarderingsvoorschriften van haar recht, voor zover dat recht afwijking van die voorschriften niet toestaat. Het gemaakte gebruik van de uitzondering wordt in de toelichting vermeld.
 
 4.	Het derde lid is van overeenkomstige toepassing ten aanzien van de beleggingen waarbij de tot uitkering gerechtigde het beleggingsrisico draagt en ten aanzien van de spaarkasbeleggingen.
+
+Afdeling 16. Rechtspleging
+
+[Dit onderdeel is nog niet inwerking getreden]
