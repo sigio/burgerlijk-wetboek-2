@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 25-10-2006 t/m 30-12-2006
+Geldend van 31-12-2006 t/m 31-12-2006
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -1440,9 +1440,7 @@ Artikel 102
 
 Artikel 103
 
-1.	Indien aandelen van de vennootschap, schuldbrieven of certificaten van deze aandelen of schuldbrieven, die met haar medewerking zijn uitgegeven, zijn opgenomen in de prijscourant van enige beurs, maakt de vennootschap haar halfjaar- en kwartaalcijfers openbaar zodra zij beschikbaar zijn. Deze verplichting geldt niet, zolang deze cijfers slechts aan bestuurders, commissarissen en de ondernemingsraad worden verstrekt.
-
-2.	Zulk een vennootschap maakt het voorstel tot een uitkering op aandelen of op andere effecten en besluiten tot tussentijdse uitkering onverwijld openbaar.
+[Vervallen per 31-12-2006]
 
 Artikel 104
 
@@ -5416,4 +5414,76 @@ Artikel 446
 
 Afdeling 16. Rechtspleging
 
-[Dit onderdeel is nog niet inwerking getreden]
+Artikel 447
+
+1.	Op verzoek van degenen die krachtens artikel 448 daartoe bevoegd zijn, kan de ondernemingskamer van het gerechtshof te Amsterdam aan een rechtspersoon of vennootschap als bedoeld in artikel 360 waarop deze titel van toepassing is, een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving of een beleggingsinstelling als bedoeld in artikel 1, onderdeel c, van de Wet toezicht beleggingsinstellingen bevelen de jaarrekening, het jaarverslag of de daaraan toe te voegen overige gegevens in te richten overeenkomstig door haar te geven aanwijzingen.
+
+2.	Het verzoek kan slechts worden ingediend op de grond dat de verzoeker van oordeel is dat de in het eerste lid bedoelde stukken niet voldoen aan de bij of krachtens artikel 3 van verordening (EG) 1606/2002 van het Europees Parlement en de Raad van de Europese Unie van 19 juli 2002 betreffende de toepassing van internationale standaarden voor jaarrekeningen (PbEG L 243), deze titel, onderscheidenlijk de Wet toezicht beleggingsinstellingen gestelde voorschriften. Het verzoekschrift vermeldt in welk opzicht de stukken herziening behoeven.
+
+3.	Het verzoek heeft geen betrekking op een accountantsverklaring als bedoeld in artikel 393 lid 5.
+
+Artikel 448
+
+1.	Tot het indienen van het verzoek is bevoegd:
+	a.	iedere belanghebbende;
+	b.	de advocaat-generaal bij het gerechtshof te Amsterdam in het openbaar belang.
+
+2.	Tot het indienen van het verzoek is voorts bevoegd de Stichting Autoriteit Financiële Markten, voor zover het stukken betreft die betrekking hebben op een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving en met inachtneming van het in artikel 4 van die wet bepaalde.
+
+Artikel 449
+
+1.	Het verzoek wordt ingediend binnen twee maanden na de dag waarop de jaarrekening is vastgesteld. Indien het verzoek wordt gedaan ten aanzien van een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving bedraagt de in de eerste volzin bedoelde termijn zes maanden.
+
+2.	Het verzoek omtrent de jaarrekening die niet is vastgesteld, kan worden gedaan tot twee maanden of, voor zover het een effectenuitgevende instelling betreft als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving, zes maanden na de dag der nederlegging van de jaarrekening ten kantore van het handelsregister. Indien na de dag der nederlegging de jaarrekening alsnog wordt vastgesteld, dan eindigt de termijn twee maanden of, voor zover het een effectenuitgevende instelling betreft als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving, zes maanden na de dag waarop uit een neergelegde mededeling of uit de neergelegde jaarrekening blijkt van die vaststelling.
+
+3.	Indien een bericht als bedoeld in artikel 3, tweede lid, van de Wet toezicht financiële verslaggeving algemeen verkrijgbaar is gesteld, dan eindigt de termijn twee maanden na de dag waarop dit bericht algemeen verkrijgbaar is gesteld op de bij of krachtens dat artikel voorgeschreven wijze, doch niet eerder dan de termijnen, bedoeld lid 1 en lid 2.
+
+4.	Ter zake van tekortkomingen die niet uit de stukken blijken, eindigt de termijn twee maanden of, voor zover het een effectenuitgevende instelling betreft als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving, zes maanden na de dag waarop de indiener van het verzoek daarvan in redelijkheid niet meer onkundig kon zijn, maar uiterlijk twee jaar na verloop van de termijn ingevolge de vorige leden.
+
+Artikel 450
+
+1.	De ondernemingskamer behandelt het verzoek met de meeste spoed. De zaak zal met gesloten deuren worden behandeld; de uitspraak geschiedt in het openbaar.
+
+2.	Bij de bepaling van de dag waarop de behandeling aanvangt bepaalt de ondernemingskamer tevens een termijn waarbinnen de rechtpersoon, vennootschap, effectenuitgevende instelling of beleggingsinstelling, bedoeld in artikel 447, lid 1, waarop het verzoek betrekking heeft, een verweerschrift kan indienen.
+
+3.	Onverminderd de leden 4 tot en met 8 worden andere belanghebbenden dan de rechtpersoon, vennootschap, effectenuitgevende instelling of beleggingsinstelling, bedoeld in artikel 447, lid 1, waarop het verzoek betrekking heeft, niet opgeroepen en kunnen zij geen verweerschrift indienen.
+
+4.	Indien het verzoek wordt gedaan ten aanzien van een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving en het verzoek niet is gedaan door de Stichting Autoriteit Financiële Markten, wordt deze in de gelegenheid gesteld te worden gehoord over de in het verzoek genoemde onderwerpen en, indien artikel 194 van het Wetboek van Burgerlijke rechtsvordering toepassing heeft gevonden, in de gelegenheid gesteld haar mening over het deskundigenbericht aan de ondernemingskamer kenbaar te maken.
+
+5.	De ondernemingskamer beslist niet dan nadat zij de accountant die met het onderzoek van de jaarrekening is belast geweest, in de gelegenheid heeft gesteld te worden gehoord over de in het verzoek genoemde onderwerpen.
+
+6.	De ondernemingskamer geeft, indien het verzoek wordt gedaan ten aanzien van een verzekeraar als bedoeld in artikel 1, onderdeel h, van de Wet toezicht verzekeringsbedrijf 1993, ten aanzien van een verzekeraar als bedoeld in artikel 1, onderdeel c, van de Wet toezicht natura-uitvaartverzekeringsbedrijf, alsmede ten aanzien van een kredietinstelling als bedoeld in artikel 1, eerste lid, onderdeel a, van de Wet toezicht kredietinstellingen 1992, geen beslissing zonder De Nederlandsche Bank N.V. in de gelegenheid te hebben gesteld te worden gehoord over de in het verzoek genoemde onderwerpen.
+
+7.	De ondernemingskamer geeft, indien het verzoek wordt gedaan ten aanzien van een effecteninstelling als bedoeld in artikel 1, onderdeel d, van de Wet toezicht effectenverkeer 1995, geen beslissing zonder De Nederlandsche Bank N.V. en de Stichting Autoriteit Financiële Markten in de gelegenheid te hebben gesteld te worden gehoord over de in het verzoek genoemde onderwerpen.
+
+8.	De ondernemingskamer geeft, indien het verzoek wordt gedaan ten aanzien van een beleggingsinstelling als bedoeld in artikel 1, onderdeel c, van de Wet toezicht beleggingsinstellingen, geen beslissing zonder De Nederlandsche Bank N.V. en de Stichting Autoriteit Financiële Markten in de gelegenheid te hebben gesteld te worden gehoord over de in het verzoek genoemde onderwerpen.
+
+Artikel 451
+
+1.	Indien de ondernemingskamer het verzoek toewijst, geeft zij aan de rechtspersoon, vennootschap, of instelling een bevel omtrent de wijze waarop deze de jaarrekening, het jaarverslag of de overige gegevens moet inrichten. Het bevel bevat daaromtrent nauwkeurige aanwijzingen.
+
+2.	De rechtspersoon, vennootschap of instelling is verplicht de stukken met inachtneming van het bevel op te maken en voor zover het de jaarrekening betreft, te besluiten omtrent de vaststelling.
+
+3.	De ondernemingskamer kan, ook ambtshalve, beslissen dat het bevel mede of uitsluitend een of meer toekomstige stukken betreft.
+
+4.	Indien het bevel betrekking heeft op de jaarrekening waarop het verzoek ziet, kan de ondernemingskamer het besluit tot vaststelling van die jaarrekening vernietigen. De ondernemingskamer kan de gevolgen van de vernietiging beperken.
+
+5.	Op verzoek van de rechtspersoon, vennootschap of instelling kan de ondernemingskamer wegens wijziging van omstandigheden haar bevel, voor zover dit betrekking heeft op toekomstige stukken, intrekken. Zij beslist niet dan na degene op wiens verzoek het bevel is gegeven in de gelegenheid te hebben gesteld te worden gehoord.
+
+Artikel 452
+
+1.	Op verzoek van de Stichting Autoriteit Financiële Markten kan de ondernemingskamer van het gerechthof te Amsterdam een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving bevelen aan de verzoeker een nadere toelichting omtrent de toepassing van de bij of krachtens artikel 3 van verordening (EG) 1606/2002 van het Europees Parlement en de Raad van de Europese Unie van 19 juli 2002 betreffende de toepassing van internationale standaarden voor jaarrekeningen (PbEG L 243) of deze titel geldende voorschriften in de jaarrekening, het jaarverslag of in de overige gegevens te verschaffen.
+
+2.	Het verzoek wordt met redenen omkleed en kan worden gedaan tot zes maanden na de dag van deponering bij de Stichting Autoriteit Financiële Markten van de in artikel 447 bedoelde stukken op grond van artikel 5a van de Wet toezicht effectenverkeer 1995 met inachtneming van het in artikel 2 tot en met 4 van de Wet toezicht financiële verslaggeving bepaalde.
+
+3.	De leden 1 en 2 van artikel 450 zijn van overeenkomstige toepassing. Andere belanghebbenden dan de rechtpersoon, vennootschap, effectenuitgevende instelling of beleggingsinstelling, bedoeld in artikel 447, lid 1, waarop het verzoek betrekking heeft, worden niet opgeroepen en kunnen geen verweerschrift indienen.
+
+4.	Indien de ondernemingskamer het verzoek toewijst, kan zij aan de effectenuitgevende instelling een bevel geven omtrent de wijze waarop deze een nadere toelichting omtrent de toepassing van de in het eerste lid bedoeld voorschriften verschaft. De effectenuitgevende instelling is verplicht met inachtneming van het bevel de nadere toelichting te verschaffen.
+
+5.	De ondernemingkamer kan bepalen dat, indien of zolang de effectenuitgevende instelling niet voldoet aan het bevel, de effectenuitgevende instelling aan de Autoriteit Financiële Markten een door de ondernemingskamer vast te stellen dwangsom verbeurt. De artikelen 611a tot en met 611i van het Wetboek van Burgerlijke Rechtsvordering zijn van overeenkomstige toepassing.
+
+Artikel 453
+
+1.	De griffier van de ondernemingskamer doet ten kantore van het handelsregister van de plaats, waar de rechtspersoon, vennootschap of instelling volgens haar statuten haar zetel heeft, een afschrift van de beschikking van de ondernemingskamer neerleggen. Indien de beschikking betrekking heeft op een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving verstrekt de griffier van de ondernemingskamer voorts een afschrift van de beschikking aan de Stichting Autoriteit Financiële Markten. Afschriften van beschikkingen die niet voorlopig ten uitvoer kunnen worden gelegd, worden nedergelegd zodra zij in kracht van gewijsde zijn gegaan.
+
+2.	Tot het instellen van beroep in cassatie tegen de beschikkingen van de ondernemingskamer uit hoofde van deze titel is, buiten de personen, bedoeld in het eerste lid van artikel 426 van het Wetboek van Burgerlijke Rechtsvordering, bevoegd de rechtspersoon, vennootschap of instelling ten aanzien waarvan de ondernemingskamer een beschikking heeft genomen, ongeacht of deze bij de ondernemingskamer is verschenen.
