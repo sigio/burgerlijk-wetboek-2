@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 01-01-2007 t/m 31-01-2007
+Geldend van 01-02-2007 t/m 27-10-2007
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -211,6 +211,8 @@ Artikel 20
 1.	Een rechtspersoon waarvan de werkzaamheid in strijd is met de openbare orde, wordt door de rechtbank op verzoek van het openbaar ministerie verboden verklaard en ontbonden.
 
 2.	Een rechtspersoon waarvan het doel in strijd is met de openbare orde, wordt door de rechtbank op verzoek van het openbaar ministerie ontbonden. Alvorens de ontbinding uit te spreken kan de rechtbank de rechtspersoon in de gelegenheid stellen binnen een door haar te bepalen termijn zijn doel zodanig te wijzigen dat het niet meer in strijd is met de openbare orde.
+
+3.	Een rechtspersoon vermeld in de lijst, bedoeld in artikel 2, derde lid, van Verordening (EG) nr. 2580/2001 van de Raad van 27 december 2001 (PbEG L 344), in Bijlage I van Verordening (EG) nr. 881/2002 van de Raad van 27 mei 2002 (PbEG L 139) of is vermeld en met een ster aangemerkt in de Bijlage bij het Gemeenschappelijk Standpunt nr. 2001/931 van de Raad van 27 december 2001 (PbEG L 344) is van rechtswege verboden en niet bevoegd tot het verrichten van rechtshandelingen.
 
 Artikel 21
 
