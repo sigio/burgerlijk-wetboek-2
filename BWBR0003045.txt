@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 01-02-2007 t/m 27-10-2007
+Geldend van 28-10-2007 t/m 31-10-2007
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -4206,6 +4206,69 @@ Artikel 359
 
 Tot het instellen van een beroep in cassatie tegen de beschikkingen van de ondernemingskamer uit hoofde van deze afdeling is, buiten de personen bedoeld in artikel 426, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering, de rechtspersoon bevoegd, ongeacht of deze bij de ondernemingskamer is verschenen.
 
+Afdeling 3. Het openbaar bod
+
+Artikel 359a
+
+1.	Deze afdeling is van toepassing op de vennootschap waarvan aandelen zijn toegelaten tot de handel op een gereglementeerde markt in de zin van artikel 1, onder 13, van de richtlijn beleggingsdiensten, bedoeld in artikel 1:1 van de Wet op het financieel toezicht, tenzij het een beleggingsmaatschappij als bedoeld in artikel 1:1 van de Wet op het financieel toezicht waarvan de rechten van deelneming direct of indirect worden ingekocht of terugbetaald ten laste van de activa van de beleggingsinstelling, waarvan de rechten van deelneming op verzoek van de deelnemers direct of indirect worden ingekocht of terugbetaald ten laste van de activa van de beleggingsmaatschappij.
+
+2.	In deze afdeling wordt een certificaat van aandelen dat met medewerking van de vennootschap is uitgegeven gelijk gesteld met een aandeel en wordt een certificaathouder gelijk gesteld met een aandeelhouder.
+
+Artikel 359b
+
+1.	De statuten van de vennootschap kunnen bepalen dat een openbare mededeling betreffende de aankondiging van een openbaar bod, als bedoeld in artikel 5:70 of 5:74 van de Wet op het financieel toezicht, op aandelen uitgegeven door de vennootschap, tot gevolg heeft dat:
+	a.	de vennootschap, totdat openbaarmaking van het resultaat van de gestanddoening van het bod heeft plaatsgevonden of het bod is vervallen, geen handelingen verricht die het slagen van het bod kunnen frustreren, tenzij voorafgaand aan de handeling goedkeuring wordt verleend door de algemene vergadering of de handeling het zoeken naar een alternatief openbaar bod betreft; de oproeping voor de algemene vergadering geschiedt niet later dan op de vijftiende dag voor die van de vergadering;
+	b.	besluiten van de vennootschap die voor de in de aanhef bedoelde openbare mededeling zijn genomen en die nog niet geheel zijn uitgevoerd, de goedkeuring van de algemene vergadering behoeven indien het besluit niet behoort tot de normale uitoefening van de onderneming en de uitvoering het slagen van het bod kan frustreren; de oproeping voor de algemene vergadering geschiedt niet later dan op de vijftiende dag voor die van de vergadering;
+	c.	statutaire beperkingen van de overdracht van aandelen en beperkingen van de overdracht van aandelen die tussen de vennootschap en haar aandeelhouders of tussen aandeelhouders onderling zijn overeengekomen, niet gelden jegens de bieder wanneer hem tijdens de periode voor aanvaarding van een openbaar bod aandelen worden aangeboden;
+	d.	statutaire beperkingen van de uitoefening van het stemrecht en beperkingen van de uitoefening van het stemrecht die tussen de vennootschap en haar aandeelhouders of tussen aandeelhouders onderling zijn overeengekomen, niet gelden in de algemene vergadering die besluit over handelingen als bedoeld onder a of b;
+	e.	in de algemene vergadering elk aandeel in verband met het besluit over handelingen of besluiten als bedoeld onder a of b recht geeft op één stem.
+
+2.	De statuten van de vennootschap kunnen bepalen dat de houder van aandelen die ten gevolge van een openbaar bod ten minste 75% van het geplaatste kapitaal vertegenwoordigt, bevoegd is op korte termijn na het einde van de periode voor aanvaarding van het bod een algemene vergadering bijeen te roepen waarin bijzondere statutaire rechten van aandeelhouders in verband met een besluit tot benoeming of ontslag van een bestuurder of commissaris niet gelden. De oproeping geschiedt niet later dan op de vijftiende dag voor die van de vergadering. In de vergadering geeft elk aandeel ten aanzien van dat besluit recht op één stem en gelden statutaire beperkingen van de uitoefening van het stemrecht en beperkingen van de uitoefening van het stemrecht die tussen de vennootschap en haar aandeelhouders of tussen aandeelhouders onderling zijn overeengekomen niet.
+
+3.	De aandeelhouder heeft recht op een billijke vergoeding van de schade die hij lijdt door de toepassing van lid 1, onderdeel c, d, of e, of lid 2.
+
+4.	Indien een openbaar bod wordt aangekondigd op een vennootschap die lid 1 of lid 2 toepast, door een vennootschap of rechtspersoon die niet dezelfde of een vergelijkbare bepaling of bepalingen toepast overeenkomstig de nationale regels ter uitvoering van artikel 9 lid 2 en lid 3 of artikel 11 van richtlijn nr. 2004/25/EG van het Europees Parlement en de Raad van 21 april 2004 betreffende het openbaar overnamebod (PbEU L 142), of door een dochtermaatschappij daarvan, kan de doelvennootschap besluiten dat het ingevolge lid 1 of lid 2 bepaalde niet geldt. Het besluit is onderworpen aan de goedkeuring van de algemene vergadering, die niet eerder mag zijn verleend dan 18 maanden voordat het bod is aangekondigd.
+
+5.	De toepassing van lid 1 onderscheidenlijk lid 2 wordt gemeld aan de Stichting Autoriteit Financiële Markten. Melding vindt ook plaats aan de toezichthoudende instantie van andere lidstaten van de Europese Unie waar de aandelen zijn toegelaten tot de handel op een gereglementeerde markt of waar de toelating is aangevraagd.
+
+6.	De ondernemingskamer van het gerechtshof te Amsterdam neemt kennis van alle rechtsvorderingen betreffende de toepassing van de leden 1 tot en met 4, ingediend door een aandeelhouder, een houder van certificaten van aandelen die met medewerking van de vennootschap zijn uitgegeven, een bestuurder of een commissaris.
+
+Artikel 359c
+
+1.	Hij die een openbaar bod heeft uitgebracht en als aandeelhouder voor eigen rekening ten minste 95% van het geplaatste kapitaal van de doelvennootschap verschaft alsmede ten minste 95% van de stemrechten van de doelvennootschap vertegenwoordigt, kan tegen de gezamenlijke andere aandeelhouders een vordering instellen tot overdracht van hun aandelen aan hem. Hetzelfde geldt, indien twee of meer groepsmaatschappijen dit deel van het geplaatste kapitaal samen verschaffen en dit deel van de stemrechten samen vertegenwoordigen en zij samen de vordering instellen tot overdracht aan degene die het openbaar bod heeft uitgebracht.
+
+2.	Zijn er verschillende soorten aandelen dan kan de vordering slechts worden ingesteld ten aanzien van de soort waarvan de eiser of eisers ten minste 95% van het geplaatste kapitaal verschaffen en 95% van de stemrechten vertegenwoordigen.
+
+3.	De vordering moet binnen drie maanden na afloop van de termijn voor aanvaarding van het bod worden ingesteld.
+
+4.	Over de vordering oordeelt in eerste aanleg de ondernemingskamer van het gerechtshof te Amsterdam. Van de uitspraak staat uitsluitend beroep in cassatie open.
+
+5.	Indien tegen een of meer gedaagden verstek is verleend, moet de rechter ambtshalve onderzoeken of de eiser of eisers de vereisten van lid 1 onderscheidenlijk lid 2 vervult of vervullen.
+
+6.	Indien de rechter oordeelt dat de leden 1 en 2 de toewijzing van de vordering niet beletten, stelt hij een billijke prijs vast voor de over te dragen aandelen op een door hem te bepalen dag. Wanneer een openbaar bod als bedoeld in artikel 5:74 van de Wet op het financieel toezicht is uitgebracht, wordt de waarde van de bij het bod geboden tegenprestatie, mits ten minste 90% van de aandelen is verworven waarop het bod betrekking had, geacht een billijke prijs te zijn. Wanneer een openbaar bod als bedoeld in artikel 5:70 van de Wet op het financieel toezicht is uitgebracht, wordt de waarde van de bij het bod geboden tegenprestatie geacht een billijke prijs te zijn. In afwijking van de tweede of derde zin kan de rechter bevelen dat een of drie deskundigen zullen berichten over de waarde van de over te dragen aandelen. De eerste drie zinnen van artikel 350 lid 3 en de artikelen 351 en 352 zijn dan van toepassing. De prijs luidt in geld. Zo lang en voor zover de prijs niet is betaald, wordt hij verhoogd met rente, gelijk aan de wettelijke rente, vanaf de dag die door de rechter is bepaald voor de vaststelling van de prijs tot de overdracht; uitkeringen op de aandelen die in dit tijdvak betaalbaar worden gesteld, strekken op de dag van betaalbaarstelling tot gedeeltelijke betaling van de prijs.
+
+7.	De rechter die de vordering toewijst, veroordeelt de overnemer aan degenen aan wie de aandelen toebehoren of zullen toebehoren de vastgestelde prijs met rente te betalen tegen levering van het onbezwaarde recht op de aandelen. De rechter geeft omtrent de kosten van het geding zodanige uitspraak als hij meent dat behoort. Een gedaagde die geen verweer heeft gevoerd, wordt niet verwezen in de kosten.
+
+8.	Staat het bevel tot overdracht bij gerechtelijk gewijsde vast, dan deelt de overnemer de dag en plaats van betaalbaarstelling en de prijs schriftelijk mee aan de houders van de over te nemen aandelen van wie hij het adres kent. Hij kondigt deze ook aan in een landelijk verspreid dagblad, tenzij hij van allen het adres kent.
+
+9.	De overnemer kan zich altijd van zijn verplichtingen ingevolge de leden 7 en 8 bevrijden door de vastgestelde prijs met rente voor alle nog niet overgenomen aandelen te consigneren, onder mededeling van hem bekende rechten van pand en vruchtgebruik en de hem bekende beslagen. Door deze mededeling gaat beslag over van de aandelen op het recht op uitkering. Door het consigneren gaat het recht op de aandelen onbezwaard op hem over en gaan rechten van pand of vruchtgebruik over op het recht op uitkering. Aan aandeel- en dividendbewijzen waarop na de overgang uitkeringen betaalbaar zijn gesteld, kan nadien geen recht jegens de vennootschap meer worden ontleend. De overnemer maakt het consigneren en de prijs per aandeel op dat tijdstip bekend op de wijze van lid 8.
+
+Artikel 359d
+
+1.	Tegen degene die een openbaar bod heeft uitgebracht en als aandeelhouder voor eigen rekening ten minste 95% van het geplaatste kapitaal van de doelvennootschap verschaft alsmede ten minste 95% van de stemrechten van de doelvennootschap vertegenwoordigt, kan door een andere aandeelhouder een vordering worden ingesteld tot overneming van de aandelen van de andere aandeelhouder. Hetzelfde geldt, indien twee of meer groepsmaatschappijen dit deel van het geplaatste kapitaal samen verschaffen en dit deel van de stemrechten samen vertegenwoordigen en een van hen het openbaar bod heeft uitgebracht.
+
+2.	Zijn er verschillende soorten aandelen dan kan de vordering worden ingesteld ten aanzien van de soort waarvan degene die een openbaar bod heeft uitgebracht alleen of samen met groepsmaatschappijen ten minste 95% van het geplaatste kapitaal verschaft en 95% van de stemrechten vertegenwoordigt.
+
+3.	De vordering moet binnen drie maanden na afloop van de termijn voor aanvaarding van het bod worden ingesteld.
+
+4.	Over de vordering oordeelt in eerste aanleg de ondernemingskamer van het gerechtshof te Amsterdam. Van de uitspraak staat uitsluitend beroep in cassatie open.
+
+5.	Indien tegen een of meer gedaagden verstek is verleend, moet de rechter ambtshalve onderzoeken of de gedaagden de vereisten van lid 1 onderscheidenlijk lid 2 vervullen.
+
+6.	Staat het bevel tot overneming bij gerechtelijk gewijsde vast, dan deelt de overnemer de dag en plaats van betaalbaarstelling van de prijs schriftelijk mee aan de houders van de over te nemen aandelen.
+
+7.	Artikel 359c, leden 6, 7 en 9, is van overeenkomstige toepassing.
+
 Titel 9. De jaarrekening en het jaarverslag
 
 Afdeling 1. Algemene bepaling
@@ -4715,7 +4778,7 @@ Artikel 391
 
 5.	Bij algemene maatregel van bestuur kunnen nadere voorschriften worden gesteld omtrent de inhoud van het jaarverslag. Deze voorschriften kunnen in het bijzonder betrekking hebben op naleving van een in de algemene maatregel van bestuur aan te wijzen gedragscode.
 
-6.	De voordracht voor een krachtens lid 4 vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+6.	De voordracht voor een krachtens lid 5 vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
 Afdeling 8. Overige gegevens
 
@@ -4726,7 +4789,7 @@ Artikel 392
 	b.	een weergave van de statutaire regeling omtrent de bestemming van de winst;
 	c.	een opgave van de bestemming van de winst of de verwerking van het verlies, of, zolang deze niet vaststaat, het voorstel daartoe;
 	d.	een weergave van de statutaire regeling omtrent de bijdrage in een tekort van een coöperatie of onderlinge waarborgmaatschappij, voor zover deze van de wettelijke bepalingen afwijkt;
-	e.	een lijst van namen van degenen aan wie een bijzonder statutair recht inzake de zeggenschap in de rechtspersoon toekomt, met een omschrijving van de aard van dat recht;
+	e.	een lijst van namen van degenen aan wie een bijzonder statutair recht inzake de zeggenschap in de rechtspersoon toekomt, met een omschrijving van de aard van dat recht, tenzij omtrent deze gegevens mededeling is gedaan in het jaarverslag op grond van artikel 391 lid 5;
 	f.	een opgave van het aantal winstbewijzen en soortgelijke rechten met vermelding van de bevoegdheden die zij geven;
 	g.	een opgave van de gebeurtenissen na de balansdatum met belangrijke financiële gevolgen voor de rechtspersoon en de in zijn geconsolideerde jaarrekening betrokken maatschappijen tezamen, onder mededeling van de omvang van die gevolgen.
 	h.	opgave van het bestaan van nevenvestigingen en van de landen waar nevenvestigingen zijn, alsmede van hun handelsnaam indien deze afwijkt van die van de rechtspersoon.
@@ -4735,7 +4798,7 @@ Artikel 392
 
 3.	Is een recht als bedoeld in lid 1 onder e in een aandeel belichaamd, dan wordt vermeld hoeveel zodanige aandelen elk der rechthebbenden houdt. Komt een zodanig recht aan een vennootschap, vereniging, coöperatie, onderlinge waarborgmaatschappij of stichting toe, dan worden tevens de namen van de bestuurders daarvan medegedeeld.
 
-4.	Het bepaalde in lid 1 onder e en in lid 3 is niet van toepassing, voor zover Onze Minister van Economische Zaken desverzocht aan de rechtspersoon wegens gewichtige redenen ontheffing heeft verleend; deze ontheffing kan telkens voor ten hoogste vijf jaren worden verleend.
+4.	Het bepaalde in lid 1 onder e en in lid 3 is niet van toepassing, voor zover Onze Minister van Economische Zaken desverzocht aan de rechtspersoon wegens gewichtige redenen ontheffing heeft verleend; deze ontheffing kan telkens voor ten hoogste vijf jaren worden verleend. Geen ontheffing kan worden verleend van het bepaalde in lid 1 onder e wanneer omtrent deze gegevens mededeling moet worden gedaan in het jaarverslag op grond van artikel 391 lid 5.
 
 5.	Het bestuur van een stichting of een vereniging als bedoeld in artikel 360 lid 3 behoeft de gegevens, bedoeld in lid 1, onder b en c, niet aan de jaarrekening en het jaarverslag toe te voegen.
 
