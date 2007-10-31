@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 28-10-2007 t/m 31-10-2007
+Geldend van 01-11-2007 t/m 25-03-2008
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -809,7 +809,7 @@ Artikel 63j
 1.	Aan de goedkeuring van de raad van commissarissen zijn onderworpen de besluiten van het bestuur omtrent:
 	a.	uitgifte van schuldbrieven ten laste van de rechtspersoon;
 	b.	uitgifte van schuldbrieven ten laste van een commanditaire vennootschap of vennootschap onder firma waarvan de rechtspersoon volledig aansprakelijke vennoot is;
-	c.	het aanvragen van toelating van de onder a en b bedoelde schuldbrieven tot de handel op een markt in financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht dan wel het aanvragen van een intrekking van zodanige toelating;
+	c.	het aanvragen van toelating van de onder a en b bedoelde schuldbrieven tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is dan wel het aanvragen van een intrekking van zodanige toelating;
 	d.	het aangaan of verbreken van duurzame samenwerking van de rechtspersoon of een afhankelijke maatschappij met een andere rechtspersoon of vennootschap dan wel als volledig aansprakelijk vennoot in een commanditaire vennootschap of vennootschap onder firma, indien deze samenwerking of verbreking van ingrijpende betekenis is voor de rechtspersoon;
 	e.	het nemen van een deelneming ter waarde van ten minste een vierde van het bedrag van het eigen vermogen volgens de balans met toelichting van de rechtspersoon, door deze of een afhankelijke maatschappij in het kapitaal van een vennootschap, alsmede het ingrijpend vergroten of verminderen van zulk een deelneming;
 	f.	investeringen welke een bedrag vereisen, gelijk aan een vierde van het eigen vermogen volgens de balans met toelichting van de rechtspersoon;
@@ -990,7 +990,7 @@ Artikel 80a
 
 2.	Voor of bij de oprichting kan storting in vreemd geld slechts geschieden indien de akte van oprichting vermeldt dat storting in vreemd geld is toegestaan; na de oprichting kan dit slechts geschieden met toestemming van de naamloze vennootschap. Storting in een valuta die een eenheid is van de euro krachtens artikel 109L, vierde lid van het Verdrag betreffende de Europese Unie wordt niet beschouwd als storting in vreemd geld.
 
-3.	Met storting in vreemd geld wordt aan de stortingsplicht voldaan voor het bedrag waartegen het gestorte bedrag vrijelijk in Nederlands geld kan worden gewisseld. Bepalend is de wisselkoers op de dag van de storting dan wel, indien vroeger dan een maand voor de oprichting is gestort, op de dag van de oprichting of, na toepassing van de volgende zin, op de daar bedoelde dag. De vennootschap kan storting verlangen tegen de wisselkoers op een bepaalde dag binnen twee maanden voor de laatste dag waarop moet worden gestort, mits de aandelen of certificaten onverwijld na de uitgifte zullen worden toegelaten tot de handel op een markt in financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, die zijn zetel heeft buiten Nederland.
+3.	Met storting in vreemd geld wordt aan de stortingsplicht voldaan voor het bedrag waartegen het gestorte bedrag vrijelijk in Nederlands geld kan worden gewisseld. Bepalend is de wisselkoers op de dag van de storting dan wel, indien vroeger dan een maand voor de oprichting is gestort, op de dag van de oprichting of, na toepassing van de volgende zin, op de daar bedoelde dag. De vennootschap kan storting verlangen tegen de wisselkoers op een bepaalde dag binnen twee maanden voor de laatste dag waarop moet worden gestort, mits de aandelen of certificaten onverwijld na de uitgifte zullen worden toegelaten tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in artikel 1:1 van de Wet op het financieel toezicht waarvoor een vergunning is verleend in een andere lidstaat of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is.
 
 Artikel 80b
 
@@ -1061,7 +1061,7 @@ Artikel 86b
 
 Artikel 86c
 
-1.	Voor de levering van een aandeel op naam of de levering van een beperkt recht daarop in een vennootschap, waarvan aandelen of certificaten van aandelen zijn toegelaten tot de handel op een markt in financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, of waarvan aandelen of certificaten van aandelen, naar ten tijde van de rechtshandeling op goede gronden kan worden verwacht, daartoe spoedig zullen worden toegelaten, gelden de volgende bepalingen.
+1.	Voor de levering van een aandeel op naam of de levering van een beperkt recht daarop in een vennootschap, waarvan aandelen of certificaten van aandelen zijn toegelaten tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is, of waarvan aandelen of certificaten van aandelen, naar ten tijde van de rechtshandeling op goede gronden kan worden verwacht, daartoe spoedig zullen worden toegelaten, gelden de volgende bepalingen.
 
 2.	Voor de levering van een aandeel op naam of de levering van een beperkt recht daarop zijn vereist een daartoe bestemde akte alsmede, behoudens in het geval dat de vennootschap zelf bij die rechtshandeling partij is, schriftelijke erkenning door de vennootschap van de levering. De erkenning geschiedt in de akte, of door een gedagtekende verklaring houdende de erkenning op de akte of op een notarieel of door de vervreemder gewaarmerkt afschrift of uittreksel daarvan, of op de wijze als bedoeld in lid 3. Met de erkenning staat gelijk de betekening van die akte of dat afschrift of uittreksel aan de vennootschap. Betreft het de levering van niet volgestorte aandelen, dan kan de erkenning slechts geschieden wanneer de akte een vaste dagtekening draagt.
 
@@ -1075,7 +1075,7 @@ Artikel 86d
 
 2.	De houder dient aannemelijk te maken dat het aandeelbewijs is verloren gegaan, onder vermelding van de identiteit van het betrokken aandeelbewijs.
 
-3.	De vennootschap publiceert de aanvraag om een duplicaat in de prijscourant van een markt in financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht als bedoeld in artikel 86c lid 1 of, indien de aandelen daarin niet zijn opgenomen, in een landelijk verspreid dagblad.
+3.	De vennootschap publiceert de aanvraag om een duplicaat in de prijscourant van een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is als bedoeld in artikel 86c lid 1 of, indien de aandelen daarin niet zijn opgenomen, in een landelijk verspreid dagblad.
 
 4.	Iedere belanghebbende kan binnen zes weken vanaf de dag na de publicatie van de aanvraag door een verzoekschrift aan de rechtbank in verzet komen tegen de verstrekking van het duplicaat.
 
@@ -1263,7 +1263,7 @@ Artikel 94b
 
 4.	De vennootschap legt, binnen acht dagen na de dag waarop de aandelen zijn genomen dan wel waarop de bijstorting opeisbaar werd, de accountantsverklaring bij de inbreng of een afschrift daarvan neer ten kantore van het handelsregister met opgave van de namen van de inbrengers en van het bedrag van het aldus gestorte deel van het geplaatste kapitaal.
 
-5.	Dit artikel is niet van toepassing voor zover de inbreng bestaat uit aandelen of certificaten van aandelen, daarin converteerbare rechten of winstbewijzen van een andere rechtspersoon, waarop de vennootschap een openbaar bod heeft uitgebracht, mits deze effecten of een deel daarvan zijn toegelaten tot de handel op een markt in financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.
+5.	Dit artikel is niet van toepassing voor zover de inbreng bestaat uit aandelen of certificaten van aandelen, daarin converteerbare rechten of winstbewijzen van een andere rechtspersoon, waarop de vennootschap een openbaar bod heeft uitgebracht, mits deze effecten of een deel daarvan zijn toegelaten tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is.
 
 Artikel 94c
 
@@ -1563,7 +1563,7 @@ Artikel 114a
 
 1.	Een onderwerp, waarvan de behandeling schriftelijk is verzocht door een of meer houders van aandelen die daartoe krachtens het volgende lid gerechtigd zijn, wordt opgenomen in de oproeping of op dezelfde wijze aangekondigd indien de vennootschap het verzoek niet later dan op de zestigste dag voor die van de vergadering heeft ontvangen en mits geen zwaarwichtig belang van de vennootschap zich daartegen verzet.
 
-2.	Om behandeling kan worden verzocht door een of meer houders van aandelen die alleen of gezamenlijk ten minste een honderdste gedeelte van het geplaatste kapitaal vertegenwoordigen of, indien de aandelen zijn toegelaten tot de handel op een markt in financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht ten minste een waarde vertegenwoordigen van € 50 miljoen. Bij algemene maatregel van bestuur kan dit bedrag worden verhoogd of verlaagd in verband met de ontwikkeling van het loon- en prijspeil.
+2.	Om behandeling kan worden verzocht door een of meer houders van aandelen die alleen of gezamenlijk ten minste een honderdste gedeelte van het geplaatste kapitaal vertegenwoordigen of, indien de aandelen zijn toegelaten tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is ten minste een waarde vertegenwoordigen van € 50 miljoen. Bij algemene maatregel van bestuur kan dit bedrag worden verhoogd of verlaagd in verband met de ontwikkeling van het loon- en prijspeil.
 
 3.	In de statuten kan het vereiste gedeelte van het kapitaal of de waarde van de aandelen lager worden gesteld en de termijn voor indiening van het verzoek worden verkort.
 
@@ -1633,7 +1633,7 @@ Artikel 118
 
 Artikel 118a
 
-1.	Indien met medewerking van de vennootschap certificaten van aandelen zijn uitgegeven die zijn toegelaten tot de handel op een markt in financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht wordt de houder van de certificaten op zijn verzoek gevolmachtigd om met uitsluiting van de volmachtgever het stemrecht verbonden aan het betreffende aandeel of de betreffende aandelen uit te oefenen in een in de volmacht aangegeven algemene vergadering. Een aldus gevolmachtigde certificaathouder kan het stemrecht naar eigen inzicht uitoefenen. De artikelen 88 lid 4 en 89 lid 4 zijn niet van toepassing.
+1.	Indien met medewerking van de vennootschap certificaten van aandelen zijn uitgegeven die zijn toegelaten tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is wordt de houder van de certificaten op zijn verzoek gevolmachtigd om met uitsluiting van de volmachtgever het stemrecht verbonden aan het betreffende aandeel of de betreffende aandelen uit te oefenen in een in de volmacht aangegeven algemene vergadering. Een aldus gevolmachtigde certificaathouder kan het stemrecht naar eigen inzicht uitoefenen. De artikelen 88 lid 4 en 89 lid 4 zijn niet van toepassing.
 
 2.	De stemgerechtigde kan de volmacht slechts beperken, uitsluiten of een gegeven volmacht herroepen indien:
 	a.	een openbaar bod is aangekondigd of uitgebracht op aandelen in het kapitaal van de vennootschap of op certificaten of de gerechtvaardigde verwachting bestaat dat daartoe zal worden overgegaan, zonder dat over het bod overeenstemming is bereikt met de vennootschap;
@@ -2033,7 +2033,7 @@ Artikel 164
 1.	Aan de goedkeuring van de raad van commissarissen zijn onderworpen de besluiten van het bestuur omtrent:
 	a.	uitgifte en verkrijging van aandelen in en schuldbrieven ten laste van de vennootschap of van schuldbrieven ten laste van een commanditaire vennootschap of vennootschap onder firma waarvan de vennootschap volledig aansprakelijke vennote is;
 	b.	medewerking aan de uitgifte van certificaten van aandelen;
-	c.	het aanvragen van toelating van de onder a en b bedoelde stukken tot de handel op een markt in financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht dan wel het aanvragen van een intrekking van zodanige toelating;
+	c.	het aanvragen van toelating van de onder a en b bedoelde stukken tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is dan wel het aanvragen van een intrekking van zodanige toelating;
 	d.	het aangaan of verbreken van duurzame samenwerking van de vennootschap of een afhankelijke maatschappij met een andere rechtspersoon of vennootschap dan wel als volledig aansprakelijke vennote in een commanditaire vennootschap of vennootschap onder firma, indien deze samenwerking of verbreking van ingrijpende betekenis is voor de vennootschap;
 	e.	het nemen van een deelneming ter waarde van ten minste een vierde van het bedrag van het geplaatste kapitaal met de reserves volgens de balans met toelichting van de vennootschap, door haar of een afhankelijke maatschappij in het kapitaal van een andere vennootschap, alsmede het ingrijpend vergroten of verminderen van zulk een deelneming;
 	f.	investeringen welke een bedrag gelijk aan ten minste een vierde gedeelte van het geplaatste kapitaal met de reserves der vennootschap volgens haar balans met toelichting vereisen;
@@ -2470,7 +2470,7 @@ Artikel 204b
 
 4.	De vennootschap legt, binnen acht dagen na de dag waarop de aandelen zijn genomen dan wel waarop de bijstorting opeisbaar werd, de accountantsverklaring bij de inbreng of een afschrift daarvan neer ten kantore van het handelsregister met opgave van de namen van de inbrengers en van het bedrag van het aldus gestorte deel van het geplaatste kapitaal.
 
-5.	Dit artikel is niet van toepassing voor zover de inbreng bestaat uit aandelen, certificaten van aandelen, daarin converteerbare rechten of winstbewijzen van een andere rechtspersoon, waarop de vennootschap een openbaar bod heeft uitgebracht, mits deze effecten of een deel daarvan zijn toegelaten tot de handel op een markt in financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.
+5.	Dit artikel is niet van toepassing voor zover de inbreng bestaat uit aandelen, certificaten van aandelen, daarin converteerbare rechten of winstbewijzen van een andere rechtspersoon, waarop de vennootschap een openbaar bod heeft uitgebracht, mits deze effecten of een deel daarvan zijn toegelaten tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is.
 
 Artikel 204c
 
@@ -3138,7 +3138,7 @@ Artikel 274
 1.	Aan de goedkeuring van de raad van commissarissen zijn onderworpen de besluiten van het bestuur omtrent:
 	a.	uitgifte en verkrijging van aandelen in en schuldbrieven ten laste van de vennootschap of van schuldbrieven ten laste van een commanditaire vennootschap of vennootschap onder firma waarvan de vennootschap volledig aansprakelijke vennote is;
 	b.	medewerking aan de uitgifte van certificaten op naam van aandelen;
-	c.	het aanvragen van toelating van de onder a en b bedoelde schuldbrieven onderscheidenlijk certificaten tot de handel op een markt in financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht dan wel het aanvragen van een intrekking van zodanige toelating;
+	c.	het aanvragen van toelating van de onder a en b bedoelde schuldbrieven onderscheidenlijk certificaten tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is dan wel het aanvragen van een intrekking van zodanige toelating;
 	d.	het aangaan of verbreken van duurzame samenwerking van de vennootschap of een afhankelijke maatschappij met een andere rechtspersoon of vennootschap dan wel als volledig aansprakelijke vennote in een commanditaire vennootschap of vennootschap onder firma, indien deze samenwerking of verbreking van ingrijpende betekenis is voor de vennootschap;
 	e.	het nemen van een deelneming ter waarde van ten minste een vierde van het bedrag van het geplaatste kapitaal met de reserves volgens de balans met toelichting van de vennootschap, door haar of een afhankelijke maatschappij in het kapitaal van een andere vennootschap, alsmede het ingrijpend vergroten of verminderen van zulk een deelneming;
 	f.	investeringen welke een bedrag gelijk aan ten minste een vierde gedeelte van het geplaatste kapitaal met de reserves der vennootschap volgens haar balans met toelichting vereisen;
@@ -3569,7 +3569,7 @@ Deze afdeling is van toepassing, indien een naamloze of besloten vennootschap fu
 
 Artikel 325
 
-1.	Indien aandelen of certificaten van aandelen in het kapitaal van een te fuseren vennootschap zijn toegelaten tot de handel op een markt in financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, kan de ruilverhouding afhankelijk zijn van de prijs van die aandelen onderscheidenlijk certificaten op die markt op een of meer in het voorstel tot fusie te bepalen tijdstippen, gelegen voor de dag waarop de fusie van kracht wordt.
+1.	Indien aandelen of certificaten van aandelen in het kapitaal van een te fuseren vennootschap zijn toegelaten tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is, kan de ruilverhouding afhankelijk zijn van de prijs van die aandelen onderscheidenlijk certificaten op die markt op een of meer in het voorstel tot fusie te bepalen tijdstippen, gelegen voor de dag waarop de fusie van kracht wordt.
 
 2.	Indien krachtens de ruilverhouding van de aandelen recht bestaat op geld of schuldvorderingen, mag het gezamenlijke bedrag daarvan een tiende van het nominale bedrag van de toegekende aandelen niet te boven gaan.
 
@@ -3890,7 +3890,7 @@ Ten tijde van de splitsing moet de waarde van het deel van het vermogen dat de v
 
 Artikel 334x
 
-1.	Indien aandelen of certificaten van aandelen in het kapitaal van een splitsende vennootschap zijn toegelaten tot de handel op een markt in financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, kan de ruilverhouding afhankelijk zijn van de prijs van die aandelen onderscheidenlijk certificaten op die beurs op een of meer in het voorstel tot splitsing te bepalen tijdstippen, gelegen voor de dag waarop de splitsing van kracht wordt.
+1.	Indien aandelen of certificaten van aandelen in het kapitaal van een splitsende vennootschap zijn toegelaten tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is, kan de ruilverhouding afhankelijk zijn van de prijs van die aandelen onderscheidenlijk certificaten op die beurs op een of meer in het voorstel tot splitsing te bepalen tijdstippen, gelegen voor de dag waarop de splitsing van kracht wordt.
 
 2.	Indien krachtens de ruilverhouding van de aandelen recht bestaat op geld of schuldvorderingen, mag het gezamenlijke bedrag daarvan een tiende van het nominale bedrag van de door de betrokken vennootschap toegekende aandelen niet te boven gaan.
 
@@ -4413,7 +4413,7 @@ Artikel 370
 
 Artikel 371
 
-1.	Behoren tot de vlottende activa aandelen en andere vormen van belangen in niet in de consolidatie betrokken maatschappijen als bedoeld in artikel 361 lid 4, dan worden deze afzonderlijk onder de effecten opgenomen. Vermeld wordt de gezamenlijke waarde van de overige tot de vlottende activa behorende effecten die zijn toegelaten tot de handel op een markt in financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.
+1.	Behoren tot de vlottende activa aandelen en andere vormen van belangen in niet in de consolidatie betrokken maatschappijen als bedoeld in artikel 361 lid 4, dan worden deze afzonderlijk onder de effecten opgenomen. Vermeld wordt de gezamenlijke waarde van de overige tot de vlottende activa behorende effecten die zijn toegelaten tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is.
 
 2.	Omtrent de effecten wordt vermeld, in hoeverre deze niet ter vrije beschikking van de rechtspersoon staan.
 
@@ -4910,7 +4910,7 @@ Artikel 398
 2.	Artikel 396 leden 3 tot en met 7 en artikel 397 leden 3 tot en met 7 zijn van toepassing voor zover de algemene vergadering uiterlijk zes maanden na het begin van het boekjaar niet anders heeft besloten.
 
 3.	De artikelen 396 en 397 zijn niet van toepassing op:
-	a.	een rechtspersoon die effecten heeft uitstaan die zijn toegelaten tot de handel op een markt in financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht; of
+	a.	een rechtspersoon die effecten heeft uitstaan die zijn toegelaten tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is; of
 	b.	een beleggingsmaatschappij waarvoor artikel 401 lid 1 geldt.
 
 4.	Bij algemene maatregel van bestuur worden de in artikel 396 lid 1 en artikel 397 lid 1 genoemde bedragen verlaagd, indien het recht van de Europese Gemeenschappen daartoe verplicht, en kunnen zij worden verhoogd, voor zover geoorloofd.
@@ -5009,7 +5009,7 @@ Artikel 407
 
 2.	Consolidatie mag achterwege blijven, indien
 	a.	bij consolidatie de grenzen van artikel 396 niet zouden worden overschreden;
-	b.	geen in de consolidatie te betrekken maatschappij effecten heeft uitstaan die zijn toegelaten tot de handel op een markt in financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht 1995; en
+	b.	geen in de consolidatie te betrekken maatschappij effecten heeft uitstaan die zijn toegelaten tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is; en
 	c.	niet binnen zes maanden na de aanvang van het boekjaar daartegen schriftelijk bezwaar bij de rechtspersoon is gemaakt door ten minste een tiende der leden of door houders van ten minste een tiende van het geplaatste kapitaal.
 
 3.	Indien de rechtspersoon groepsmaatschappijen beheert krachtens een regeling tot samenwerking met een rechtspersoon waarvan de financiële gegevens niet in zijn geconsolideerde jaarrekening worden opgenomen, mag hij zijn eigen financiële gegevens buiten de geconsolideerde jaarrekening houden. Dit geldt slechts, indien de rechtspersoon geen andere werkzaamheden heeft dan het beheren en financieren van groepsmaatschappijen en deelnemingen, en indien hij in zijn balans artikel 389 toepast.
