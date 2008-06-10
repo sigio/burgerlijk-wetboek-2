@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 26-03-2008 t/m 10-06-2008
+Geldend van 11-06-2008 t/m 24-06-2008
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -829,7 +829,7 @@ Afdeling 1. Algemene bepalingen
 
 Artikel 64
 
-1.	De naamloze vennootschap is een rechtspersoon met een in overdraagbare aandelen verdeeld maatschappelijk kapitaal. Een aandeelhouder is niet persoonlijk aansprakelijk voor hetgeen in naam van de vennootschap wordt verricht en is niet gehouden boven het bedrag dat op zijn aandeel behoort te worden gestort in de verliezen van de vennootschap bij te dragen.
+1.	De naamloze vennootschap is een rechtspersoon met een in overdraagbare aandelen verdeeld maatschappelijk kapitaal. Een aandeelhouder is niet persoonlijk aansprakelijk voor hetgeen in naam van de vennootschap wordt verricht en is niet gehouden boven het bedrag dat op zijn aandeel behoort te worden gestort in de verliezen van de vennootschap bij te dragen. Ten minste één aandeel wordt gehouden door een ander dan en anders dan voor rekening van de vennootschap of een van haar dochtermaatschappijen.
 
 2.	De vennootschap wordt door een of meer personen opgericht bij notariële akte. Voor oprichting is vereist een verklaring van Onze Minister van Justitie dat hem van geen bezwaren is gebleken. De akte wordt getekend door iedere oprichter en door ieder die blijkens deze akte een of meer aandelen neemt.
 
@@ -887,12 +887,14 @@ Artikel 68
 
 Artikel 69
 
-1.	De bestuurders zijn verplicht de vennootschap te doen inschrijven in het handelsregister en een authentiek afschrift van de akte van oprichting en van de daaraan ingevolge de artikelen 93a, 94 en 94a gehechte stukken neer te leggen ten kantore van het handelsregister. Tegelijkertijd moeten zij opgave doen van het totaal van de vastgestelde en geraamde kosten die met de oprichting verband houden en ten laste van de vennootschap komen.
+1.	De bestuurders zijn verplicht de vennootschap te doen inschrijven in het handelsregister en een authentiek afschrift van de akte van oprichting en van de daaraan ingevolge de artikelen 93a, 94 en 94a gehechte stukken, alsmede een afschrift van stukken die zijn opgesteld overeenkomstig artikel 94a lid 4, laatste zin, neer te leggen ten kantore van het handelsregister. Tegelijkertijd moeten zij opgave doen van het totaal van de vastgestelde en geraamde kosten die met de oprichting verband houden en ten laste van de vennootschap komen.
 
 2.	De bestuurders zijn naast de vennootschap hoofdelijk aansprakelijk voor elke tijdens hun bestuur verrichte rechtshandeling waardoor de vennootschap wordt verbonden in het tijdvak voordat:
 	a.	de opgave ter eerste inschrijving in het handelsregister, vergezeld van de neer te leggen afschriften, is geschied,
 	b.	het gestorte deel van het kapitaal ten minste het bij de oprichting voorgeschreven minimumkapitaal bedraagt, en
 	c.	op het bij de oprichting geplaatste kapitaal ten minste een vierde van het nominale bedrag is gestort.
+
+3.	De aansprakelijkheid als bedoeld in lid 2, onderdelen b en c, geldt niet, indien toepassing is gegeven aan artikel 94a lid 4, laatste zin, en onverwijld na het afleggen van de accountantsverklaring namens de vennootschap de stortingen zijn opgevraagd die noodzakelijk zijn om te voldoen aan artikel 67 lid 3 en artikel 80 lid 1.
 
 Artikel 70
 
@@ -1236,11 +1238,20 @@ moeten in haar geheel worden opgenomen in de akte van oprichting of in een gesch
 
 Artikel 94a
 
-1.	Indien bij de oprichting inbreng op aandelen anders dan in geld wordt overeengekomen, maken de oprichters een beschrijving op van hetgeen wordt ingebracht, met vermelding van de daaraan toegekende waarde en van de toegepaste waarderingsmethoden. Deze methoden moeten voldoen aan normen die in het maatschappelijke verkeer als aanvaardbaar worden beschouwd. De beschrijving heeft betrekking op de toestand van hetgeen wordt ingebracht op een dag die niet eerder dan vijf maanden voor de oprichting ligt. De beschrijving wordt door alle oprichters ondertekend en aan de akte van oprichting gehecht.
+1.	Indien bij de oprichting inbreng op aandelen anders dan in geld wordt overeengekomen, maken de oprichters een beschrijving op van hetgeen wordt ingebracht, met vermelding van de daaraan toegekende waarde en van de toegepaste waarderingsmethoden. Deze methoden moeten voldoen aan normen die in het maatschappelijke verkeer als aanvaardbaar worden beschouwd. De beschrijving heeft betrekking op de toestand van hetgeen wordt ingebracht op een dag die niet eerder dan zes maanden voor de oprichting ligt. De beschrijving wordt door alle oprichters ondertekend en aan de akte van oprichting gehecht.
 
 2.	Over de beschrijving van hetgeen wordt ingebracht moet een accountant als bedoeld in artikel 393, eerste lid een verklaring afleggen, die aan de akte van oprichting moet worden gehecht. Hierin verklaart hij dat de waarde van hetgeen wordt ingebracht, bij toepassing van in het maatschappelijke verkeer als aanvaardbaar beschouwde waarderingsmethoden, ten minste beloopt het bedrag van de stortingsplicht, in geld uitgedrukt, waaraan met de inbreng moet worden voldaan. Indien bekend is dat de waarde na de beschrijving aanzienlijk is gedaald, is een tweede verklaring vereist.
 
-3.	De beschrijving en accountantsverklaring zijn niet vereist, indien aan de volgende voorwaarden is voldaan:
+3.	De beschrijving en de accountantsverklaring zijn niet vereist, indien zulks in de akte van oprichting is bepaald ten aanzien van:
+	a.	inbreng van effecten of geldmarktinstrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, mits die effecten of geldmarktinstrumenten worden gewaardeerd tegen de gewogen gemiddelde koers waartegen zij gedurende drie maanden voorafgaande aan de dag van de inbreng op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht zijn verhandeld;
+	b.	inbreng anders dan in geld, niet zijnde effecten of instrumenten als bedoeld in onderdeel a, die is gewaardeerd door een onafhankelijke persoon die blijkens zijn opleiding en werkzaamheid deskundig is in het uitvoeren van waarderingen, mits de deskundigenwaardering geschiedt met toepassing van in het maatschappelijk verkeer als aanvaardbaar beschouwde waarderingsmethoden en de waarde van hetgeen wordt ingebracht wordt bepaald op een dag die niet eerder dan zes maanden voor de dag van de inbreng ligt;
+	c.	inbreng anders dan in geld, niet zijnde effecten of geldmarktinstrumenten als bedoeld in onderdeel a, waarvan de waarde wordt afgeleid uit een jaarrekening die is vastgesteld over het laatste boekjaar dat aan de inbreng voorafgaat en overeenkomstig Richtlijn 2006/43/EG van het Europees Parlement en de Raad van 17 mei 2006 betreffende de wettelijke controles van jaarrekeningen en geconsolideerde jaarrekeningen, tot wijziging van de Richtlijnen 78/660/EEG en 83/349/EEG van de Raad en houdende intrekking van Richtlijn 84/253/EEG van de Raad (PbEG L 157) aan een accountantscontrole is onderworpen.
+
+4.	Indien voor de oprichting bekend is dat de koers is beïnvloed door uitzonderlijke omstandigheden die ertoe leiden dat de waarde van effecten of instrumenten als bedoeld in lid 3, onderdeel a, op de dag van de inbreng aanzienlijk zal zijn gewijzigd of indien voor de oprichting bekend is dat de waarde van inbreng als bedoeld in lid 3, onderdeel b of c, op de dag van de inbreng als gevolg van nieuwe bijzondere omstandigheden aanzienlijk zal zijn gewijzigd, zijn de oprichters verplicht om alsnog een beschrijving op te maken die door alle oprichters wordt ondertekend en waarover een accountantsverklaring als bedoeld in lid 2 wordt afgelegd. De beschrijving en de accountantsverklaring worden aan de akte van oprichting gehecht. Geschiedt de inbreng na de oprichting en is in de periode tussen de oprichting en de inbreng bekend geworden dat zich omstandigheden als bedoeld in de eerste zin hebben voorgedaan, dan is het bestuur verplicht om alsnog een beschrijving op te maken waarover een accountantsverklaring als bedoeld in lid 2 wordt afgelegd.
+
+5.	Indien bij de oprichting inbreng op aandelen anders dan in geld wordt overeengekomen onder toepassing van lid 3, legt de vennootschap binnen een maand na de dag van de inbreng ten kantore van het handelsregister een verklaring van de oprichters neer waarin de inbreng wordt beschreven, met vermelding van de daaraan toegekende waarde en de toegepaste waarderingsmethoden. In de verklaring wordt tevens vermeld of de toegekende waarde ten minste beloopt het bedrag van de stortingsplicht, in geld uitgedrukt, waaraan met de inbreng moet worden voldaan en wordt voorts vermeld dat zich in de periode tussen de waardering en de inbreng geen nieuwe bijzondere omstandigheden hebben voorgedaan. De oprichters ondertekenen de verklaring; ontbreekt de handtekening van een of meer hunner, dan wordt daarvan onder opgave van reden melding gemaakt.
+
+6.	De beschrijving en accountantsverklaring zijn niet vereist, indien aan de volgende voorwaarden is voldaan:
 	a.	alle oprichters hebben besloten af te zien van de opstelling van de deskundigenverklaring;
 	b.	een of meer rechtspersonen op wier jaarrekening titel 9 van toepassing is, of die krachtens de toepasselijke wet voldoen aan de eisen van de vierde richtlijn van de Raad van de Europese Gemeenschappen inzake het vennootschapsrecht, nemen alle uit te geven aandelen tegen inbreng anders dan in geld;
 	c.	elke inbrengende rechtspersoon beschikt ten tijde van de inbreng over niet uitkeerbare reserves, voor zover nodig door het bestuur hiertoe afgezonderd uit de uitkeerbare reserves, ter grootte van het nominale bedrag der door de rechtspersoon genomen aandelen;
@@ -1249,21 +1260,27 @@ Artikel 94a
 	f.	elke inbrengende rechtspersoon zondert een reserve af ter grootte van het nominale bedrag der door hem genomen aandelen en kan dit doen uit reserves waarvan de aard dit niet belet;
 	g.	de vennootschap doet ten kantore van het handelsregister opgave van het onder a bedoelde besluit en elke inbrengende rechtspersoon doet aan hetzelfde kantoor opgave van zijn onder d vermelde verklaring.
 
-4.	Indien het vorige lid is toegepast, mag een inbrengende rechtspersoon zijn tegen de inbreng genomen aandelen niet vervreemden in het tijdvak, genoemd in dat lid onder d, en moet hij de reserve, genoemd in dat lid onder f aanhouden tot twee jaar na dat tijdvak. Nadien moet de reserve worden aangehouden tot het bedrag van de nog openstaande opgegeven vorderingen als bedoeld in het vorige lid onder d. De oorspronkelijke reserve wordt verminderd met betalingen op de opgegeven vorderingen.
+7.	Indien het vorige lid is toegepast, mag een inbrengende rechtspersoon zijn tegen de inbreng genomen aandelen niet vervreemden in het tijdvak, genoemd in dat lid onder d, en moet hij de reserve, genoemd in dat lid onder f aanhouden tot twee jaar na dat tijdvak. Nadien moet de reserve worden aangehouden tot het bedrag van de nog openstaande opgegeven vorderingen als bedoeld in het vorige lid onder d. De oorspronkelijke reserve wordt verminderd met betalingen op de opgegeven vorderingen.
 
-5.	De inbrengende rechtspersoon en alle in lid 3 onder d bedoelde schuldeisers kunnen de kantonrechter van de woonplaats van de vennootschap verzoeken, een bewind over de vorderingen in te stellen, strekkende tot hun voldoening daarvan uit de krachtens lid 3 onder d ter beschikking gestelde bedragen. Voor zover nodig, zijn de bepalingen van de Faillissementswet omtrent de verificatie van vorderingen en de vereffening van overeenkomstige toepassing. Een schuldeiser kan zijn vordering niet met een schuld aan een inbrengende rechtspersoon verrekenen. Over de vorderingen kan slechts onder de last van het bewind worden beschikt en zij kunnen slechts onder die last worden uitgewonnen, behalve voor schulden die voortspruiten uit handelingen welke door de bewindvoerder in zijn hoedanigheid zijn verricht. De kantonrechter regelt de bevoegdheden en de beloning van de bewindvoerder; hij kan zijn beschikking te allen tijde wijzigen.
+8.	De inbrengende rechtspersoon en alle in lid 6 onder d bedoelde schuldeisers kunnen de kantonrechter van de woonplaats van de vennootschap verzoeken, een bewind over de vorderingen in te stellen, strekkende tot hun voldoening daarvan uit de krachtens lid 6 onder d ter beschikking gestelde bedragen. Voor zover nodig, zijn de bepalingen van de Faillissementswet omtrent de verificatie van vorderingen en de vereffening van overeenkomstige toepassing. Een schuldeiser kan zijn vordering niet met een schuld aan een inbrengende rechtspersoon verrekenen. Over de vorderingen kan slechts onder de last van het bewind worden beschikt en zij kunnen slechts onder die last worden uitgewonnen, behalve voor schulden die voortspruiten uit handelingen welke door de bewindvoerder in zijn hoedanigheid zijn verricht. De kantonrechter regelt de bevoegdheden en de beloning van de bewindvoerder; hij kan zijn beschikking te allen tijde wijzigen.
 
 Artikel 94b
 
-1.	Indien na de oprichting inbreng op aandelen anders dan in geld wordt overeengekomen, maakt de vennootschap overeenkomstig artikel 94a lid 1 een beschrijving op van hetgeen wordt ingebracht. De beschrijving heeft betrekking op de toestand op een dag die niet eerder dan vijf maanden ligt voor de dag waarop de aandelen worden genomen dan wel waartegen een bijstorting is uitgeschreven of waarop zij is overeengekomen. De bestuurders ondertekenen de beschrijving; ontbreekt de handtekening van een of meer hunner, dan wordt daarvan onder opgave van reden melding gemaakt.
+1.	Indien na de oprichting inbreng op aandelen anders dan in geld wordt overeengekomen, maakt de vennootschap overeenkomstig artikel 94a lid 1 een beschrijving op van hetgeen wordt ingebracht. De beschrijving heeft betrekking op de toestand op een dag die niet eerder dan zes maanden ligt voor de dag waarop de aandelen worden genomen dan wel waartegen een bijstorting is uitgeschreven of waarop zij is overeengekomen. De bestuurders ondertekenen de beschrijving; ontbreekt de handtekening van een of meer hunner, dan wordt daarvan onder opgave van reden melding gemaakt.
 
 2.	Artikel 94a lid 2 is van overeenkomstige toepassing.
 
-3.	Indien alle aandeelhouders hebben besloten af te zien van de opstelling van de beschrijving en accountantsverklaring en overeenkomstig het derde lid, onder b-g, van artikel 94a is gehandeld, is geen beschrijving of accountantsverklaring vereist en is artikel 94a leden 4 en 5 van overeenkomstige toepassing.
+3.	In de in artikel 94a lid 3, onderdeel a, b en c, bedoelde gevallen kan het bestuur besluiten dat wordt afgezien van de opstelling van de beschrijving en de accountantsverklaring. Is voor de inbreng bekend dat zich omstandigheden als bedoeld in artikel 94a lid 4, eerste zin, hebben voorgedaan, dan is het bestuur verplicht om alsnog een beschrijving op te maken waarover een accountantsverklaring als bedoeld in artikel 94a lid 2 wordt afgelegd.
 
-4.	De vennootschap legt, binnen acht dagen na de dag waarop de aandelen zijn genomen dan wel waarop de bijstorting opeisbaar werd, de accountantsverklaring bij de inbreng of een afschrift daarvan neer ten kantore van het handelsregister met opgave van de namen van de inbrengers en van het bedrag van het aldus gestorte deel van het geplaatste kapitaal.
+4.	Indien na de oprichting inbreng op aandelen anders dan in geld wordt overeengekomen onder toepassing van lid 3, legt de vennootschap niet later dan op de achtste dag voor de dag van de inbreng ten kantore van het handelsregister een aankondiging neer waarin hetgeen wordt ingebracht wordt beschreven, met vermelding van de daaraan toegekende waarde, de toegepaste waarderingsmethoden, de namen van de inbrengers, het bedrag van het aldus gestorte deel van het geplaatste kapitaal en de datum van het in artikel 96 lid 1 bedoelde besluit tot uitgifte. In de aankondiging wordt tevens vermeld of de toegekende waarde ten minste beloopt het bedrag van de stortingsplicht, in geld uitgedrukt, waaraan met de inbreng moet worden voldaan en wordt voorts vermeld dat zich ten opzichte van de waardering van de inbreng geen nieuwe bijzondere omstandigheden hebben voorgedaan. De bestuurders ondertekenen de aankondiging; ontbreekt de handtekening van een of meer hunner, dan wordt daarvan onder opgave van reden melding gemaakt. Binnen een maand na de dag van de inbreng legt de vennootschap ten kantore van het handelsregister een verklaring neer waarin wordt vermeld dat zich in de periode tussen de in de eerste zin bedoelde aankondiging en de inbreng geen nieuwe bijzondere omstandigheden ten aanzien van de waardering hebben voorgedaan. De bestuurders ondertekenen de verklaring; ontbreekt de handtekening van een of meer hunner, dan wordt daarvan onder opgave van reden melding gemaakt.
 
-5.	Dit artikel is niet van toepassing voor zover de inbreng bestaat uit aandelen of certificaten van aandelen, daarin converteerbare rechten of winstbewijzen van een andere rechtspersoon, waarop de vennootschap een openbaar bod heeft uitgebracht, mits deze effecten of een deel daarvan zijn toegelaten tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is.
+5.	Blijven een beschrijving en accountantsverklaring als bedoeld in lid 3, tweede zin, achterwege en vindt de inbreng plaats overeenkomstig artikel 94a lid 3, onderdeel b of c, dan kunnen een of meer houders van aandelen die op de dag van het in artikel 96 lid 1 bedoelde besluit tot uitgifte alleen of gezamenlijk ten minste vijf procent van het geplaatste kapitaal vertegenwoordigen, van het bestuur verlangen dat het alsnog een beschrijving opmaakt waarover een accountantsverklaring als bedoeld in artikel 94a lid 2 wordt afgelegd. Het bestuur geeft hieraan uitvoering, mits de aandeelhouders hun verlangen uiterlijk op de dag die voorafgaat aan de dag van de inbreng aan het bestuur kenbaar hebben gemaakt en zij ten tijde van de indiening van het verzoek nog steeds ten minste vijf procent van het geplaatste kapitaal, zoals dat voor het besluit tot uitgifte luidde, vertegenwoordigen.
+
+6.	Indien alle aandeelhouders hebben besloten af te zien van de opstelling van de beschrijving en accountantsverklaring en overeenkomstig artikel 94a lid 6, onder b-g, is gehandeld, is geen beschrijving of accountantsverklaring vereist en is artikel 94a leden 7 en 8 van overeenkomstige toepassing.
+
+7.	De vennootschap legt, binnen acht dagen na de dag waarop de aandelen zijn genomen dan wel waarop de bijstorting opeisbaar werd, de accountantsverklaring bij de inbreng of een afschrift daarvan neer ten kantore van het handelsregister met opgave van de namen van de inbrengers en van het bedrag van het aldus gestorte deel van het geplaatste kapitaal.
+
+8.	Dit artikel is niet van toepassing voor zover de inbreng bestaat uit aandelen of certificaten van aandelen, daarin converteerbare rechten of winstbewijzen van een andere rechtspersoon, waarop de vennootschap een openbaar bod heeft uitgebracht, mits deze effecten of een deel daarvan zijn toegelaten tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is.
 
 Artikel 94c
 
@@ -1275,14 +1292,16 @@ Artikel 94c
 
 3.	Artikel 94a lid 2 is van overeenkomstige toepassing, met dien verstande dat de verklaring moet inhouden dat de waarde van de te verkrijgen goederen, bij toepassing van in het maatschappelijke verkeer als aanvaardbaar beschouwde waarderingsmethoden, overeenkomt met ten minste de waarde van de tegenprestatie.
 
-4.	Op het ter inzage leggen en in afschrift ter beschikking stellen van de in de vorige leden bedoelde stukken is artikel 102 van overeenkomstige toepassing.
+4.	Artikel 94b lid 3 is van overeenkomstige toepassing. Vindt een rechtshandeling plaats met toepassing van de vorige zin, dan kan deze niet op grond van lid 1 worden vernietigd wegens het ontbreken van de in lid 3 bedoelde verklaring. Artikel 94b lid 4 is van overeenkomstige toepassing, met dien verstande dat de datum van de in lid 1 bedoelde rechtshandeling in de beschrijving wordt vermeld.
 
-5.	De vennootschap legt binnen acht dagen na de rechtshandeling of na de goedkeuring, indien achteraf verleend, de in het derde lid bedoelde verklaring of een afschrift daarvan neer ten kantore van het handelsregister.
+5.	Op het ter inzage leggen en in afschrift ter beschikking stellen van de in de vorige leden bedoelde stukken is artikel 102 van overeenkomstige toepassing.
 
-6.	Voor de toepassing van dit artikel blijven buiten beschouwing:
+6.	De vennootschap legt binnen acht dagen na de rechtshandeling of na de goedkeuring, indien achteraf verleend, de in het derde lid bedoelde verklaring of een afschrift daarvan neer ten kantore van het handelsregister.
+
+7.	Voor de toepassing van dit artikel blijven buiten beschouwing:
 	a.	verkrijgingen op een openbare veiling of ter beurze,
 	b.	verkrijgingen die onder de bedongen voorwaarden tot de gewone bedrijfsuitoefening van de vennootschap behoren,
-	c.	verkrijgingen waarvoor een deskundigenverklaring als bedoeld in artikel 94a is afgelegd, en
+	c.	verkrijgingen waarvoor een verklaring als bedoeld in artikel 94a lid 2 is afgelegd,
 	d.	verkrijgingen ten gevolge van fusie of splitsing.
 
 Artikel 94d
@@ -1343,13 +1362,13 @@ Artikel 98
 
 1.	Verkrijging door de naamloze vennootschap van niet volgestorte aandelen in haar kapitaal is nietig.
 
-2.	Volgestorte eigen aandelen mag de vennootschap slechts verkrijgen om niet of indien:
-	a.	het eigen vermogen, verminderd met de verkrijgingsprijs, niet kleiner is dan het gestorte en opgevraagde deel van het kapitaal, vermeerderd met de reserves die krachtens de wet of de statuten moeten worden aangehouden, en
-	b.	het nominale bedrag van de aandelen in haar kapitaal die de vennootschap verkrijgt, houdt of in pand houdt of die worden gehouden door een dochtermaatschappij, niet meer beloopt dan een tiende van het geplaatste kapitaal.
+2.	Volgestorte eigen aandelen mag de vennootschap slechts verkrijgen om niet of indien het eigen vermogen, verminderd met de verkrijgingsprijs, niet kleiner is dan het gestorte en opgevraagde deel van het kapitaal, vermeerderd met de reserves die krachtens de wet of de statuten moeten worden aangehouden. Onverminderd het bepaalde in de vorige zin beloopt, indien de aandelen van de vennootschap zijn toegelaten tot de handel op een gereglementeerde markt of op een multilaterale handelsfaciliteit, als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is, het nominale bedrag van de aandelen in haar kapitaal die de vennootschap verkrijgt, houdt of in pand houdt of die worden gehouden door een dochtermaatschappij, niet meer dan de helft van het geplaatste kapitaal.
 
-3.	Voor het vereiste in lid 2 onder a is bepalend de grootte van het eigen vermogen volgens de laatst vastgestelde balans, verminderd met de verkrijgingsprijs voor aandelen in het kapitaal van de vennootschap en uitkeringen uit winst of reserves aan anderen die zij en haar dochtermaatschappijen na de balansdatum verschuldigd werden. Is een boekjaar meer dan zes maanden verstreken zonder dat de jaarrekening is vastgesteld, dan is verkrijging overeenkomstig lid 2 niet toegestaan.
+3.	Voor het vereiste in lid 2 is bepalend de grootte van het eigen vermogen volgens de laatst vastgestelde balans, verminderd met de verkrijgingsprijs voor aandelen in het kapitaal van de vennootschap, het bedrag van leningen als bedoeld in artikel 98c lid 2 en uitkeringen uit winst of reserves aan anderen die zij en haar dochtermaatschappijen na de balansdatum verschuldigd werden. Is een boekjaar meer dan zes maanden verstreken zonder dat de jaarrekening is vastgesteld, dan is verkrijging overeenkomstig lid 2 niet toegestaan.
 
-4.	Verkrijging anders dan om niet moet door de statuten zijn toegelaten en de algemene vergadering moet het bestuur daartoe hebben gemachtigd. Deze machtiging geldt voor ten hoogste achttien maanden. De algemene vergadering moet in de machtiging bepalen hoeveel aandelen mogen worden verkregen, hoe zij mogen worden verkregen en tussen welke grenzen de prijs moet liggen.
+4.	Verkrijging anders dan om niet kan slechts plaatsvinden indien en voor zover de algemene vergadering het bestuur daartoe heeft gemachtigd. Deze machtiging geldt voor ten hoogste vijf jaar. In afwijking van de vorige volzin geldt in het geval de aandelen van een vennootschap zijn toegelaten tot de handel op een gereglementeerde markt of op een multilaterale handelsfaciliteit, als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is deze machtiging voor ten hoogste achttien maanden.
+
+De algemene vergadering bepaalt in de machtiging hoeveel aandelen mogen worden verkregen, hoe zij mogen worden verkregen en tussen welke grenzen de prijs moet liggen. De statuten kunnen de verkrijging door de vennootschap van eigen aandelen uitsluiten of beperken.
 
 5.	De machtiging is niet vereist, voor zover de statuten toestaan dat de vennootschap eigen aandelen verkrijgt om, krachtens een voor hen geldende regeling, over te dragen aan werknemers in dienst van de vennootschap of van een groepsmaatschappij. Deze aandelen moeten zijn opgenomen in de prijscourant van een beurs.
 
@@ -1379,11 +1398,27 @@ Indien een ander in eigen naam voor rekening van de naamloze vennootschap aandel
 
 Artikel 98c
 
-1.	De naamloze vennootschap mag niet, met het oog op het nemen of verkrijgen door anderen van aandelen in haar kapitaal of van certificaten daarvan, leningen verstrekken, zekerheid stellen, een koersgarantie geven, zich op andere wijze sterk maken of zich hoofdelijk of anderszins naast of voor anderen verbinden. Dit verbod geldt ook voor haar dochtermaatschappijen.
+1.	De vennootschap mag niet, met het oog op het nemen of verkrijgen door anderen van aandelen in haar kapitaal of van certificaten daarvan, zekerheid stellen, een koersgarantie geven, zich op andere wijze sterk maken of zich hoofdelijk of anderszins naast of voor anderen verbinden. Dit verbod geldt ook voor haar dochtermaatschappijen.
 
-2.	Het verbod geldt niet indien aandelen of certificaten van aandelen worden genomen of verkregen door of voor werknemers in dienst van de vennootschap of van een groepsmaatschappij.
+2.	De vennootschap en haar dochtermaatschappijen mogen niet, met het oog op het nemen of verkrijgen door anderen van aandelen in het kapitaal van de vennootschap of van certificaten daarvan, leningen verstrekken, tenzij het bestuur daartoe besluit en er is voldaan aan de volgende voorwaarden:
+	a.	het verstrekken van de lening, met inbegrip van de rente die de vennootschap ontvangt en de zekerheden die aan de vennootschap worden verstrekt, geschiedt tegen billijke marktvoorwaarden;
+	b.	het eigen vermogen, verminderd met het bedrag van de lening, is niet kleiner dan het gestorte en opgevraagde deel van het kapitaal, vermeerderd met de reserves die krachtens de wet of de statuten moeten worden aangehouden;
+	c.	de kredietwaardigheid van de derde of, wanneer het meerpartijentransacties betreft, van iedere erbij betrokken tegenpartij is nauwgezet onderzocht;
+	d.	indien de lening wordt verstrekt met het oog op het nemen van aandelen in het kader van een verhoging van het geplaatste kapitaal van de vennootschap of met het oog op het verkrijgen van aandelen die de vennootschap in haar kapitaal houdt, is de prijs waarvoor de aandelen worden genomen of verkregen billijk.
 
-3.	Het verbod geldt niet voor een financiële onderneming die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van bank mag uitoefenen, voorzover zij handelt in de gewone uitoefening van haar bedrijf.
+3.	Voor het vereiste in lid 2, onderdeel b, is bepalend de grootte van het eigen vermogen volgens de laatst vastgestelde balans, verminderd met de verkrijgingsprijs voor aandelen in het kapitaal van de vennootschap en uitkeringen uit winst of reserves aan anderen die zij en haar dochtermaatschappijen na de balansdatum verschuldigd werden. Is een boekjaar meer dan zes maanden verstreken zonder dat de jaarrekening is vastgesteld, dan is een transactie als bedoeld in lid 2 niet toegestaan.
+
+4.	De vennootschap houdt een niet-uitkeerbare reserve aan ter grootte van het bedrag van de in lid 2 bedoelde leningen.
+
+5.	Een besluit van het bestuur tot het verstrekken van een lening als bedoeld in lid 2 is onderworpen aan de voorafgaande goedkeuring van de algemene vergadering. Het besluit tot goedkeuring wordt genomen met een meerderheid van ten minste twee derden van de uitgebrachte stemmen, indien minder dan de helft van het geplaatste kapitaal ter vergadering is vertegenwoordigd. In afwijking van de vorige volzin wordt in het geval aandelen of certificaten van aandelen van de vennootschap zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht dan wel op een multilaterale handelsfaciliteit als bedoeld in artikel 1:1 van de Wet op het financieel toezicht het besluit tot goedkeuring genomen met ten minste 95 procent van de uitgebrachte stemmen.
+
+6.	Wanneer aan de algemene vergadering de in lid 5 bedoelde goedkeuring wordt gevraagd, wordt zulks bij de oproeping tot de algemene vergadering vermeld. Gelijktijdig met de oproeping wordt ten kantore van de vennootschap een rapport ter inzage van de aandeelhouders en de houders van met medewerking van de vennootschap uitgegeven certificaten van haar aandelen gelegd waarin melding wordt gemaakt van de redenen voor het verstrekken van de lening, het voor de vennootschap daaraan verbonden belang, de voorwaarden waartegen de lening zal worden verstrekt, de koers waartegen de aandelen door de derde zullen worden genomen of verkregen en de aan de lening verbonden risico’s voor de liquiditeit en de solvabiliteit van de vennootschap.
+
+7.	De vennootschap legt binnen acht dagen na de in lid 5 bedoelde goedkeuring het in lid 6 bedoelde rapport of een afschrift daarvan neer ten kantore van het handelsregister.
+
+8.	De leden 1 tot en met 7 gelden niet, indien aandelen of certificaten van aandelen worden genomen of verkregen door of voor werknemers in dienst van de vennootschap of van een groepsmaatschappij.
+
+9.	De leden 1 tot en met 7 gelden niet voor een financiële onderneming die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van bank mag uitoefenen, voor zover zij handelt in de gewone uitoefening van haar bedrijf.
 
 Artikel 98d
 
@@ -1422,7 +1457,7 @@ Artikel 100
 
 2.	De vennootschap moet, op straffe van gegrondverklaring van een verzet als bedoeld in het volgende lid, voor iedere schuldeiser die dit verlangt zekerheid stellen of hem een andere waarborg geven voor de voldoening van zijn vordering. Dit geldt niet, indien de schuldeiser voldoende waarborgen heeft of de vermogenstoestand van de vennootschap voldoende zekerheid biedt dat de vordering zal worden voldaan.
 
-3.	Binnen twee maanden na de in het eerste lid vermelde aankondiging kan iedere schuldeiser door een verzoekschrift aan de rechtbank tegen het besluit tot kapitaalvermindering in verzet komen met vermelding van de waarborg die wordt verlangd.
+3.	Binnen twee maanden na de in het eerste lid vermelde aankondiging kan iedere schuldeiser door een verzoekschrift aan de rechtbank tegen het besluit tot kapitaalvermindering in verzet komen met vermelding van de waarborg die wordt verlangd. De rechter wijst het verzoek af, indien de verzoeker niet aannemelijk heeft gemaakt dat als gevolg van de kapitaalvermindering twijfel omtrent de voldoening van zijn vordering gewettigd is en dat de vennootschap onvoldoende waarborgen heeft gegeven voor de voldoening van zijn vordering.
 
 4.	Voordat de rechter beslist, kan hij de vennootschap in de gelegenheid stellen binnen een door hem bepaalde termijn een door hem omschreven waarborg te geven. Op een ingesteld rechtsmiddel kan hij, indien het kapitaal al is verminderd, het stellen van een waarborg bevelen en daaraan een dwangsom verbinden.
 
@@ -3930,7 +3965,7 @@ Artikel 334aa
 
 Artikel 334bb
 
-1.	Ten aanzien van de door een verkrijgende naamloze vennootschap toegekende aandelen zijn de artikelen 94a en 94b van overeenkomstige toepassing en ten aanzien van de door een verkrijgende besloten vennootschap toegekende aandelen de artikelen 204a en 204b. Een ingevolge de artikelen 94a of 204a vereiste verklaring van een accountant behoeft echter niet aan de akte van oprichting te worden gehecht.
+1.	Ten aanzien van de door een verkrijgende naamloze vennootschap toegekende aandelen zijn artikel 94a, leden 1, 2, 6, 7 en 8, en artikel 94b, leden 1, 2, 6, 7 en 8 van overeenkomstige toepassing en ten aanzien van de door een verkrijgende besloten vennootschap toegekende aandelen de artikelen 204a en 204b. Een ingevolge de artikelen 94a of 204a vereiste verklaring van een accountant behoeft echter niet aan de akte van oprichting te worden gehecht.
 
 2.	Op een ingevolge lid 1 vereiste verklaring van een accountant is artikel 334h van overeenkomstige toepassing.
 
@@ -4440,7 +4475,7 @@ Artikel 373
 
 3.	Het kapitaal wordt niet verminderd met het bedrag van eigen aandelen of certificaten daarvan die de rechtspersoon of een dochtermaatschappij houdt.
 
-4.	Wettelijke reserves zijn de reserves die moeten worden aangehouden ingevolge de artikelen 67a lid 2, 67a lid 3, 94a lid 3 onderdeel f., 178 lid 3, 178a lid 2, 178a lid 3, 207c lid 3, 365 lid 2, 389, leden 6 en 8, 390, 401 lid 2, en 423 lid 4.
+4.	Wettelijke reserves zijn de reserves die moeten worden aangehouden ingevolge de artikelen 67a lid 2, 67a lid 3, 94a lid 6 onderdeel f., 98c lid 4, 178 lid 3, 178a lid 2, 178a lid 3, 207c lid 3, 365 lid 2, 389, leden 6 en 8, 390, 401 lid 2, en 423 lid 4.
 
 5.	In een jaarrekening die in een vreemde geldeenheid wordt opgesteld, wordt de in lid 1 onderdeel a bedoelde post opgenomen in die geldeenheid, naar de koers op de balansdatum. Tevens worden dan deze koers en het bedrag in Nederlands geld vermeld. Voor de toepassing van artikel 178 lid 3 wordt naar de zelfde koers gerekend.
 
