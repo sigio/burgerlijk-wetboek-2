@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 25-06-2008 t/m 27-06-2008
+Geldend van 28-06-2008 t/m 30-06-2008
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -3682,6 +3682,10 @@ Artikel 334
 
 3.	De groepsmaatschappij die de aandelen toekent geldt naast de verkrijgende vennootschap als fuserende rechtspersoon. Op haar rusten de verplichtingen die ingevolge de artikelen 312-329 op een verkrijgende vennootschap rusten, met uitzondering van de verplichtingen uit de artikelen 316, 317, 318 lid 4, 321 lid 2 en lid 4, 323, lid 7; voor de toepassing van artikel 328 lid 3 blijft zij buiten beschouwing. De artikelen 312 lid 2 onder b, 320, 325 lid 3 en 326 lid 1 onder b gelden alsdan niet voor de verkrijgende vennootschap.
 
+Afdeling 3A. Bijzondere bepalingen voor grensoverschrijdende fusies
+
+[Dit onderdeel is nog niet inwerking getreden]
+
 Afdeling 4. Algemene bepalingen omtrent splitsingen
 
 Artikel 334a
@@ -4641,7 +4645,11 @@ Medegedeeld wordt het gemiddelde aantal gedurende het boekjaar bij de rechtspers
 
 Artikel 382a
 
-[Dit onderdeel is nog niet inwerking getreden]
+1.	Opgegeven worden de in het boekjaar ten laste van de rechtspersoon gebrachte totale honoraria voor het onderzoek van de jaarrekening, totale honoraria voor andere controleopdrachten, totale honoraria voor adviesdiensten op fiscaal terrein en totale honoraria voor andere niet-controlediensten, uitgevoerd door de externe accountant en de accountantsorganisatie, genoemd in artikel 1, eerste lid, onder a en e, van de Wet toezicht accountantsorganisaties.
+
+2.	Indien de rechtspersoon dochtermaatschappijen heeft of de financiële gegevens van andere maatschappijen consolideert, worden de honoraria die in het boekjaar te hunnen laste zijn gebracht, in de opgave begrepen.
+
+3.	De honoraria hoeven niet opgegeven te worden door een rechtspersoon waarvan de financiële gegevens zijn geconsolideerd in een geconsolideerde jaarrekening waarop krachtens het toepasselijke recht de verordening van het Europees Parlement en de Raad betreffende de toepassing van internationale standaarden voor jaarrekeningen of de zevende richtlijn van de Raad van de Europese Gemeenschappen inzake het vennootschapsrecht van toepassing is.
 
 Artikel 383
 
@@ -4847,7 +4855,7 @@ Artikel 393
 
 1.	De rechtspersoon verleent opdracht tot onderzoek van de jaarrekening aan een registeraccountant of aan een Accountant-Administratieconsulent ten aanzien van wie bij de inschrijving in het in artikel 36, eerste lid, van de Wet op de Accountants-Administratieconsulenten bedoelde register een aantekening is geplaatst als bedoeld in artikel 36, derde lid, van die wet. De opdracht kan worden verleend aan een organisatie waarin accountants die mogen worden aangewezen, samenwerken.
 
-2.	Tot het verlenen van de opdracht is de algemene vergadering van leden of aandeelhouders bevoegd. Gaat deze daartoe niet over, dan is de raad van commissarissen bevoegd of, zo deze ontbreekt of in gebreke blijft, het bestuur. De aanwijzing van een accountant wordt door generlei voordracht beperkt; de opdracht kan te allen tijde worden ingetrokken door de algemene vergadering en door degene die haar heeft verleend; de door het bestuur verleende opdracht kan bovendien door de raad van commissarissen worden ingetrokken. De algemene vergadering hoort de accountant op diens verlangen omtrent de intrekking van een hem verleende opdracht of omtrent het hem kenbaar gemaakte voornemen daartoe.
+2.	Tot het verlenen van de opdracht is de algemene vergadering van leden of aandeelhouders bevoegd. Gaat deze daartoe niet over, dan is de raad van commissarissen bevoegd of, zo deze ontbreekt of in gebreke blijft, het bestuur. De aanwijzing van een accountant wordt door generlei voordracht beperkt. De opdracht kan worden ingetrokken door de algemene vergadering en door degene die haar heeft verleend; de door het bestuur verleende opdracht kan bovendien door de raad van commissarissen worden ingetrokken. De opdracht kan enkel worden ingetrokken om gegronde redenen; daartoe behoort niet een meningsverschil over methoden van verslaggeving of controlewerkzaamheden. De algemene vergadering hoort de accountant op diens verlangen omtrent de intrekking van een hem verleende opdracht of omtrent het hem kenbaar gemaakte voornemen daartoe. Het bestuur en de accountant stellen de Stichting Autoriteit Financiële Markten onverwijld in kennis van de intrekking van de opdracht door de rechtspersoon of tussentijdse beëindiging ervan door de accountant en geven hiervoor een afdoende motivering.
 
 3.	De accountant onderzoekt of de jaarrekening het in artikel 362 lid 1 vereiste inzicht geeft. Hij gaat voorts na, of de jaarrekening aan de bij en krachtens de wet gestelde voorschriften voldoet, of het jaarverslag, voor zover hij dat kan beoordelen, overeenkomstig deze titel is opgesteld en met de jaarrekening verenigbaar is, en of de in artikel 392 lid 1, onderdelen b tot en met g vereiste gegevens zijn toegevoegd.
 
@@ -4913,7 +4921,7 @@ Artikel 396
 
 4.	In de winst- en verliesrekening worden de posten genoemd in artikel 377 lid 3 onder a-d en g, onderscheidenlijk lid 4 onder a-c en f, samengetrokken tot een post bruto-bedrijfsresultaat; de rechtspersoon vermeldt in een verhoudingscijfer in welke mate de netto-omzet ten opzichte van die van het vorige jaar is gestegen of gedaald.
 
-5.	Het in artikel 378 lid 1 genoemde overzicht wordt slechts gegeven voor de herwaarderingsreserve, behoudens de tweede zin van artikel 378 lid 3; opgegeven worden het aantal geplaatste aandelen en het bedrag per soort, aantal en bedrag van de in het boekjaar uitgegeven aandelen en van de aandelen en certificaten daarvan die de rechtspersoon of een dochtermaatschappij voor eigen rekening houdt. De artikelen 380, 381b, aanhef en onder a, en 383 lid 1 zijn niet van toepassing.
+5.	Het in artikel 378 lid 1 genoemde overzicht wordt slechts gegeven voor de herwaarderingsreserve, behoudens de tweede zin van artikel 378 lid 3; opgegeven worden het aantal geplaatste aandelen en het bedrag per soort, aantal en bedrag van de in het boekjaar uitgegeven aandelen en van de aandelen en certificaten daarvan die de rechtspersoon of een dochtermaatschappij voor eigen rekening houdt. De artikelen 380, 381b, aanhef en onder a, 382a en 383 lid 1 zijn niet van toepassing.
 
 6.	In afwijking van afdeling 6 van deze titel komen voor de waardering van de activa en passiva en voor de bepaling van het resultaat ook in aanmerking de grondslagen voor de bepaling van de belastbare winst, bedoeld in hoofdstuk II van de Wet op de vennootschapsbelasting 1969, mits de rechtspersoon daarbij alle voor hem van toepassing zijnde fiscale grondslagen toepast. Indien de rechtspersoon deze grondslagen toepast, maakt zij daarvan melding in de toelichting. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent het gebruik van deze grondslagen en de toelichting die daarbij gegeven wordt.
 
@@ -4923,7 +4931,7 @@ Artikel 396
 
 9.	Indien de rechtspersoon geen winst beoogt, behoeft hij artikel 394 niet toe te passen, mits hij
 	a.	de in lid 8 bedoelde stukken aan schuldeisers en houders van aandelen in zijn kapitaal of van certificaten daarvan op hun verzoek onmiddellijk kosteloos toezendt of ten kantore van de rechtspersoon ter inzage geeft; en
-	b.	ten kantore van het handelsregister een verklaring van een openbare accountant heeft neergelegd, inhoudende dat de rechtspersoon in het boekjaar geen werkzaamheden heeft verricht buiten de doelomschrijving en dat dit artikel op hem van toepassing is.
+	b.	ten kantore van het handelsregister een verklaring van een accountant heeft neergelegd, inhoudende dat de rechtspersoon in het boekjaar geen werkzaamheden heeft verricht buiten de doelomschrijving en dat dit artikel op hem van toepassing is.
 
 Artikel 397
 
@@ -4936,7 +4944,7 @@ Artikel 397
 
 3.	In de winst- en verliesrekening worden de posten genoemd in artikel 377 lid 3, onder a-d en g, onderscheidenlijk lid 4, onder a-c en f, samengetrokken tot een post bruto-bedrijfsresultaat; de rechtspersoon vermeldt in een verhoudingscijfer, in welke mate de netto-omzet ten opzichte van die van het vorige jaar is gestegen of gedaald.
 
-4.	Artikel 380 is niet van toepassing.
+4.	Artikel 380 is niet van toepassing. Artikel 382a is niet van toepassing, mits de in dat artikel bedoelde gegevens aan de Stichting Autoriteit Financiële Markten op diens verzoek worden verstrekt.
 
 5.	Van de in afdeling 3 voorgeschreven opgaven behoeven in de openbaar gemaakte balans met toelichting slechts vermelding die welke voorkomen in de artikelen 364, 365 lid 1 onder d, 366, 367 onder a-d, 370 lid 1 onder b en c , 373, 374 leden 3 en 4, 375 lid 1 onder a, b, f en g en lid 3, alsmede 376 en de overlopende posten. De leden 2 van de artikelen 370 en 375 vinden toepassing zowel op het totaal van de vorderingen en schulden als op de posten uit lid 1 van die artikelen welke afzonderlijke vermelding behoeven. De openbaar te maken winst- en verliesrekening en de toelichting mogen worden beperkt overeenkomstig lid 3 en lid 4.
 
@@ -5076,7 +5084,7 @@ De financiële gegevens van een rechtspersoon of vennootschap mogen in de gecons
 
 Artikel 410
 
-1.	De bepalingen van deze titel over de jaarrekening en onderdelen daarvan, uitgezonderd de artikelen 365 lid 2, 378, 379, 383, 383b tot en met 383e, 389 leden 6 en 8, en 390, zijn van overeenkomstige toepassing op de geconsolideerde jaarrekening.
+1.	De bepalingen van deze titel over de jaarrekening en onderdelen daarvan, uitgezonderd de artikelen 365 lid 2, 378, 379, 382a, 383, 383b tot en met 383e, 389 leden 6 en 8, en 390, zijn van overeenkomstige toepassing op de geconsolideerde jaarrekening.
 
 2.	Voorraden hoeven niet te worden uitgesplitst, indien dat wegens bijzondere omstandigheden onevenredige kosten zou vergen.
 
