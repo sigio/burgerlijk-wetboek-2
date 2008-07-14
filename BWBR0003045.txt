@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 01-07-2008 t/m 14-07-2008
+Geldend van 15-07-2008 t/m 31-08-2008
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -3413,6 +3413,8 @@ Artikel 308
 
 2.	Zij zijn niet van toepassing op verenigingen zonder volledige rechtsbevoegdheid en op verenigingen van appartementseigenaars.
 
+3.	Deze titel is voorts van toepassing op een naamloze vennootschap, een besloten vennootschap met beperkte aansprakelijkheid of een Europese coöperatieve vennootschap die fuseert met een kapitaalvennootschap of coöperatieve vennootschap naar het recht van een andere lidstaat van de Europese Unie of de Europese Economische Ruimte.
+
 Afdeling 2. Algemene bepalingen omtrent fusies
 
 Artikel 309
@@ -3437,7 +3439,7 @@ Artikel 311
 
 1.	Met uitzondering van de verkrijgende rechtspersoon houden de fuserende rechtspersonen door het van kracht worden van de fusie op te bestaan.
 
-2.	De leden of aandeelhouders van de verdwijnende rechtspersonen worden door de fusie lid of aandeelhouder van de verkrijgende rechtspersoon, uitgezonderd in de gevallen van de artikelen 310 lid 4, 333 of 334, of wanneer krachtens de ruilverhouding van de aandelen zelfs geen recht bestaat op een enkel aandeel.
+2.	De leden of aandeelhouders van de verdwijnende rechtspersonen worden door de fusie lid of aandeelhouder van de verkrijgende rechtspersoon, uitgezonderd in de gevallen van de artikelen 310 lid 4, 333, 333a of 333h lid 3, of wanneer krachtens de ruilverhouding van de aandelen zelfs geen recht bestaat op een enkel aandeel.
 
 Artikel 312
 
@@ -3674,7 +3676,7 @@ Artikel 333
 
 3.	Indien een verkrijgende vereniging, coöperatie, onderlinge waarborgmaatschappij of stichting fuseert met een naamloze of besloten vennootschap waarvan zij alle aandelen houdt, is van deze afdeling slechts van toepassing artikel 329.
 
-Artikel 334
+Artikel 333a
 
 1.	De akte van fusie kan bepalen dat de aandeelhouders van de verdwijnende vennootschappen aandeelhouder worden van een groepsmaatschappij van de verkrijgende vennootschap. Zij worden dan geen aandeelhouder van de verkrijgende vennootschap.
 
@@ -3684,7 +3686,104 @@ Artikel 334
 
 Afdeling 3A. Bijzondere bepalingen voor grensoverschrijdende fusies
 
-[Dit onderdeel is nog niet inwerking getreden]
+Artikel 333b
+
+1.	Deze afdeling is van toepassing indien een naamloze vennootschap, een besloten vennootschap met beperkte aansprakelijkheid of een Europese coöperatieve vennootschap fuseert met een kapitaalvennootschap of coöperatieve vennootschap naar het recht van een andere lidstaat van de Europese Unie of de Europese Economische Ruimte.
+
+2.	Deze afdeling is van toepassing op een naamloze vennootschap die beleggingsinstelling is als bedoeld in de Wet op het financieel toezicht waarvan de rechten van deelneming op verzoek van de deelnemers direct of indirect worden ingekocht of terugbetaald ten laste van de activa van de instelling.
+
+Artikel 333c
+
+1.	Een naamloze of besloten vennootschap kan fuseren met een kapitaalvennootschap die is opgericht naar het recht van een andere lidstaat van de Europese Unie of de Europese Economische Ruimte. Een naamloze of besloten vennootschap kan voorts verkrijgende vennootschap zijn bij een fusie tussen kapitaalvennootschappen die zijn opgericht naar het recht van een andere lidstaat van de Europese Unie of de Europese Economische Ruimte.
+
+2.	Een Europese coöperatieve vennootschap met zetel in Nederland kan fuseren met een coöperatieve vennootschap opgericht naar het recht van een of meer andere lidstaten van de Europese Unie of de Europese Economische Ruimte. Een Europese coöperatieve vennootschap met zetel in Nederland kan voorts verkrijgende vennootschap zijn bij een fusie tussen coöperatieve vennootschappen opgericht naar het recht van een of meer andere lidstaten van de Europese Unie of de Europese Economische Ruimte. Op de fusie zijn tevens de artikelen 324 tot en met 333 van toepassing, tenzij in deze afdeling anders is bepaald.
+
+3.	Een naamloze of besloten vennootschap kan met toepassing van artikel 333a fuseren met een kapitaalvennootschap naar het recht van een andere lidstaat van de Europese Unie of de Europese Economische Ruimte, mits de verkrijgende vennootschap en de groepsmaatschappij bedoeld in artikel 333a lid 1 vennootschappen met zetel in Nederland zijn.
+
+4.	Een beleggingsinstelling bedoeld in artikel 333b lid 2 kan fuseren met een naamloze vennootschap opgericht naar het recht van een andere lidstaat van de Europese Unie of de Europese Economische Ruimte waarvan het doel is de collectieve belegging van uit het publiek aangetrokken kapitaal met toepassing van het beginsel van risicospreiding en waarvan de rechten van deelneming ten laste van de activa van de vennootschap op verzoek van de houders direct of indirect worden ingekocht of terugbetaald. Met dergelijke inkopen of terugbetalingen wordt gelijkgesteld ieder handelen van een dergelijke vennootschap om te voorkomen dat de waarde van haar deelnemingsrechten ter beurze aanzienlijk afwijkt van de intrinsieke waarde.
+
+Artikel 333d
+
+Het gezamenlijke voorstel tot fusie vermeldt naast de in artikel 312 en 326 genoemde gegevens:
+	a.	de rechtsvorm, naam en statutaire zetel van de verkrijgende vennootschap;
+	b.	de waarschijnlijke gevolgen van de fusie voor de werkgelegenheid;
+	c.	indien van toepassing informatie over de procedure voor de vaststelling van regelingen met betrekking tot medezeggenschap als bedoeld in artikel 333k in de verkrijgende vennootschap;
+	d.	informatie over de waardering van de activa en passiva die overgaan naar de verkrijgende vennootschap;
+	e.	de datum van de laatst vastgestelde of krachtens artikel 313 opgemaakte jaarrekening of tussentijdse vermogensopstelling die is gebruikt om de voorwaarden voor de fusie vast te stellen;
+	f.	een voorstel voor de hoogte van de schadeloosstelling voor een aandeel bij toepassing van artikel 333h.
+
+Artikel 333e
+
+1.	De fuserende vennootschap kondigt voor de fuserende vennootschappen in de Staatscourant aan:
+	a.	rechtsvorm, naam en statutaire zetel;
+	b.	aanduiding van en inschrijvingsnummer bij het register waarin de gegevens betreffende de fuserende vennootschappen zijn ingeschreven;
+	c.	de regelingen volgens welke de rechten van minderheidsaandeelhouders en schuldeisers kunnen worden uitgeoefend, en het adres waar zij kosteloos volledige inlichtingen betreffende die rechten kunnen verkrijgen.
+
+2.	Zijn er meer fuserende vennootschappen met zetel in Nederland, dan kunnen zij volstaan met een gezamenlijke aankondiging.
+
+3.	Artikel 314 lid 3 is niet van toepassing.
+
+Artikel 333f
+
+De schriftelijke toelichting bedoeld in artikel 314 lid 2 ligt tot het tijdstip van de fusie ter inzage voor de ondernemingsraad of, indien bij de door de vennootschap in stand gehouden onderneming een ondernemingsraad ontbreekt, voor werknemers van de vennootschap.
+
+Artikel 333g
+
+1.	In de verklaring als bedoeld in artikel 328 lid 1 tweede volzin moet het nominaal gestorte bedrag op de gezamenlijke aandelen die de aandeelhouders ingevolge de fusie verkrijgen, vermeerderd met betalingen waarop zij krachtens ruilverhouding recht hebben, voorts worden vermeerderd met het totaal bedrag van schadeloosstellingen waarop aandeelhouders op grond van artikel 333h recht kunnen doen gelden.
+
+2.	Artikel 328 lid 1 eerste volzin en lid 2 blijven buiten toepassing indien de aandeelhouders van de fuserende vennootschappen daarmee instemmen.
+
+Artikel 333h
+
+1.	Indien de verkrijgende vennootschap een vennootschap naar het recht van een andere lidstaat van de Europese Unie of de Europese Economische Ruimte is, kan de aandeelhouder van een verdwijnende vennootschap die tegen het fusiebesluit heeft gestemd binnen een maand na de datum van het besluit bij de verdwijnende vennootschap een verzoek indienen tot schadeloosstelling.
+
+2.	De schadeloosstelling wordt bij gebreke van overeenstemming bepaald door een of meer onafhankelijke deskundigen, op verzoek van de meest gerede partij te benoemen door de voorzitter van de ondernemingskamer van het gerechtshof te Amsterdam.
+
+3.	De aandelen waarop het verzoek betrekking heeft, vervallen op het moment dat de fusie van kracht wordt.
+
+4.	Voor de toepassing van dit artikel worden met aandeelhouders gelijkgesteld de houders van certificaten van aandelen als bedoeld in artikel 118a.
+
+Artikel 333i
+
+1.	In afwijking van artikel 318 lid 1 wordt een fusie waarbij de verkrijgende vennootschap een vennootschap is naar het recht van een andere lidstaat van de Europese Unie of de Europese Economische Ruimte van kracht op de wijze en de datum bepaald door het recht van het land waar de verkrijgende vennootschap haar statutaire zetel heeft.
+
+2.	Artikel 318 lid 2 is niet van toepassing.
+
+3.	De notaris verklaart dat hem is gebleken dat de vormvoorschriften in acht zijn genomen voor alle besluiten die de afdelingen 2, 3 en 3a van deze titel en de statuten vereisen voor de deelneming van de vennootschap aan de grensoverschrijdende fusie en dat voor het overige de daarvoor in deze afdelingen gegeven voorschriften zijn nageleefd.
+
+4.	Indien de verkrijgende vennootschap een vennootschap is naar het recht van een andere lidstaat van de Europese Unie of de Europese Economische Ruimte kan de notaris de verklaring bedoeld in lid 3 eerst afgeven indien geen verzoek tot schadeloosstelling als bedoeld in artikel 333h is ingediend of de schadeloosstelling is betaald, tenzij de andere fuserende vennootschappen hebben besloten dat de verkrijgende vennootschap de schadeloosstelling moet voldoen. In dat geval vermeldt de notaris in de verklaring dat het verzoek is ingediend.
+
+5.	Indien de verkrijgende vennootschap een vennootschap naar Nederlands recht is, verklaart de notaris aan de voet van de akte bedoeld in artikel 318 lid 1 dat hem is gebleken dat de vormvoorschriften als bedoeld in dat lid in acht zijn genomen, dat door de verdwijnende vennootschappen op hetzelfde fusievoorstel is beslist en dat de regelingen met betrekking tot medezeggenschap zijn vastgesteld overeenkomstig artikel 333k.
+
+Artikel 333j
+
+De beheerder van het handelsregister waar de verkrijgende rechtspersoon is ingeschreven, doet onverwijld na de inschrijving van de fusie mededeling aan de registers bedoeld in artikel 333e waar de verdwijnende vennootschappen staan ingeschreven.
+
+Artikel 333k
+
+1.	In dit artikel wordt onder regelingen met betrekking tot medezeggenschap verstaan regelingen met betrekking tot medezeggenschap als bedoeld in artikel 1:1 lid 1 van de Wet rol werknemers bij de Europese vennootschap.
+
+2.	Indien
+	a.	bij ten minste een van de fuserende vennootschappen in de zes maanden voorafgaande aan datum van neerlegging van het fusievoorstel bedoeld in artikel 314 gemiddeld meer dan vijfhonderd werknemers werkzaam zijn en op deze fuserende vennootschap regelingen met betrekking tot medezeggenschap van toepassing zijn, of
+	b.	regelingen met betrekking tot medezeggenschap op een van de fuserende vennootschappen van toepassing zijn en de verkrijgende vennootschap niet voldoet aan de bepalingen van artikel 157, 158 tot en met 164 of 158 tot en met 161 en 164 dan wel 267, 268 tot en met 274 of 268 tot en met 271 en 274,
+
+zijn de artikelen 12 leden twee tot en met vier van Verordening (EG) nr. 2157/2001 van de Raad van de Europese Unie van 8 oktober 2001 betreffende het statuut van de Europese vennootschap (SE) en 1:4 tot en met 1:12, 1:14 lid 1, 2, 3 onderdeel a en 4, 1:16, 1:17, 1:18 lid 1 onderdelen a, h, i en j, lid 3 en 6, 1:20, 1:21 lid 2 onderdeel a, met dien verstande dat het in dat onderdeel genoemde percentage van 25 wordt vervangen door 33⅓, lid 4 en 5, 1:26 lid 3 en 1:31 lid 2 van de Wet rol werknemers bij Europese rechtspersonen alsmede de artikelen 670 lid 4 en 11 en 670a lid 1 onderdeel a van Boek 7 van het Burgerlijk Wetboek van overeenkomstige toepassing.
+
+3.	De algemene vergadering van elke fuserende vennootschap kan besluiten af te zien van het openen van onderhandelingen over regelingen met betrekking tot medezeggenschap. Dit besluit heeft tot gevolg dat de referentievoorschriften voor regelingen met betrekking tot medezeggenschap als bedoeld in artikel 1:31 van de Wet rol werknemers bij Europese rechtspersonen vanaf de datum van inschrijving van de fusie van toepassing zijn op de verkrijgende vennootschap.
+
+4.	De bijzondere onderhandelingsgroep, bedoeld in artikel 1:1 van de Wet rol werknemers bij Europese rechtspersonen, kan besluiten af te zien van het openen van onderhandelingen of tot het beëindigen van onderhandelingen over regelingen met betrekking tot medezeggenschap. Dit besluit beëindigt de procedure tot sluiting van een overeenkomst als bedoeld in artikel 1:11 lid 1 van de Wet rol werknemers bij Europese rechtspersonen. Een zodanig besluit van de bijzondere onderhandelingsgroep behoeft een meerderheid van twee derde van haar aantal leden, tevens vertegenwoordigende twee derde van de werknemers en afkomstig uit ten minste twee lidstaten.
+
+5.	Indien de verkrijgende vennootschap een vennootschap naar Nederlands recht is, wordt de toepassing van de artikelen 158 tot en met 164 of 158 tot en met 161 en 164 danwel 268 tot en met 274 of 268 tot en met 271 en 274 of de uitwerking van de medezeggenschap in de statuten vastgelegd.
+
+6.	De algemene vergadering kan aan het besluit tot fusie als bedoeld in artikel 317 de voorwaarde verbinden dat zij de toepassing van de artikelen 158 tot en met 164 of 158 tot en met 161 en 164 danwel 268 tot en met 274 of 268 tot en met 271 en 274 of de uitwerking van de regelingen met betrekking tot medezeggenschap goedkeurt. De algemene vergadering kan bij het besluit tot goedkeuring machtiging verlenen in de statuten de veranderingen aan te brengen die nodig zijn voor deze toepassing of uitwerking.
+
+7.	Indien een vennootschap binnen drie jaar na het van kracht worden van de fusie deelneemt aan een fusie als bedoeld in deze titel, is dit artikel van overeenkomstige toepassing.
+
+8.	Bij toepassing van artikel 1:17 lid 2 van de Wet rol werknemers bij Europese rechtspersonen wordt de termijn van zes maanden bedoeld in artikel 318 lid 1 verlengd tot drie maanden na het einde van de verlengde onderhandelingsperiode bedoeld in artikel 1:17 lid 2 van de Wet rol werknemers bij Europese rechtspersonen, met dien verstande dat de maximale termijn één jaar en drie maanden bedraagt.
+
+Artikel 333l
+
+De nietigheid of vernietiging van een fusie op grond van deze afdeling kan niet worden uitgesproken. Artikel 323 is niet van toepassing.
 
 Afdeling 4. Algemene bepalingen omtrent splitsingen
 
