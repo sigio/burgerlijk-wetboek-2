@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 15-07-2008 t/m 31-08-2008
+Geldend van 01-09-2008 t/m 25-11-2008
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -4252,7 +4252,7 @@ Artikel 349
 
 Artikel 349a
 
-1.	De ondernemingskamer behandelt het verzoek met de meeste spoed. De verzoekers en de rechtspersoon verschijnen hetzij bij procureur, hetzij bijgestaan door hun procureurs. Alvorens te beslissen kan de ondernemingskamer ook ambtshalve getuigen en deskundigen horen.
+1.	De ondernemingskamer behandelt het verzoek met de meeste spoed. De verzoekers en de rechtspersoon verschijnen hetzij bij advocaat, hetzij bijgestaan door hun advocaten. Alvorens te beslissen kan de ondernemingskamer ook ambtshalve getuigen en deskundigen horen.
 
 2.	Indien in verband met de toestand van de rechtspersoon of in het belang van het onderzoek een onmiddellijke voorziening is vereist, kan de ondernemingskamer in elke stand van het geding op verzoek van de indieners van het in artikel 345 bedoelde verzoek een zodanige voorziening treffen voor ten hoogste de duur van het geding.
 
@@ -4286,7 +4286,7 @@ Artikel 353
 
 1.	Het verslag van de uitkomst van het onderzoek wordt ter griffie van het gerechtshof te Amsterdam nedergelegd.
 
-2.	De advocaat-generaal bij het gerechtshof, de rechtspersoon, alsmede de verzoekers en hun procureurs, ontvangen een exemplaar van het verslag. In het geval, bedoeld in artikel 348, ontvangt ook De Nederlandsche Bank N.V. een exemplaar van het verslag. De ondernemingskamer kan bepalen dat het verslag voorts geheel of gedeeltelijk ter inzage ligt voor de door haar aan te wijzen andere personen of voor een ieder.
+2.	De advocaat-generaal bij het gerechtshof, de rechtspersoon, alsmede de verzoekers en hun advocaten, ontvangen een exemplaar van het verslag. In het geval, bedoeld in artikel 348, ontvangt ook De Nederlandsche Bank N.V. een exemplaar van het verslag. De ondernemingskamer kan bepalen dat het verslag voorts geheel of gedeeltelijk ter inzage ligt voor de door haar aan te wijzen andere personen of voor een ieder.
 
 3.	Het is aan anderen dan de rechtspersoon verboden mededelingen aan derden te doen uit het verslag, voor zover dat niet voor een ieder ter inzage ligt, tenzij zij daartoe op hun verzoek door de voorzitter van de ondernemingskamer zijn gemachtigd. Een vereniging van werknemers is echter zonder een zodanige machtiging bevoegd tot het verstrekken van mededelingen uit het verslag aan de ondernemingsraad, die aan een door de rechtspersoon gedreven onderneming is verbonden.
 
@@ -5315,7 +5315,7 @@ Afdeling 15. Bepalingen voor verzekeringsmaatschappijen
 
 Artikel 427
 
-1.	In deze afdeling wordt onder verzekeringsmaatschappij verstaan: een financiële onderneming die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van verzekeraar mag uitoefenen alsmede een financiële onderneming met zetel in Nederland die herverzekeraar is als bedoeld in artikel 1:1 van de Wet op het financieel toezicht en geen vergunning heeft voor het uitoefenen van het bedrijf van verzekeraar als bedoeld in artikel 1:1 van die wet.
+1.	In deze afdeling wordt onder verzekeringsmaatschappij verstaan: een financiële onderneming met zetel in Nederland die ingevolge de Wet op het financieel toezicht het bedrijf van verzekeraar mag uitoefenen of de werkzaamheden van een entiteit voor risico-acceptatie mag verrichten, en waarop artikel 3:72 van die wet van toepassing is.
 
 2.	Een rechtspersoon die het verzekeringsbedrijf uitoefent, doch die geen verzekeringsmaatschappij is, mag de voor verzekeringsmaatschappijen geldende voorschriften toepassen, indien het in artikel 362 lid 1 bedoelde inzicht daardoor wordt gediend.
 
