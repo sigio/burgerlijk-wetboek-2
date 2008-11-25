@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 01-09-2008 t/m 25-11-2008
+Geldend van 26-11-2008 t/m 22-12-2008
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -3642,6 +3642,8 @@ Artikel 328
 
 5.	Op de verklaring van de accountant is artikel 314 van overeenkomstige toepassing en op zijn verslag de leden 2 en 3 van artikel 314.
 
+6.	De eerste volzin van lid 1 en lid 2 blijven buiten toepassing indien de aandeelhouders van de fuserende vennootschappen daarmee instemmen.
+
 Artikel 329
 
 Artikel 314 lid 2 geldt ook ten behoeve van houders van met medewerking van de vennootschap uitgegeven certificaten van haar aandelen.
@@ -3729,9 +3731,7 @@ De schriftelijke toelichting bedoeld in artikel 314 lid 2 ligt tot het tijdstip 
 
 Artikel 333g
 
-1.	In de verklaring als bedoeld in artikel 328 lid 1 tweede volzin moet het nominaal gestorte bedrag op de gezamenlijke aandelen die de aandeelhouders ingevolge de fusie verkrijgen, vermeerderd met betalingen waarop zij krachtens ruilverhouding recht hebben, voorts worden vermeerderd met het totaal bedrag van schadeloosstellingen waarop aandeelhouders op grond van artikel 333h recht kunnen doen gelden.
-
-2.	Artikel 328 lid 1 eerste volzin en lid 2 blijven buiten toepassing indien de aandeelhouders van de fuserende vennootschappen daarmee instemmen.
+In de verklaring als bedoeld in artikel 328 lid 1 tweede volzin moet het nominaal gestorte bedrag op de gezamenlijke aandelen die de aandeelhouders ingevolge de fusie verkrijgen, vermeerderd met betalingen waarop zij krachtens ruilverhouding recht hebben, voorts worden vermeerderd met het totaal bedrag van schadeloosstellingen waarop aandeelhouders op grond van artikel 333h recht kunnen doen gelden.
 
 Artikel 333h
 
@@ -4066,6 +4066,8 @@ Artikel 334aa
 
 6.	Op de verklaring van de accountant is artikel 334h van overeenkomstige toepassing en op zijn verslag de leden 2 en 3 van artikel 334h.
 
+7.	De leden 1 en 3 blijven buiten toepassing indien de aandeelhouders van elke partij bij de splitsing daarmee instemmen.
+
 Artikel 334bb
 
 1.	Ten aanzien van de door een verkrijgende naamloze vennootschap toegekende aandelen zijn artikel 94a, leden 1, 2, 6, 7 en 8, en artikel 94b, leden 1, 2, 6, 7 en 8 van overeenkomstige toepassing en ten aanzien van de door een verkrijgende besloten vennootschap toegekende aandelen de artikelen 204a en 204b. Een ingevolge de artikelen 94a of 204a vereiste verklaring van een accountant behoeft echter niet aan de akte van oprichting te worden gehecht.
@@ -4074,11 +4076,13 @@ Artikel 334bb
 
 Artikel 334cc
 
-In het geval van een zuivere splitsing kan de akte van splitsing bepalen dat onderscheiden aandeelhouders van de splitsende rechtspersoon aandeelhouder worden van onderscheiden verkrijgende rechtspersonen. In dat geval:
+1.	In het geval van een zuivere splitsing kan de akte van splitsing bepalen dat onderscheiden aandeelhouders van de splitsende rechtspersoon aandeelhouder worden van onderscheiden verkrijgende rechtspersonen. In dat geval:
 	a.	vermeldt het voorstel tot splitsing naast de in de artikelen 334f en 334y genoemde gegevens welke aandeelhouders van welke verkrijgende rechtspersonen aandeelhouder worden;
 	b.	deelt het bestuur in de toelichting op het voorstel tot splitsing mee volgens welke criteria deze verdeling is vastgesteld;
 	c.	moet de accountant bedoeld in artikel 334aa mede verklaren dat de voorgestelde verdeling, mede gelet op de bijgevoegde stukken, naar zijn oordeel redelijk is; en
 	d.	wordt het besluit tot splitsing door de algemene vergadering van de splitsende vennootschap genomen met een meerderheid van drie vierden van de uitgebrachte stemmen in een vergadering waarin 95% van het geplaatste kapitaal is vertegenwoordigd.
+
+2.	Onderdeel c van het eerste lid blijft buiten toepassing indien de aandeelhouders van elke partij bij de splitsing daarmee instemmen.
 
 Artikel 334dd
 
@@ -5754,3 +5758,11 @@ Artikel 453
 1.	De griffier van de ondernemingskamer doet ten kantore van het handelsregister van de plaats, waar de rechtspersoon, vennootschap of instelling volgens haar statuten haar zetel heeft, een afschrift van de beschikking van de ondernemingskamer neerleggen. Indien de beschikking betrekking heeft op een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving verstrekt de griffier van de ondernemingskamer voorts een afschrift van de beschikking aan de Stichting Autoriteit Financiële Markten. Afschriften van beschikkingen die niet voorlopig ten uitvoer kunnen worden gelegd, worden nedergelegd zodra zij in kracht van gewijsde zijn gegaan.
 
 2.	Tot het instellen van beroep in cassatie tegen de beschikkingen van de ondernemingskamer uit hoofde van deze titel is, buiten de personen, bedoeld in het eerste lid van artikel 426 van het Wetboek van Burgerlijke Rechtsvordering, bevoegd de rechtspersoon, vennootschap of instelling ten aanzien waarvan de ondernemingskamer een beschikking heeft genomen, ongeacht of deze bij de ondernemingskamer is verschenen.
+
+Artikel 454
+
+[Dit onderdeel is nog niet inwerking getreden]
+
+Artikel 455
+
+[Dit onderdeel is nog niet inwerking getreden]
