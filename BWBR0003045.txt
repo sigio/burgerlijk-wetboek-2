@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 26-11-2008 t/m 22-12-2008
+Geldend van 23-12-2008 t/m 31-12-2008
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -4723,7 +4723,11 @@ Artikel 380
 
 Artikel 381
 
-Vermeld wordt tot welke belangrijke, niet in de balans opgenomen, financiële verplichtingen de rechtspersoon voor een aantal toekomstige jaren is verbonden, zoals die welke uit langlopende overeenkomsten voortvloeien. Daarbij worden afzonderlijk vermeld de verplichtingen jegens groepsmaatschappijen. Artikel 375 lid 3 is van overeenkomstige toepassing.
+1.	Vermeld wordt tot welke belangrijke, niet in de balans opgenomen, financiële verplichtingen de rechtspersoon voor een aantal toekomstige jaren is verbonden, zoals die welke uit langlopende overeenkomsten voortvloeien. Daarbij worden afzonderlijk vermeld de verplichtingen jegens groepsmaatschappijen. Artikel 375 lid 3 is van overeenkomstige toepassing.
+
+2.	Tevens wordt vermeld wat de aard, het zakelijk doel en de financiële gevolgen van niet in de balans opgenomen regelingen van de rechtspersoon zijn, indien de risico’s of voordelen die uit deze regelingen voortvloeien van betekenis zijn en voor zover de openbaarmaking van dergelijke risico’s of voordelen noodzakelijk is voor de beoordeling van de financiële positie van de rechtspersoon.
+
+3.	Vermeld wordt welke van betekenis zijnde transacties door de rechtspersoon niet onder normale marktvoorwaarden met verbonden partijen zijn aangegaan, de omvang van die transacties, de aard van de betrekking met de verbonden partij, alsmede andere informatie over die transacties die nodig is voor het verschaffen van inzicht in de financiële positie van de rechtspersoon. Informatie over individuele transacties kan overeenkomstig de aard ervan worden samengevoegd, tenzij gescheiden informatie nodig is om inzicht te verschaffen in de gevolgen van transacties met verbonden partijen voor de financiële positie van de rechtspersoon. Vermelding van transacties tussen twee of meer leden van een groep kan achterwege blijven, mits dochtermaatschappijen die partij zijn bij de transactie geheel in eigendom zijn van een of meer leden van de groep.
 
 Artikel 381a
 
@@ -4926,7 +4930,7 @@ Artikel 391
 
 4.	Het jaarverslag mag niet in strijd zijn met de jaarrekening. Indien het verschaffen van het in lid 1 bedoelde overzicht dit vereist, bevat het jaarverslag verwijzingen naar en aanvullende uitleg over posten in de jaarrekening.
 
-5.	Bij algemene maatregel van bestuur kunnen nadere voorschriften worden gesteld omtrent de inhoud van het jaarverslag. Deze voorschriften kunnen in het bijzonder betrekking hebben op naleving van een in de algemene maatregel van bestuur aan te wijzen gedragscode.
+5.	Bij algemene maatregel van bestuur kunnen nadere voorschriften worden gesteld omtrent de inhoud van het jaarverslag. Deze voorschriften kunnen in het bijzonder betrekking hebben op naleving van een in de algemene maatregel van bestuur aan te wijzen gedragscode en op de inhoud, de openbaarmaking en het accountantsonderzoek van een verklaring inzake corporate governance.
 
 6.	De voordracht voor een krachtens lid 5 vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
@@ -4969,7 +4973,8 @@ Artikel 393
 	b.	een beschrijving van de reikwijdte van het onderzoek, waarin ten minste wordt vermeld welke richtlijnen voor de accountantscontrole in acht zijn genomen;
 	c.	een oordeel of de jaarrekening het vereiste inzicht geeft en aan de bij en krachtens de wet gestelde regels voldoet;
 	d.	een verwijzing naar bepaalde zaken waarop de accountant in het bijzonder de aandacht vestigt, zonder een verklaring als bedoeld in lid 6, onderdeel b, af te geven;
-	e.	een oordeel over de verenigbaarheid van het jaarverslag met de jaarrekening.
+	e.	een vermelding van de gebleken tekortkomingen naar aanleiding van het onderzoek overeenkomstig lid 3 of het jaarverslag overeenkomstig deze titel is opgesteld en of de in artikel 392 lid 1, onder b tot en met g, vereiste gegevens zijn toegevoegd;
+	f.	een oordeel over de verenigbaarheid van het jaarverslag met de jaarrekening.
 
 6.	De accountantsverklaring, bedoeld in lid 5, heeft de vorm van:
 	a.	een goedkeurende verklaring;
@@ -5024,7 +5029,7 @@ Artikel 396
 
 4.	In de winst- en verliesrekening worden de posten genoemd in artikel 377 lid 3 onder a-d en g, onderscheidenlijk lid 4 onder a-c en f, samengetrokken tot een post bruto-bedrijfsresultaat; de rechtspersoon vermeldt in een verhoudingscijfer in welke mate de netto-omzet ten opzichte van die van het vorige jaar is gestegen of gedaald.
 
-5.	Het in artikel 378 lid 1 genoemde overzicht wordt slechts gegeven voor de herwaarderingsreserve, behoudens de tweede zin van artikel 378 lid 3; opgegeven worden het aantal geplaatste aandelen en het bedrag per soort, aantal en bedrag van de in het boekjaar uitgegeven aandelen en van de aandelen en certificaten daarvan die de rechtspersoon of een dochtermaatschappij voor eigen rekening houdt. De artikelen 380, 381b, aanhef en onder a, 382a en 383 lid 1 zijn niet van toepassing.
+5.	Het in artikel 378 lid 1 genoemde overzicht wordt slechts gegeven voor de herwaarderingsreserve, behoudens de tweede zin van artikel 378 lid 3; opgegeven worden het aantal geplaatste aandelen en het bedrag per soort, aantal en bedrag van de in het boekjaar uitgegeven aandelen en van de aandelen en certificaten daarvan die de rechtspersoon of een dochtermaatschappij voor eigen rekening houdt. De artikelen 380, 381 leden 2 en 3, 381b, aanhef en onder a, en 383 lid 1 zijn niet van toepassing.
 
 6.	In afwijking van afdeling 6 van deze titel komen voor de waardering van de activa en passiva en voor de bepaling van het resultaat ook in aanmerking de grondslagen voor de bepaling van de belastbare winst, bedoeld in hoofdstuk II van de Wet op de vennootschapsbelasting 1969, mits de rechtspersoon daarbij alle voor hem van toepassing zijnde fiscale grondslagen toepast. Indien de rechtspersoon deze grondslagen toepast, maakt zij daarvan melding in de toelichting. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent het gebruik van deze grondslagen en de toelichting die daarbij gegeven wordt.
 
@@ -5051,9 +5056,11 @@ Artikel 397
 
 5.	Van de in afdeling 3 voorgeschreven opgaven behoeven in de openbaar gemaakte balans met toelichting slechts vermelding die welke voorkomen in de artikelen 364, 365 lid 1 onder d, 366, 367 onder a-d, 370 lid 1 onder b en c , 373, 374 leden 3 en 4, 375 lid 1 onder a, b, f en g en lid 3, alsmede 376 en de overlopende posten. De leden 2 van de artikelen 370 en 375 vinden toepassing zowel op het totaal van de vorderingen en schulden als op de posten uit lid 1 van die artikelen welke afzonderlijke vermelding behoeven. De openbaar te maken winst- en verliesrekening en de toelichting mogen worden beperkt overeenkomstig lid 3 en lid 4.
 
-6.	De gegevens, bedoeld in artikel 392 lid 1, onderdelen e en f, en lid 3, worden niet openbaar gemaakt.
+6.	De informatie die ingevolge artikel 381 lid 2 moet worden vermeld, wordt beperkt tot informatie over de aard en het zakelijk doel van de aldaar genoemde regelingen. Artikel 381 lid 3 is niet van toepassing, tenzij de rechtspersoon een naamloze vennootschap is, in welk geval de vermelding als bedoeld in artikel 381 lid 3 beperkt is tot transacties die direct of indirect zijn aangegaan tussen de vennootschap en haar voornaamste aandeelhouders en tussen de vennootschap en haar leden van het bestuur en van de raad van commissarissen.
 
-7.	In het jaarverslag behoeft geen aandacht te worden besteed aan niet-financiële prestatie-indicatoren als bedoeld in artikel 391 lid 1.
+7.	De gegevens, bedoeld in artikel 392 lid 1, onderdelen e en f, en lid 3, worden niet openbaar gemaakt.
+
+8.	In het jaarverslag behoeft geen aandacht te worden besteed aan niet-financiële prestatie-indicatoren als bedoeld in artikel 391 lid 1.
 
 Artikel 398
 
@@ -5275,7 +5282,7 @@ Artikel 421
 
 3.	Gelijksoortige handelingen als bedoeld in artikel 378 lid 3, tweede zin, mogen gezamenlijk worden verantwoord. Artikel 378 lid 4 onder a geldt niet voor de aandelen of certificaten daarvan die de bank in de gewone bedrijfsuitoefening in pand heeft genomen.
 
-4.	Artikel 381, eerste volzin, is slechts van toepassing voor zover de desbetreffende gegevens niet in de posten buiten de balanstelling zijn opgenomen.
+4.	Artikel 381 lid 1, eerste volzin, is slechts van toepassing voor zover de desbetreffende gegevens niet in de posten buiten de balanstelling zijn opgenomen. Artikel 381 leden 2 en 3 is niet van toepassing.
 
 5.	Met uitzondering van de nog openstaande bedragen is de tweede zin van artikel 383 lid 2 niet van toepassing.
 
