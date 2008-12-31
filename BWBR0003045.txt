@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 23-12-2008 t/m 31-12-2008
+Geldend van 01-01-2009 t/m 31-10-2009
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -1077,7 +1077,7 @@ Artikel 86d
 
 2.	De houder dient aannemelijk te maken dat het aandeelbewijs is verloren gegaan, onder vermelding van de identiteit van het betrokken aandeelbewijs.
 
-3.	De vennootschap publiceert de aanvraag om een duplicaat in de prijscourant van een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is als bedoeld in artikel 86c lid 1 of, indien de aandelen daarin niet zijn opgenomen, in een landelijk verspreid dagblad.
+3.	De vennootschap publiceert de aanvraag om een duplicaat in de prijscourant van een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is of, indien de aandelen daarin niet zijn opgenomen, in een landelijk verspreid dagblad.
 
 4.	Iedere belanghebbende kan binnen zes weken vanaf de dag na de publicatie van de aanvraag door een verzoekschrift aan de rechtbank in verzet komen tegen de verstrekking van het duplicaat.
 
@@ -1469,7 +1469,7 @@ Artikel 100
 
 Artikel 101
 
-1.	Jaarlijks binnen vijf maanden na afloop van het boekjaar der vennootschap, behoudens verlenging van deze termijn met ten hoogste zes maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de aandeelhouders ter inzage ten kantore van de vennootschap. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de aandeelhouders, tenzij de artikelen 396 lid 7, of 403 voor de vennootschap gelden. Het bestuur van de vennootschap waarop de artikelen 158 tot en met 161 en 164 van toepassing zijn, zendt de jaarrekening ook toe aan de in artikel 158 lid 11 bedoelde ondernemingsraad.
+1.	Jaarlijks binnen vijf maanden na afloop van het boekjaar der vennootschap, behoudens verlenging van deze termijn met ten hoogste zes maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de aandeelhouders ter inzage ten kantore van de vennootschap. Indien van de vennootschap effecten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in de Wet op het financieel toezicht, bedraagt de termijn vier maanden. Deze termijn kan niet worden verlengd. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de aandeelhouders, tenzij de artikelen 396 lid 7, of 403 voor de vennootschap gelden. Het bestuur van de vennootschap waarop de artikelen 158 tot en met 161 en 164 van toepassing zijn, zendt de jaarrekening ook toe aan de in artikel 158 lid 11 bedoelde ondernemingsraad.
 
 2.	De jaarrekening wordt ondertekend door de bestuurders en door de commissarissen; ontbreekt de ondertekening van een of meer hunner, dan wordt daarvan onder opgave van reden melding gemaakt.
 
@@ -1481,7 +1481,7 @@ Artikel 101
 
 6.	De statuten kunnen bepalen dat een ander orgaan van de vennootschap dan de algemene vergadering de bevoegdheid heeft te bepalen welk deel van het resultaat van het boekjaar wordt gereserveerd of hoe het verlies zal worden verwerkt.
 
-7.	Onze Minister van Economische Zaken kan desverzocht om gewichtige redenen ontheffing verlenen van de verplichting tot het opmaken, het overleggen en het vaststellen van de jaarrekening.
+7.	Onze Minister van Economische Zaken kan desverzocht om gewichtige redenen ontheffing verlenen van de verplichting tot het opmaken, het overleggen en het vaststellen van de jaarrekening. Geen ontheffing kan worden verleend ten aanzien van het opmaken van de jaarrekening van een vennootschap waarvan effecten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in de Wet op het financieel toezicht.
 
 Artikel 102
 
@@ -1627,6 +1627,8 @@ Artikel 117
 5.	De accountant aan wie de opdracht tot het onderzoek van de jaarrekening is verleend, bedoeld in artikel 393 lid 1, is bevoegd de algemene vergadering die besluit over de vaststelling van de jaarrekening bij te wonen en daarin het woord te voeren.
 
 6.	Aan de eis van schriftelijkheid van de volmacht wordt voldaan indien de volmacht elektronisch is vastgelegd.
+
+7.	Indien aandelen van de vennootschap of met medewerking van de vennootschap uitgegeven certificaten daarvan zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in de Wet op het financieel toezicht, kan bij de statuten de bevoegdheid van aandeelhouders of certificaathouders zich te doen vertegenwoordigen niet worden uitgesloten of beperkt.
 
 Artikel 117a
 
@@ -4028,7 +4030,7 @@ Ten tijde van de splitsing moet de waarde van het deel van het vermogen dat de v
 
 Artikel 334x
 
-1.	Indien aandelen of certificaten van aandelen in het kapitaal van een splitsende vennootschap zijn toegelaten tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is, kan de ruilverhouding afhankelijk zijn van de prijs van die aandelen onderscheidenlijk certificaten op die beurs op een of meer in het voorstel tot splitsing te bepalen tijdstippen, gelegen voor de dag waarop de splitsing van kracht wordt.
+1.	Indien aandelen of certificaten van aandelen in het kapitaal van een splitsende vennootschap zijn toegelaten tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is, kan de ruilverhouding afhankelijk zijn van de prijs van die aandelen onderscheidenlijk certificaten op dat handelsplatform op een of meer in het voorstel tot splitsing te bepalen tijdstippen, gelegen voor de dag waarop de splitsing van kracht wordt.
 
 2.	Indien krachtens de ruilverhouding van de aandelen recht bestaat op geld of schuldvorderingen, mag het gezamenlijke bedrag daarvan een tiende van het nominale bedrag van de door de betrokken vennootschap toegekende aandelen niet te boven gaan.
 
@@ -4352,7 +4354,7 @@ Afdeling 3. Het openbaar bod
 
 Artikel 359a
 
-1.	Deze afdeling is van toepassing op de vennootschap waarvan aandelen zijn toegelaten tot de handel op een gereglementeerde markt in de zin van artikel 1, onder 13, van de richtlijn beleggingsdiensten, bedoeld in artikel 1:1 van de Wet op het financieel toezicht, tenzij het een beleggingsmaatschappij als bedoeld in artikel 1:1 van de Wet op het financieel toezicht waarvan de rechten van deelneming direct of indirect worden ingekocht of terugbetaald ten laste van de activa van de beleggingsinstelling, waarvan de rechten van deelneming op verzoek van de deelnemers direct of indirect worden ingekocht of terugbetaald ten laste van de activa van de beleggingsmaatschappij.
+1.	Deze afdeling is van toepassing op de vennootschap waarvan aandelen zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, tenzij het een beleggingsmaatschappij is als bedoeld in dat artikel waarvan de rechten van deelneming op verzoek van de deelnemers direct of indirect worden ingekocht of terugbetaald ten laste van de activa van de beleggingsmaatschappij.
 
 2.	In deze afdeling wordt een certificaat van aandelen dat met medewerking van de vennootschap is uitgegeven gelijk gesteld met een aandeel en wordt een certificaathouder gelijk gesteld met een aandeelhouder.
 
@@ -5006,6 +5008,11 @@ Artikel 394
 
 7.	Iedere belanghebbende kan van de rechtspersoon nakoming van de in de leden 1-5 omschreven verplichtingen vorderen.
 
+8.	Een vennootschap waarvan effecten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in de Wet op het financieel toezicht wordt geacht te hebben voldaan aan:
+	a.	lid 1, indien zij de vastgestelde jaarrekening op grond van artikel 5:25o, eerste lid, van die wet heeft toegezonden aan de Stichting Autoriteit Financiële Markten;
+	b.	lid 2, eerste volzin, indien zij mededeling heeft gedaan op grond van artikel 5:25o, tweede lid, van die wet aan de Stichting Autoriteit Financiële Markten;
+	c.	vierde lid, eerste volzin, indien zij het jaarverslag en de overige in artikel 392 bedoelde gegevens op grond van artikel 5:25o, vierde lid, van de Wet op het financieel toezicht heeft toegezonden aan de Stichting Autoriteit Financiële Markten.
+
 Artikel 395
 
 1.	Wordt de jaarrekening op andere wijze dan ingevolge het vorige artikel openbaar gemaakt, dan wordt daaraan in ieder geval de in artikel 393 lid 5 bedoelde accountantsverklaring toegevoegd. Voor de toepassing van de vorige zin geldt als de jaarrekening van een rechtspersoon waarop artikel 397 van toepassing is, mede de jaarrekening in de vorm waarin zij ingevolge dat artikel openbaar mag worden gemaakt. Is de verklaring niet afgelegd, dan wordt de reden daarvan vermeld.
@@ -5310,7 +5317,7 @@ Een bank mag op de balans onder de passiva onmiddellijk na de voorzieningen een 
 
 Artikel 425
 
-Een bank waarop een vrijstelling van toepassing is als bedoeld in artikel 3:111, eerste lid, van de Wet op het financieel toezicht, behoeft de jaarrekening en het jaarverslag niet volgens de voorschriften van deze titel in te richten, mits de financiële gegevens zijn opgenomen in de geconsolideerde jaarrekening, het jaarverslag en de overige gegevens van de bank op wier aansprakelijkheid de ontheffing is gegrond; de artikelen 393 en 394 gelden niet voor de bank waaraan de ontheffing is verleend. Aan de geconsolideerde jaarrekening worden een jaarverslag en overige gegevens toegevoegd, die betrekking hebben op de in de geconsolideerde jaarrekening begrepen rechtspersonen en instellingen gezamenlijk.
+Een bank waarop een vrijstelling van toepassing is als bedoeld in artikel 3:111, eerste lid, van de Wet op het financieel toezicht, behoeft de jaarrekening en het jaarverslag niet volgens de voorschriften van deze titel in te richten, mits de financiële gegevens zijn opgenomen in de geconsolideerde jaarrekening, het jaarverslag en de overige gegevens van de bank op wier aansprakelijkheid de vrijstelling is gegrond; de artikelen 393 en 394 gelden niet voor de bank waarop de vrijstelling van toepassing is. Aan de geconsolideerde jaarrekening worden een jaarverslag en overige gegevens toegevoegd, die betrekking hebben op de in de geconsolideerde jaarrekening begrepen rechtspersonen en instellingen gezamenlijk.
 
 Artikel 426
 
@@ -5694,7 +5701,7 @@ Afdeling 16. Rechtspleging
 
 Artikel 447
 
-1.	Op verzoek van degenen die krachtens artikel 448 daartoe bevoegd zijn, kan de ondernemingskamer van het gerechtshof te Amsterdam aan een rechtspersoon of vennootschap als bedoeld in artikel 360 waarop deze titel van toepassing is, een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving of een beleggingsinstelling als bedoeld in artikel 1:1 van de Wet op het financieel toezicht bevelen de jaarrekening, het jaarverslag of de daaraan toe te voegen overige gegevens in te richten overeenkomstig door haar te geven aanwijzingen.
+1.	Op verzoek van degenen die krachtens artikel 448 daartoe bevoegd zijn, kan de ondernemingskamer van het gerechtshof te Amsterdam aan een rechtspersoon of vennootschap als bedoeld in artikel 360 waarop deze titel van toepassing is, een statutair in Nederland gevestigde effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving of een beleggingsinstelling als bedoeld in artikel 1:1 van de Wet op het financieel toezicht bevelen de jaarrekening, het jaarverslag of de daaraan toe te voegen overige gegevens in te richten overeenkomstig door haar te geven aanwijzingen.
 
 2.	Het verzoek kan slechts worden ingediend op de grond dat de verzoeker van oordeel is dat de in het eerste lid bedoelde stukken niet voldoen aan de bij of krachtens artikel 3 van verordening (EG) 1606/2002 van het Europees Parlement en de Raad van de Europese Unie van 19 juli 2002 betreffende de toepassing van internationale standaarden voor jaarrekeningen (PbEG L 243), deze titel, onderscheidenlijk de Wet op het financieel toezicht gestelde voorschriften. Het verzoekschrift vermeldt in welk opzicht de stukken herziening behoeven.
 
@@ -5702,7 +5709,7 @@ Artikel 447
 
 Artikel 448
 
-1.	Tot het indienen van het verzoek is bevoegd:
+1.	Tot het indienen van het in artikel 447 bedoelde verzoek is bevoegd:
 	a.	iedere belanghebbende;
 	b.	de advocaat-generaal bij het gerechtshof te Amsterdam in het openbaar belang.
 
@@ -5710,7 +5717,7 @@ Artikel 448
 
 Artikel 449
 
-1.	Het verzoek wordt ingediend binnen twee maanden na de dag waarop de jaarrekening is vastgesteld. Indien het verzoek wordt gedaan ten aanzien van een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving bedraagt de in de eerste volzin bedoelde termijn zes maanden.
+1.	Het in artikel 447 bedoelde verzoek wordt ingediend binnen twee maanden na de dag waarop de jaarrekening is vastgesteld. Indien het in artikel 447 bedoelde verzoek wordt gedaan ten aanzien van een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving bedraagt de in de eerste volzin bedoelde termijn zes maanden.
 
 2.	Het verzoek omtrent de jaarrekening die niet is vastgesteld, kan worden gedaan tot twee maanden of, voor zover het een effectenuitgevende instelling betreft als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving, zes maanden na de dag der nederlegging van de jaarrekening ten kantore van het handelsregister. Indien na de dag der nederlegging de jaarrekening alsnog wordt vastgesteld, dan eindigt de termijn twee maanden of, voor zover het een effectenuitgevende instelling betreft als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving, zes maanden na de dag waarop uit een neergelegde mededeling of uit de neergelegde jaarrekening blijkt van die vaststelling.
 
@@ -5720,7 +5727,7 @@ Artikel 449
 
 Artikel 450
 
-1.	De ondernemingskamer behandelt het verzoek met de meeste spoed. De zaak zal met gesloten deuren worden behandeld; de uitspraak geschiedt in het openbaar.
+1.	De ondernemingskamer behandelt het in artikel 447 bedoelde verzoek met de meeste spoed. De zaak zal met gesloten deuren worden behandeld; de uitspraak geschiedt in het openbaar.
 
 2.	Bij de bepaling van de dag waarop de behandeling aanvangt bepaalt de ondernemingskamer tevens een termijn waarbinnen de rechtpersoon, vennootschap, effectenuitgevende instelling of beleggingsinstelling, bedoeld in artikel 447, lid 1, waarop het verzoek betrekking heeft, een verweerschrift kan indienen.
 
@@ -5738,7 +5745,7 @@ Artikel 450
 
 Artikel 451
 
-1.	Indien de ondernemingskamer het verzoek toewijst, geeft zij aan de rechtspersoon, vennootschap, of instelling een bevel omtrent de wijze waarop deze de jaarrekening, het jaarverslag of de overige gegevens moet inrichten. Het bevel bevat daaromtrent nauwkeurige aanwijzingen.
+1.	Indien de ondernemingskamer het in artikel 447 bedoelde verzoek toewijst, geeft zij aan de rechtspersoon, vennootschap, of instelling een bevel omtrent de wijze waarop deze de jaarrekening, het jaarverslag of de overige gegevens moet inrichten. Het bevel bevat daaromtrent nauwkeurige aanwijzingen.
 
 2.	De rechtspersoon, vennootschap of instelling is verplicht de stukken met inachtneming van het bevel op te maken en voor zover het de jaarrekening betreft, te besluiten omtrent de vaststelling.
 
@@ -5750,7 +5757,7 @@ Artikel 451
 
 Artikel 452
 
-1.	Op verzoek van de Stichting Autoriteit Financiële Markten kan de ondernemingskamer van het gerechthof te Amsterdam een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving bevelen aan de verzoeker een nadere toelichting omtrent de toepassing van de bij of krachtens artikel 3 van verordening (EG) 1606/2002 van het Europees Parlement en de Raad van de Europese Unie van 19 juli 2002 betreffende de toepassing van internationale standaarden voor jaarrekeningen (PbEG L 243) of deze titel geldende voorschriften in de jaarrekening, het jaarverslag of in de overige gegevens te verschaffen.
+1.	Op verzoek van de Stichting Autoriteit Financiële Markten kan de ondernemingskamer van het gerechthof te Amsterdam een statutair in Nederlandgevestigde effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving bevelen aan de verzoeker een nadere toelichting omtrent de toepassing van de bij of krachtens artikel 3 van verordening (EG) 1606/2002 van het Europees Parlement en de Raad van de Europese Unie van 19 juli 2002 betreffende de toepassing van internationale standaarden voor jaarrekeningen (PbEG L 243) of deze titel geldende voorschriften in de jaarrekening, het jaarverslag of in de overige gegevens te verschaffen.
 
 2.	Het verzoek wordt met redenen omkleed en kan worden gedaan tot zes maanden na de dag van deponering bij de Stichting Autoriteit Financiële Markten van de in artikel 447 bedoelde stukken op grond van artikel 5a van de Wet toezicht effectenverkeer 1995 met inachtneming van het in artikel 2 tot en met 4 van de Wet toezicht financiële verslaggeving bepaalde.
 
@@ -5768,8 +5775,26 @@ Artikel 453
 
 Artikel 454
 
-[Dit onderdeel is nog niet inwerking getreden]
+1.	Op verzoek van de Stichting Autoriteit Financiële Markten kan de ondernemingskamer van het gerechtshof te Amsterdam aan een naar het recht van een andere staat opgerichte effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, onder 2°, van de Wet toezicht financiële verslaggeving bevelen een openbare mededeling te doen waarin wordt uitgelegd dat de jaarlijkse financiële verslaggeving als bedoeld in artikel 1, onderdeel d, onder 4° en 5°, van de Wet toezicht financiële verslaggeving niet voldoet aan de voorschriften, bedoeld in artikel 5:25c, tweede, vierde of vijfde lid, of artikel 5:25v, eerste lid, van de Wet op het financieel toezicht of waarin wordt uitgelegd hoe die voorschriften in de toekomst zullen worden toegepast.
+
+2.	De Stichting Autoriteit Financiële Markten kan het verzoek slechts indienen op de grond dat de in lid 1 bedoelde stukken niet voldoen aan de in artikel 5:25c, tweede, vierde of vijfde lid, of artikel 5:25v, eerste lid, van de Wet op het financieel toezicht bedoelde voorschriften. Het verzoekschrift vermeldt in welk opzicht de stukken niet voldoen.
+
+3.	Het verzoek heeft geen betrekking op de verklaring van de accountant, bedoeld in artikel 5:25c, vierde lid, van de Wet op het financieel toezicht.
+
+4.	Het verzoek wordt ingediend uiterlijk zes maanden na de dag waarop de jaarrekening op grond van artikel 5:25c, eerste lid, algemeen verkrijgbaar is gesteld. De leden 3 en 4 van artikel 449 zijn van overeenkomstige toepassing.
+
+5.	Op de behandeling van het verzoek door de ondernemingskamer zijn de leden 1 tot en met 3 en 5 tot en met 7 van artikel 450 van overeenkomstige toepassing.
 
 Artikel 455
 
-[Dit onderdeel is nog niet inwerking getreden]
+1.	Indien de ondernemingskamer het in artikel 454 bedoelde verzoek toewijst, geeft zij de effectenuitgevende instelling een bevel om binnen een door de ondernemingskamer te stellen termijn in een openbare mededeling uit te leggen:
+	a.	op welke wijze de in artikel 5:25c van de Wet op het financieel toezicht bedoelde voorschriften in de toekomst zullen worden toegepast en de gevolgen daarvan voor de financiële verslaggeving te beschrijven; of
+	b.	op welke onderdelen de financiële verslaggeving niet voldoet aan de in artikel 5:25c van de Wet op het financieel toezicht bedoelde voorschriften en de gevolgen daarvan voor de financiële verslaggeving te beschrijven. Het bevel bevat daartoe nauwkeurige aanwijzingen.
+
+2.	De effectenuitgevende instelling is verplicht met inachtneming van het bevel de openbare mededeling te doen.
+
+3.	Op verzoek van de effectenuitgevende instelling kan de ondernemingskamer wegens wijziging van omstandigheden haar bevel voor zover dit betrekking heeft op toekomstige stukken intrekken. De ondernemingskamer beslist niet dan na de Stichting Autoriteit Financiële Markten te hebben gehoord.
+
+4.	Indien de beschikking betrekking heeft op een naar het recht van een andere staat opgerichte effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, onder 2°, van de Wet toezicht financiële verslaggeving verstrekt de griffier van de ondernemingskamer een afschrift van de beschikking aan de Stichting Autoriteit Financiële Markten.
+
+5.	De artikelen 452 lid 5 en 453 lid 2 zijn van overeenkomstige toepassing.
