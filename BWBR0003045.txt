@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 01-11-2009 t/m 30-06-2010
+Geldend van 01-07-2010 t/m 29-04-2011
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -1540,6 +1540,10 @@ Artikel 107a
 
 2.	Het ontbreken van de goedkeuring van de algemene vergadering op een besluit als bedoeld in lid 1 tast de vertegenwoordigingsbevoegdheid van bestuur of bestuurders niet aan.
 
+3.	Indien de vennootschap krachtens wettelijke bepalingen een ondernemingsraad heeft ingesteld, wordt het verzoek om goedkeuring niet aan de algemene vergadering aangeboden, dan nadat de ondernemingsraad tijdig voor de datum van oproeping als bedoeld in artikel 114 in de gelegenheid is gesteld hierover een standpunt te bepalen. Het standpunt van de ondernemingsraad wordt gelijktijdig met het verzoek om goedkeuring aan de algemene vergadering aangeboden. De voorzitter of een door hem aangewezen lid van de ondernemingsraad kan het standpunt van de ondernemingsraad in de algemene vergadering toelichten. Het ontbreken van dat standpunt tast de besluitvorming over het verzoek om goedkeuring niet aan.
+
+4.	Voor de toepassing van lid 3 wordt onder de ondernemingsraad mede verstaan de ondernemingsraad van de onderneming van een dochtermaatschappij, mits de werknemers in dienst van de vennootschap en de groepsmaatschappijen in meerderheid binnen Nederland werkzaam zijn. Is er meer dan één ondernemingsraad, dan wordt de bevoegdheid door deze raden gezamenlijk uitgeoefend. Is voor de betrokken onderneming of ondernemingen een centrale ondernemingsraad ingesteld, dan komt de bevoegdheid toe aan de centrale ondernemingsraad.
+
 Artikel 108
 
 1.	Jaarlijks wordt ten minste één algemene vergadering gehouden.
@@ -1586,17 +1590,25 @@ Artikel 113
 
 5.	De statuten kunnen bepalen dat de houders van aandelen aan toonder alsmede de houders van de certificaten van aandelen, welke met medewerking van de vennootschap zijn uitgegeven, worden opgeroepen door een langs elektronische weg openbaar gemaakte aankondiging, welke tot aan de algemene vergadering rechtstreeks en permanent toegankelijk is.
 
+6.	In afwijking van lid 2 en onverminderd de leden 3 en 4 geschiedt de oproeping door een langs elektronische weg openbaar gemaakte aankondiging, welke tot aan de algemene vergadering rechtstreeks en permanent toegankelijk is indien aandelen van de vennootschap of met medewerking van de vennootschap uitgegeven certificaten daarvan zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.
+
 Artikel 114
 
-1.	Bij de oproeping worden de te behandelen onderwerpen vermeld of wordt medegedeeld dat de aandeelhouders en de houders van met medewerking van de vennootschap uitgegeven certificaten van haar aandelen er ten kantore van de vennootschap kennis van kunnen nemen.
+1.	Bij de oproeping worden vermeld:
+	a.	de te behandelen onderwerpen;
+	b.	de plaats en het tijdstip van de algemene vergadering;
+	c.	de procedure voor deelname aan de algemene vergadering bij schriftelijk gevolmachtigde;
+	d.	indien aandelen van de vennootschap of met medewerking van de vennootschap uitgegeven certificaten daarvan zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, de procedure voor deelname aan de algemene vergadering en het uitoefenen van het stemrecht door middel van een elektronisch communicatiemiddel, indien dit recht overeenkomstig artikel 117a kan worden uitgeoefend, alsmede het adres van de website van de vennootschap, als bedoeld in artikel 5:25ka van de Wet op het financieel toezicht.
 
 2.	Omtrent onderwerpen waarvan de behandeling niet bij de oproeping of op de zelfde wijze is aangekondigd met inachtneming van de voor de oproeping gestelde termijn, kan niet wettig worden besloten, tenzij het besluit met algemene stemmen wordt genomen in een vergadering, waarin het gehele geplaatste kapitaal vertegenwoordigd is.
 
 3.	Mededelingen welke krachtens de wet of de statuten aan de algemene vergadering moeten worden gericht, kunnen geschieden door opneming hetzij in de oproeping hetzij in het stuk dat ter kennisneming ten kantore der vennootschap is neergelegd, mits daarvan in de oproeping melding wordt gemaakt.
 
+4.	In afwijking van lid 1 kan bij de oproeping worden medegedeeld dat de houders van aandelen en de houders van met medewerking van de vennootschap uitgegeven certificaten van aandelen ten kantore van de vennootschap kennis kunnen nemen van de gegevens bedoeld in lid 1 onderdelen a en c, tenzij de betreffende aandelen of certificaten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.
+
 Artikel 114a
 
-1.	Een onderwerp, waarvan de behandeling schriftelijk is verzocht door een of meer houders van aandelen die daartoe krachtens het volgende lid gerechtigd zijn, wordt opgenomen in de oproeping of op dezelfde wijze aangekondigd indien de vennootschap het verzoek niet later dan op de zestigste dag voor die van de vergadering heeft ontvangen en mits geen zwaarwichtig belang van de vennootschap zich daartegen verzet.
+1.	Een onderwerp, waarvan de behandeling schriftelijk is verzocht door een of meer houders van aandelen die daartoe krachtens het volgende lid gerechtigd zijn, wordt opgenomen in de oproeping of op dezelfde wijze aangekondigd indien de vennootschap het met redenen omklede verzoek of een voorstel voor een besluit niet later dan op de zestigste dag voor die van de vergadering heeft ontvangen.
 
 2.	Om behandeling kan worden verzocht door een of meer houders van aandelen die alleen of gezamenlijk ten minste een honderdste gedeelte van het geplaatste kapitaal vertegenwoordigen of, indien de aandelen zijn toegelaten tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is ten minste een waarde vertegenwoordigen van € 50 miljoen. Bij algemene maatregel van bestuur kan dit bedrag worden verhoogd of verlaagd in verband met de ontwikkeling van het loon- en prijspeil.
 
@@ -1608,7 +1620,9 @@ Artikel 114a
 
 Artikel 115
 
-Behoudens het bepaalde bij de tweede zin van het eerste lid van artikel 111 van dit Boek, geschiedt de oproeping niet later dan op de vijftiende dag vóór die der vergadering. Was die termijn korter of heeft de oproeping niet plaats gehad, dan kunnen geen wettige besluiten worden genomen, tenzij met algemene stemmen in een vergadering, waarin het gehele geplaatste kapitaal vertegenwoordigd is.
+1.	Behoudens het bepaalde bij de tweede zin van het eerste lid van artikel 111 van dit Boek, geschiedt de oproeping niet later dan op de vijftiende dag vóór die der vergadering. Was die termijn korter of heeft de oproeping niet plaats gehad, dan kunnen geen wettige besluiten worden genomen, tenzij met algemene stemmen in een vergadering, waarin het gehele geplaatste kapitaal vertegenwoordigd is.
+
+2.	Indien aandelen van de vennootschap of met medewerking van de vennootschap uitgegeven certificaten daarvan zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, geschiedt de oproeping niet later dan op de tweeënveertigste dag vóór die der vergadering.
 
 Artikel 116
 
@@ -1620,13 +1634,13 @@ Artikel 117
 
 2.	Iedere houder van een met medewerking van de vennootschap uitgegeven certificaat van een aandeel is bevoegd, in persoon of bij een schriftelijk gevolmachtigde, de algemene vergadering bij te wonen en daarin het woord te voeren. De voorlaatste en de laatste zin van lid 1 zijn van overeenkomstige toepassing.
 
-3.	De statuten kunnen bepalen dat een aandeelhouder niet gerechtigd is tot deelname aan de algemene vergadering zolang hij in gebreke is te voldoen aan een wettelijke of statutaire verplichting. Wanneer bij de statuten is bepaald dat de houders van aandelen de bewijsstukken van hun recht vóór de algemene vergadering in bewaring moeten geven, worden bij de oproeping voor die vergadering vermeld de plaats waar en de dag waarop zulks uiterlijk moet geschieden. Die dag kan niet vroeger worden gesteld dan op de zevende dag voor die der vergadering. Indien de statuten voorschriften overeenkomstig de voorgaande bepalingen van dit lid bevatten, gelden deze mede voor de houders van de certificaten van aandelen die met medewerking van de vennootschap zijn uitgegeven.
+3.	De statuten kunnen bepalen dat een aandeelhouder niet gerechtigd is tot deelname aan de algemene vergadering zolang hij in gebreke is te voldoen aan een wettelijke of statutaire verplichting. Wanneer bij de statuten is bepaald dat de houders van aandelen de bewijsstukken van hun recht vóór de algemene vergadering in bewaring moeten geven, worden bij de oproeping voor die vergadering vermeld de plaats waar en de dag waarop zulks uiterlijk moet geschieden. Die dag kan niet vroeger worden gesteld dan op de zevende dag voor die der vergadering. Indien de statuten voorschriften overeenkomstig de voorgaande bepalingen van dit lid bevatten, gelden deze mede voor de houders van de certificaten van aandelen die met medewerking van de vennootschap zijn uitgegeven. Inbewaringgeving van bewijsstukken kan niet worden voorgeschreven indien aandelen van de vennootschap of met medewerking van de vennootschap uitgegeven certificaten daarvan zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.
 
 4.	De bestuurders en de commissarissen hebben als zodanig in de algemene vergaderingen een raadgevende stem.
 
 5.	De accountant aan wie de opdracht tot het onderzoek van de jaarrekening is verleend, bedoeld in artikel 393 lid 1, is bevoegd de algemene vergadering die besluit over de vaststelling van de jaarrekening bij te wonen en daarin het woord te voeren.
 
-6.	Aan de eis van schriftelijkheid van de volmacht wordt voldaan indien de volmacht elektronisch is vastgelegd.
+6.	Aan de eis van schriftelijkheid van de volmacht wordt voldaan indien de volmacht elektronisch is vastgelegd. Indien aandelen van de vennootschap of met medewerking van de vennootschap uitgegeven certificaten daarvan zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, biedt de vennootschap aan de aandeelhouder de mogelijkheid om haar langs elektronische weg van de volmacht in kennis te stellen.
 
 7.	Indien aandelen van de vennootschap of met medewerking van de vennootschap uitgegeven certificaten daarvan zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in de Wet op het financieel toezicht, kan bij de statuten de bevoegdheid van aandeelhouders of certificaathouders zich te doen vertegenwoordigen niet worden uitgesloten of beperkt.
 
@@ -1636,19 +1650,19 @@ Artikel 117a
 
 2.	Voor de toepassing van lid 1 is vereist dat de aandeelhouder via het elektronisch communicatiemiddel kan worden geïdentificeerd, rechtstreeks kan kennisnemen van de verhandelingen ter vergadering en het stemrecht kan uitoefenen. De statuten kunnen bepalen dat bovendien is vereist dat de aandeelhouder via het elektronisch communicatiemiddel kan deelnemen aan de beraadslaging.
 
-3.	Bij of krachtens de statuten kunnen voorwaarden worden gesteld aan het gebruik van het elektronisch communicatiemiddel. Indien deze voorwaarden krachtens de statuten worden gesteld, worden deze bij de oproeping bekend gemaakt.
+3.	Bij of krachtens de statuten kunnen voorwaarden worden gesteld aan het gebruik van het elektronisch communicatiemiddel, mits deze voorwaarden redelijk en noodzakelijk zijn voor de identificatie van de aandeelhouder en de betrouwbaarheid en veiligheid van de communicatie. Indien de voorwaarden krachtens de statuten worden gesteld, of artikel 114 lid 1 onderdeel d van toepassing is, worden deze voorwaarden bij de oproeping bekend gemaakt.
 
 4.	Lid 1 tot en met 3 zijn van overeenkomstige toepassing op de rechten van iedere houder van een met medewerking van de vennootschap uitgegeven certificaat van een aandeel.
 
-5.	Aan de eis van schriftelijkheid van de volmacht wordt voldaan indien de volmacht elektronisch is vastgelegd.
+5.	Aan de eis van schriftelijkheid van de volmacht wordt voldaan indien de volmacht elektronisch is vastgelegd. Indien aandelen van de vennootschap of met medewerking van de vennootschap uitgegeven certificaten daarvan zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, biedt de vennootschap aan de aandeelhouder de mogelijkheid om haar langs elektronische weg van de volmacht in kennis te stellen.
 
 Artikel 117b
 
-1.	De statuten kunnen bepalen dat stemmen die voorafgaand aan de algemene vergadering via een elektronisch communicatiemiddel worden uitgebracht gelijk worden gesteld met stemmen die ten tijde van de vergadering worden uitgebracht. Deze stemmen worden niet eerder uitgebracht dan op de in het derde lid bedoelde uiterste dag van registratie.
+1.	De statuten kunnen bepalen dat stemmen die voorafgaand aan de algemene vergadering via een elektronisch communicatiemiddel of bij brief worden uitgebracht gelijk worden gesteld met stemmen die ten tijde van de vergadering worden uitgebracht. Deze stemmen worden niet eerder uitgebracht dan op de in het derde lid bedoelde dag van registratie.
 
 2.	Voor de toepassing van lid 1 hebben als stem- of vergadergerechtigde te gelden zij die op een bij de bijeenroeping van een algemene vergadering te bepalen tijdstip die rechten hebben en als zodanig zijn ingeschreven in een door het bestuur aangewezen register, ongeacht wie ten tijde van de algemene vergadering de rechthebbenden op de aandelen zijn.
 
-3.	De uiterste dag van de registratie mag niet vroeger worden gesteld dan op de dertigste dag voor die van de vergadering.
+3.	De dag van registratie is de achtentwintigste dag voor die van de vergadering.
 
 4.	Bij de oproeping wordt de dag van de registratie vermeld, alsmede de wijze waarop de stem- of vergadergerechtigden zich kunnen laten registreren en de wijze waarop zij hun rechten kunnen uitoefenen.
 
@@ -1688,9 +1702,9 @@ De stemgerechtigde brengt het besluit tot beperking, intrekking of herroeping ge
 
 Artikel 119
 
-1.	De algemene vergadering kan het bestuur voor een periode van ten hoogste vijf jaren machtigen bij de bijeenroeping van een algemene vergadering te bepalen dat voor de toepassing van artikel 117 leden 1 en 2 en artikel 117a leden 1 en 4 als stem- of vergadergerechtigde hebben te gelden zij die op een daarbij te bepalen tijdstip die rechten hebben en als zodanig zijn ingeschreven in een door het bestuur aangewezen register, ongeacht wie ten tijde van de algemene vergadering de rechthebbenden op de aandelen of certificaten zijn. De machtiging kan ook voor onbepaalde tijd worden verleend bij de statuten.
+1.	De algemene vergadering kan het bestuur voor een periode van ten hoogste vijf jaren machtigen bij de bijeenroeping van een algemene vergadering te bepalen dat voor de toepassing van artikel 117 leden 1 en 2 en artikel 117a leden 1 en 4 als stem- of vergadergerechtigde hebben te gelden zij die op de in lid 2 bedoelde dag van registratie die rechten hebben en als zodanig zijn ingeschreven in een door het bestuur aangewezen register, ongeacht wie ten tijde van de algemene vergadering de rechthebbenden op de aandelen of certificaten zijn. De machtiging kan ook voor onbepaalde tijd worden verleend bij de statuten. Indien aandelen van de vennootschap of met medewerking van de vennootschap uitgegeven certificaten daarvan zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, hebben voor de toepassing van artikel 117 leden 1 en 2 en artikel 117a leden 1 en 4 als stem- of vergadergerechtigde te gelden zij die op de in lid 2 bedoelde dag van registratie die rechten hebben en als zodanig zijn ingeschreven in een door het bestuur aangewezen register, ongeacht wie ten tijde van de algemene vergadering de rechthebbenden op de aandelen of certificaten zijn.
 
-2.	De uiterste dag van registratie mag niet vroeger worden gesteld dan op de dertigste dag voor die der vergadering.
+2.	De dag van registratie is de achtentwintigste dag voor die van de vergadering.
 
 3.	Bij de oproeping voor de vergadering wordt de dag van registratie vermeld alsmede de wijze waarop de stem- of vergadergerechtigden zich kunnen laten registreren en de wijze waarop zij hun rechten kunnen uitoefenen.
 
@@ -1703,6 +1717,12 @@ Artikel 120
 3.	Indien in de statuten is bepaald dat de geldigheid van een besluit afhankelijk is van het ter vergadering vertegenwoordigd gedeelte van het kapitaal en dit gedeelte ter vergadering niet vertegenwoordigd was, kan, tenzij de statuten anders bepalen, een nieuwe vergadering worden bijeengeroepen waarin het besluit kan worden genomen, onafhankelijk van het op deze vergadering vertegenwoordigd gedeelte van het kapitaal. Bij de oproeping tot de nieuwe vergadering moet worden vermeld dat en waarom een besluit kan worden genomen, onafhankelijk van het ter vergadering vertegenwoordigd gedeelte van het kapitaal.
 
 4.	Het bestuur van de vennootschap houdt van de genomen besluiten aantekening. De aantekeningen liggen ten kantore van de vennootschap ter inzage van de aandeelhouders en de houders van de met medewerking van de vennootschap uitgegeven certificaten van haar aandelen. Aan ieder van dezen wordt desgevraagd afschrift of uittreksel van deze aantekeningen verstrekt tegen ten hoogste de kostprijs.
+
+5.	Onverminderd het bepaalde in lid 4 stelt de vennootschap waarvan aandelen of met medewerking van de vennootschap uitgegeven certificaten daarvan zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht voor elk genomen besluit vast:
+	a.	het aantal aandelen waarvoor geldige stemmen zijn uitgebracht;
+	b.	het percentage dat het aantal onder a bedoelde aandelen vertegenwoordigt in het geplaatste kapitaal;
+	c.	het totale aantal geldig uitgebrachte stemmen;
+	d.	het aantal stemmen dat voor en tegen het besluit is uitgebracht, alsmede het aantal onthoudingen.
 
 Artikel 121
 
@@ -1814,15 +1834,23 @@ Artikel 134
 
 4.	De statuten moeten voorschriften bevatten omtrent de wijze, waarop in het bestuur van de vennootschap voorlopig wordt voorzien ingeval van ontstentenis of belet van bestuurders.
 
+Artikel 134a
+
+1.	Indien de vennootschap krachtens wettelijke bepalingen een ondernemingsraad heeft ingesteld, wordt het voorstel tot benoeming, schorsing of ontslag van een bestuurder niet aan de algemene vergadering aangeboden, dan nadat de ondernemingsraad tijdig voor de datum van oproeping als bedoeld in artikel 114 in de gelegenheid is gesteld hierover een standpunt te bepalen. Het standpunt van de ondernemingsraad wordt gelijktijdig met het voorstel tot benoeming, schorsing of ontslag aan de algemene vergadering aangeboden. De voorzitter of een door hem aangewezen lid van de ondernemingsraad kan het standpunt van de ondernemingsraad in de algemene vergadering toelichten. Het ontbreken van dat standpunt tast de besluitvorming over het voorstel tot benoeming, schorsing of ontslag niet aan.
+
+2.	Voor de toepassing van lid 1 wordt onder de ondernemingsraad mede verstaan de ondernemingsraad van de onderneming van een dochtermaatschappij, mits de werknemers in dienst van de vennootschap en de groepsmaatschappijen in meerderheid binnen Nederland werkzaam zijn. Is er meer dan één ondernemingsraad, dan wordt de bevoegdheid door deze raden gezamenlijk uitgeoefend. Is voor de betrokken onderneming of ondernemingen een centrale ondernemingsraad ingesteld, dan komt de bevoegdheid toe aan de centrale ondernemingsraad.
+
 Artikel 135
 
 1.	De vennootschap heeft een beleid op het terrein van bezoldiging van het bestuur. Het beleid wordt vastgesteld door de algemene vergadering. In het bezoldigingsbeleid komen ten minste de in artikel 383c tot en met e omschreven onderwerpen aan de orde, voor zover deze het bestuur betreffen.
 
-2.	Indien de vennootschap krachtens wettelijke bepalingen een ondernemingsraad heeft ingesteld wordt het beloningsbeleid schriftelijk en gelijktijdig met de aanbieding aan de algemene vergadering ter kennisneming aan de ondernemingsraad aangeboden. Voor de toepassing van de vorige zin is het bepaalde in artikel 158 lid 11 van overeenkomstige toepassing op de dochtermaatschappij bedoeld in de leden 1 en 2 van artikel 24a.
+2.	Indien de vennootschap krachtens wettelijke bepalingen een ondernemingsraad heeft ingesteld, wordt het voorstel tot vaststelling van het bezoldigingsbeleid niet aan de algemene vergadering aangeboden, dan nadat de ondernemingsraad tijdig voor de datum van oproeping als bedoeld in artikel 114 in de gelegenheid is gesteld hierover een standpunt te bepalen. Het standpunt van de ondernemingsraad wordt, gelijktijdig met het voorstel tot vaststelling van het bezoldigingsbeleid, aan de algemene vergadering aangeboden. De voorzitter of een door hem aangewezen lid van de ondernemingsraad kan het standpunt van de ondernemingsraad in de algemene vergadering toelichten. Het ontbreken van dat standpunt tast de besluitvorming inzake het bezoldigingsbeleid niet aan.
 
-3.	De bezoldiging van bestuurders wordt met inachtneming van het beleid, bedoeld in lid 1, vastgesteld door de algemene vergadering, tenzij bij de statuten een ander orgaan is aangewezen.
+3.	Voor de toepassing van lid 2 wordt onder de ondernemingsraad mede verstaan de ondernemingsraad van de onderneming van een dochtermaatschappij, mits de werknemers in dienst van de vennootschap en de groepsmaatschappijen in meerderheid binnen Nederland werkzaam zijn. Is er meer dan één ondernemingsraad, dan wordt de bevoegdheid door deze raden gezamenlijk uitgeoefend. Is voor de betrokken onderneming of ondernemingen een centrale ondernemingsraad ingesteld, dan komt de bevoegdheid toe aan de centrale ondernemingsraad.
 
-4.	Indien in de statuten is bepaald dat een ander orgaan dan de algemene vergadering de bezoldiging vaststelt, legt dat orgaan ten aanzien van regelingen in de vorm van aandelen of rechten tot het nemen van aandelen een voorstel ter goedkeuring voor aan de algemene vergadering. In het voorstel moet ten minste zijn bepaald hoeveel aandelen of rechten tot het nemen van aandelen aan het bestuur mogen worden toegekend en welke criteria gelden voor toekenning of wijziging. Het ontbreken van de goedkeuring van de algemene vergadering tast de vertegenwoordigingbevoegdheid van het orgaan niet aan.
+4.	De bezoldiging van bestuurders wordt met inachtneming van het beleid, bedoeld in lid 1, vastgesteld door de algemene vergadering, tenzij bij de statuten een ander orgaan is aangewezen.
+
+5.	Indien in de statuten is bepaald dat een ander orgaan dan de algemene vergadering de bezoldiging vaststelt, legt dat orgaan ten aanzien van regelingen in de vorm van aandelen of rechten tot het nemen van aandelen een voorstel ter goedkeuring voor aan de algemene vergadering. In het voorstel moet ten minste zijn bepaald hoeveel aandelen of rechten tot het nemen van aandelen aan het bestuur mogen worden toegekend en welke criteria gelden voor toekenning of wijziging. Het ontbreken van de goedkeuring van de algemene vergadering tast de vertegenwoordigingbevoegdheid van het orgaan niet aan.
 
 Artikel 136
 
@@ -1893,6 +1921,12 @@ Artikel 144
 1.	Een commissaris kan worden geschorst en ontslagen door degene, die bevoegd is tot benoeming, tenzij artikel 161 leden 2 en 3 of artikel 161a van dit Boek van toepassing is.
 
 2.	Het tweede en het derde lid van artikel 134 van dit Boek zijn van overeenkomstige toepassing.
+
+Artikel 144a
+
+1.	Indien de vennootschap krachtens wettelijke bepalingen een ondernemingsraad heeft ingesteld, wordt het voorstel tot benoeming, schorsing of ontslag van een commissaris niet aan de algemene vergadering aangeboden, dan nadat de ondernemingsraad tijdig voor de datum van oproeping als bedoeld in artikel 114 in de gelegenheid is gesteld hierover een standpunt te bepalen. Het standpunt van de ondernemingsraad wordt gelijktijdig met het voorstel tot benoeming, schorsing of ontslag aan de algemene vergadering aangeboden. De voorzitter of een door hem aangewezen lid van de ondernemingsraad kan het standpunt van de ondernemingsraad in de algemene vergadering toelichten. Het ontbreken van dat standpunt tast de besluitvorming over het voorstel tot benoeming, schorsing of ontslag niet aan.
+
+2.	Voor de toepassing van lid 1 wordt onder de ondernemingsraad mede verstaan de ondernemingsraad van de onderneming van een dochtermaatschappij, mits de werknemers in dienst van de vennootschap en de groepsmaatschappijen in meerderheid binnen Nederland werkzaam zijn. Is er meer dan één ondernemingsraad, dan wordt de bevoegdheid door deze raden gezamenlijk uitgeoefend. Is voor de betrokken onderneming of ondernemingen een centrale ondernemingsraad ingesteld, dan komt de bevoegdheid toe aan de centrale ondernemingsraad.
 
 Artikel 145
 
@@ -2006,7 +2040,7 @@ Artikel 158
 
 3.	De raad van commissarissen stelt een profielschets voor zijn omvang en samenstelling vast, rekening houdend met de aard van de onderneming, haar activiteiten en de gewenste deskundigheid en achtergrond van de commissarissen. De raad bespreekt de profielschets voor het eerst bij vaststelling en vervolgens bij iedere wijziging in de algemene vergadering en met de ondernemingsraad.
 
-4.	De commissarissen worden, behoudens het bepaalde in lid 9, op voordracht van de raad van commissarissen benoemd door de algemene vergadering, voor zover de benoeming niet reeds is geschied bij de akte van oprichting of voordat dit artikel op de vennootschap van toepassing is geworden. De raad van commissarissen maakt de voordracht gelijktijdig bekend aan de algemene vergadering en aan de ondernemingsraad. De voordracht is met redenen omkleed. Onverminderd het bepaalde in artikel 160 kunnen de statuten de kring van benoembare personen niet beperken.
+4.	De commissarissen worden, behoudens het bepaalde in lid 9, op voordracht van de raad van commissarissen benoemd door de algemene vergadering, voor zover de benoeming niet reeds is geschied bij de akte van oprichting of voordat dit artikel op de vennootschap van toepassing is geworden. De raad van commissarissen maakt de voordracht gelijktijdig bekend aan de algemene vergadering en aan de ondernemingsraad. De voordracht is met redenen omkleed. Onverminderd het bepaalde in artikel 160 kunnen de statuten de kring van benoembare personen niet beperken. De voordracht wordt niet aan de algemene vergadering aangeboden dan nadat de ondernemingsraad tijdig voor de datum van oproeping als bedoeld in artikel 114 in de gelegenheid is gesteld hierover een standpunt te bepalen. De voorzitter of een door hem aangewezen lid van de ondernemingsraad kan het standpunt van de ondernemingsraad in de algemene vergadering toelichten. Het ontbreken van dat standpunt tast de besluitvorming over het voorstel tot benoeming niet aan.
 
 5.	De algemene vergadering en de ondernemingsraad kunnen aan de raad van commissarissen personen aanbevelen om als commissaris te worden voorgedragen. De raad deelt hun daartoe tijdig mede wanneer, ten gevolge waarvan en overeenkomstig welk profiel in zijn midden een plaats moet worden vervuld. Indien voor de plaats het in lid 6 bedoelde versterkte recht van aanbeveling geldt, doet de raad van commissarissen daarvan eveneens mededeling.
 
@@ -4361,13 +4395,13 @@ Artikel 359a
 Artikel 359b
 
 1.	De statuten van de vennootschap kunnen bepalen dat een openbare mededeling betreffende de aankondiging van een openbaar bod, als bedoeld in artikel 5:70 of 5:74 van de Wet op het financieel toezicht, op aandelen uitgegeven door de vennootschap, tot gevolg heeft dat:
-	a.	de vennootschap, totdat openbaarmaking van het resultaat van de gestanddoening van het bod heeft plaatsgevonden of het bod is vervallen, geen handelingen verricht die het slagen van het bod kunnen frustreren, tenzij voorafgaand aan de handeling goedkeuring wordt verleend door de algemene vergadering of de handeling het zoeken naar een alternatief openbaar bod betreft; de oproeping voor de algemene vergadering geschiedt niet later dan op de vijftiende dag voor die van de vergadering;
-	b.	besluiten van de vennootschap die voor de in de aanhef bedoelde openbare mededeling zijn genomen en die nog niet geheel zijn uitgevoerd, de goedkeuring van de algemene vergadering behoeven indien het besluit niet behoort tot de normale uitoefening van de onderneming en de uitvoering het slagen van het bod kan frustreren; de oproeping voor de algemene vergadering geschiedt niet later dan op de vijftiende dag voor die van de vergadering;
+	a.	de vennootschap, totdat openbaarmaking van het resultaat van de gestanddoening van het bod heeft plaatsgevonden of het bod is vervallen, geen handelingen verricht die het slagen van het bod kunnen frustreren, tenzij voorafgaand aan de handeling goedkeuring wordt verleend door de algemene vergadering of de handeling het zoeken naar een alternatief openbaar bod betreft; de oproeping voor de algemene vergadering geschiedt niet later dan op de tweeënveertigste dag voor die van de vergadering;
+	b.	besluiten van de vennootschap die voor de in de aanhef bedoelde openbare mededeling zijn genomen en die nog niet geheel zijn uitgevoerd, de goedkeuring van de algemene vergadering behoeven indien het besluit niet behoort tot de normale uitoefening van de onderneming en de uitvoering het slagen van het bod kan frustreren; de oproeping voor de algemene vergadering geschiedt niet later dan op de tweeënveertigste dag voor die van de vergadering;
 	c.	statutaire beperkingen van de overdracht van aandelen en beperkingen van de overdracht van aandelen die tussen de vennootschap en haar aandeelhouders of tussen aandeelhouders onderling zijn overeengekomen, niet gelden jegens de bieder wanneer hem tijdens de periode voor aanvaarding van een openbaar bod aandelen worden aangeboden;
 	d.	statutaire beperkingen van de uitoefening van het stemrecht en beperkingen van de uitoefening van het stemrecht die tussen de vennootschap en haar aandeelhouders of tussen aandeelhouders onderling zijn overeengekomen, niet gelden in de algemene vergadering die besluit over handelingen als bedoeld onder a of b;
 	e.	in de algemene vergadering elk aandeel in verband met het besluit over handelingen of besluiten als bedoeld onder a of b recht geeft op één stem.
 
-2.	De statuten van de vennootschap kunnen bepalen dat de houder van aandelen die ten gevolge van een openbaar bod ten minste 75% van het geplaatste kapitaal vertegenwoordigt, bevoegd is op korte termijn na het einde van de periode voor aanvaarding van het bod een algemene vergadering bijeen te roepen waarin bijzondere statutaire rechten van aandeelhouders in verband met een besluit tot benoeming of ontslag van een bestuurder of commissaris niet gelden. De oproeping geschiedt niet later dan op de vijftiende dag voor die van de vergadering. In de vergadering geeft elk aandeel ten aanzien van dat besluit recht op één stem en gelden statutaire beperkingen van de uitoefening van het stemrecht en beperkingen van de uitoefening van het stemrecht die tussen de vennootschap en haar aandeelhouders of tussen aandeelhouders onderling zijn overeengekomen niet.
+2.	De statuten van de vennootschap kunnen bepalen dat de houder van aandelen die ten gevolge van een openbaar bod ten minste 75% van het geplaatste kapitaal vertegenwoordigt, bevoegd is op korte termijn na het einde van de periode voor aanvaarding van het bod een algemene vergadering bijeen te roepen waarin bijzondere statutaire rechten van aandeelhouders in verband met een besluit tot benoeming of ontslag van een bestuurder of commissaris niet gelden. De oproeping geschiedt niet later dan op de tweeënveertigste dag voor die van de vergadering. In de vergadering geeft elk aandeel ten aanzien van dat besluit recht op één stem en gelden statutaire beperkingen van de uitoefening van het stemrecht en beperkingen van de uitoefening van het stemrecht die tussen de vennootschap en haar aandeelhouders of tussen aandeelhouders onderling zijn overeengekomen niet.
 
 3.	De aandeelhouder heeft recht op een billijke vergoeding van de schade die hij lijdt door de toepassing van lid 1, onderdeel c, d, of e, of lid 2.
 
