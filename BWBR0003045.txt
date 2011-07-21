@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 01-07-2011 t/m 21-07-2011
+Geldend van 22-07-2011 t/m 30-11-2011
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -3570,6 +3570,8 @@ Artikel 317
 
 5.	Een besluit tot fusie van een stichting behoeft de goedkeuring van de rechtbank, tenzij de statuten het mogelijk maken alle bepalingen daarvan te wijzigen. De rechtbank wijst het verzoek af, indien er gegronde redenen zijn om aan te nemen dat de fusie strijdig is met het belang van de stichting.
 
+6.	Indien het een fusie van een rechtspersoon betreft die beleggingsinstelling is als bedoeld in de Wet op het financieel toezicht waarvan het doel is de collectieve belegging van uit het publiek aangetrokken kapitaal met toepassing van het beginsel van risicospreiding en waarvan de rechten van deelneming ten laste van de activa van de beleggingsinstelling op verzoek van de houders direct of indirect worden ingekocht of terugbetaald, mogen de statuten voor het besluit tot fusie niet meer dan drie vierden van de uitgebrachte stemmen vereisen. Met inkopen of terugbetalingen als bedoeld in de eerste zin wordt gelijkgesteld ieder handelen van een dergelijke beleggingsinstelling om te voorkomen dat de waarde van haar deelnemingsrechten ter beurze aanzienlijk afwijkt van de intrinsieke waarde.
+
 Artikel 317a
 
 [Vervallen per 08-06-1987]
@@ -3700,7 +3702,7 @@ Artikel 314 lid 2 geldt ook ten behoeve van houders van met medewerking van de v
 
 Artikel 330
 
-1.	Voor het besluit tot fusie van de algemene vergadering is in elk geval een meerderheid van ten minste twee derden vereist, indien minder dan de helft van het geplaatste kapitaal ter vergadering is vertegenwoordigd.
+1.	Voor het besluit tot fusie van de algemene vergadering is in elk geval een meerderheid van ten minste twee derden vereist, indien minder dan de helft van het geplaatste kapitaal ter vergadering is vertegenwoordigd. Indien het een fusie van een vennootschap betreft die beleggingsinstelling is als bedoeld in de Wet op het financieel toezicht waarvan het doel is de collectieve belegging van uit het publiek aangetrokken kapitaal met toepassing van het beginsel van risicospreiding en waarvan de rechten van deelneming ten laste van de activa van de vennootschap op verzoek van de houders direct of indirect worden ingekocht of terugbetaald, mag de vereiste meerderheid niet meer dan drie vierden bedragen. Met inkopen of terugbetalingen als bedoeld in de eerste zin wordt gelijkgesteld ieder handelen van een dergelijke beleggingsinstelling om te voorkomen dat de waarde van haar deelnemingsrechten ter beurze aanzienlijk afwijkt van de intrinsieke waarde.
 
 2.	Zijn er verschillende soorten aandelen, dan is naast het besluit tot fusie van de algemene vergadering vereist een voorafgaand of gelijktijdig goedkeurend besluit van elke groep houders van aandelen van een zelfde soort aan wier rechten de fusie afbreuk doet. Goedkeuring kan eerst geschieden na verloop van een maand na de dag waarop alle fuserende vennootschappen de nederlegging of openbaarmaking van het voorstel tot fusie hebben aangekondigd.
 
