@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 01-12-2011 t/m 31-12-2011
+Geldend van 01-01-2012 t/m 30-09-2012
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -584,7 +584,7 @@ Artikel 49
 
 5.	Een vereniging als bedoeld in artikel 360 lid 3 mag ten laste van de door de wet voorgeschreven reserves een tekort slechts delgen voor zover de wet dat toestaat.
 
-6.	Onze Minister van Economische Zaken kan desverzocht om gewichtige redenen ontheffing verlenen van de verplichting tot het opmaken, het overleggen en het vaststellen van de jaarrekening.
+6.	Onze Minister van Economische Zaken kan desverzocht om gewichtige redenen ontheffing verlenen van de verplichting tot het opmaken, het overleggen en het vaststellen van de jaarrekening. Afdeling 4.1.3.3 van de Algemene wet bestuursrecht is van toepassing op deze verzoeken tot ontheffing.
 
 Artikel 50
 
@@ -682,7 +682,7 @@ Artikel 58
 
 4.	Ten laste van de door de wet voorgeschreven reserves mag een tekort slechts worden gedelgd voor zover de wet dat toestaat.
 
-5.	Onze Minister van Economische Zaken kan desverzocht om gewichtige redenen ontheffing verlenen van de verplichting tot het opmaken, het overleggen en het vaststellen van de jaarrekening.
+5.	Onze Minister van Economische Zaken kan desverzocht om gewichtige redenen ontheffing verlenen van de verplichting tot het opmaken, het overleggen en het vaststellen van de jaarrekening. Afdeling 4.1.3.3 van de Algemene wet bestuursrecht is van toepassing op deze verzoeken tot ontheffing.
 
 Artikel 59
 
@@ -1559,7 +1559,7 @@ Het bestuur en de raad van commissarissen zijn bevoegd tot het bijeenroepen van 
 
 Artikel 110
 
-1.	Een of meer houders van aandelen die gezamenlijk ten minste een tiende gedeelte van het geplaatste kapitaal vertegenwoordigen, of een zoveel geringer bedrag als bij de statuten is bepaald, kunnen door de voorzieningenrechter van de rechtbank op hun verzoek worden gemachtigd tot de bijeenroeping van een algemene vergadering. De voorzieningenrechter wijst dit verzoek af, indien hem niet is gebleken, dat verzoekers voordien aan het bestuur en aan de raad van commissarissen schriftelijk en onder nauwkeurige opgave van de te behandelen onderwerpen het verzoek hebben gericht een algemene vergadering bijeen te roepen, en dat noch het bestuur noch de raad van commissarissen - daartoe in dit geval gelijkelijk bevoegd - de nodige maatregelen hebben getroffen, opdat de algemene vergadering binnen zes weken na het verzoek kon worden gehouden.
+1.	Een of meer houders van aandelen die gezamenlijk ten minste een tiende gedeelte van het geplaatste kapitaal vertegenwoordigen, of een zoveel geringer bedrag als bij de statuten is bepaald, kunnen door de voorzieningenrechter van de rechtbank op hun verzoek worden gemachtigd tot de bijeenroeping van een algemene vergadering. De voorzieningenrechter wijst dit verzoek af, indien hem niet is gebleken, dat verzoekers voordien aan het bestuur en aan de raad van commissarissen schriftelijk en onder nauwkeurige opgave van de te behandelen onderwerpen het verzoek hebben gericht een algemene vergadering bijeen te roepen, en dat noch het bestuur noch de raad van commissarissen - daartoe in dit geval gelijkelijk bevoegd - de nodige maatregelen hebben getroffen, opdat de algemene vergadering binnen zes weken na het verzoek kon worden gehouden. Indien aandelen van de vennootschap of met medewerking van de vennootschap uitgegeven certificaten daarvan zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, bedraagt deze termijn acht weken.
 
 2.	Voor de toepassing van dit artikel worden met houders van aandelen gelijkgesteld de houders van de certificaten van aandelen, welke met medewerking van de vennootschap zijn uitgegeven.
 
@@ -1755,7 +1755,7 @@ Artikel 124
 
 1.	Van een wijziging in de statuten wordt, op straffe van nietigheid, een notariële akte opgemaakt. De akte wordt verleden in de Nederlandse taal.
 
-2.	Die akte kan bestaan in een notarieel proces-verbaal van de algemene vergadering, waarin de wijziging aangenomen is, of in een later verleden notariële akte. Het bestuur is bevoegd de akte te doen verlijden, ook zonder daartoe door de algemene vergadering te zijn gemachtigd. De algemene vergadering kan het bestuur of een of meer andere personen machtigen de veranderingen aan te brengen, die nodig mochten blijken om de bij het volgende artikel bedoelde verklaring te verkrijgen.
+2.	Die akte kan bestaan in een notarieel proces-verbaal van de algemene vergadering, waarin de wijziging aangenomen is, of in een later verleden notariële akte. Het bestuur is bevoegd de akte te doen verlijden, ook zonder daartoe door de algemene vergadering te zijn gemachtigd.
 
 3.	Wordt het maatschappelijke kapitaal gewijzigd, dan vermeldt de akte welk deel daarvan is geplaatst.
 
@@ -2255,7 +2255,7 @@ Artikel 183
 
 1.	Wanneer een naamloze vennootschap zich krachtens artikel 18 omzet in een besloten vennootschap, wordt aan de akte van omzetting een verklaring van een deskundige als bedoeld in artikel 393 gehecht waaruit blijkt dat het eigen vermogen van de vennootschap op een dag binnen vijf maanden voor de omzetting ten minste overeenkwam met het gestorte en opgevraagde deel van het kapitaal volgens de akte van omzetting.
 
-2.	Wanneer een andere rechtspersoon zich krachtens artikel 18 omzet in een besloten vennootschap, worden aan de akte van omzetting gehecht:
+2.	Wanneer een rechtspersoon zich krachtens artikel 18 omzet in een besloten vennootschap, worden aan de akte van omzetting gehecht:
 	a.	een verklaring van een deskundige als bedoeld in artikel 393, waaruit blijkt dat het eigen vermogen van de rechtspersoon op een dag binnen vijf maanden voor de omzetting ten minste het bedrag beloopt van het gestorte deel van het geplaatste kapitaal volgens de akte van omzetting; bij het eigen vermogen mag de waarde worden geteld van hetgeen na die dag uiterlijk onverwijld na de omzetting op aandelen zal worden gestort;
 	b.	indien de rechtspersoon leden heeft, de schriftelijke toestemming van ieder lid wiens aandelen niet worden volgestort door omzetting van de reserves van de rechtspersoon;
 	c.	indien een stichting wordt omgezet, de rechterlijke machtiging daartoe.
@@ -2877,7 +2877,7 @@ Artikel 234
 
 1.	Van een wijziging in de statuten wordt, op straffe van nietigheid, een notariële akte opgemaakt. De akte wordt verleden in de Nederlandse taal.
 
-2.	Die akte kan bestaan in een notarieel proces-verbaal van de algemene vergadering, waarin de wijziging aangenomen is, of in een later verleden notariële akte. Het bestuur is bevoegd de akte te doen verlijden, ook zonder daartoe door de algemene vergadering te zijn gemachtigd. De algemene vergadering kan het bestuur of een of meer andere personen machtigen de veranderingen aan te brengen, die nodig mochten blijken om de bij het volgende artikel bedoelde verklaring te verkrijgen.
+2.	Die akte kan bestaan in een notarieel proces-verbaal van de algemene vergadering, waarin de wijziging aangenomen is, of in een later verleden notariële akte. Het bestuur is bevoegd de akte te doen verlijden, ook zonder daartoe door de algemene vergadering te zijn gemachtigd.
 
 3.	Wordt het maatschappelijke kapitaal gewijzigd, dan vermeldt de akte welk deel daarvan is geplaatst.
 
@@ -3399,7 +3399,7 @@ Artikel 300
 
 4.	Een stichting als bedoeld in artikel 360 lid 3 mag ten laste van de door de wet voorgeschreven reserves een tekort slechts delgen voor zover de wet dat toestaat.
 
-5.	Onze Minister van Economische Zaken kan desverzocht om gewichtige redenen ontheffing verlenen van de verplichting tot het opmaken, het overleggen en het vaststellen van de jaarrekening.
+5.	Onze Minister van Economische Zaken kan desverzocht om gewichtige redenen ontheffing verlenen van de verplichting tot het opmaken, het overleggen en het vaststellen van de jaarrekening. Afdeling 4.1.3.3 van de Algemene wet bestuursrecht is van toepassing op deze verzoeken tot ontheffing.
 
 Artikel 300a
 
@@ -4475,7 +4475,7 @@ Afdeling 1. Algemene bepaling
 
 Artikel 360
 
-1.	Deze titel is van toepassing op de coöperatie, de onderlinge waarborgmaatschappij, de naamloze vennootschap en de besloten vennootschap met beperkte aansprakelijkheid. Ongeacht hun rechtsvorm is deze titel op banken als bedoeld in artikel 415 en betaalinstellingen als bedoeld in artikel 1:1 van de Wet op het financieel toezicht van toepassing.
+1.	Deze titel is van toepassing op de coöperatie, de onderlinge waarborgmaatschappij, de naamloze vennootschap en de besloten vennootschap met beperkte aansprakelijkheid. Ongeacht hun rechtsvorm is deze titel op banken als bedoeld in artikel 415, betaalinstellingen als bedoeld in artikel 1:1 van de Wet op het financieel toezicht en elektronischgeldinstellingen als bedoeld in artikel 1:1 van de Wet op het financieel toezicht van toepassing.
 
 2.	Deze titel is eveneens van toepassing op een commanditaire vennootschap of een vennootschap onder firma waarvan alle vennoten die volledig jegens schuldeisers aansprakelijk zijn voor de schulden, kapitaalvennootschappen naar buitenlands recht zijn.
 
@@ -4660,7 +4660,7 @@ Artikel 375
 
 1.	Onder de schulden worden afzonderlijk opgenomen:
 	a.	obligatieleningen, pandbrieven en andere leningen met afzonderlijke vermelding van de converteerbare leningen;
-	b.	schulden aan kredietinstellingen;
+	b.	schulden aan banken;
 	c.	ontvangen vooruitbetalingen op bestellingen voor zover niet reeds op actiefposten in mindering gebracht;
 	d.	schulden aan leveranciers en handelskredieten;
 	e.	te betalen wissels en cheques;
@@ -5309,7 +5309,7 @@ Afdeling 14. Bepalingen voor banken
 
 Artikel 415
 
-In deze afdeling wordt onder bank verstaan: een financiële onderneming met zetel in Nederland die een vergunning heeft voor het uitoefenen van het bedrijf van kredietinstelling als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.
+In deze afdeling wordt onder bank verstaan: een financiële onderneming met zetel in Nederland die een vergunning heeft voor het uitoefenen van het bedrijf van bank als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.
 
 Artikel 416
 
@@ -5793,7 +5793,7 @@ Artikel 450
 
 5.	De ondernemingskamer beslist niet dan nadat zij de accountant die met het onderzoek van de jaarrekening is belast geweest, in de gelegenheid heeft gesteld te worden gehoord over de in het verzoek genoemde onderwerpen.
 
-6.	De ondernemingskamer geeft, indien het verzoek wordt gedaan ten aanzien van een verzekeraar of kredietinstelling als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, geen beslissing zonder dat de Nederlandsche Bank N.V. in de gelegenheid is gesteld te worden gehoord over de in het verzoek genoemde onderwerpen.
+6.	De ondernemingskamer geeft, indien het verzoek wordt gedaan ten aanzien van een verzekeraar of bank als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, geen beslissing zonder dat de Nederlandsche Bank N.V. in de gelegenheid is gesteld te worden gehoord over de in het verzoek genoemde onderwerpen.
 
 7.	De ondernemingskamer geeft, indien het verzoek wordt gedaan ten aanzien van een beleggingsonderneming als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, geen beslissing zonder De Nederlandsche Bank N.V. en de Stichting Autoriteit Financiële Markten in de gelegenheid te hebben gesteld te worden gehoord over de in het verzoek genoemde onderwerpen.
 
