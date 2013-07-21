@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 01-07-2013 t/m 21-07-2013
+Geldend van 22-07-2013 t/m 06-08-2013
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -4580,7 +4580,7 @@ Afdeling 3. Het openbaar bod
 
 Artikel 359a
 
-1.	Deze afdeling is van toepassing op de vennootschap waarvan aandelen zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, tenzij het een beleggingsmaatschappij is als bedoeld in dat artikel waarvan de rechten van deelneming op verzoek van de deelnemers direct of indirect worden ingekocht of terugbetaald ten laste van de activa van de beleggingsmaatschappij.
+1.	Deze afdeling is van toepassing op de vennootschap waarvan aandelen zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, tenzij het een beleggingsmaatschappij of maatschappij voor collectieve belegging in effecten, is als bedoeld in dat artikel waarvan de rechten van deelneming op verzoek van de deelnemers direct of indirect worden ingekocht of terugbetaald ten laste van de activa van de beleggingsmaatschappij.
 
 2.	In deze afdeling wordt een certificaat van aandelen dat met medewerking van de vennootschap is uitgegeven gelijk gesteld met een aandeel en wordt een certificaathouder gelijk gesteld met een aandeelhouder.
 
@@ -5308,7 +5308,7 @@ Artikel 398
 
 3.	De artikelen 396 en 397 zijn niet van toepassing op:
 	a.	een rechtspersoon die effecten heeft uitstaan die zijn toegelaten tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is; of
-	b.	een beleggingsmaatschappij waarvoor artikel 401 lid 1 geldt.
+	b.	een beleggingsmaatschappij of maatschappij voor collectieve belegging in effecten waarvoor artikel 401 lid 1 geldt.
 
 4.	Bij algemene maatregel van bestuur worden de in artikel 396 lid 1 en artikel 397 lid 1 genoemde bedragen verlaagd, indien het recht van de Europese Gemeenschappen daartoe verplicht, en kunnen zij worden verhoogd, voor zover geoorloofd.
 
@@ -5326,9 +5326,9 @@ Onze Minister van Financiën kan financiële instellingen die geen bank als bedo
 
 Artikel 401
 
-1.	Een beheerder en een beleggingsmaatschappij waarop het Deel Gedragstoezicht financiële ondernemingen van de Wet op het financieel toezicht van toepassing is, moeten in aanvulling op de bepalingen van deze titel tevens voldoen aan de vereisten voor zijn onderscheidenlijk haar jaarrekening, gesteld bij of krachtens die wet. Voor deze beheerder en beleggingsmaatschappij kan bij of krachtens die wet van de artikelen 394, lid 2, 3 of 4, en 403 worden afgeweken.
+1.	Een beheerder van een beleggingsinstelling, een beheerder van een icbe, een beleggingsmaatschappij en een maatschappij voor collectieve belegging in effecten waarop het Deel Gedragstoezicht financiële ondernemingen van de Wet op het financieel toezicht van toepassing is, moeten in aanvulling op de bepalingen van deze titel tevens voldoen aan de vereisten voor zijn onderscheidenlijk haar jaarrekening, gesteld bij of krachtens die wet. Voor deze beheerder van een beleggingsinstelling, beheerder van een icbe, beleggingsmaatschappij en maatschappij voor collectieve belegging in effecten kan bij of krachtens die wet van de artikelen 394, lid 2, 3 of 4, en 403 worden afgeweken.
 
-2.	De beleggingen van een beleggingsmaatschappij als bedoeld in artikel 1:1 van de Wet op het financieel toezicht mogen tegen marktwaarde worden gewaardeerd. Nadelige koersverschillen ten opzichte van de voorafgaande balansdatum behoeven niet ten laste van de winst- en verliesrekening te worden gebracht, mits zij op de reserves worden afgeboekt; voordelige koersverschillen mogen op de reserves worden bijgeboekt. De bedragen worden in de balans of in de toelichting vermeld.
+2.	De beleggingen van een beleggingsmaatschappij of een maatschappij voor collectieve belegging in effecten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht mogen tegen marktwaarde worden gewaardeerd. Nadelige koersverschillen ten opzichte van de voorafgaande balansdatum behoeven niet ten laste van de winst- en verliesrekening te worden gebracht, mits zij op de reserves worden afgeboekt; voordelige koersverschillen mogen op de reserves worden bijgeboekt. De bedragen worden in de balans of in de toelichting vermeld.
 
 3.	Op een beleggingsmaatschappij met veranderlijk kapitaal is artikel 378 lid 3, tweede zin, niet van toepassing.
 
