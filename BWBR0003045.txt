@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 01-01-2014 t/m 05-01-2014
+Geldend van 06-01-2014 t/m 30-06-2014
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -189,7 +189,7 @@ Artikel 19a
 1.	Een in het handelsregister ingeschreven naamloze vennootschap, besloten vennootschap met beperkte aansprakelijkheid, coöperatie of onderlinge waarborgmaatschappij wordt door een beschikking van de Kamer van Koophandel ontbonden, indien de Kamer is gebleken dat ten minste twee van de hiernavolgende omstandigheden zich voordoen:
 	a.	er staan gedurende ten minste een jaar geen bestuurders van de rechtspersoon in het register ingeschreven, terwijl ook geen opgaaf tot inschrijving is gedaan, dan wel er doet zich, indien er wel bestuurders staan ingeschreven, met betrekking tot alle ingeschreven bestuurders een van de navolgende omstandigheden voor:
 		1°.	bestuurder is overleden,
-		2°.	de bestuurder is ten minste een jaar niet bereikbaar gebleken op het in het register vermelde adres, en evenmin op het in de gemeentelijke basisadministratie persoonsgegevens ingeschreven adres, dan wel in die administratie staat ten minste een jaar geen adres van de bestuurder vermeld;
+		2°.	de bestuurder is ten minste een jaar niet bereikbaar gebleken op het in het register vermelde adres, en evenmin op het in de basisregistratie personen vermelde adres, of betrokkene is niet ingeschreven in de basisregistratie personen;
 	b.	de rechtspersoon is ten minste een jaar in gebreke met de nakoming van de verplichting tot openbaarmaking van de jaarrekening of de balans en de toelichting overeenkomstig de artikelen 394, 396 of 397;
 	c.	de rechtspersoon heeft ten minste een jaar geen gevolg gegeven aan een aanmaning als bedoeld in artikel 9, lid 3 van de Algemene wet inzake rijksbelastingen tot het doen van aangifte voor de vennootschapsbelasting.
 
