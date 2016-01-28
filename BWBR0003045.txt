@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 01-01-2016 t/m 28-01-2016
+Geldend van 29-01-2016 t/m 30-06-2016
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -1624,7 +1624,7 @@ Artikel 115
 
 2.	Indien aandelen van de vennootschap of met medewerking van de vennootschap uitgegeven certificaten daarvan zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, geschiedt de oproeping niet later dan op de tweeënveertigste dag vóór die der vergadering.
 
-3.	De statuten kunnen in afwijking van lid 2 bepalen dat de oproeping voor een vergadering voor een besluit tot uitgifte van aandelen niet later dan de tiende dag vóór die der vergadering geschiedt, indien voldaan is aan de voorwaarden om maatregelen op te leggen op grond van artikel 1:75a van de Wet op het financieel toezicht en de uitgifte van aandelen noodzakelijk is om te voorkomen dat aan de voorwaarden voor afwikkeling, bedoeld in artikel 3A:18, eerste lid, van die wet wordt voldaan.
+3.	De statuten van een entiteit als bedoeld in artikel 3A:2, onderdelen a tot en met e, van de Wet op het financieel toezicht kunnen in afwijking van lid 2 bepalen dat de oproeping voor een vergadering voor een besluit tot uitgifte van aandelen niet later dan de tiende dag vóór die der vergadering geschiedt, indien voldaan is aan de voorwaarden om maatregelen op te leggen op grond van artikel 1:75a van die wet en de uitgifte van aandelen noodzakelijk is om te voorkomen dat aan de voorwaarden voor afwikkeling, bedoeld in artikel 3A:18, eerste lid, van die wet wordt voldaan.
 
 4.	Voor een besluit van de algemene vergadering tot wijziging van de statuten voor de toepassing van het derde lid, is een meerderheid van ten minste twee derden der uitgebrachte stemmen vereist.
 
@@ -1670,6 +1670,8 @@ Artikel 117b
 
 4.	Bij de oproeping wordt de dag van de registratie vermeld, alsmede de wijze waarop de stem- of vergadergerechtigden zich kunnen laten registreren en de wijze waarop zij hun rechten kunnen uitoefenen.
 
+5.	Indien de oproeping van de algemene vergadering plaatsvindt onder toepassing van een bepaling in de statuten als bedoeld in artikel 115 lid 3, worden de stemmen in afwijking van lid 1 tweede volzin en lid 3 niet eerder uitgebracht dan op een in de statuten te bepalen dag van registratie.
+
 Artikel 118
 
 1.	Slechts aandeelhouders hebben stemrecht. Iedere aandeelhouder heeft ten minste één stem. De statuten kunnen bepalen dat een aandeelhouder niet gerechtigd is tot uitoefening van het stemrecht zolang hij in gebreke is te voldoen aan een wettelijke of statutaire verplichting.
@@ -1711,6 +1713,8 @@ Artikel 119
 2.	De dag van registratie is de achtentwintigste dag voor die van de vergadering.
 
 3.	Bij de oproeping voor de vergadering wordt de dag van registratie vermeld alsmede de wijze waarop de stem- of vergadergerechtigden zich kunnen laten registreren en de wijze waarop zij hun rechten kunnen uitoefenen.
+
+4.	Indien de oproeping van de algemene vergadering plaatsvindt onder toepassing van een bepaling in de statuten als bedoeld in artikel 115 lid 3, zijn de leden 1 en 2 niet van toepassing. Voor de toepassing van artikel 117 leden 1 en 2 en artikel 117a leden 1 en 4 hebben als stem- of vergadergerechtigde te gelden zij die op een in de statuten te bepalen dag van registratie die rechten hebben en als zodanig zijn ingeschreven in een door het bestuur aangewezen register, ongeacht wie ten tijde van de algemene vergadering de rechthebbenden op de aandelen of certificaten zijn.
 
 Artikel 120
 
@@ -6037,7 +6041,7 @@ Artikel 448
 	a.	iedere belanghebbende;
 	b.	de advocaat-generaal bij het ressortsparket in het openbaar belang.
 
-2.	Tot het indienen van het verzoek is voorts bevoegd de Stichting Autoriteit Financiële Markten, voor zover het stukken betreft die betrekking hebben op een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving en met inachtneming van het in artikel 4 van die wet bepaalde. Dit is niet van toepassing indien het verzoek betrekking heeft op een verslag als bedoeld in artikel 392a.
+2.	Tot het indienen van het verzoek is voorts bevoegd de Stichting Autoriteit Financiële Markten, voor zover het stukken betreft die betrekking hebben op een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving en met inachtneming van het in artikel 4 van die wet bepaalde.
 
 Artikel 449
 
@@ -6057,7 +6061,7 @@ Artikel 450
 
 3.	Onverminderd de leden 4 tot en met 8 worden andere belanghebbenden dan de rechtpersoon, vennootschap, effectenuitgevende instelling of beleggingsinstelling, bedoeld in artikel 447, lid 1, waarop het verzoek betrekking heeft, niet opgeroepen en kunnen zij geen verweerschrift indienen.
 
-4.	Indien het verzoek wordt gedaan ten aanzien van een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving en het verzoek niet is gedaan door de Stichting Autoriteit Financiële Markten, wordt deze in de gelegenheid gesteld te worden gehoord over de in het verzoek genoemde onderwerpen en, indien artikel 194 van het Wetboek van Burgerlijke rechtsvordering toepassing heeft gevonden, in de gelegenheid gesteld haar mening over het deskundigenbericht aan de ondernemingskamer kenbaar te maken. Dit is niet van toepassing indien het verzoek betrekking heeft op een verslag als bedoeld in artikel 392a.
+4.	Indien het verzoek wordt gedaan ten aanzien van een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving en het verzoek niet is gedaan door de Stichting Autoriteit Financiële Markten, wordt deze in de gelegenheid gesteld te worden gehoord over de in het verzoek genoemde onderwerpen en, indien artikel 194 van het Wetboek van Burgerlijke rechtsvordering toepassing heeft gevonden, in de gelegenheid gesteld haar mening over het deskundigenbericht aan de ondernemingskamer kenbaar te maken.
 
 5.	De ondernemingskamer beslist niet dan nadat zij de accountant die met het onderzoek van de jaarrekening is belast geweest, in de gelegenheid heeft gesteld te worden gehoord over de in het verzoek genoemde onderwerpen. Dit is niet van toepassing indien het verzoek betrekking heeft op een verslag als bedoeld in artikel 392a.
 
