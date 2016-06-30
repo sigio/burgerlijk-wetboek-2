@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 29-01-2016 t/m 30-06-2016
+Geldend van 01-07-2016 t/m 05-12-2016
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -1259,8 +1259,8 @@ Artikel 94a
 	a.	alle oprichters hebben besloten af te zien van de opstelling van de deskundigenverklaring;
 	b.	een of meer rechtspersonen op wier jaarrekening titel 9 van toepassing is, of die krachtens de toepasselijke wet voldoen aan de eisen van richtlijn 2013/34/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende de jaarlijkse financiële overzichten, geconsolideerde financiële overzichten en aanverwante verslagen van bepaalde ondernemingsvormen, tot wijziging van richtlijn 2006/43/EG van het Europees Parlement en de Raad en tot intrekking van richtlijnen 78/660/EEG en 83/349/EEG van de Raad (PbEU 2013, L 182), nemen alle uit te geven aandelen tegen inbreng anders dan in geld;
 	c.	elke inbrengende rechtspersoon beschikt ten tijde van de inbreng over niet uitkeerbare reserves, voor zover nodig door het bestuur hiertoe afgezonderd uit de uitkeerbare reserves, ter grootte van het nominale bedrag der door de rechtspersoon genomen aandelen;
-	d.	elke inbrengende rechtspersoon verklaart dat hij een bedrag van ten minste de nominale waarde der door hem genomen aandelen ter beschikking zal stellen voor de voldoening van schulden van de vennootschap aan derden, die ontstaan in het tijdvak tussen de plaatsing van de aandelen en een jaar nadat de vastgestelde jaarrekening van de vennootschap over het boekjaar van de inbreng is neergelegd ten kantore van het handelsregister, voor zover de vennootschap deze niet kan voldoen en de schuldeisers hun vordering binnen twee jaren na deze nederlegging schriftelijk aan een van de inbrengende rechtspersonen hebben opgegeven;
-	e.	elke inbrengende rechtspersoon heeft zijn laatste vastgestelde balans met toelichting, met de accountantsverklaring daarbij, neergelegd ten kantore van het handelsregister en sedert de balansdatum zijn nog geen achttien maanden verstreken;
+	d.	elke inbrengende rechtspersoon verklaart dat hij een bedrag van ten minste de nominale waarde der door hem genomen aandelen ter beschikking zal stellen voor de voldoening van schulden van de vennootschap aan derden, die ontstaan in het tijdvak tussen de plaatsing van de aandelen en een jaar nadat de vastgestelde jaarrekening van de vennootschap over het boekjaar van de inbreng is gedeponeerd bij het handelsregister, voor zover de vennootschap deze niet kan voldoen en de schuldeisers hun vordering binnen twee jaren na deze deponering schriftelijk aan een van de inbrengende rechtspersonen hebben opgegeven;
+	e.	elke inbrengende rechtspersoon heeft zijn laatste vastgestelde balans met toelichting, met de accountantsverklaring daarbij, gedeponeerd bij het handelsregister en sedert de balansdatum zijn nog geen achttien maanden verstreken;
 	f.	elke inbrengende rechtspersoon zondert een reserve af ter grootte van het nominale bedrag der door hem genomen aandelen en kan dit doen uit reserves waarvan de aard dit niet belet;
 	g.	de vennootschap doet ten kantore van het handelsregister opgave van het onder a bedoelde besluit en elke inbrengende rechtspersoon doet aan hetzelfde kantoor opgave van zijn onder d vermelde verklaring.
 
@@ -1491,7 +1491,7 @@ Artikel 102
 
 1.	De naamloze vennootschap zorgt dat de opgemaakte jaarrekening, het bestuursverslag en de krachtens artikel 392 lid 1 toe te voegen gegevens vanaf de oproep voor de algemene vergadering, bestemd tot hun behandeling, te haren kantore aanwezig zijn. De houders van haar aandelen of van met haar medewerking uitgegeven certificaten daarvan kunnen de stukken aldaar inzien en er kosteloos een afschrift van verkrijgen.
 
-2.	Luiden deze aandelen of certificaten aan toonder of heeft de vennootschap schuldbrieven aan toonder uitstaan, dan kan tevens ieder de stukken, voor zover zij na vaststelling openbaar gemaakt moeten worden, inzien en daarvan tegen ten hoogste de kostprijs een afschrift verkrijgen. Deze bevoegdheid vervalt zodra deze stukken zijn neergelegd ten kantore van het handelsregister.
+2.	Luiden deze aandelen of certificaten aan toonder of heeft de vennootschap schuldbrieven aan toonder uitstaan, dan kan tevens ieder de stukken, voor zover zij na vaststelling openbaar gemaakt moeten worden, inzien en daarvan tegen ten hoogste de kostprijs een afschrift verkrijgen. Deze bevoegdheid vervalt zodra deze stukken zijn gedeponeerd bij het handelsregister.
 
 Artikel 103
 
@@ -4704,7 +4704,7 @@ Artikel 362
 
 5.	De baten en lasten van het boekjaar worden in de jaarrekening opgenomen, onverschillig of zij tot ontvangsten of uitgaven in dat boekjaar hebben geleid.
 
-6.	De jaarrekening wordt vastgesteld met inachtneming van hetgeen omtrent de financiële toestand op de balansdatum is gebleken tussen het opmaken van de jaarrekening en de algemene vergadering waarin zij wordt behandeld, voor zover dat onontbeerlijk is voor het in lid 1 bedoelde inzicht. Blijkt nadien dat de jaarrekening in ernstige mate tekortschiet in het geven van dit inzicht, dan bericht het bestuur daaromtrent onverwijld aan de leden of aandeelhouders en legt het een mededeling daaromtrent neder ten kantore van het handelsregister; bij de mededeling wordt een accountantsverklaring gevoegd, indien de jaarrekening overeenkomstig artikel 393 is onderzocht. Een rechtspersoon waarvan effecten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in de Wet op het financieel toezicht wordt geacht te hebben voldaan aan de verplichting om de mededeling, bedoeld in tweede volzin, neer te leggen ten kantore van het handelsregister, indien zij de mededeling op grond van artikel 5:25m, zesde lid, van die wet heeft toegezonden aan de Stichting Autoriteit Financiële Markten.
+6.	De jaarrekening wordt vastgesteld met inachtneming van hetgeen omtrent de financiële toestand op de balansdatum is gebleken tussen het opmaken van de jaarrekening en de algemene vergadering waarin zij wordt behandeld, voor zover dat onontbeerlijk is voor het in lid 1 bedoelde inzicht. Blijkt nadien dat de jaarrekening in ernstige mate tekortschiet in het geven van dit inzicht, dan bericht het bestuur daaromtrent onverwijld aan de leden of aandeelhouders en deponeert een mededeling daaromtrent bij het handelsregister; bij de mededeling wordt een accountantsverklaring gevoegd, indien de jaarrekening overeenkomstig artikel 393 is onderzocht. Een rechtspersoon waarvan effecten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in de Wet op het financieel toezicht wordt geacht te hebben voldaan aan de verplichting om de mededeling, bedoeld in tweede volzin, te deponeren bij het handelsregister, indien zij de mededeling op grond van artikel 5:25m, zesde lid, van die wet heeft toegezonden aan de Stichting Autoriteit Financiële Markten.
 
 7.	Indien de werkzaamheid van de rechtspersoon of de internationale vertakking van zijn groep dat rechtvaardigt, mag de jaarrekening of alleen de geconsolideerde jaarrekening worden opgesteld in een vreemde geldeenheid. De posten worden in de Nederlandse taal omschreven, tenzij de algemene vergadering tot het gebruik van een andere taal heeft besloten.
 
@@ -4967,7 +4967,7 @@ Artikel 379
 
 4.	Onze Minister van Economische Zaken kan van de verplichtingen, bedoeld in de leden 1, 2 en 3, desverzocht ontheffing verlenen, indien gegronde vrees bestaat dat door de vermelding ernstig nadeel kan ontstaan. Deze ontheffing kan telkens voor ten hoogste vijf jaren worden gegeven. In de toelichting wordt vermeld dat ontheffing is verleend of aangevraagd. Hangende de aanvraag is openbaarmaking niet vereist.
 
-5.	De vermeldingen, vereist in dit artikel en in artikel 414 mogen gezamenlijk worden opgenomen. De rechtspersoon mag het deel van de toelichting dat deze vermeldingen bevat afzonderlijk ter inzage van ieder neerleggen ten kantore van het handelsregister, mits beide delen van de toelichting naar elkaar verwijzen.
+5.	De vermeldingen, vereist in dit artikel en in artikel 414 mogen gezamenlijk worden opgenomen. De rechtspersoon mag het deel van de toelichting dat deze vermeldingen bevat afzonderlijk ter inzage van ieder deponeren bij het handelsregister, mits beide delen van de toelichting naar elkaar verwijzen.
 
 Artikel 380
 
@@ -5277,15 +5277,15 @@ Afdeling 10. Openbaarmaking
 
 Artikel 394
 
-1.	De rechtspersoon is verplicht tot openbaarmaking van de jaarrekening binnen acht dagen na de vaststelling. De openbaarmaking geschiedt door nederlegging van een volledig in de Nederlandse taal gesteld exemplaar of, als dat niet is vervaardigd, een exemplaar in het Frans, Duits of Engels, ten kantore van het handelsregister dat wordt gehouden door de Kamer van Koophandel. Op het exemplaar moet de dag van vaststelling en goedkeuring zijn aangetekend.
+1.	De rechtspersoon is verplicht tot openbaarmaking van de jaarrekening binnen acht dagen na de vaststelling. De openbaarmaking geschiedt door deponering van de volledig in de Nederlandse taal gestelde jaarrekening of, als die niet is vervaardigd, de jaarrekening in het Frans, Duits of Engels, bij het handelsregister, indien van toepassing op de wijze als voorgeschreven bij of krachtens artikel 19a van de Handelsregisterwet 2007. De dag van vaststelling moet zijn vermeld.
 
-2.	Is de jaarrekening niet binnen twee maanden na afloop van de voor het opmaken voorgeschreven termijn overeenkomstig de wettelijke voorschriften vastgesteld, dan maakt het bestuur onverwijld de opgemaakte jaarrekening op de in lid 1 voorgeschreven wijze openbaar; op de jaarrekening wordt vermeld dat zij nog niet is vastgesteld. Binnen twee maanden na gerechtelijke vernietiging van een jaarrekening moet de rechtspersoon een afschrift van de in de uitspraak opgenomen bevelen met betrekking tot de jaarrekening neerleggen ten kantore van het handelsregister, met vermelding van de uitspraak.
+2.	Is de jaarrekening niet binnen twee maanden na afloop van de voor het opmaken voorgeschreven termijn overeenkomstig de wettelijke voorschriften vastgesteld, dan maakt het bestuur onverwijld de opgemaakte jaarrekening op de in lid 1 voorgeschreven wijze openbaar; op de jaarrekening wordt vermeld dat zij nog niet is vastgesteld. Binnen twee maanden na gerechtelijke vernietiging van een jaarrekening moet de rechtspersoon een afschrift van de in de uitspraak opgenomen bevelen met betrekking tot de jaarrekening deponeren bij het handelsregister, met vermelding van de uitspraak.
 
 3.	Uiterlijk twaalf maanden na afloop van het boekjaar moet de rechtspersoon de jaarrekening op de in lid 1 voorgeschreven wijze openbaar hebben gemaakt.
 
-4.	Gelijktijdig met en op dezelfde wijze als de jaarrekening wordt een in de zelfde taal of in het Nederlands gesteld exemplaar van het bestuursverslag en van de overige in artikel 392 bedoelde gegevens openbaar gemaakt. Het voorafgaande geldt, behalve voor de in artikel 392 lid 1 onder a en f genoemde gegevens, niet, indien de stukken ten kantore van de rechtspersoon ter inzage van een ieder worden gehouden en op verzoek een volledig of gedeeltelijk afschrift daarvan ten hoogste tegen de kostprijs wordt verstrekt; hiervan doet de rechtspersoon opgaaf ter inschrijving in het handelsregister.
+4.	Gelijktijdig met en op dezelfde wijze als de jaarrekening worden het bestuursverslag en de overige in artikel 392 bedoelde gegevens in het Nederlands of in een van de andere in het eerste lid genoemde talen openbaar gemaakt. Het voorafgaande geldt, behalve voor de in artikel 392 lid 1 onder a en f genoemde gegevens, niet, indien de stukken ten kantore van de rechtspersoon ter inzage van een ieder worden gehouden en op verzoek een volledig of gedeeltelijk afschrift daarvan ten hoogste tegen de kostprijs wordt verstrekt; hiervan doet de rechtspersoon opgaaf ter inschrijving in het handelsregister.
 
-5.	De vorige leden gelden niet, indien Onze Minister van Economische Zaken de in artikel 58, artikel 101 of artikel 210 genoemde ontheffing heeft verleend; alsdan wordt een afschrift van die ontheffing ten kantore van het handelsregister nedergelegd.
+5.	De vorige leden gelden niet, indien Onze Minister van Economische Zaken de in artikel 58, artikel 101 of artikel 210 genoemde ontheffing heeft verleend; alsdan wordt een afschrift van die ontheffing bij het handelsregister gedeponeerd.
 
 6.	De in de vorige leden bedoelde bescheiden worden gedurende zeven jaren bewaard. De Kamer van Koophandel mag de op deze bescheiden geplaatste gegevens overbrengen op andere gegevensdragers, die zij in hun plaats in het handelsregister bewaart, mits die overbrenging geschiedt met juiste en volledige weergave der gegevens en deze gegevens gedurende de volledige bewaartijd beschikbaar zijn en binnen redelijke tijd leesbaar kunnen worden gemaakt.
 
@@ -5350,7 +5350,7 @@ Artikel 396
 
 9.	Indien de rechtspersoon geen winst beoogt, behoeft hij artikel 394 niet toe te passen, mits hij
 	a.	de in lid 8 bedoelde stukken aan schuldeisers en houders van aandelen in zijn kapitaal of certificaten daarvan of anderen aan wie het vergaderrecht toekomt op hun verzoek onmiddellijk kosteloos toezendt of ten kantore van de rechtspersoon ter inzage geeft; en
-	b.	ten kantore van het handelsregister een verklaring van een accountant heeft neergelegd, inhoudende dat de rechtspersoon in het boekjaar geen werkzaamheden heeft verricht buiten de doelomschrijving en dat dit artikel op hem van toepassing is.
+	b.	bij het handelsregister een verklaring van een accountant heeft gedeponeerd, inhoudende dat de rechtspersoon in het boekjaar geen werkzaamheden heeft verricht buiten de doelomschrijving en dat dit artikel op hem van toepassing is.
 
 Artikel 397
 
@@ -5426,7 +5426,7 @@ Artikel 403
 	d.	de geconsolideerde jaarrekening, voor zover niet gesteld of vertaald in het Nederlands, is gesteld of vertaald in het Frans, Duits of Engels;
 	e.	de accountantsverklaring en het bestuursverslag, zijn gesteld of vertaald in de zelfde taal als de geconsolideerde jaarrekening;
 	f.	de onder c bedoelde rechtspersoon of vennootschap schriftelijk heeft verklaard zich hoofdelijk aansprakelijk te stellen voor de uit rechtshandelingen van de rechtspersoon voortvloeiende schulden; en
-	g.	de verklaringen, bedoeld in de onderdelen b en f zijn neergelegd ten kantore van het handelsregister alsmede, telkens binnen zes maanden na de balansdatum of binnen een maand na een geoorloofde latere openbaarmaking, de stukken of vertalingen, genoemd in de onderdelen d en e.
+	g.	de verklaringen, bedoeld in de onderdelen b en f zijn gedeponeerd bij het handelsregister alsmede, telkens binnen zes maanden na de balansdatum of binnen een maand na een geoorloofde latere openbaarmaking, de stukken of vertalingen, genoemd in de onderdelen d en e.
 
 2.	Zijn in de groep of het groepsdeel waarvan de gegevens in de geconsolideerde jaarrekening zijn opgenomen, de in lid 1 onder f bedoelde rechtspersoon of vennootschap en een andere nevengeschikt, dan is lid 1 slechts van toepassing, indien ook deze andere rechtspersoon of vennootschap een verklaring van aansprakelijkstelling heeft afgelegd; in dat geval zijn lid 1 onder g en artikel 404 van overeenkomstige toepassing.
 
@@ -5436,13 +5436,13 @@ Artikel 403
 
 Artikel 404
 
-1.	Een in artikel 403 bedoelde aansprakelijkstelling kan worden ingetrokken door nederlegging van een daartoe strekkende verklaring ten kantore van het handelsregister.
+1.	Een in artikel 403 bedoelde aansprakelijkstelling kan worden ingetrokken door deponering van een daartoe strekkende verklaring bij het handelsregister.
 
 2.	Niettemin blijft de aansprakelijkheid bestaan voor schulden die voortvloeien uit rechtshandelingen welke zijn verricht voordat jegens de schuldeiser een beroep op de intrekking kan worden gedaan.
 
 3.	De overblijvende aansprakelijkheid wordt ten opzichte van de schuldeiser beëindigd, indien de volgende voorwaarden zijn vervuld:
 	a.	de rechtspersoon behoort niet meer tot de groep;
-	b.	een mededeling van het voornemen tot beëindiging heeft ten minste twee maanden lang ter inzage gelegen ten kantore van het handelsregister;
+	b.	een mededeling van het voornemen tot beëindiging heeft ten minste twee maanden lang ter inzage gelegen bij het handelsregister;
 	c.	ten minste twee maanden zijn verlopen na de aankondiging in een landelijk verspreid dagblad dat en waar de mededeling ter inzage ligt;
 	d.	tegen het voornemen heeft de schuldeiser niet tijdig verzet gedaan of zijn verzet is ingetrokken dan wel bij onherroepelijke rechterlijke uitspraak ongegrond verklaard.
 
@@ -5497,7 +5497,7 @@ Artikel 408
 	b.	de financiële gegevens die de rechtspersoon zou moeten consolideren zijn opgenomen in de geconsolideerde jaarrekening van een groter geheel;
 	c.	de geconsolideerde jaarrekening en het bestuursverslag zijn opgesteld overeenkomstig de voorschriften van richtlijn 2013/34/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende de jaarlijkse financiële overzichten, geconsolideerde financiële overzichten en aanverwante verslagen van bepaalde ondernemingsvormen, tot wijziging van richtlijn 2006/43/EG van het Europees Parlement en de Raad en tot intrekking van richtlijnen 78/660/EEG en 83/349/EEG van de Raad (PbEU 2013, L 182), indien deze voorschriften niet behoeven te zijn gevolgd, op gelijkwaardige wijze;
 	d.	de geconsolideerde jaarrekening met accountantsverklaring en bestuursverslag, voor zover niet gesteld of vertaald in het Nederlands, zijn gesteld of vertaald in het Frans, Duits of Engels, en wel in de zelfde taal; en
-	e.	telkens binnen zes maanden na de balansdatum of binnen een maand na een geoorloofde latere openbaarmaking ten kantore van het handelsregister de in onderdeel d genoemde stukken of vertalingen zijn neergelegd.
+	e.	telkens binnen zes maanden na de balansdatum of binnen een maand na een geoorloofde latere openbaarmaking bij het handelsregister de in onderdeel d genoemde stukken of vertalingen zijn gedeponeerd.
 
 2.	Onze Minister van Justitie kan voorschriften voor de jaarrekening aanwijzen die, zo nodig aangevuld met door hem gegeven voorschriften, als gelijkwaardig zullen gelden aan voorschriften overeenkomstig richtlijn 2013/34/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende de jaarlijkse financiële overzichten, geconsolideerde financiële overzichten en aanverwante verslagen van bepaalde ondernemingsvormen, tot wijziging van richtlijn 2006/43/EG van het Europees Parlement en de Raad en tot intrekking van richtlijnen 78/660/EEG en 83/349/EEG van de Raad (PbEU 2013, L 182). Intrekking van een aanwijzing kan slechts boekjaren betreffen die nog niet zijn begonnen.
 
@@ -6047,7 +6047,7 @@ Artikel 449
 
 1.	Het in artikel 447 bedoelde verzoek wordt ingediend binnen twee maanden na de dag waarop de jaarrekening is vastgesteld of het verslag, bedoeld in artikel 392a, is neergelegd ten kantore van het handelsregister. Indien het in artikel 447 bedoelde verzoek wordt gedaan ten aanzien van een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving bedraagt de in de eerste volzin bedoelde termijn negen maanden.
 
-2.	Het verzoek omtrent de jaarrekening die niet is vastgesteld, kan worden gedaan tot twee maanden of, voor zover het een effectenuitgevende instelling betreft als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving, negen maanden na de dag der nederlegging van de jaarrekening ten kantore van het handelsregister. Indien na de dag der nederlegging de jaarrekening alsnog wordt vastgesteld, dan eindigt de termijn twee maanden of, voor zover het een effectenuitgevende instelling betreft als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving, negen maanden na de dag waarop uit een neergelegde mededeling of uit de neergelegde jaarrekening blijkt van die vaststelling.
+2.	Het verzoek omtrent de jaarrekening die niet is vastgesteld, kan worden gedaan tot twee maanden of, voor zover het een effectenuitgevende instelling betreft als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving, negen maanden na de dag van de deponering van de jaarrekening bij het handelsregister. Indien na de dag van de deponering de jaarrekening alsnog wordt vastgesteld, dan eindigt de termijn twee maanden of, voor zover het een effectenuitgevende instelling betreft als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving, negen maanden na de dag waarop uit een neergelegde mededeling of uit de gedeponeerde jaarrekening blijkt van die vaststelling.
 
 3.	Indien een bericht als bedoeld in artikel 3, tweede lid, van de Wet toezicht financiële verslaggeving algemeen verkrijgbaar is gesteld, dan eindigt de termijn twee maanden na de dag waarop dit bericht algemeen verkrijgbaar is gesteld op de bij of krachtens dat artikel voorgeschreven wijze, doch niet eerder dan de termijnen, bedoeld lid 1 en lid 2.
 
