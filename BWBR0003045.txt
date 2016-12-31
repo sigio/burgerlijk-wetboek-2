@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 06-12-2016 t/m 31-12-2016
+Geldend van 01-01-2017 t/m 12-04-2017
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -5244,7 +5244,7 @@ Afdeling 9. Deskundigenonderzoek
 
 Artikel 393
 
-1.	De rechtspersoon verleent opdracht tot onderzoek van de jaarrekening aan een registeraccountant of aan een Accountant-Administratieconsulent ten aanzien van wie in het accountantsregister een aantekening is geplaatst als bedoeld in artikel 36, tweede lid, onderdeel i, van de Wet op het accountantsberoep. De opdracht kan worden verleend aan een organisatie waarin accountants die mogen worden aangewezen, samenwerken. Indien een rechtspersoon tevens een organisatie van openbaar belang is als bedoeld in artikel 1, eerste lid, onderdeel l, van de Wet toezicht accountantsorganisaties, wordt door deze rechtspersoon aan de Stichting Autoriteit Financiële Markten medegedeeld welke accountant of accountantsorganisatie wordt beoogd voor het uitvoeren van een opdracht tot onderzoek van de jaarrekening van de rechtspersoon. Deze mededeling geschiedt voordat tot de verlening van die opdracht, bedoeld in het tweede lid, is overgegaan. Onze Minister van Financiën stelt bij ministeriele regeling nadere regels over deze mededeling.
+1.	De rechtspersoon verleent opdracht tot onderzoek van de jaarrekening aan een registeraccountant, aan een Accountant-Administratieconsulent ten aanzien van wie in het accountantsregister een aantekening is geplaatst als bedoeld in artikel 36, tweede lid, onderdeel i, van de Wet op het accountantsberoep of aan een wettelijke auditor als bedoeld in artikel 27, eerste lid, van de Wet toezicht accountantsorganisaties. De opdracht kan worden verleend aan een organisatie waarin accountants die mogen worden aangewezen, samenwerken. Indien een rechtspersoon tevens een organisatie van openbaar belang is als bedoeld in artikel 1, eerste lid, onderdeel l, van de Wet toezicht accountantsorganisaties, wordt door deze rechtspersoon aan de Stichting Autoriteit Financiële Markten medegedeeld welke accountant of accountantsorganisatie wordt beoogd voor het uitvoeren van een opdracht tot onderzoek van de jaarrekening van de rechtspersoon. Deze mededeling geschiedt voordat tot de verlening van die opdracht, bedoeld in het tweede lid, is overgegaan. Onze Minister van Financiën stelt bij ministeriele regeling nadere regels over deze mededeling.
 
 2.	Tot het verlenen van de opdracht is de algemene vergadering bevoegd. Gaat deze daartoe niet over, dan is de raad van commissarissen bevoegd of, zo deze ontbreekt of in gebreke blijft, het bestuur. De aanwijzing van een accountant wordt door generlei voordracht beperkt. De opdracht kan worden ingetrokken door de algemene vergadering en door degene die haar heeft verleend; de door het bestuur verleende opdracht kan bovendien door de raad van commissarissen worden ingetrokken. De opdracht kan enkel worden ingetrokken om gegronde redenen; daartoe behoort niet een meningsverschil over methoden van verslaggeving of controlewerkzaamheden. De algemene vergadering hoort de accountant op diens verlangen omtrent de intrekking van een hem verleende opdracht of omtrent het hem kenbaar gemaakte voornemen daartoe. Het bestuur en de accountant stellen de Stichting Autoriteit Financiële Markten onverwijld in kennis van de intrekking van de opdracht door de rechtspersoon of tussentijdse beëindiging ervan door de accountant en geven hiervoor een afdoende motivering.
 
@@ -5259,7 +5259,9 @@ Artikel 393
 	d.	een verwijzing naar bepaalde zaken waarop de accountant in het bijzonder de aandacht vestigt, zonder een verklaring als bedoeld in lid 6, onderdeel b, af te geven;
 	e.	een vermelding van de gebleken tekortkomingen naar aanleiding van het onderzoek overeenkomstig lid 3 of het bestuursverslag overeenkomstig deze titel is opgesteld en of de in artikel 392 lid 1, onder b tot en met f, vereiste gegevens zijn toegevoegd;
 	f.	een oordeel over de verenigbaarheid van het bestuursverslag met de jaarrekening;
-	g.	een oordeel of er, in het licht van de tijdens het onderzoek van de jaarrekening verkregen kennis en begrip omtrent de rechtspersoon en zijn omgeving, materiële onjuistheden in het bestuursverslag zijn gebleken onder opgave van de aard van die onjuistheden.
+	g.	een oordeel of er, in het licht van de tijdens het onderzoek van de jaarrekening verkregen kennis en begrip omtrent de rechtspersoon en zijn omgeving, materiële onjuistheden in het bestuursverslag zijn gebleken onder opgave van de aard van die onjuistheden;
+	h.	een verklaring betreffende materiële onzekerheden die verband houden met gebeurtenissen of omstandigheden die gerede twijfel kunnen doen rijzen of de rechtspersoon zijn werkzaamheden voort kan zetten;
+	i.	een vermelding van de vestigingsplaats van de accountantsorganisatie.
 
 6.	De accountantsverklaring, bedoeld in lid 5, heeft de vorm van:
 	a.	een goedkeurende verklaring;
