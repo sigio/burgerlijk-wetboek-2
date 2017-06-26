@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 13-04-2017 t/m 26-06-2017
+Geldend van 27-06-2017 t/m 30-06-2017
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -1624,7 +1624,7 @@ Artikel 115
 
 2.	Indien aandelen van de vennootschap of met medewerking van de vennootschap uitgegeven certificaten daarvan zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, geschiedt de oproeping niet later dan op de tweeënveertigste dag vóór die der vergadering.
 
-3.	De statuten van een entiteit als bedoeld in artikel 3A:2, onderdelen a tot en met e, van de Wet op het financieel toezicht kunnen in afwijking van lid 2 bepalen dat de oproeping voor een vergadering voor een besluit tot uitgifte van aandelen niet later dan de tiende dag vóór die der vergadering geschiedt, indien voldaan is aan de voorwaarden om maatregelen op te leggen op grond van artikel 1:75a van die wet en de uitgifte van aandelen noodzakelijk is om te voorkomen dat aan de voorwaarden voor afwikkeling, bedoeld in artikel 3A:18, eerste lid, van die wet wordt voldaan.
+3.	De statuten van een entiteit als bedoeld in artikel 3A:2, onderdelen a tot en met e, van de Wet op het financieel toezicht kunnen in afwijking van leden 1 en 2 bepalen dat de oproeping voor een vergadering voor een besluit tot uitgifte van aandelen niet later dan de tiende dag vóór die der vergadering geschiedt, indien voldaan is aan de voorwaarden om maatregelen op te leggen op grond van artikel 1:75a van die wet en de uitgifte van aandelen noodzakelijk is om te voorkomen dat aan de voorwaarden voor afwikkeling, bedoeld in artikel 3A:18, eerste lid, van die wet wordt voldaan.
 
 4.	Voor een besluit van de algemene vergadering tot wijziging van de statuten voor de toepassing van het derde lid, is een meerderheid van ten minste twee derden der uitgebrachte stemmen vereist.
 
@@ -1714,7 +1714,7 @@ Artikel 119
 
 3.	Bij de oproeping voor de vergadering wordt de dag van registratie vermeld alsmede de wijze waarop de stem- of vergadergerechtigden zich kunnen laten registreren en de wijze waarop zij hun rechten kunnen uitoefenen.
 
-4.	Indien de oproeping van de algemene vergadering plaatsvindt onder toepassing van een bepaling in de statuten als bedoeld in artikel 115 lid 3, zijn de leden 1 en 2 niet van toepassing. Voor de toepassing van artikel 117 leden 1 en 2 en artikel 117a leden 1 en 4 hebben als stem- of vergadergerechtigde te gelden zij die op een in de statuten te bepalen dag van registratie die rechten hebben en als zodanig zijn ingeschreven in een door het bestuur aangewezen register, ongeacht wie ten tijde van de algemene vergadering de rechthebbenden op de aandelen of certificaten zijn.
+4.	Indien de oproeping van de algemene vergadering plaatsvindt onder toepassing van een bepaling in de statuten als bedoeld in artikel 115 lid 3, hebben, in afwijking van leden 1 en 2, voor de toepassing van artikel 117 leden 1 en 2 en artikel 117a leden 1 en 4 als stem- of vergadergerechtigde te gelden zij die op een in de statuten te bepalen dag van registratie die rechten hebben en als zodanig zijn ingeschreven in een door het bestuur aangewezen register, ongeacht wie ten tijde van de algemene vergadering de rechthebbenden op de aandelen of certificaten zijn.
 
 Artikel 120
 
@@ -4722,7 +4722,7 @@ Artikel 362
 
 5.	De baten en lasten van het boekjaar worden in de jaarrekening opgenomen, onverschillig of zij tot ontvangsten of uitgaven in dat boekjaar hebben geleid.
 
-6.	De jaarrekening wordt vastgesteld met inachtneming van hetgeen omtrent de financiële toestand op de balansdatum is gebleken tussen het opmaken van de jaarrekening en de algemene vergadering waarin zij wordt behandeld, voor zover dat onontbeerlijk is voor het in lid 1 bedoelde inzicht. Blijkt nadien dat de jaarrekening in ernstige mate tekortschiet in het geven van dit inzicht, dan bericht het bestuur daaromtrent onverwijld aan de leden of aandeelhouders en deponeert een mededeling daaromtrent bij het handelsregister; bij de mededeling wordt een accountantsverklaring gevoegd, indien de jaarrekening overeenkomstig artikel 393 is onderzocht. Een rechtspersoon waarvan effecten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in de Wet op het financieel toezicht wordt geacht te hebben voldaan aan de verplichting om de mededeling, bedoeld in tweede volzin, te deponeren bij het handelsregister, indien zij de mededeling op grond van artikel 5:25m, zesde lid, van die wet heeft toegezonden aan de Stichting Autoriteit Financiële Markten.
+6.	De jaarrekening wordt vastgesteld met inachtneming van hetgeen omtrent de financiële toestand op de balansdatum is gebleken tussen het opmaken van de jaarrekening en de algemene vergadering waarin zij wordt behandeld, voor zover dat onontbeerlijk is voor het in lid 1 bedoelde inzicht. Blijkt nadien dat de jaarrekening in ernstige mate tekortschiet in het geven van dit inzicht, dan bericht het bestuur daaromtrent onverwijld aan de leden of aandeelhouders en deponeert een mededeling daaromtrent bij het handelsregister; bij de mededeling wordt een accountantsverklaring gevoegd, indien de jaarrekening overeenkomstig artikel 393 is onderzocht. Een rechtspersoon waarvan effecten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in de Wet op het financieel toezicht wordt geacht te hebben voldaan aan de verplichting om de mededeling, bedoeld in tweede volzin, te deponeren bij het handelsregister, indien zij de mededeling op grond van artikel 5:25m, vijfde lid, van die wet heeft toegezonden aan de Stichting Autoriteit Financiële Markten.
 
 7.	Indien de werkzaamheid van de rechtspersoon of de internationale vertakking van zijn groep dat rechtvaardigt, mag de jaarrekening of alleen de geconsolideerde jaarrekening worden opgesteld in een vreemde geldeenheid. De posten worden in de Nederlandse taal omschreven, tenzij de algemene vergadering tot het gebruik van een andere taal heeft besloten.
 
@@ -6114,7 +6114,7 @@ Artikel 452
 
 2.	Het verzoek wordt met redenen omkleed en kan, met inachtneming van het in de artikelen 2 tot en met 4 van de Wet toezicht financiële verslaggeving bepaalde, worden gedaan tot negen maanden na:
 	a.	de dag van toezending aan de Stichting Autoriteit Financiële Markten van de in artikel 1, onderdeel d, onder 1°, 2° en 3°, van de Wet toezicht financiële verslaggeving bedoelde stukken op grond van artikel 5:25o, eerste en vierde lid, van de Wet op het financieel toezicht;
-	b.	de dag van toezending aan de Stichting Autoriteit Financiële Markten van de in artikel 1, onderdeel d, onder 4° tot en met 7°, van de Wet toezicht financiële verslaggeving bedoelde stukken op grond van artikel 5:25m, zesde lid, van de Wet op het financieel toezicht;
+	b.	de dag van toezending aan de Stichting Autoriteit Financiële Markten van de in artikel 1, onderdeel d, onder 4° tot en met 7°, van de Wet toezicht financiële verslaggeving bedoelde stukken op grond van artikel 5:25m, vijfde lid, van de Wet op het financieel toezicht;
 	c.	de dag waarop de jaarrekening is openbaar gemaakt, bedoeld in artikel 394 lid 1, indien het een effectenuitgevende instelling betreft met statutaire zetel in Nederland, waarvan effecten alleen zijn toegelaten tot de handel op een met een gereglementeerde markt vergelijkbaar systeem in een staat die geen lidstaat is.
 
 3.	De leden 1 en 2 van artikel 450 zijn van overeenkomstige toepassing. Andere belanghebbenden dan de rechtpersoon, vennootschap, effectenuitgevende instelling of beleggingsinstelling, bedoeld in artikel 447, lid 1, waarop het verzoek betrekking heeft, worden niet opgeroepen en kunnen geen verweerschrift indienen.
@@ -6139,7 +6139,7 @@ Artikel 454
 
 4.	Het verzoek kan worden gedaan tot negen maanden na:
 	a.	de dag van toezending aan de Stichting Autoriteit Financiële Markten van de in artikel 1, onderdeel d, onder 1°, 2° en 3°, van de Wet toezicht financiële verslaggeving bedoelde stukken op grond van artikel 5:25o, eerste en vierde lid, van de Wet op het financieel toezicht;
-	b.	de dag van toezending aan de Stichting Autoriteit Financiële Markten van de in artikel 1, onderdeel d, onder 4° tot en met 7°, van de Wet toezicht financiële verslaggeving bedoelde stukken op grond van artikel 5:25m, zesde lid, van de Wet op het financieel toezicht;
+	b.	de dag van toezending aan de Stichting Autoriteit Financiële Markten van de in artikel 1, onderdeel d, onder 4° tot en met 7°, van de Wet toezicht financiële verslaggeving bedoelde stukken op grond van artikel 5:25m, vijfde lid, van de Wet op het financieel toezicht;
 	c.	de dag waarop de jaarrekening is openbaar gemaakt, bedoeld in artikel 394 lid 1, indien het een effectenuitgevende instelling betreft met statutaire zetel in Nederland, waarvan effecten alleen zijn toegelaten tot de handel op een met een gereglementeerde markt vergelijkbaar systeem in een staat die geen lidstaat is.
 
 De leden 3 en 4 van artikel 449 zijn van overeenkomstige toepassing.
