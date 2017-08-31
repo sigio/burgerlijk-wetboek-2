@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 01-07-2017 t/m 31-08-2017
+Geldend van 01-09-2017 t/m 02-01-2018
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -244,7 +244,7 @@ Artikel 22
 
 Artikel 22a
 
-1.	Voor of bij het doen van een verzoek door het openbaar ministerie tot ontbinding van een naamloze vennootschap of een besloten vennootschap met beperkte aansprakelijkheid, kan het openbaar ministerie de rechter bij verzoekschrift vragen te bevelen dat, tot de uitspraak op genoemd verzoek in kracht van gewijsde gaat, aan de aandeelhouders de bevoegdheid tot het vervreemden, verpanden of met vruchtgebruik belasten van aandelen wordt ontzegd.
+1.	Voor of bij het doen van een verzoek door het openbaar ministerie tot ontbinding van een naamloze vennootschap of een besloten vennootschap met beperkte aansprakelijkheid, kan het openbaar ministerie de rechter verzoeken te bevelen dat, tot de uitspraak op genoemd verzoek in kracht van gewijsde gaat, aan de aandeelhouders de bevoegdheid tot het vervreemden, verpanden of met vruchtgebruik belasten van aandelen wordt ontzegd.
 
 2.	De rechter beslist na summier onderzoek. Het bevel wordt gegeven onder voorwaarde dat het instellen van het verzoek tot ontbinding geschiedt binnen een door de rechter daartoe te bepalen termijn. Tegen deze beschikking is geen hogere voorziening toegelaten.
 
@@ -293,7 +293,7 @@ Artikel 23b
 
 4.	De vereffenaar legt de rekening en verantwoording en het plan van verdeling neer ten kantore van de registers waarin de rechtspersoon is ingeschreven, en in elk geval ten kantore van de rechtspersoon, als dat er is, of op een andere plaats in het arrondissement waar de rechtspersoon woonplaats heeft. De stukken liggen daar twee maanden voor ieder ter inzage. De vereffenaar maakt in een nieuwsblad bekend waar en tot wanneer zij ter inzage liggen. De rechter kan aankondiging in de Staatscourant bevelen.
 
-5.	Binnen twee maanden nadat de rekening en verantwoording en het plan zijn neergelegd en de nederlegging overeenkomstig lid 4 is bekendgemaakt en aangekondigd, kan iedere schuldeiser of gerechtigde daartegen door een verzoekschrift aan de rechtbank in verzet komen. De vereffenaar doet van gedaan verzet mededeling op de zelfde wijze als waarop de nederlegging van de rekening en verantwoording en het plan van verdeling zijn medegedeeld.
+5.	Binnen twee maanden nadat de rekening en verantwoording en het plan zijn neergelegd en de nederlegging overeenkomstig lid 4 is bekendgemaakt en aangekondigd, kan iedere schuldeiser of gerechtigde daartegen door het indienen van een verzoek bij de rechtbank in verzet komen. De vereffenaar doet van gedaan verzet mededeling op de zelfde wijze als waarop de nederlegging van de rekening en verantwoording en het plan van verdeling zijn medegedeeld.
 
 6.	Telkens wanneer de stand van het vermogen daartoe aanleiding geeft, kan de vereffenaar een uitkering bij voorbaat aan de gerechtigden doen. Na de aanvang van de verzettermijn doet hij dit niet zonder machtiging van de rechter.
 
@@ -1083,7 +1083,7 @@ Artikel 86d
 
 3.	De vennootschap publiceert de aanvraag om een duplicaat in de prijscourant van een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is of, indien de aandelen daarin niet zijn opgenomen, in een landelijk verspreid dagblad.
 
-4.	Iedere belanghebbende kan binnen zes weken vanaf de dag na de publicatie van de aanvraag door een verzoekschrift aan de rechtbank in verzet komen tegen de verstrekking van het duplicaat.
+4.	Iedere belanghebbende kan binnen zes weken vanaf de dag na de publicatie van de aanvraag door het indienen van een verzoek bij de rechtbank in verzet komen tegen de verstrekking van het duplicaat.
 
 5.	Indien niet tijdig verzet is ingesteld of indien een verzet bij onherroepelijk geworden uitspraak ongegrond is verklaard, wordt het duplicaat tegen vergoeding van de kosten verstrekt. Het duplicaat treedt in de plaats van het verloren gegane aandeelbewijs. Na het verstrekken van een duplicaat kunnen aan het vervangen bewijs van aandeel geen rechten worden ontleend.
 
@@ -1186,13 +1186,13 @@ Artikel 92a
 
 2.	Over de vordering oordeelt in eerste aanleg de ondernemingskamer van het gerechtshof Amsterdam. Van de uitspraak staat uitsluitend beroep in cassatie open.
 
-3.	Indien tegen een of meer gedaagden verstek is verleend, moet de rechter ambtshalve onderzoeken of de eiser of eisers de vereisten van lid 1 vervullen.
+3.	Indien tegen een of meer verweerders verstek is verleend, moet de rechter ambtshalve onderzoeken of de eiser of eisers de vereisten van lid 1 vervullen.
 
-4.	De rechter wijst de vordering tegen alle gedaagden af, indien een gedaagde ondanks de vergoeding ernstige stoffelijke schade zou lijden door de overdracht, een gedaagde houder is van een aandeel waaraan de statuten een bijzonder recht inzake de zeggenschap in de vennootschap verbinden of een eiser jegens een gedaagde afstand heeft gedaan van zijn bevoegdheid de vordering in te stellen.
+4.	De rechter wijst de vordering tegen alle verweerders af, indien een verweerder ondanks de vergoeding ernstige stoffelijke schade zou lijden door de overdracht, een verweerder houder is van een aandeel waaraan de statuten een bijzonder recht inzake de zeggenschap in de vennootschap verbinden of een eiser jegens een verweerder afstand heeft gedaan van zijn bevoegdheid de vordering in te stellen.
 
 5.	Indien de rechter oordeelt dat de leden 1 en 4 de toewijzing van de vordering niet beletten, kan hij bevelen dat een of drie deskundigen zullen berichten over de waarde van de over te dragen aandelen. De eerste drie zinnen van artikel 350 lid 3 en de artikelen 351 en 352 zijn van toepassing. De rechter stelt de prijs vast die de over te dragen aandelen op een door hem te bepalen dag hebben. Zo lang en voor zover de prijs niet is betaald, wordt hij verhoogd met rente, gelijk aan de wettelijke rente, van die dag af tot de overdracht; uitkeringen op de aandelen die in dit tijdvak betaalbaar worden gesteld, strekken op de dag van betaalbaarstelling tot gedeeltelijke betaling van de prijs.
 
-6.	De rechter die de vordering toewijst, veroordeelt de overnemer aan degenen aan wie de aandelen toebehoren of zullen toebehoren de vastgestelde prijs met rente te betalen tegen levering van het onbezwaarde recht op de aandelen. De rechter geeft omtrent de kosten van het geding zodanige uitspraak als hij meent dat behoort. Een gedaagde die geen verweer heeft gevoerd, wordt niet verwezen in de kosten.
+6.	De rechter die de vordering toewijst, veroordeelt de overnemer aan degenen aan wie de aandelen toebehoren of zullen toebehoren de vastgestelde prijs met rente te betalen tegen levering van het onbezwaarde recht op de aandelen. De rechter geeft omtrent de kosten van het geding zodanige uitspraak als hij meent dat behoort. Een verweerder die geen verweer heeft gevoerd, wordt niet verwezen in de kosten.
 
 7.	Staat het bevel tot overdracht bij gerechtelijk gewijsde vast, dan deelt de overnemer de dag en plaats van betaalbaarstelling en de prijs schriftelijk mee aan de houders van de over te nemen aandelen van wie hij het adres kent. Hij kondigt deze ook aan in een landelijk verspreid dagblad, tenzij hij van allen het adres kent.
 
@@ -1461,7 +1461,7 @@ Artikel 100
 
 2.	De vennootschap moet, op straffe van gegrondverklaring van een verzet als bedoeld in het volgende lid, voor iedere schuldeiser die dit verlangt zekerheid stellen of hem een andere waarborg geven voor de voldoening van zijn vordering. Dit geldt niet, indien de schuldeiser voldoende waarborgen heeft of de vermogenstoestand van de vennootschap voldoende zekerheid biedt dat de vordering zal worden voldaan.
 
-3.	Binnen twee maanden na de in het eerste lid vermelde aankondiging kan iedere schuldeiser door een verzoekschrift aan de rechtbank tegen het besluit tot kapitaalvermindering in verzet komen met vermelding van de waarborg die wordt verlangd. De rechter wijst het verzoek af, indien de verzoeker niet aannemelijk heeft gemaakt dat als gevolg van de kapitaalvermindering twijfel omtrent de voldoening van zijn vordering gewettigd is en dat de vennootschap onvoldoende waarborgen heeft gegeven voor de voldoening van zijn vordering.
+3.	Binnen twee maanden na de in het eerste lid vermelde aankondiging kan iedere schuldeiser door het indienen van een verzoek bij de rechtbank tegen het besluit tot kapitaalvermindering in verzet komen met vermelding van de waarborg die wordt verlangd. De rechter wijst het verzoek af, indien de verzoeker niet aannemelijk heeft gemaakt dat als gevolg van de kapitaalvermindering twijfel omtrent de voldoening van zijn vordering gewettigd is en dat de vennootschap onvoldoende waarborgen heeft gegeven voor de voldoening van zijn vordering.
 
 4.	Voordat de rechter beslist, kan hij de vennootschap in de gelegenheid stellen binnen een door hem bepaalde termijn een door hem omschreven waarborg te geven. Op een ingesteld rechtsmiddel kan hij, indien het kapitaal al is verminderd, het stellen van een waarborg bevelen en daaraan een dwangsom verbinden.
 
@@ -2314,7 +2314,7 @@ Artikel 182
 
 2.	De vennootschap moet, op straffe van gegrondverklaring van een verzet als bedoeld in lid 3, voor iedere schuldeiser die dit verlangt zekerheid stellen of hem een andere waarborg geven voor de voldoening van zijn vordering. Dit geldt niet, indien de schuldeiser voldoende waarborgen heeft of de vermogenstoestand van de vennootschap voldoende zekerheid biedt dat de vordering zal worden voldaan.
 
-3.	Binnen twee maanden na de in lid 1 vermelde aankondiging kan iedere schuldeiser door een verzoekschrift aan de rechtbank tegen een besluit tot omzetting als bedoeld in lid 1 in verzet komen met vermelding van de waarborg die wordt verlangd.
+3.	Binnen twee maanden na de in lid 1 vermelde aankondiging kan iedere schuldeiser door het indienen van een verzoek bij de rechtbank tegen een besluit tot omzetting als bedoeld in lid 1 in verzet komen met vermelding van de waarborg die wordt verlangd.
 
 4.	Voordat de rechter beslist, kan hij de vennootschap in de gelegenheid stellen binnen een door hem gestelde termijn een door hem omschreven waarborg te geven. Op een ingesteld rechtsmiddel kan hij, indien de omzetting al heeft plaatsgevonden, het stellen van een waarborg bevelen en daaraan een dwangsom verbinden.
 
@@ -2534,13 +2534,13 @@ Artikel 201a
 
 2.	Over de vordering oordeelt in eerste aanleg de ondernemingskamer van het gerechtshof Amsterdam. Van de uitspraak staat uitsluitend beroep in cassatie open.
 
-3.	Indien tegen een of meer gedaagden verstek is verleend, moet de rechter ambtshalve onderzoeken of de eiser of eisers de vereisten van lid 1 vervullen.
+3.	Indien tegen een of meer verweerders verstek is verleend, moet de rechter ambtshalve onderzoeken of de eiser of eisers de vereisten van lid 1 vervullen.
 
-4.	De rechter wijst de vordering tegen alle gedaagden af, indien een gedaagde ondanks de vergoeding ernstige stoffelijke schade zou lijden door de overdracht, een gedaagde houder is van een aandeel waaraan de statuten een bijzonder recht inzake de zeggenschap in de vennootschap verbinden of een eiser jegens een gedaagde afstand heeft gedaan van zijn bevoegdheid de vordering in te stellen.
+4.	De rechter wijst de vordering tegen alle verweerders af, indien een verweerder ondanks de vergoeding ernstige stoffelijke schade zou lijden door de overdracht, een verweerder houder is van een aandeel waaraan de statuten een bijzonder recht inzake de zeggenschap in de vennootschap verbinden of een eiser jegens een verweerder afstand heeft gedaan van zijn bevoegdheid de vordering in te stellen.
 
 5.	Indien de rechter oordeelt dat de leden 1 en 4 de toewijzing van de vordering niet beletten, kan hij bevelen dat een of drie deskundigen zullen berichten over de waarde van de over te dragen aandelen. De eerste drie zinnen van artikel 350 lid 3 en de artikelen 351 en 352 zijn van toepassing. De rechter stelt de prijs vast die de over te dragen aandelen op een door hem te bepalen dag hebben. Zo lang en voor zover de prijs niet is betaald, wordt hij verhoogd met rente, gelijk aan de wettelijke rente, van die dag af tot de overdracht; uitkeringen op de aandelen die in dit tijdvak betaalbaar worden gesteld, strekken op de dag van betaalbaarstelling tot gedeeltelijke betaling van de prijs.
 
-6.	De rechter die de vordering toewijst, veroordeelt de overnemer aan degenen aan wie de aandelen toebehoren of zullen toebehoren de vastgestelde prijs met rente te betalen tegen levering van het onbezwaarde recht op de aandelen. De rechter geeft omtrent de kosten van het geding zodanige uitspraak als hij meent dat behoort. Een gedaagde die geen verweer heeft gevoerd, wordt niet verwezen in de kosten.
+6.	De rechter die de vordering toewijst, veroordeelt de overnemer aan degenen aan wie de aandelen toebehoren of zullen toebehoren de vastgestelde prijs met rente te betalen tegen levering van het onbezwaarde recht op de aandelen. De rechter geeft omtrent de kosten van het geding zodanige uitspraak als hij meent dat behoort. Een verweerder die geen verweer heeft gevoerd, wordt niet verwezen in de kosten.
 
 7.	Staat het bevel tot overdracht bij gerechtelijk gewijsde vast, dan deelt de overnemer de dag en plaats van betaalbaarstelling en de prijs schriftelijk mee aan de houders van de over te nemen aandelen van wie hij het adres kent. Hij kondigt deze ook aan in een landelijk verspreid dagblad, tenzij hij van allen het adres kent.
 
@@ -3666,7 +3666,7 @@ Artikel 316
 
 1.	Ten minste een van de te fuseren rechtspersonen moet, op straffe van gegrondverklaring van een verzet als bedoeld in het volgende lid, voor iedere schuldeiser van deze rechtspersonen die dit verlangt zekerheid stellen of hem een andere waarborg geven voor de voldoening van zijn vordering. Dit geldt niet, indien de schuldeiser voldoende waarborgen heeft of de vermogenstoestand van de verkrijgende rechtspersoon na de fusie niet minder waarborg zal bieden dat de vordering zal worden voldaan, dan er voordien is.
 
-2.	Tot een maand nadat alle te fuseren rechtspersonen de nederlegging of openbaarmaking van het voorstel tot fusie hebben aangekondigd kan iedere schuldeiser door een verzoekschrift aan de rechtbank tegen het voorstel tot fusie in verzet komen met vermelding van de waarborg die wordt verlangd. De rechtbank wijst het verzoek af, indien de verzoeker niet aannemelijk heeft gemaakt dat de vermogenstoestand van de verkrijgende rechtspersoon na de fusie minder waarborg zal bieden dat de vordering zal worden voldaan, en dat van de rechtspersoon niet voldoende waarborgen zijn verkregen.
+2.	Tot een maand nadat alle te fuseren rechtspersonen de nederlegging of openbaarmaking van het voorstel tot fusie hebben aangekondigd kan iedere schuldeiser door het indienen van een verzoek bij de rechtbank tegen het voorstel tot fusie in verzet komen met vermelding van de waarborg die wordt verlangd. De rechtbank wijst het verzoek af, indien de verzoeker niet aannemelijk heeft gemaakt dat de vermogenstoestand van de verkrijgende rechtspersoon na de fusie minder waarborg zal bieden dat de vordering zal worden voldaan, en dat van de rechtspersoon niet voldoende waarborgen zijn verkregen.
 
 3.	Voordat de rechter beslist, kan hij de rechtspersonen in de gelegenheid stellen binnen een door hem gestelde termijn een door hem omschreven waarborg te geven.
 
@@ -4365,9 +4365,21 @@ Artikel 337
 
 Artikel 338
 
-1.	Nadat de dagvaarding aan hem is betekend en tot de dag waarop het vonnis onherroepelijk is geworden, kan de gedaagde zijn aandelen niet vervreemden, verpanden of daarop een vruchtgebruik vestigen, tenzij de eisers daarvoor toestemming verlenen. Indien de eisers de toestemming weigeren, kan de rechter voor wie het geschil aanhangig is op vordering van gedaagde de toestemming verlenen, indien gedaagde bij de rechtshandeling een redelijk belang heeft. Tegen de beslissing van de rechter staat geen hogere voorziening open.
+[Red: Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.]
 
-2.	Nadat de vordering is toegewezen, kan de gedaagde de aandelen slechts overdragen met inachtneming van de artikelen 339 tot en met 341.
+1.	Nadat het oproepingsbericht aan hem is betekend en tot de dag waarop het vonnis onherroepelijk is geworden, kan de verweerder zijn aandelen niet vervreemden, verpanden of daarop een vruchtgebruik vestigen, tenzij de eisers daarvoor toestemming verlenen. Indien de eisers de toestemming weigeren, kan de rechter voor wie het geschil aanhangig is op vordering van verweerder de toestemming verlenen, indien verweerder bij de rechtshandeling een redelijk belang heeft. Tegen de beslissing van de rechter staat geen hogere voorziening open.
+
+2.	Nadat de vordering is toegewezen, kan de verweerder de aandelen slechts overdragen met inachtneming van de artikelen 339 tot en met 341.
+
+3.	Een voorlopige voorziening als bedoeld in artikel 223 van het Wetboek van Burgerlijke Rechtsvordering kan worden getroffen met werking tot het tijdstip dat de aandelen worden overgedragen. Een vordering tot het treffen van een voorlopige voorziening wordt met de meeste spoed behandeld.
+
+[Red: Voor overige gevallen luidt het artikel als volgt:]
+
+Artikel 338
+
+1.	Nadat de dagvaarding aan hem is betekend en tot de dag waarop het vonnis onherroepelijk is geworden, kan de verweerder zijn aandelen niet vervreemden, verpanden of daarop een vruchtgebruik vestigen, tenzij de eisers daarvoor toestemming verlenen. Indien de eisers de toestemming weigeren, kan de rechter voor wie het geschil aanhangig is op vordering van verweerder de toestemming verlenen, indien verweerder bij de rechtshandeling een redelijk belang heeft. Tegen de beslissing van de rechter staat geen hogere voorziening open.
+
+2.	Nadat de vordering is toegewezen, kan de verweerder de aandelen slechts overdragen met inachtneming van de artikelen 339 tot en met 341.
 
 3.	Een voorlopige voorziening als bedoeld in artikel 223 van het Wetboek van Burgerlijke Rechtsvordering kan worden getroffen met werking tot het tijdstip dat de aandelen worden overgedragen. Een vordering tot het treffen van een voorlopige voorziening wordt met de meeste spoed behandeld.
 
@@ -4391,13 +4403,13 @@ Artikel 340
 
 Artikel 341
 
-1.	De gedaagde is verplicht binnen twee weken nadat hem een afschrift van het vonnis als bedoeld in artikel 340 lid 1 is betekend, zijn aandelen aan de eisers te leveren en de eisers zijn verplicht de aandelen tegen gelijktijdige betaling van de vastgestelde prijs te aanvaarden, behoudens het bepaalde in lid 2. Was het vonnis niet uitvoerbaar bij voorraad verklaard, dan heeft betekening daarvan slechts het in de eerste zin bedoelde gevolg als zij geschiedt nadat het vonnis alsnog uitvoerbaar bij voorraad is verklaard of onherroepelijk is geworden. De aanvaarding geschiedt zoveel mogelijk naar evenredigheid van ieders aandelenbezit, tenzij anders wordt overeengekomen. Met eisers worden gelijkgesteld de aandeelhouders die zich in het rechtsgeding aan de zijde van de eisers hebben gevoegd en daarbij de wens te kennen hebben gegeven in dezelfde positie als de eisers te worden geplaatst.
+1.	De verweerder is verplicht binnen twee weken nadat hem een afschrift van het vonnis als bedoeld in artikel 340 lid 1 is betekend, zijn aandelen aan de eisers te leveren en de eisers zijn verplicht de aandelen tegen gelijktijdige betaling van de vastgestelde prijs te aanvaarden, behoudens het bepaalde in lid 2. Was het vonnis niet uitvoerbaar bij voorraad verklaard, dan heeft betekening daarvan slechts het in de eerste zin bedoelde gevolg als zij geschiedt nadat het vonnis alsnog uitvoerbaar bij voorraad is verklaard of onherroepelijk is geworden. De aanvaarding geschiedt zoveel mogelijk naar evenredigheid van ieders aandelenbezit, tenzij anders wordt overeengekomen. Met eisers worden gelijkgesteld de aandeelhouders die zich in het rechtsgeding aan de zijde van de eisers hebben gevoegd en daarbij de wens te kennen hebben gegeven in dezelfde positie als de eisers te worden geplaatst.
 
-2.	Indien de aandeelhouder die een of meer aandelen wil vervreemden, deze ingevolge artikel 195 of een regeling in de statuten moet aanbieden aan zijn mede-aandeelhouders of anderen, biedt de vennootschap de aandelen onverwijld nadat een afschrift van het vonnis aan haar is betekend, schriftelijk namens de gedaagde aan de aandeelhouders of anderen aan, zoveel mogelijk met overeenkomstige toepassing van de wettelijke of statutaire regeling en deelt hun daarbij tevens de vastgestelde prijs mee. Zij kunnen het aanbod binnen een maand na verzending van de mededeling aanvaarden door schriftelijke kennisgeving aan de vennootschap. Binnen een week na het verstrijken van deze termijn deelt de vennootschap aan de gedaagde en de eisers mee of en zo ja hoeveel aandelen zijn aanvaard en aan wie deze zijn toegewezen. De gedaagde is verplicht onverwijld na ontvangst van deze mededeling zijn aandelen aan de mede-aandeelhouders of de anderen te leveren tegen gelijktijdige betaling. Lid 1, tweede zin, is van overeenkomstige toepassing.
+2.	Indien de aandeelhouder die een of meer aandelen wil vervreemden, deze ingevolge artikel 195 of een regeling in de statuten moet aanbieden aan zijn mede-aandeelhouders of anderen, biedt de vennootschap de aandelen onverwijld nadat een afschrift van het vonnis aan haar is betekend, schriftelijk namens de verweerder aan de aandeelhouders of anderen aan, zoveel mogelijk met overeenkomstige toepassing van de wettelijke of statutaire regeling en deelt hun daarbij tevens de vastgestelde prijs mee. Zij kunnen het aanbod binnen een maand na verzending van de mededeling aanvaarden door schriftelijke kennisgeving aan de vennootschap. Binnen een week na het verstrijken van deze termijn deelt de vennootschap aan de verweerder en de eisers mee of en zo ja hoeveel aandelen zijn aanvaard en aan wie deze zijn toegewezen. De verweerder is verplicht onverwijld na ontvangst van deze mededeling zijn aandelen aan de mede-aandeelhouders of de anderen te leveren tegen gelijktijdige betaling. Lid 1, tweede zin, is van overeenkomstige toepassing.
 
-3.	Indien in het geval van lid 2 geen aandelen zijn aanvaard of minder aandelen zijn aanvaard dan zijn aangeboden, of de vastgestelde prijs niet binnen twee weken na ontvangst van de mededeling van de vennootschap omtrent de toewijzing van de aandelen aan de gedaagde die tot gelijktijdige levering wilde overgaan wordt voldaan, vindt lid 1 toepassing ten aanzien van de aandelen, de overgebleven aandelen of de aandelen waarvoor niet tijdig betaling is ontvangen.
+3.	Indien in het geval van lid 2 geen aandelen zijn aanvaard of minder aandelen zijn aanvaard dan zijn aangeboden, of de vastgestelde prijs niet binnen twee weken na ontvangst van de mededeling van de vennootschap omtrent de toewijzing van de aandelen aan de verweerder die tot gelijktijdige levering wilde overgaan wordt voldaan, vindt lid 1 toepassing ten aanzien van de aandelen, de overgebleven aandelen of de aandelen waarvoor niet tijdig betaling is ontvangen.
 
-4.	Blijft de gedaagde in gebreke met de levering van zijn aandelen, dan levert de vennootschap namens hem de aandelen tegen gelijktijdige betaling.
+4.	Blijft de verweerder in gebreke met de levering van zijn aandelen, dan levert de vennootschap namens hem de aandelen tegen gelijktijdige betaling.
 
 5.	Blijven een of meer eisers in gebreke met de aanvaarding van de aandelen tegen gelijktijdige betaling van de vastgestelde prijs, dan zijn de overige eisers verplicht om binnen twee weken nadat dit is komen vast te staan die aandelen tegen gelijktijdige betaling te aanvaarden, ieder zoveel mogelijk naar evenredigheid van zijn aandelenbezit.
 
@@ -4410,6 +4422,18 @@ Artikel 341a
 1.	Wordt een vonnis als bedoeld in artikel 340 lid 1 na het instellen van een rechtsmiddel vernietigd, dan blijft de rechtsgrond voor op grond van dat vonnis verrichte handelingen in stand, maar ontstaat voor partijen een verbintenis tot ongedaanmaking van de reeds ingetreden gevolgen.
 
 2.	Indien de reeds ingetreden gevolgen bezwaarlijk ongedaan kunnen worden gemaakt of de billijkheid zulks anderszins vordert, kan de rechter desgevraagd de verplichting tot ongedaanmaking beperken of uitsluiten. Hij kan aan een partij die daardoor onbillijk wordt bevoordeeld, de verplichting opleggen tot een uitkering in geld aan de partij die benadeeld wordt.
+
+Artikel 342
+
+[Red: Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.]
+
+1.	Een of meer houders van aandelen die alleen of gezamenlijk ten minste een derde van het geplaatste kapitaal verschaffen, kunnen van een stemgerechtigde vruchtgebruiker of pandhouder van een aandeel in rechte vorderen dat het stemrecht op het aandeel overgaat op de houder van het aandeel, indien die vruchtgebruiker of pandhouder door zijn gedragingen het belang van de vennootschap zodanig schaadt dat in redelijkheid niet kan worden geduld dat hij het stemrecht blijft uitoefenen.
+
+2.	Een afschrift van het oproepingsbericht moet onverwijld door de eisers aan de houder van het aandeel, die niet zelf tevens eiser is, worden betekend bij exploot. Artikel 336, leden 2, 3 en 4 en artikel 339 lid 2 zijn van toepassing en de artikelen 337 en 338 leden 1 en 3, tweede volzin, zijn van overeenkomstige toepassing, in dier voege dat in het geval van artikel 338 lid 1 de vruchtgebruiker of pandhouder het vruchtgebruik of het pandrecht niet op een ander kan doen overgaan.
+
+3.	Indien de vordering tot overgang van het stemrecht is toegewezen, vindt de overgang plaats door het in kracht van gewijsde gaan van het vonnis.
+
+[Red: Voor overige gevallen luidt het artikel als volgt:]
 
 Artikel 342
 
@@ -4429,27 +4453,27 @@ Artikel 343
 
 2.	De artikelen 336 leden 3 en 5, 337, 338 leden 1 en 3, 339 en 340, leden 1, 2 en 3 zijn van toepassing of van overeenkomstige toepassing.
 
-3.	Is de vordering tegen een aandeelhouder ingesteld, dan kan deze een andere aandeelhouder of de vennootschap in het geding oproepen, indien hij van oordeel is dat de vordering ook of uitsluitend tegen die aandeelhouder of tegen de vennootschap had behoren te worden ingesteld. De oproeping geschiedt uiterlijk tegen de voor het nemen van de conclusie van antwoord bepaalde dag.
+3.	Is de vordering tegen een aandeelhouder ingesteld, dan kan deze een andere aandeelhouder of de vennootschap in het geding oproepen, indien hij van oordeel is dat de vordering ook of uitsluitend tegen die aandeelhouder of tegen de vennootschap had behoren te worden ingesteld. De oproeping geschiedt uiterlijk tegen de voor het nemen van het verweerschrift bepaalde dag.
 
-4.	Bij het bepalen van de prijs van de aandelen kan de rechter desgevorderd een billijke verhoging toepassen in verband met gedragingen van de gedaagde, of van anderen dan de gedaagde, indien aannemelijk is dat die gedragingen hebben geleid tot een vermindering van de waarde van de over te dragen aandelen en deze vermindering niet, of niet volledig, voor rekening van eiser behoort te blijven.
+4.	Bij het bepalen van de prijs van de aandelen kan de rechter desgevorderd een billijke verhoging toepassen in verband met gedragingen van de verweerder, of van anderen dan de verweerder, indien aannemelijk is dat die gedragingen hebben geleid tot een vermindering van de waarde van de over te dragen aandelen en deze vermindering niet, of niet volledig, voor rekening van eiser behoort te blijven.
 
-5.	Bij toewijzing van de vordering tot uittreding bevat het vonnis tevens een veroordeling van de eiser tot levering aan gedaagden van de hun, zo nodig na toepassing van artikel 343a lid 5, over te dragen aandelen.
+5.	Bij toewijzing van de vordering tot uittreding bevat het vonnis tevens een veroordeling van de eiser tot levering aan verweerders van de hun, zo nodig na toepassing van artikel 343a lid 5, over te dragen aandelen.
 
 6.	De rechter kan zijn beslissing omtrent de vordering voor een door hem te bepalen termijn aanhouden, indien ten processe blijkt dat de vennootschap of één of meer mede-aandeelhouders op zich nemen maatregelen te treffen waardoor het nadeel dat de aandeelhouder lijdt zoveel mogelijk wordt ongedaan gemaakt of beperkt.
 
 Artikel 343a
 
-1.	Binnen twee weken nadat hem een afschrift is betekend van het vonnis waarbij de prijs van de aandelen is bepaald, is ieder van de gedaagden verplicht het door de rechter vastgestelde aantal aandelen tegen gelijktijdige betaling van de vastgestelde prijs over te nemen, behoudens lid 2, en is de eiser verplicht zijn aandelen aan de gedaagden te leveren. Was het vonnis niet uitvoerbaar bij voorraad verklaard, dan heeft betekening daarvan slechts het in de eerste zin bedoelde gevolg als zij geschiedt nadat het vonnis alsnog uitvoerbaar bij voorraad is verklaard of onherroepelijk is geworden. Met gedaagden worden gelijkgesteld de aandeelhouders die zich in het rechtsgeding aan de zijde van de gedaagden hebben gevoegd en daarbij de wens te kennen hebben gegeven in dezelfde positie als de gedaagden te worden geplaatst.
+1.	Binnen twee weken nadat hem een afschrift is betekend van het vonnis waarbij de prijs van de aandelen is bepaald, is ieder van de verweerders verplicht het door de rechter vastgestelde aantal aandelen tegen gelijktijdige betaling van de vastgestelde prijs over te nemen, behoudens lid 2, en is de eiser verplicht zijn aandelen aan de verweerders te leveren. Was het vonnis niet uitvoerbaar bij voorraad verklaard, dan heeft betekening daarvan slechts het in de eerste zin bedoelde gevolg als zij geschiedt nadat het vonnis alsnog uitvoerbaar bij voorraad is verklaard of onherroepelijk is geworden. Met verweerders worden gelijkgesteld de aandeelhouders die zich in het rechtsgeding aan de zijde van de verweerders hebben gevoegd en daarbij de wens te kennen hebben gegeven in dezelfde positie als de verweerders te worden geplaatst.
 
-2.	Indien de aandeelhouder die een of meer aandelen wil vervreemden deze ingevolge artikel 195 of een regeling in de statuten moet aanbieden aan zijn mede-aandeelhouders of anderen, biedt de vennootschap de aandelen onverwijld nadat een afschrift van het vonnis aan haar is betekend, schriftelijk namens de eiser aan de aandeelhouders of anderen aan, zoveel mogelijk met overeenkomstige toepassing van de wettelijke of statutaire regeling en deelt hun daarbij tevens de vastgestelde prijs mee. Zij kunnen het aanbod binnen een maand na verzending van de mededeling aanvaarden door schriftelijke kennisgeving aan de vennootschap. Binnen een week na het verstrijken van deze termijn deelt de vennootschap aan de eiser en de gedaagden mee of en zo ja hoeveel aandelen zijn aanvaard en aan wie deze zijn toegewezen. De eiser is verplicht onverwijld na ontvangst van deze mededeling zijn aandelen aan de mede-aandeelhouders of de anderen te leveren tegen gelijktijdige betaling. Lid 1, tweede zin, is van overeenkomstige toepassing.
+2.	Indien de aandeelhouder die een of meer aandelen wil vervreemden deze ingevolge artikel 195 of een regeling in de statuten moet aanbieden aan zijn mede-aandeelhouders of anderen, biedt de vennootschap de aandelen onverwijld nadat een afschrift van het vonnis aan haar is betekend, schriftelijk namens de eiser aan de aandeelhouders of anderen aan, zoveel mogelijk met overeenkomstige toepassing van de wettelijke of statutaire regeling en deelt hun daarbij tevens de vastgestelde prijs mee. Zij kunnen het aanbod binnen een maand na verzending van de mededeling aanvaarden door schriftelijke kennisgeving aan de vennootschap. Binnen een week na het verstrijken van deze termijn deelt de vennootschap aan de eiser en de verweerders mee of en zo ja hoeveel aandelen zijn aanvaard en aan wie deze zijn toegewezen. De eiser is verplicht onverwijld na ontvangst van deze mededeling zijn aandelen aan de mede-aandeelhouders of de anderen te leveren tegen gelijktijdige betaling. Lid 1, tweede zin, is van overeenkomstige toepassing.
 
-3.	Indien in het geval van lid 2 geen aandelen zijn aanvaard of minder aandelen zijn aanvaard dan zijn aangeboden, of de vastgestelde prijs niet binnen twee weken na ontvangst van de mededeling van de vennootschap omtrent de toewijzing van de aandelen aan de eiser die tot gelijktijdige levering wilde overgaan wordt voldaan, vindt ten aanzien van de aandelen, de overgebleven aandelen of de aandelen waarvoor niet tijdig betaling is ontvangen lid 1 toepassing, met dien verstande dat de aanvaarding van de niet afgenomen aandelen door de gedaagden zoveel mogelijk geschiedt naar evenredigheid van het voor ieder overeenkomstig lid 1 vastgestelde aantal aandelen.
+3.	Indien in het geval van lid 2 geen aandelen zijn aanvaard of minder aandelen zijn aanvaard dan zijn aangeboden, of de vastgestelde prijs niet binnen twee weken na ontvangst van de mededeling van de vennootschap omtrent de toewijzing van de aandelen aan de eiser die tot gelijktijdige levering wilde overgaan wordt voldaan, vindt ten aanzien van de aandelen, de overgebleven aandelen of de aandelen waarvoor niet tijdig betaling is ontvangen lid 1 toepassing, met dien verstande dat de aanvaarding van de niet afgenomen aandelen door de verweerders zoveel mogelijk geschiedt naar evenredigheid van het voor ieder overeenkomstig lid 1 vastgestelde aantal aandelen.
 
 4.	Blijft de eiser in gebreke met de levering van zijn aandelen, dan levert de vennootschap namens hem de aandelen, tegen gelijktijdige betaling.
 
-5.	Blijven een of meer gedaagden in gebreke met de aanvaarding van de aandelen tegen gelijktijdige betaling van de vastgestelde prijs, dan zijn de overige gedaagden verplicht om binnen twee weken nadat dit is komen vast te staan die aandelen tegen gelijktijdige betaling te aanvaarden, zoveel mogelijk naar evenredigheid van het voor ieder overeenkomstig lid 1 vastgestelde aantal aandelen.
+5.	Blijven een of meer verweerders in gebreke met de aanvaarding van de aandelen tegen gelijktijdige betaling van de vastgestelde prijs, dan zijn de overige verweerders verplicht om binnen twee weken nadat dit is komen vast te staan die aandelen tegen gelijktijdige betaling te aanvaarden, zoveel mogelijk naar evenredigheid van het voor ieder overeenkomstig lid 1 vastgestelde aantal aandelen.
 
-6.	Is een gedaagde aandeelhouder ten titel van beheer, dan zijn naast hem de certificaathouders aansprakelijk voor het krachtens dit artikel verschuldigde, ieder zoveel mogelijk naar evenredigheid van zijn bezit aan certificaten. Blijven een of meer certificaathouders in gebreke, dan zijn de overige certificaathouders verplicht dat deel te voldoen, ieder zoveel mogelijk naar evenredigheid van zijn bezit aan certificaten. De eerste en tweede zin vinden slechts toepassing op certificaathouders die door de eiser tijdig in het geding zijn opgeroepen. Zo nodig verstrekt de gedaagde aan eiser de daartoe benodigde gegevens.
+6.	Is een verweerder aandeelhouder ten titel van beheer, dan zijn naast hem de certificaathouders aansprakelijk voor het krachtens dit artikel verschuldigde, ieder zoveel mogelijk naar evenredigheid van zijn bezit aan certificaten. Blijven een of meer certificaathouders in gebreke, dan zijn de overige certificaathouders verplicht dat deel te voldoen, ieder zoveel mogelijk naar evenredigheid van zijn bezit aan certificaten. De eerste en tweede zin vinden slechts toepassing op certificaathouders die door de eiser tijdig in het geding zijn opgeroepen. Zo nodig verstrekt de verweerder aan eiser de daartoe benodigde gegevens.
 
 7.	Op verzoek van een partij beslist de rechter die de vordering in eerste instantie of in hoger beroep heeft toegewezen over geschillen betreffende de uitvoering van de regeling. Tegen deze beslissing staat geen hogere voorziening open.
 
@@ -4459,11 +4483,11 @@ In het geval van vernietiging van het vonnis als bedoeld in artikel 343a lid 1 i
 
 Artikel 343c
 
-1.	Bestaat tussen een aandeelhouder en een of meer van zijn mede-aandeelhouders of de vennootschap overeenstemming dat de aandeelhouder zijn aandelen zal overdragen tegen gelijktijdige betaling van een nader vast te stellen prijs, dan kunnen zij zich bij gezamenlijk verzoekschrift wenden tot de rechter, bedoeld in artikel 336 lid 3, teneinde de prijs van de aandelen te doen vaststellen. Het verzoek kan ook worden gedaan door één der partijen, mits de andere partij in zijn verweerschrift verklaart zich daartegen niet te verzetten.
+1.	Bestaat tussen een aandeelhouder en een of meer van zijn mede-aandeelhouders of de vennootschap overeenstemming dat de aandeelhouder zijn aandelen zal overdragen tegen gelijktijdige betaling van een nader vast te stellen prijs, dan kunnen zij de rechter, bedoeld in artikel 336 lid 3, gezamenlijk verzoeken de prijs van de aandelen te doen vaststellen. Het verzoek kan ook worden gedaan door één der partijen, mits de andere partij in zijn verweerschrift verklaart zich daartegen niet te verzetten.
 
 2.	Partijen kunnen de rechter verzoeken bij de benoeming van de deskundige of deskundigen bepaalde aanwijzingen te geven over de in acht te nemen waarderingsmaatstaf, de datum waartegen gewaardeerd moet worden en andere omstandigheden waarmee bij de waardering rekening moet worden gehouden. Voorzover partijen niet eenstemmig zijn, beslist de rechter naar billijkheid.
 
-3.	De procedure wordt gevoerd als verzoekschriftprocedure, waarbij de artikelen 343 lid 2 en 343a zoveel mogelijk van overeenkomstige toepassing zijn.
+3.	De procedure wordt gevoerd als verzoekprocedure, waarbij de artikelen 343 lid 2 en 343a zoveel mogelijk van overeenkomstige toepassing zijn.
 
 4.	Indien partijen in het verzoekschrift dan wel overeenkomstig lid 1, tweede zin, verklaren dat zij omtrent de prijs van de aandelen een bericht van deskundigen wensen dat tussen hen de werking van een vaststellingsovereenkomst zal hebben, zijn de wettelijke bepalingen betreffende het voorlopig deskundigenbericht voorzoveel nodig van overeenkomstige toepassing. Een partij kan op artikel 904 lid 1 van Boek 7 slechts een beroep doen gedurende vier weken vanaf de verzending van het voorlopig deskundigenbericht aan die partij door de griffier op de voet van artikel 198 lid 4 in verband met artikel 205 lid 1 van het Wetboek van Burgerlijke Rechtsvordering. Bij toepassing van artikel 904 lid 2 van Boek 7 is de in artikel 336 lid 3 bedoelde rechter bevoegd. Diezelfde rechter beslist op verzoek van een partij over geschillen betreffende de uitvoering van de overdracht.
 
@@ -4653,11 +4677,11 @@ Artikel 359c
 
 4.	Over de vordering oordeelt in eerste aanleg de ondernemingskamer van het gerechtshof Amsterdam. Van de uitspraak staat uitsluitend beroep in cassatie open.
 
-5.	Indien tegen een of meer gedaagden verstek is verleend, moet de rechter ambtshalve onderzoeken of de eiser of eisers de vereisten van lid 1 onderscheidenlijk lid 2 vervult of vervullen.
+5.	Indien tegen een of meer verweerders verstek is verleend, moet de rechter ambtshalve onderzoeken of de eiser of eisers de vereisten van lid 1 onderscheidenlijk lid 2 vervult of vervullen.
 
 6.	Indien de rechter oordeelt dat de leden 1 en 2 de toewijzing van de vordering niet beletten, stelt hij een billijke prijs vast voor de over te dragen aandelen op een door hem te bepalen dag. Wanneer een openbaar bod als bedoeld in artikel 5:74 van de Wet op het financieel toezicht is uitgebracht, wordt de waarde van de bij het bod geboden tegenprestatie, mits ten minste 90% van de aandelen is verworven waarop het bod betrekking had, geacht een billijke prijs te zijn. Wanneer een openbaar bod als bedoeld in artikel 5:70 van de Wet op het financieel toezicht is uitgebracht, wordt de waarde van de bij het bod geboden tegenprestatie geacht een billijke prijs te zijn. In afwijking van de tweede of derde zin kan de rechter bevelen dat een of drie deskundigen zullen berichten over de waarde van de over te dragen aandelen. De eerste drie zinnen van artikel 350 lid 3 en de artikelen 351 en 352 zijn dan van toepassing. De prijs luidt in geld. Zo lang en voor zover de prijs niet is betaald, wordt hij verhoogd met rente, gelijk aan de wettelijke rente, vanaf de dag die door de rechter is bepaald voor de vaststelling van de prijs tot de overdracht; uitkeringen op de aandelen die in dit tijdvak betaalbaar worden gesteld, strekken op de dag van betaalbaarstelling tot gedeeltelijke betaling van de prijs.
 
-7.	De rechter die de vordering toewijst, veroordeelt de overnemer aan degenen aan wie de aandelen toebehoren of zullen toebehoren de vastgestelde prijs met rente te betalen tegen levering van het onbezwaarde recht op de aandelen. De rechter geeft omtrent de kosten van het geding zodanige uitspraak als hij meent dat behoort. Een gedaagde die geen verweer heeft gevoerd, wordt niet verwezen in de kosten.
+7.	De rechter die de vordering toewijst, veroordeelt de overnemer aan degenen aan wie de aandelen toebehoren of zullen toebehoren de vastgestelde prijs met rente te betalen tegen levering van het onbezwaarde recht op de aandelen. De rechter geeft omtrent de kosten van het geding zodanige uitspraak als hij meent dat behoort. Een verweerder die geen verweer heeft gevoerd, wordt niet verwezen in de kosten.
 
 8.	Staat het bevel tot overdracht bij gerechtelijk gewijsde vast, dan deelt de overnemer de dag en plaats van betaalbaarstelling en de prijs schriftelijk mee aan de houders van de over te nemen aandelen van wie hij het adres kent. Hij kondigt deze ook aan in een landelijk verspreid dagblad, tenzij hij van allen het adres kent.
 
@@ -5468,7 +5492,7 @@ Artikel 404
 
 4.	Indien de schuldeiser dit verlangt moet, op straffe van gegrondverklaring van een verzet als bedoeld in lid 5, voor hem zekerheid worden gesteld of hem een andere waarborg worden gegeven voor de voldoening van zijn vorderingen waarvoor nog aansprakelijkheid loopt. Dit geldt niet, indien hij na het beëindigen van de aansprakelijkheid, gezien de vermogenstoestand van de rechtspersoon of uit anderen hoofde, voldoende waarborgen heeft dat deze vorderingen zullen worden voldaan.
 
-5.	Tot twee maanden na de aankondiging kan de schuldeiser voor wiens vordering nog aansprakelijkheid loopt, tegen het voornemen tot beëindiging verzet doen door een verzoekschrift aan de rechtbank van de woonplaats van de rechtspersoon die hoofdschuldenaar is.
+5.	Tot twee maanden na de aankondiging kan de schuldeiser voor wiens vordering nog aansprakelijkheid loopt, tegen het voornemen tot beëindiging verzet doen door het indienen van een verzoek bij de rechtbank van de woonplaats van de rechtspersoon die hoofdschuldenaar is.
 
 6.	De rechter verklaart het verzet slechts gegrond nadat een door hem omschreven termijn om een door hem omschreven waarborg te geven is verlopen, zonder dat deze is gegeven.
 
@@ -6051,7 +6075,7 @@ Artikel 447
 
 1.	Op verzoek van degenen die krachtens artikel 448 daartoe bevoegd zijn, kan de ondernemingskamer van het gerechtshof Amsterdam aan een rechtspersoon of vennootschap als bedoeld in artikel 360 waarop deze titel van toepassing is, een statutair in Nederland gevestigde effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving of een beleggingsinstelling als bedoeld in artikel 1:1 van de Wet op het financieel toezicht bevelen de jaarrekening, het bestuursverslag, de daaraan toe te voegen overige gegevens of het verslag, bedoeld in artikel 392a, in te richten overeenkomstig door haar te geven aanwijzingen.
 
-2.	Het verzoek kan slechts worden ingediend op de grond dat de verzoeker van oordeel is dat de in het eerste lid bedoelde stukken niet voldoen aan de bij of krachtens artikel 3 van verordening (EG) 1606/2002 van het Europees Parlement en de Raad van de Europese Unie van 19 juli 2002 betreffende de toepassing van internationale standaarden voor jaarrekeningen (PbEG L 243), deze titel, onderscheidenlijk de Wet op het financieel toezicht gestelde voorschriften. Het verzoekschrift vermeldt in welk opzicht de stukken herziening behoeven.
+2.	Het verzoek kan slechts worden ingediend op de grond dat de verzoeker van oordeel is dat de in het eerste lid bedoelde stukken niet voldoen aan de bij of krachtens artikel 3 van verordening (EG) 1606/2002 van het Europees Parlement en de Raad van de Europese Unie van 19 juli 2002 betreffende de toepassing van internationale standaarden voor jaarrekeningen (PbEG L 243), deze titel, onderscheidenlijk de Wet op het financieel toezicht gestelde voorschriften. Het verzoek vermeldt in welk opzicht de stukken herziening behoeven.
 
 3.	Het verzoek heeft geen betrekking op een accountantsverklaring als bedoeld in artikel 393 lid 5.
 
@@ -6128,7 +6152,7 @@ Artikel 454
 
 1.	Op verzoek van de Stichting Autoriteit Financiële Markten kan de ondernemingskamer van het gerechtshof te Amsterdam aan een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving bevelen een bericht als bedoeld in artikel 3, tweede lid, van de Wet toezicht financiële verslaggeving algemeen verkrijgbaar te stellen.
 
-2.	De Stichting Autoriteit Financiële Markten kan het verzoek slechts indienen op de grond dat de financiële verslaggeving als bedoeld in artikel 1, onderdeel d, van de Wet toezicht financiële verslaggeving niet voldoet aan de daaraan ingevolgde artikel 3 van verordening (EG) 1606/2002 van het Europees Parlement en Raad van de Europese Unie van 19 juli 2002 betreffende de toepassing van internationale standaarden voor jaarrekeningen (PbEG L 243), deze titel, of de artikelen 5:25c, tweede, vierde of vijfde lid, 5:25d, tweede of vierde tot en met tiende lid, of artikel 5:25v, eerste lid, van de Wet op het financieel toezicht gestelde voorschriften. Het verzoekschrift vermeldt in welk opzicht de financiële verslaggeving als bedoeld in de vorige volzin niet voldoet.
+2.	De Stichting Autoriteit Financiële Markten kan het verzoek slechts indienen op de grond dat de financiële verslaggeving als bedoeld in artikel 1, onderdeel d, van de Wet toezicht financiële verslaggeving niet voldoet aan de daaraan ingevolgde artikel 3 van verordening (EG) 1606/2002 van het Europees Parlement en Raad van de Europese Unie van 19 juli 2002 betreffende de toepassing van internationale standaarden voor jaarrekeningen (PbEG L 243), deze titel, of de artikelen 5:25c, tweede, vierde of vijfde lid, 5:25d, tweede of vierde tot en met tiende lid, of artikel 5:25v, eerste lid, van de Wet op het financieel toezicht gestelde voorschriften. Het verzoek vermeldt in welk opzicht de financiële verslaggeving als bedoeld in de vorige volzin niet voldoet.
 
 3.	Het verzoek heeft geen betrekking op de verklaring van de accountant, bedoeld in artikel 5:25c, vierde lid, van de Wet op het financieel toezicht.
 
