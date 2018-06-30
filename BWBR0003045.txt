@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 03-01-2018 t/m 30-06-2018
+Geldend van 01-07-2018 t/m 18-09-2018
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -1806,7 +1806,7 @@ Artikel 129a
 
 1.	Bij de statuten kan worden bepaald dat de bestuurstaken worden verdeeld over één of meer niet uitvoerende bestuurders en één of meer uitvoerende bestuurders. De taak om toezicht te houden op de taakuitoefening door bestuurders kan niet door een taakverdeling worden ontnomen aan niet uitvoerende bestuurders. Het voorzitterschap van het bestuur, het doen van voordrachten voor benoeming van een bestuurder en het vaststellen van de bezoldiging van uitvoerende bestuurders kan niet aan een uitvoerende bestuurder worden toebedeeld. Niet uitvoerende bestuurders zijn natuurlijke personen.
 
-2.	De uitvoerende bestuurders nemen niet deel aan de beraadslaging en besluitvorming over het vaststellen van de bezoldiging van uitvoerende bestuurders.
+2.	De uitvoerende bestuurders nemen niet deel aan de beraadslaging en besluitvorming over het vaststellen van de bezoldiging van uitvoerende bestuurders en over de verlening van de opdracht tot onderzoek van de jaarrekening aan een externe accountant als bedoeld in artikel 27 van de Wet toezicht accountantsorganisaties indien de algemene vergadering niet tot opdrachtverlening is overgegaan.
 
 3.	Bij of krachtens de statuten kan worden bepaald dat een of meer bestuurders rechtsgeldig kunnen besluiten omtrent zaken die tot zijn respectievelijk hun taak behoren. Bepaling krachtens de statuten geschiedt schriftelijk.
 
@@ -2952,7 +2952,7 @@ Artikel 239a
 
 1.	Bij de statuten kan worden bepaald dat de bestuurstaken worden verdeeld over één of meer niet uitvoerende bestuurders en één of meer uitvoerende bestuurders. De taak om toezicht te houden op de taakuitoefening door bestuurders kan niet door een taakverdeling worden ontnomen aan niet uitvoerende bestuurders. Het voorzitterschap van het bestuur, het doen van voordrachten voor benoeming van een bestuurder en het vaststellen van de bezoldiging van uitvoerende bestuurders kan niet aan een uitvoerende bestuurder worden toebedeeld. Niet uitvoerende bestuurders zijn natuurlijke personen.
 
-2.	De uitvoerende bestuurders nemen niet deel aan de beraadslaging en besluitvorming over het vaststellen van de bezoldiging van uitvoerende bestuurders.
+2.	De uitvoerende bestuurders nemen niet deel aan de beraadslaging en besluitvorming over het vaststellen van de bezoldiging van uitvoerende bestuurders en over de verlening van de opdracht tot onderzoek van de jaarrekening aan een externe accountant als bedoeld in artikel 27 van de Wet toezicht accountantsorganisaties indien de algemene vergadering niet tot opdrachtverlening is overgegaan.
 
 3.	Bij of krachtens de statuten kan worden bepaald dat een bestuurder rechtsgeldig kan besluiten omtrent zaken die tot zijn taak behoren. Bepaling krachtens de statuten geschiedt schriftelijk.
 
@@ -5288,7 +5288,7 @@ Artikel 393
 
 1.	De rechtspersoon verleent opdracht tot onderzoek van de jaarrekening aan een registeraccountant, aan een Accountant-Administratieconsulent ten aanzien van wie in het accountantsregister een aantekening is geplaatst als bedoeld in artikel 36, tweede lid, onderdeel i, van de Wet op het accountantsberoep of aan een wettelijke auditor als bedoeld in artikel 27, eerste lid, van de Wet toezicht accountantsorganisaties. De opdracht kan worden verleend aan een organisatie waarin accountants die mogen worden aangewezen, samenwerken. Indien een rechtspersoon tevens een organisatie van openbaar belang is als bedoeld in artikel 1, eerste lid, onderdeel l, van de Wet toezicht accountantsorganisaties, wordt door deze rechtspersoon aan de Stichting Autoriteit Financiële Markten medegedeeld welke accountant of accountantsorganisatie wordt beoogd voor het uitvoeren van een opdracht tot onderzoek van de jaarrekening van de rechtspersoon. Deze mededeling geschiedt voordat tot de verlening van die opdracht, bedoeld in het tweede lid, is overgegaan. Onze Minister van Financiën stelt bij ministeriele regeling nadere regels over deze mededeling.
 
-2.	Tot het verlenen van de opdracht is de algemene vergadering bevoegd. Gaat deze daartoe niet over, dan is de raad van commissarissen bevoegd of, zo deze ontbreekt of in gebreke blijft, het bestuur. De aanwijzing van een accountant wordt door generlei voordracht beperkt. De opdracht kan worden ingetrokken door de algemene vergadering en door degene die haar heeft verleend; de door het bestuur verleende opdracht kan bovendien door de raad van commissarissen worden ingetrokken. De opdracht kan enkel worden ingetrokken om gegronde redenen; daartoe behoort niet een meningsverschil over methoden van verslaggeving of controlewerkzaamheden. De algemene vergadering hoort de accountant op diens verlangen omtrent de intrekking van een hem verleende opdracht of omtrent het hem kenbaar gemaakte voornemen daartoe. Het bestuur en de accountant stellen de Stichting Autoriteit Financiële Markten onverwijld in kennis van de intrekking van de opdracht door de rechtspersoon of tussentijdse beëindiging ervan door de accountant en geven hiervoor een afdoende motivering.
+2.	Tot het verlenen van de opdracht is de algemene vergadering bevoegd. Gaat deze daartoe niet over, of ontbreekt deze, dan is de raad van commissarissen bevoegd. Ontbreekt een raad van commissarissen, dan is het bestuur bevoegd. De aanwijzing van een accountant wordt door generlei voordracht beperkt. De opdracht kan worden ingetrokken door de algemene vergadering en door degene die haar heeft verleend. De opdracht kan enkel worden ingetrokken om gegronde redenen; daartoe behoort niet een meningsverschil over methoden van verslaggeving of controlewerkzaamheden. De algemene vergadering hoort de accountant op diens verlangen omtrent de intrekking van een hem verleende opdracht of omtrent het hem kenbaar gemaakte voornemen daartoe. Het bestuur en de accountant stellen de Stichting Autoriteit Financiële Markten onverwijld in kennis van de intrekking van de opdracht door de rechtspersoon of tussentijdse beëindiging ervan door de accountant en geven hiervoor een afdoende motivering.
 
 3.	De accountant onderzoekt of de jaarrekening het in artikel 362 lid 1 vereiste inzicht geeft. Hij gaat voorts na, of de jaarrekening aan de bij en krachtens de wet gestelde voorschriften voldoet, of het bestuursverslag overeenkomstig deze titel is opgesteld en met de jaarrekening verenigbaar is, en of het bestuursverslag in het licht van de tijdens het onderzoek van de jaarrekening verkregen kennis en begrip omtrent de rechtspersoon en zijn omgeving, materiële onjuistheden bevat, en of de in artikel 392 lid 1, onderdelen b tot en met f, vereiste gegevens zijn toegevoegd.
 
@@ -5689,7 +5689,7 @@ Afdeling 15. Bepalingen voor verzekeringsmaatschappijen
 
 Artikel 427
 
-1.	In deze afdeling wordt onder verzekeringsmaatschappij verstaan: een financiële onderneming met zetel in Nederland die ingevolge de Wet op het financieel toezicht het bedrijf van verzekeraar mag uitoefenen, en waarop artikel 3:72 van die wet van toepassing is.
+1.	In deze afdeling wordt onder verzekeringsmaatschappij verstaan: een financiële onderneming met zetel in Nederland die ingevolge de Wet op het financieel toezicht het bedrijf van verzekeraar mag uitoefenen of de werkzaamheden van een entiteit voor risico-acceptatie mag verrichten, en waarop artikel 2:26a, 2:27, 2:48, 2:49b of 2:54a van die wet van toepassing is.
 
 2.	Een rechtspersoon die het verzekeringsbedrijf uitoefent, doch die geen verzekeringsmaatschappij is, mag de voor verzekeringsmaatschappijen geldende voorschriften toepassen, indien het in artikel 362 lid 1 bedoelde inzicht daardoor wordt gediend.
 
