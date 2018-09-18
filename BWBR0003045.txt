@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 01-07-2018 t/m 18-09-2018
+Geldend van 19-09-2018 t/m 31-12-2018
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -5173,7 +5173,7 @@ Artikel 386
 
 2.	De methoden volgens welke de afschrijvingen zijn berekend, worden in de toelichting uiteengezet.
 
-3.	De geactiveerde kosten in verband met de oprichting en met de uitgifte van aandelen worden afgeschreven in ten hoogste vijf jaren. De kosten van ontwikkeling voor zover geactiveerd en de geactiveerde kosten van goodwill worden afgeschreven naar gelang van de verwachte gebruiksduur. In uitzonderlijke gevallen waarin de gebruiksduur van kosten van ontwikkeling en goodwill niet op betrouwbare wijze kunnen worden geschat, worden deze kosten afgeschreven in een periode van ten hoogste tien jaren. In dergelijke gevallen worden in de toelichting de redenen voor de afschrijvingsduur van de kosten van goodwill vermeld.
+3.	De geactiveerde kosten in verband met de oprichting en met de uitgifte van aandelen worden afgeschreven in ten hoogste vijf jaren. De kosten van ontwikkeling voor zover geactiveerd en de geactiveerde kosten van goodwill worden afgeschreven naar gelang van de verwachte gebruiksduur. In uitzonderlijke gevallen waarin de gebruiksduur van kosten van ontwikkeling en goodwill niet op betrouwbare wijze kan worden geschat, worden deze kosten afgeschreven in een periode van ten hoogste tien jaren. In dergelijke gevallen worden in de toelichting de redenen voor de afschrijvingsduur van de kosten van goodwill vermeld.
 
 4.	Op vaste activa met beperkte gebruiksduur wordt jaarlijks afgeschreven volgens een stelsel dat op de verwachte toekomstige gebruiksduur is afgestemd.
 
@@ -5268,11 +5268,11 @@ Artikel 392
 
 2.	De gegevens mogen niet in strijd zijn met de jaarrekening en met het bestuursverslag.
 
-3.	Is een recht als bedoeld in lid 1 onder e in een aandeel belichaamd, dan wordt vermeld hoeveel zodanige aandelen elk der rechthebbenden houdt. Komt een zodanig recht aan een vennootschap, vereniging, coöperatie, onderlinge waarborgmaatschappij of stichting toe, dan worden tevens de namen van de bestuurders daarvan medegedeeld.
+3.	Is een recht als bedoeld in lid 1 onder d in een aandeel belichaamd, dan wordt vermeld hoeveel zodanige aandelen elk der rechthebbenden houdt. Komt een zodanig recht aan een vennootschap, vereniging, coöperatie, onderlinge waarborgmaatschappij of stichting toe, dan worden tevens de namen van de bestuurders daarvan medegedeeld.
 
-4.	Het bepaalde in lid 1 onder e en in lid 3 is niet van toepassing, voor zover Onze Minister van Economische Zaken desverzocht aan de rechtspersoon wegens gewichtige redenen ontheffing heeft verleend; deze ontheffing kan telkens voor ten hoogste vijf jaren worden verleend. Geen ontheffing kan worden verleend van het bepaalde in lid 1 onder e wanneer omtrent deze gegevens mededeling moet worden gedaan in het bestuursverslag op grond van artikel 391 lid 5.
+4.	Het bepaalde in lid 1 onder d en in lid 3 is niet van toepassing, voor zover Onze Minister van Economische Zaken desverzocht aan de rechtspersoon wegens gewichtige redenen ontheffing heeft verleend; deze ontheffing kan telkens voor ten hoogste vijf jaren worden verleend. Geen ontheffing kan worden verleend van het bepaalde in lid 1 onder d wanneer omtrent deze gegevens mededeling moet worden gedaan in het bestuursverslag op grond van artikel 391 lid 5.
 
-5.	Het bestuur van een stichting of een vereniging als bedoeld in artikel 360 lid 3 behoeft de gegevens, bedoeld in lid 1, onder b en c, niet aan de jaarrekening en het bestuursverslag toe te voegen.
+5.	Het bestuur van een stichting of een vereniging als bedoeld in artikel 360 lid 3 behoeft de gegevens, bedoeld in lid 1, onder b, en artikel 380c, niet aan de jaarrekening en het bestuursverslag toe te voegen.
 
 Afdeling 8a. Verslag over betalingen aan overheden
 
@@ -5327,7 +5327,7 @@ Artikel 394
 
 3.	Uiterlijk twaalf maanden na afloop van het boekjaar moet de rechtspersoon de jaarrekening op de in lid 1 voorgeschreven wijze openbaar hebben gemaakt.
 
-4.	Gelijktijdig met en op dezelfde wijze als de jaarrekening worden het bestuursverslag en de overige in artikel 392 bedoelde gegevens in het Nederlands of in een van de andere in het eerste lid genoemde talen openbaar gemaakt. Het voorafgaande geldt, behalve voor de in artikel 392 lid 1 onder a en f genoemde gegevens, niet, indien de stukken ten kantore van de rechtspersoon ter inzage van een ieder worden gehouden en op verzoek een volledig of gedeeltelijk afschrift daarvan ten hoogste tegen de kostprijs wordt verstrekt; hiervan doet de rechtspersoon opgaaf ter inschrijving in het handelsregister.
+4.	Gelijktijdig met en op dezelfde wijze als de jaarrekening worden het bestuursverslag en de overige in artikel 392 bedoelde gegevens in het Nederlands of in een van de andere in het eerste lid genoemde talen openbaar gemaakt. Het voorafgaande geldt, behalve voor de in artikel 392 lid 1 onder a en e genoemde gegevens, niet, indien de stukken ten kantore van de rechtspersoon ter inzage van een ieder worden gehouden en op verzoek een volledig of gedeeltelijk afschrift daarvan ten hoogste tegen de kostprijs wordt verstrekt; hiervan doet de rechtspersoon opgaaf ter inschrijving in het handelsregister.
 
 5.	De vorige leden gelden niet, indien Onze Minister van Economische Zaken de in artikel 58, artikel 101 of artikel 210 genoemde ontheffing heeft verleend; alsdan wordt een afschrift van die ontheffing bij het handelsregister gedeponeerd.
 
@@ -5359,9 +5359,9 @@ Artikel 395a
 
 2.	Voor de toepassing van lid 1 worden meegeteld de waarde van de activa, de netto-omzet en het getal der werknemers van groepsmaatschappijen, die in de consolidatie zouden moeten worden betrokken als de rechtspersoon een geconsolideerde jaarrekening zou moeten opmaken. Dit geldt niet, indien de rechtspersoon artikel 408 toepast.
 
-3.	Het bepaalde in leden 3 en 4 van artikel 364 met betrekking tot de overlopende activa en passiva is niet van toepassing voor de overige bedrijfskosten bedoeld in artikel 377 lid 3 onder j.
+3.	Het bepaalde in leden 3 en 4 van artikel 364 met betrekking tot de overlopende activa en passiva is niet van toepassing voor de overige bedrijfskosten bedoeld in artikel 377 lid 3 onder j. De rechtspersoon vermeldt het feit dat geen overlopende activa en passiva zijn opgenomen onderaan de balans.
 
-4.	Van de ingevolge afdeling 3 voorgeschreven opgaven behoeft geen andere te worden gedaan dan voorgeschreven in de artikelen 364 lid 1, 365 lid 1 onder a en 370 lid 1 onder d, 373 lid 1 waarbij de posten worden samengetrokken tot een post, 374 lid 1 en 375 lid 1 waarbij de posten worden samengetrokken tot een post. Voorts vermeldt een naamloze vennootschap de gegevens genoemd in de tweede zin van artikel 378 lid 3 onderaan de balans.
+4.	Van de ingevolge afdeling 3 voorgeschreven opgaven behoeft geen andere te worden gedaan dan voorgeschreven in de artikelen 364 lid 1, 365 lid 1 onder a en 370 lid 1 onder d, 373 lid 1 waarbij de posten worden samengetrokken tot een post, 374 lid 1 en 375 lid 1 waarbij de posten worden samengetrokken tot een post en waarbij voor het totaal van de schulden wordt aangegeven tot welk bedrag de resterende looptijd ten hoogste een jaar is en tot welk bedrag de resterende looptijd langer dan een jaar is. Voorts vermeldt een naamloze vennootschap de gegevens genoemd in de tweede zin van artikel 378 lid 3 onderaan de balans.
 
 5.	Van de ingevolge afdeling 4 voorgeschreven opgaven behoeft geen andere te worden gedaan dan voorgeschreven in de artikelen 377 lid 1 onder a met uitzondering van vermelding van de baten en lasten uit de gewone bedrijfsuitoefening, 377 lid 3 onder a, d en e, 377 lid 3 onder g met uitzondering van de vermelding van overige externe kosten, 377 lid 3 onder h en i waarbij de posten worden samengetrokken tot een post en 377 lid 3 onder j.
 
@@ -5380,11 +5380,11 @@ Artikel 396
 
 2.	Voor de toepassing van lid 1 worden meegeteld de waarde van de activa, de netto-omzet en het getal der werknemers van groepsmaatschappijen, die in de consolidatie zouden moeten worden betrokken als de rechtspersoon een geconsolideerde jaarrekening zou moeten opmaken. Dit geldt niet, indien de rechtspersoon artikel 408 toepast.
 
-3.	Van de ingevolge afdeling 3 voorgeschreven opgaven behoeft geen andere te worden gedaan dan voorgeschreven in de artikelen 364, 368 lid 2 onder a, 373 leden 1 tot en met 5, eerste volzin, 375 lid 2, waarbij de aanduiding van de rentevoet achterwege blijft, en lid 3 en 376, alsmede, zonder uitsplitsing naar soort vordering, in artikel 370 lid 2 en de opgave van het ingehouden deel van het resultaat.
+3.	Van de ingevolge afdeling 3 voorgeschreven opgaven behoeft geen andere te worden gedaan dan voorgeschreven in de artikelen 364, 365 lid 1 onder a, 368 lid 2 onder a, 370 lid 1 onder d, 373 leden 1 tot en met 5, eerste volzin, 375 lid 3 en 376, alsmede, zonder uitsplitsing naar soort schuld of vordering, in de artikelen 370 lid 2 en 375 lid 2, waarbij de aanduiding van de rentevoet achterwege blijft, en de opgave van het ingehouden deel van het resultaat.
 
 4.	In de winst- en verliesrekening worden de posten genoemd in artikel 377 lid 3 onder a-d en g, onderscheidenlijk lid 4 onder a-c en f, samengetrokken tot een post bruto-bedrijfsresultaat.
 
-5.	Het in artikel 378 lid 1 genoemde overzicht wordt slechts gegeven voor de herwaarderingsreserve, behoudens de tweede zin van artikel 378 lid 3. De artikelen, 379, 380, 381 leden 2 en 3, 381b, aanhef en onder a, 382a en 383 lid 1 zijn niet van toepassing. De rechtspersoon vermeldt de naam en woonplaats van de maatschappij die de geconsolideerde jaarrekening opstelt van het groepsdeel waartoe de rechtspersoon behoort. De informatie die ingevolge artikel 382 wordt vermeld, wordt beperkt tot mededeling van het gemiddelde aantal gedurende het boekjaar bij de rechtspersoon werkzame werknemers.
+5.	Het in artikel 378 lid 1 genoemde overzicht wordt slechts gegeven voor de herwaarderingsreserve, behoudens de tweede zin van artikel 378 lid 3. De artikelen 379, 380, 381 leden 2 en 3, 381b, aanhef en onder a, 382a en 383 lid 1 zijn niet van toepassing. De rechtspersoon vermeldt de naam en woonplaats van de maatschappij die de geconsolideerde jaarrekening opstelt van het groepsdeel waartoe de rechtspersoon behoort. De informatie die ingevolge artikel 382 wordt vermeld, wordt beperkt tot mededeling van het gemiddelde aantal gedurende het boekjaar bij de rechtspersoon werkzame werknemers.
 
 6.	In afwijking van afdeling 6 van deze titel komen voor de waardering van de activa en passiva en voor de bepaling van het resultaat ook in aanmerking de grondslagen voor de bepaling van de belastbare winst, bedoeld in hoofdstuk II van de Wet op de vennootschapsbelasting 1969, mits de rechtspersoon daarbij alle voor hem van toepassing zijnde fiscale grondslagen toepast. Indien de rechtspersoon deze grondslagen toepast, maakt zij daarvan melding in de toelichting. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent het gebruik van deze grondslagen en de toelichting die daarbij gegeven wordt.
 
@@ -5409,7 +5409,7 @@ Artikel 397
 
 4.	De artikelen 380 en 382a zijn niet van toepassing.
 
-5.	Van de in afdeling 3 voorgeschreven opgaven behoeven in de openbaar gemaakte balans met toelichting slechts vermelding die welke voorkomen in de artikelen 364, 365 lid 1 onder d, 366, 367 onder a-d, 370 lid 1 onder b en c , 373, 374 leden 3 en 4, 375 lid 1 onder a, b, f en g en lid 3, alsmede 376 en de overlopende posten. De leden 2 van de artikelen 370 en 375 vinden toepassing zowel op het totaal van de vorderingen en schulden als op de posten uit lid 1 van die artikelen welke afzonderlijke vermelding behoeven. De openbaar te maken winst- en verliesrekening en de toelichting mogen worden beperkt overeenkomstig lid 3 en lid 4.
+5.	Van de in afdeling 3 voorgeschreven opgaven behoeven in de openbaar gemaakte balans met toelichting slechts vermelding die welke voorkomen in de artikelen 364, 365 lid 1 onder a en d, 366, 367 onder a-d, 368 lid 2 onder a, 370 lid 1 onder b–d, 373, 374 leden 3 en 4, 375 lid 1 onder a, b, f en g en lid 3, alsmede 376 en de overlopende posten. De leden 2 van de artikelen 370 en 375 vinden toepassing zowel op het totaal van de vorderingen en schulden als op de posten uit lid 1 van die artikelen welke afzonderlijke vermelding behoeven. De openbaar te maken winst- en verliesrekening en de toelichting mogen worden beperkt overeenkomstig lid 3 en lid 4.
 
 6.	De informatie die ingevolge artikel 381 lid 2 moet worden vermeld, wordt beperkt tot informatie over de aard en het zakelijk doel van de aldaar genoemde regelingen. Artikel 381 lid 3 is niet van toepassing, tenzij de rechtspersoon een naamloze vennootschap is, in welk geval de vermelding als bedoeld in artikel 381 lid 3 beperkt is tot transacties die direct of indirect zijn aangegaan tussen de vennootschap en haar voornaamste aandeelhouders en tussen de vennootschap en haar leden van het bestuur en van de raad van commissarissen.
 
@@ -5539,7 +5539,7 @@ Artikel 408
 1.	Consolidatie van een groepsdeel mag achterwege blijven, mits:
 	a.	niet binnen zes maanden na de aanvang van het boekjaar daartegen schriftelijk bezwaar bij de rechtspersoon is gemaakt door ten minste een tiende der leden of door houders van ten minste een tiende van het geplaatste kapitaal;
 	b.	de financiële gegevens die de rechtspersoon zou moeten consolideren zijn opgenomen in de geconsolideerde jaarrekening van een groter geheel;
-	c.	de geconsolideerde jaarrekening en het bestuursverslag zijn opgesteld overeenkomstig de voorschriften van richtlijn 2013/34/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende de jaarlijkse financiële overzichten, geconsolideerde financiële overzichten en aanverwante verslagen van bepaalde ondernemingsvormen, tot wijziging van richtlijn 2006/43/EG van het Europees Parlement en de Raad en tot intrekking van richtlijnen 78/660/EEG en 83/349/EEG van de Raad (PbEU 2013, L 182), indien deze voorschriften niet behoeven te zijn gevolgd, op gelijkwaardige wijze;
+	c.	de geconsolideerde jaarrekening en het bestuursverslag zijn opgesteld overeenkomstig de voorschriften van richtlijn 2013/34/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende de jaarlijkse financiële overzichten, geconsolideerde financiële overzichten en aanverwante verslagen van bepaalde ondernemingsvormen, tot wijziging van richtlijn 2006/43/EG van het Europees Parlement en de Raad en tot intrekking van richtlijnen 78/660/EEG en 83/349/EEG van de Raad (PbEU 2013, L 182) of overeenkomstig de voorschriften van een der richtlijnen van de Raad van de Europese Gemeenschappen betreffende de jaarrekening en de geconsolideerde jaarrekening van banken en andere financiële instellingen dan wel van verzekeringsondernemingen dan wel, indien deze voorschriften niet behoeven te zijn gevolgd, op gelijkwaardige wijze;
 	d.	de geconsolideerde jaarrekening met accountantsverklaring en bestuursverslag, voor zover niet gesteld of vertaald in het Nederlands, zijn gesteld of vertaald in het Frans, Duits of Engels, en wel in de zelfde taal; en
 	e.	telkens binnen zes maanden na de balansdatum of binnen een maand na een geoorloofde latere openbaarmaking bij het handelsregister de in onderdeel d genoemde stukken of vertalingen zijn gedeponeerd.
 
