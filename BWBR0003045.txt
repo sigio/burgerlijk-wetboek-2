@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 01-01-2019 t/m 30-06-2019
+Geldend van 01-07-2019 t/m 30-11-2019
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -1010,13 +1010,25 @@ Aan een aandeelhouder kan niet, zelfs niet door wijziging van de statuten, tegen
 
 Artikel 82
 
-1.	De statuten bepalen of aandelen op naam of aan toonder luiden.
+1.	De statuten bepalen of aandelen op naam of aan toonder luiden. Aandelen aan toonder worden uitgegeven in de vorm van een verzamelbewijs dat in bewaring wordt gegeven aan het centraal instituut of een intermediair als bedoeld in artikel 1 van de Wet giraal effectenverkeer.
 
 2.	Indien aandelen zowel op naam als aan toonder kunnen luiden, moet de naamloze vennootschap op verzoek van een aandeelhouder een op naam luidend volgestort aandeel aan toonder stellen of omgekeerd, voor zover de statuten niet anders bepalen, en wel ten hoogste tegen de kostprijs.
 
-3.	Bewijzen van aandeel aan toonder mogen niet aan de aandeelhouders worden afgegeven dan tegen storting van ten minste het volle bedrag van die aandelen, behoudens de bepaling van het tweede lid van artikel 80 van dit Boek.
+3.	Uiterlijk op 31 december 2019 stelt de vennootschap door een statutenwijziging aandelen aan toonder op naam voor zover deze aandelen niet in bewaring zijn gegeven aan het centraal instituut of een intermediair als bedoeld in artikel 1 van de Wet giraal effectenverkeer. De vennootschap maakt dit bekend in een landelijk verspreid dagblad onder vermelding van het bepaalde in lid 4 tot en met 9.
 
-4.	Indien aandelen aan toonder door een statutenwijziging op naam worden gesteld kan de aandeelhouder de aan een aandeel verbonden rechten niet uitoefenen, tot na inlevering van het aandeelbewijs aan de vennootschap. Deze regeling is van overeenkomstige toepassing indien houders van aandelen aan toonder door fusie of splitsing houders worden van aandelen op naam, met dien verstande dat overlegging van het aandeelbewijs volstaat.
+4.	Aandelen aan toonder die op 1 januari 2020 niet in bewaring zijn gegeven aan een centraal instituut of een intermediair als bedoeld in artikel 1 van de Wet giraal effectenverkeer of op naam zijn gesteld door de vennootschap, luiden vanaf die datum van rechtswege op naam.
+
+5.	Indien aandelen aan toonder door een statutenwijziging of van rechtswege op naam worden gesteld kan de aandeelhouder de aan een aandeel verbonden rechten niet uitoefenen, tot na inlevering van het aandeelbewijs aan de vennootschap. Deze regeling is van overeenkomstige toepassing indien houders van aandelen aan toonder door fusie of splitsing houders worden van aandelen op naam, met dien verstande dat overlegging van het aandeelbewijs volstaat.
+
+6.	Een aandeelbewijs dat niet uiterlijk op 31 december 2020 in bewaring is gegeven bij een intermediair of het centraal instituut, dan wel na omzetting in een aandeel op naam, niet uiterlijk op deze datum is ingeleverd bij de vennootschap, wordt om niet verkregen door de vennootschap, ongeacht of de statuten verkrijging van eigen aandelen toestaan. De vennootschap wordt geregistreerd als aandeelhouder in het register. De vennootschap houdt de aandelen totdat de termijn als bedoeld in lid 9 is verlopen.
+
+7.	Artikel 98a lid 3 is niet van toepassing op de verkrijging van de aandelen om niet als bedoeld in lid 5.
+
+8.	In het geval de verkrijging om niet ertoe leidt dat de vennootschap alle aandelen in de vennootschap houdt, gaat één door de vennootschap aan te wijzen aandeel over op de gezamenlijke bestuurders. De gezamenlijke bestuurders worden geregistreerd als aandeelhouder in het register. Deze bestuurders zijn hoofdelijk aansprakelijk voor de betaling aan de vennootschap van de waarde van de aandelen op dat tijdstip met de wettelijke rente van dit tijdstip af.
+
+9.	Een aandeelhouder die zich uiterlijk vijf jaar na de verkrijging bedoeld in lid 6 alsnog meldt bij de vennootschap met een aandeelbewijs heeft recht op een vervangend aandeel op naam van de vennootschap.
+
+10.	De vennootschap brengt bij de eerstvolgende statutenwijziging na inwerkingtreding van de Wet omzetting aandelen aan toonder de statuten in overeenstemming met het bepaalde in dit artikel.
 
 Artikel 83
 
@@ -1197,6 +1209,10 @@ Artikel 92a
 7.	Staat het bevel tot overdracht bij gerechtelijk gewijsde vast, dan deelt de overnemer de dag en plaats van betaalbaarstelling en de prijs schriftelijk mee aan de houders van de over te nemen aandelen van wie hij het adres kent. Hij kondigt deze ook aan in een landelijk verspreid dagblad, tenzij hij van allen het adres kent.
 
 8.	De overnemer kan zich altijd van zijn verplichtingen ingevolge de leden 6 en 7 bevrijden door de vastgestelde prijs met rente voor alle nog niet overgenomen aandelen te consigneren, onder mededeling van hem bekende rechten van pand en vruchtgebruik en de hem bekende beslagen. Door deze mededeling gaat beslag over van de aandelen op het recht op uitkering. Door het consigneren gaat het recht op de aandelen onbezwaard op hem over en gaan rechten van pand of vruchtgebruik over op het recht op uitkering. Aan aandeel- en dividendbewijzen waarop na de overgang uitkeringen betaalbaar zijn gesteld, kan nadien geen recht jegens de vennootschap meer worden ontleend. De overnemer maakt het consigneren en de prijs per aandeel op dat tijdstip bekend op de wijze van lid 7.
+
+Artikel 92b
+
+Certificaten aan toonder van aandelen mogen niet worden uitgegeven. Zolang certificaten aan toonder uitstaan, kunnen de aan het aandeel verbonden rechten niet worden uitgeoefend.
 
 Afdeling 3. Het vermogen van de naamloze vennootschap
 
@@ -5239,7 +5255,7 @@ Artikel 391
 
 1.	Het bestuursverslag geeft een getrouw beeld van de toestand op de balansdatum, de ontwikkeling gedurende het boekjaar en de resultaten van de rechtspersoon en van de groepsmaatschappijen waarvan de financiële gegevens in zijn jaarrekening zijn opgenomen. Het bestuursverslag bevat, in overeenstemming met de omvang en de complexiteit van de rechtspersoon en groepsmaatschappijen, een evenwichtige en volledige analyse van de toestand op de balansdatum, de ontwikkeling gedurende het boekjaar en de resultaten. Indien noodzakelijk voor een goed begrip van de ontwikkeling, de resultaten of de positie van de rechtspersoon en groepsmaatschappijen, omvat de analyse zowel financiële als niet-financiële prestatie-indicatoren, met inbegrip van milieu- en personeelsaangelegenheden. Het bestuursverslag geeft tevens een beschrijving van de voornaamste risico’s en onzekerheden waarmee de rechtspersoon wordt geconfronteerd. Het bestuursverslag wordt in de Nederlandse taal gesteld, tenzij de algemene vergadering tot het gebruik van een andere taal heeft besloten.
 
-2.	In het bestuursverslag worden mededelingen gedaan omtrent de verwachte gang van zaken; daarbij wordt, voor zover gewichtige belangen zich hiertegen niet verzetten, in het bijzonder aandacht besteed aan de investeringen, de financiering en de personeelsbezetting en aan de omstandigheden waarvan de ontwikkeling van de omzet en van de rentabiliteit afhankelijk is. Mededelingen worden gedaan omtrent de werkzaamheden op het gebied van onderzoek en ontwikkeling. Vermeld wordt hoe bijzondere gebeurtenissen waarmee in de jaarrekening geen rekening behoeft te worden gehouden, de verwachtingen hebben beïnvloed. De naamloze vennootschap waarop artikel 383b van toepassing is, doet voorts mededeling van het beleid van de vennootschap aangaande de bezoldiging van haar bestuurders en commissarissen en de wijze waarop dit beleid in het verslagjaar in de praktijk is gebracht.
+2.	In het bestuursverslag worden mededelingen gedaan omtrent de verwachte gang van zaken; daarbij wordt, voor zover gewichtige belangen zich hiertegen niet verzetten, in het bijzonder aandacht besteed aan de investeringen, de financiering en de personeelsbezetting en aan de omstandigheden waarvan de ontwikkeling van de omzet en van de rentabiliteit afhankelijk is. Mededelingen worden gedaan omtrent de werkzaamheden op het gebied van onderzoek en ontwikkeling. In het bestuursverslag doet de naamloze vennootschap mededeling van het bepaalde in artikel 82 leden 3 tot en met 9. Vermeld wordt hoe bijzondere gebeurtenissen waarmee in de jaarrekening geen rekening behoeft te worden gehouden, de verwachtingen hebben beïnvloed. De naamloze vennootschap waarop artikel 383b van toepassing is, doet voorts mededeling van het beleid van de vennootschap aangaande de bezoldiging van haar bestuurders en commissarissen en de wijze waarop dit beleid in het verslagjaar in de praktijk is gebracht.
 
 3.	Ten aanzien van het gebruik van financiële instrumenten door de rechtspersoon en voor zover zulks van betekenis is voor de beoordeling van zijn activa, passiva, financiële toestand en resultaat, worden de doelstellingen en het beleid van de rechtspersoon inzake risicobeheer vermeld. Daarbij wordt aandacht besteed aan het beleid inzake de afdekking van risico’s verbonden aan alle belangrijke soorten voorgenomen transacties. Voorts wordt aandacht besteed aan de door de rechtspersoon gelopen prijs-, krediet-, liquiditeits- en kasstroomrisico’s.
 
