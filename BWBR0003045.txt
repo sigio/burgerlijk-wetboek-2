@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 01-07-2019 t/m 30-11-2019
+Geldend van 01-12-2019 t/m 31-12-2019
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -1688,6 +1688,10 @@ Artikel 117b
 
 5.	Indien de oproeping van de algemene vergadering plaatsvindt onder toepassing van een bepaling in de statuten als bedoeld in artikel 115 lid 3, worden de stemmen in afwijking van lid 1 tweede volzin en lid 3 niet eerder uitgebracht dan op een in de statuten te bepalen dag van registratie.
 
+Artikel 117c
+
+[Dit onderdeel is nog niet inwerking getreden]
+
 Artikel 118
 
 1.	Slechts aandeelhouders hebben stemrecht. Iedere aandeelhouder heeft ten minste één stem. De statuten kunnen bepalen dat een aandeelhouder niet gerechtigd is tot uitoefening van het stemrecht zolang hij in gebreke is te voldoen aan een wettelijke of statutaire verplichting.
@@ -1892,7 +1896,7 @@ Artikel 134a
 
 Artikel 135
 
-1.	De vennootschap heeft een beleid op het terrein van bezoldiging van het bestuur. Het beleid wordt vastgesteld door de algemene vergadering. In het bezoldigingsbeleid komen ten minste de in artikel 383c tot en met e omschreven onderwerpen aan de orde, voor zover deze het bestuur betreffen.
+1.	De vennootschap heeft een beleid op het terrein van bezoldiging van het bestuur. Het beleid wordt vastgesteld door de algemene vergadering. In het bezoldigingsbeleid komen ten minste de in artikel 383c tot en met e omschreven onderwerpen aan de orde, voor zover deze het bestuur betreffen. In afwijking van de vorige zin komen in het bezoldigingsbeleid van een vennootschap waarvan aandelen of met medewerking van de vennootschap uitgegeven certificaten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, de in artikel 135a lid 6 omschreven onderwerpen aan de orde.
 
 2.	Indien de vennootschap krachtens wettelijke bepalingen een ondernemingsraad heeft ingesteld, wordt het voorstel tot vaststelling van het bezoldigingsbeleid niet aan de algemene vergadering aangeboden, dan nadat de ondernemingsraad tijdig voor de datum van oproeping als bedoeld in artikel 114 in de gelegenheid is gesteld hierover een standpunt te bepalen. Het standpunt van de ondernemingsraad wordt, gelijktijdig met het voorstel tot vaststelling van het bezoldigingsbeleid, aan de algemene vergadering aangeboden. De voorzitter of een door hem aangewezen lid van de ondernemingsraad kan het standpunt van de ondernemingsraad in de algemene vergadering toelichten. Het ontbreken van dat standpunt tast de besluitvorming inzake het bezoldigingsbeleid niet aan.
 
@@ -1902,13 +1906,77 @@ Artikel 135
 
 5.	Indien in de statuten is bepaald dat een ander orgaan dan de algemene vergadering de bezoldiging vaststelt, legt dat orgaan ten aanzien van regelingen in de vorm van aandelen of rechten tot het nemen van aandelen een voorstel ter goedkeuring voor aan de algemene vergadering. In het voorstel moet ten minste zijn bepaald hoeveel aandelen of rechten tot het nemen van aandelen aan het bestuur mogen worden toegekend en welke criteria gelden voor toekenning of wijziging. Het ontbreken van de goedkeuring van de algemene vergadering tast de vertegenwoordigingbevoegdheid van het orgaan niet aan.
 
-5a.	Indien bij een vennootschap, bedoeld in artikel 383b, de vaststelling van de jaarrekening als onderwerp is vermeld bij de oproeping, bedoeld in artikel 114 lid 1, worden de door de vennootschap gedane opgaven, bedoeld in de artikelen 383c tot en met e, gezamenlijk als afzonderlijk onderwerp bij de oproeping vermeld, voorafgaande aan de vaststelling van de jaarrekening.
-
 6.	Het orgaan bedoeld in lid 4 is bevoegd de hoogte van een bonus aan te passen tot een passende hoogte indien uitkering van de bonus naar maatstaven van redelijkheid en billijkheid onaanvaardbaar zou zijn. Onder een bonus wordt voor de toepassing van dit artikel verstaan het niet vaste deel van de bezoldiging waarvan de toekenning geheel of gedeeltelijk afhankelijk is gesteld van het bereiken van bepaalde doelen of van het zich voordoen van bepaalde omstandigheden.
 
 7.	[Vervallen.]
 
 8.	De vennootschap is bevoegd een bonus geheel of gedeeltelijk terug te vorderen voor zover de uitkering heeft plaatsgevonden op basis van onjuiste informatie over het bereiken van de aan de bonus ten grondslag liggende doelen of over de omstandigheden waarvan de bonus afhankelijk was gesteld. De vordering kan namens de vennootschap ook worden ingesteld door de raad van commissarissen, de niet uitvoerende bestuurders indien toepassing is gegeven aan artikel 129a, of door een bijzondere vertegenwoordiger die is aangewezen door de algemene vergadering. Afdeling 2 van titel 4 van Boek 6 is van overeenkomstige toepassing.
+
+9.	Indien het beleid bedoeld in lid 1 niet wordt vastgesteld door de algemene vergadering, bezoldigt de vennootschap bestuurders overeenkomstig het bestaande beleid of de bestaande praktijk en legt zij aan de volgende algemene vergadering een herzien beleid voor ter vaststelling.
+
+Artikel 135a
+
+1.	Dit artikel is van toepassing op het bezoldigingsbeleid van de vennootschap waarvan aandelen of met medewerking van de vennootschap uitgegeven certificaten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.
+
+2.	Het bezoldigingsbeleid wordt ten minste iedere vier jaar na vaststelling, opnieuw aan de algemene vergadering voorgelegd ter vaststelling. Voor een besluit tot vaststelling van het bezoldigingsbeleid is een meerderheid van ten minste drie vierden van de uitgebrachte stemmen vereist, tenzij in de statuten een lagere meerderheid is voorgeschreven.
+
+3.	Indien de vennootschap krachtens wettelijke bepalingen een ondernemingsraad heeft ingesteld, wordt het voorstel tot vaststelling van het bezoldigingsbeleid als bedoeld in lid 2 niet als onderwerp vermeld bij de oproeping, bedoeld in artikel 114 lid 1, dan nadat de ondernemingsraad in de gelegenheid is gesteld hierover advies uit te brengen aan het orgaan belast met het doen van een voorstel. Het advies van de ondernemingsraad wordt gelijktijdig met het voorstel tot vaststelling van het bezoldigingsbeleid aan de algemene vergadering aangeboden. Indien het advies niet of niet geheel is gevolgd door het orgaan belast met het doen van een voorstel, wordt tevens een schriftelijke onderbouwing voor het afwijken van het advies aangeboden aan de algemene vergadering. De voorzitter van de ondernemingsraad of een door hem aangewezen lid van de ondernemingsraad kan het advies van de ondernemingsraad in de algemene vergadering toelichten. Artikel 135 lid 2 is niet van toepassing. Artikel 135 lid 3 is van overeenkomstige toepassing.
+
+4.	De vennootschap kan onder uitzonderlijke omstandigheden tijdelijk en uiterlijk totdat een nieuw bezoldigingsbeleid is vastgesteld, afwijken van het bezoldigingsbeleid. Het bezoldigingsbeleid bepaalt onder welke procedurele voorwaarden de afwijking mogelijk is en van welke onderdelen van het beleid kan worden afgeweken.
+
+5.	Onder uitzonderlijke omstandigheden worden uitsluitend omstandigheden verstaan waarin de afwijking van het bezoldigingsbeleid noodzakelijk is om de langetermijnbelangen en duurzaamheid van de vennootschap als geheel te dienen of haar levensvatbaarheid te garanderen.
+
+6.	Het bezoldigingsbeleid is duidelijk en begrijpelijk en bevat ten minste de volgende onderwerpen:
+	a.	een toelichting op de wijze waarop het bezoldigingsbeleid bijdraagt aan de bedrijfsstrategie, de langetermijnbelangen en de duurzaamheid van de vennootschap;
+	b.	een beschrijving van de verschillende onderdelen van de vaste en variabele bezoldigingen met vermelding van het relatieve aandeel daarvan;
+	c.	een toelichting op de wijze waarop in het bezoldigingsbeleid rekening is gehouden met de loon- en arbeidsvoorwaarden van de werknemers van de vennootschap;
+	d.	een toelichting op de wijze waarop in het bezoldigingsbeleid rekening is gehouden met:
+		1°.	de identiteit, missie en waarden van de vennootschap en de daarmee verbonden onderneming;
+		2°.	de bezoldigingsverhoudingen binnen de vennootschap en de daarmee verbonden onderneming;
+		3°.	het maatschappelijk draagvlak;
+	e.	indien de vennootschap variabele bezoldiging toekent:
+		1°.	de door of vanwege de vennootschap gestelde financiële en niet-financiële doelen waarvan de toekenning van de variabele bezoldiging afhankelijk is en een toelichting op de wijze waarop deze doelen bijdragen aan de doelstellingen, bedoeld onder a;
+		2°.	de te gebruiken methoden om te bepalen in hoeverre de door of vanwege de vennootschap gestelde financiële en niet-financiële doelen zijn bereikt,
+		3°.	de eventuele termijn waarop de bezoldiging betaalbaar is; en
+		4°.	een beschrijving van de mogelijkheid om de bezoldiging terug te vorderen bedoeld in artikel 135 lid 8;
+	f.	indien de vennootschap op aandelen gebaseerde bezoldiging toekent:
+		1°.	een beschrijving van de resterende looptijd van de nog niet uitgeoefende rechten;
+		2°.	een beschrijving van de periode waarin de bestuurder de verkregen aandelen nog niet mag overdragen voor zover van toepassing; en
+		3°.	een toelichting op de wijze waarop de op aandelen gebaseerde bezoldiging bijdraagt aan de doelstelling, bedoeld onder a;
+	g.	een beschrijving van de looptijd van de overeenkomsten met bestuurders en de toepasselijke opzegtermijnen, de voornaamste kenmerken van aanvullende pensioenregelingen en vervroegde uittredingsregelingen, de voorwaarden voor beëindiging, alsmede de betalingen met betrekking tot de beëindiging;
+	h.	een omschrijving van het besluitvormingsproces dat voor de vaststelling, herziening en uitvoering van het bezoldigingsbeleid wordt gevolgd;
+	i.	indien het beleid wordt herzien:
+		1°.	een beschrijving en toelichting van de belangrijke wijzigingen; en
+		2°.	een beschrijving en toelichting van de wijze waarop rekening is gehouden met de stemmingen en de standpunten van de aandeelhouders over het bezoldigingsbeleid en de bezoldigingsverslagen sinds de vorige stemming over het bezoldigingsbeleid op de algemene vergadering.
+
+7.	Het bezoldigingsbeleid alsmede de datum en de uitkomst van de stemming omtrent dat beleid, worden onverwijld na de algemene vergadering openbaar gemaakt op de website van de vennootschap. De overeenkomstig de vorige zin openbaar gemaakte informatie is toegankelijk ten minste gedurende de periode dat het bezoldigingsbeleid van toepassing is.
+
+Artikel 135b
+
+1.	De vennootschap waarvan de aandelen of met medewerking van de vennootschap uitgegeven certificaten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, stelt jaarlijks een duidelijk en begrijpelijk bezoldigingsverslag op met een overzicht van alle bezoldigingen die in het voorgaande boekjaar aan individuele bestuurders zijn toegekend of verschuldigd zijn.
+
+2.	Het bezoldigingsverslag wordt aan de jaarlijkse algemene vergadering voorgelegd ter adviserende stemming. In het bezoldigingsverslag licht de vennootschap toe hoe met de vorige stemming van de algemene vergadering rekening is gehouden.
+
+3.	Ten aanzien van de bezoldiging van iedere individuele bestuurder van de vennootschap komen in het bezoldigingsverslag ten minste de volgende onderwerpen aan de orde:
+	a.	het totale bedrag aan bezoldigingen uitgesplitst naar onderdeel;
+	b.	het relatieve aandeel van de vaste en variabele bezoldigingen;
+	c.	de wijze waarop het totale bedrag van de bezoldiging strookt met het bezoldigingsbeleid en bijdraagt aan de langetermijnprestaties van de vennootschap;
+	d.	de wijze waarop de door of vanwege de vennootschap gestelde financiële en niet-financiële doelen zijn toegepast;
+	e.	de jaarlijkse verandering in de bezoldiging over ten minste vijf boekjaren, de ontwikkeling van de prestaties van de vennootschap en de gemiddelde bezoldiging, uitgaande van een volledige werkweek, van de werknemers van de vennootschap die geen bestuurder zijn gedurende deze periode, gezamenlijk gepresenteerd op een wijze die vergelijking mogelijk maakt;
+	f.	indien de vennootschap dochtermaatschappijen heeft of de financiële gegevens van andere maatschappijen consolideert, de bezoldiging die in het boekjaar ten laste van die dochtermaatschappijen of andere maatschappijen is gekomen;
+	g.	het aantal toegekende en aangeboden aandelen en aandelenopties en de belangrijkste voorwaarden voor uitoefening van de rechten;
+	h.	de gehele of gedeeltelijke terugvordering van een bonus als bedoeld in artikel 135 lid 8;
+	i.	eventuele afwijking van het besluitvormingsproces voor de uitvoering van het bezoldigingsbeleid, bedoeld in artikel 135a lid 6 onder h;
+	j.	eventuele afwijking van het bezoldigingsbeleid, bedoeld in artikel 135a lid 4, met een toelichting van de aard van de uitzonderlijke omstandigheden, bedoeld in artikel 135a lid 5, en met vermelding van de specifieke onderdelen waarvan wordt afgeweken; en
+	k.	de in artikel 383c tot en met e genoemde informatie voor zover die informatie niet reeds vereist is op grond van dit lid.
+
+4.	De persoonsgegevens van bestuurders worden slechts verwerkt in het bezoldigingsverslag met als doel de transparantie van vennootschappen met betrekking tot de bezoldiging van bestuurders te vergroten ten behoeve van het afleggen van verantwoording aan de algemene vergadering.
+
+5.	Het bezoldigingsverslag bevat geen persoonsgegevens die verwijzen naar de gezinssituatie van individuele bestuurders.
+
+6.	Het bezoldigingsverslag wordt na de algemene vergadering openbaar gemaakt op de website van de vennootschap. De overeenkomstig dit lid openbaar gemaakte informatie is daarop toegankelijk gedurende tien jaar. Indien de overeenkomstig dit lid openbaar gemaakte informatie openbaar blijft na het verstrijken van tien jaar, bevat het na die termijn niet langer persoonsgegevens van bestuurders.
+
+7.	Een accountant als bedoeld in artikel 393 lid 1, controleert of het bezoldigingsverslag de in dit artikel vereiste informatie bevat.
 
 Artikel 136
 
@@ -2004,7 +2072,9 @@ Artikel 144a
 
 Artikel 145
 
-De algemene vergadering kan aan de commissarissen een bezoldiging toekennen.
+1.	De algemene vergadering kan aan de commissarissen een bezoldiging toekennen.
+
+2.	Indien aandelen van de vennootschap of met medewerking van de vennootschap uitgegeven certificaten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, zijn de artikelen 135a en 135b van overeenkomstige toepassing.
 
 Artikel 146
 
@@ -2147,6 +2217,10 @@ Commissaris kunnen niet zijn:
 	b.	personen die in dienst zijn van een afhankelijke maatschappij;
 	c.	bestuurders en personen in dienst van een werknemersorganisatie welke pleegt betrokken te zijn bij de vaststelling van de arbeidsvoorwaarden van de onder a en b bedoelde personen.
 
+Artikel 160a
+
+Indien in de statuten is bepaald dat de raad van commissarissen de bezoldiging van bestuurders vaststelt als bedoeld in artikel 135 lid 4 en de raad uit zijn midden een commissie heeft ingesteld om de besluitvorming daaromtrent voor te bereiden, maakt een persoon die door de ondernemingsraad wordt aanbevolen als bedoeld in artikel 158 lid 6, deel uit van die commissie.
+
 Artikel 161
 
 1.	Een commissaris treedt uiterlijk af, indien hij na zijn laatste benoeming vier jaren commissaris is geweest. De termijn kan bij de statuten worden verlengd tot de dag van de eerstvolgende algemene vergadering na afloop van de vier jaren of na de dag waarop dit artikel voor de rechtspersoon is gaan gelden.
@@ -2220,21 +2294,51 @@ Artikel 166
 	a.	een naamloze vennootschap of een besloten vennootschap met beperkte aansprakelijkheid, die niet voldoet aan ten minste twee van de vereisten genoemd in artikel 397 lid 1; of
 	b.	een naamloze vennootschap of een besloten vennootschap met beperkte aansprakelijkheid die tot bestuurder is benoemd in een naamloze vennootschap of een besloten vennootschap met beperkte aansprakelijkheid die niet voldoet aan ten minste twee van de vereisten genoemd in artikel 397 lid 1.
 
+Afdeling 8. Transacties met verbonden partijen
+
 Artikel 167
 
-[Vervallen per 01-01-1992]
+1.	Deze afdeling is van toepassing op vennootschappen waarvan aandelen of met medewerking van de vennootschap uitgegeven certificaten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.
+
+2.	Voor de toepassing van deze afdeling wordt onder een verbonden partij verstaan een verbonden partij als bedoeld in de door de International Accounting Standards Board vastgestelde en door de Europese Commissie goedgekeurde standaarden.
+
+3.	Een transactie is materieel indien:
+	a.	informatie over de transactie voorwetenschap is als bedoeld in artikel 7 lid 1 van Verordening (EU) nr. 596/2014 van het Europees Parlement en de Raad van 16 april 2014 betreffende marktmisbruik; en
+	b.	zij is aangegaan tussen de vennootschap en een verbonden partij, daaronder in ieder geval begrepen:
+		i.	een of meer houders van aandelen die alleen of gezamenlijk ten minste een tiende gedeelte van het geplaatste kapitaal vertegenwoordigen;
+		ii.	een bestuurder van de vennootschap; of
+		iii.	een commissaris van de vennootschap.
+
+4.	Niet materiële transacties die in hetzelfde boekjaar met dezelfde verbonden partij worden aangegaan, worden voor de toepassing van artikel 169 leden 1 tot en met 4 samengevoegd.
 
 Artikel 168
 
-[Vervallen per 01-01-1992]
+Voor transacties die in het kader van de normale bedrijfsvoering en onder normale marktvoorwaarden zijn aangegaan, stelt de raad van commissarissen of het bestuur indien toepassing is gegeven aan artikel 129a, een interne procedure vast om periodiek te beoordelen of aan die voorwaarden is voldaan.
 
 Artikel 169
 
-[Vervallen per 01-01-1992]
+1.	De vennootschap maakt materiële transacties met een verbonden partij die niet in het kader van de normale bedrijfsvoering of niet onder normale marktvoorwaarden zijn aangegaan, openbaar op het moment dat de transactie is aangegaan.
+
+2.	De aankondiging bevat ten minste informatie over:
+	a.	de aard van de relatie met de verbonden partij;
+	b.	de naam van de verbonden partij;
+	c.	de datum van de transactie;
+	d.	de waarde van de transactie; en
+	e.	andere informatie die noodzakelijk is voor de beoordeling of de transactie redelijk en billijk is vanuit het oogpunt van de vennootschap en de aandeelhouders die geen verbonden partij zijn.
+
+3.	Materiële transacties met een verbonden partij die niet in het kader van de normale bedrijfsvoering of niet onder normale marktvoorwaarden zijn aangegaan, zijn onderworpen aan de goedkeuring van de raad van commissarissen of het bestuur indien toepassing is gegeven aan artikel 129a. Indien er geen raad van commissarissen is of geen toepassing is gegeven aan artikel 129a, zijn de transacties onderworpen aan de goedkeuring van de algemene vergadering.
+
+4.	Een bestuurder, commissaris of aandeelhouder neemt niet deel aan de besluitvorming indien hij betrokken is bij de transactie met de verbonden partij. Artikelen 129 lid 6, tweede en derde volzin, en 140 lid 5, tweede volzin, zijn van overeenkomstige toepassing.
+
+5.	Dit artikel is niet van toepassing op transacties:
+	a.	tussen de vennootschap en een dochtermaatschappij;
+	b.	met betrekking tot de bezoldiging van bestuurders en commissarissen of bepaalde onderdelen daarvan die overeenkomstig de artikelen 135 of 145 zijn toegekend of verschuldigd;
+	c.	van kredietinstellingen als bedoeld in artikel 398 lid 7 onder b, aangegaan op basis van maatregelen ter vrijwaring van hun stabiliteit, die zijn vastgesteld door De Nederlandsche Bank N.V. of de Europese Centrale Bank, indien deze bevoegd is toezicht uit te oefenen op grond van de artikelen 4 en 6 van de verordening bankentoezicht, bedoeld in artikel 1:1 van de Wet op het financieel toezicht;
+	d.	die onder dezelfde voorwaarden aan alle aandeelhouders worden aangeboden, indien de gelijke behandeling van alle aandeelhouders en het belang van de vennootschap en de met haar verbonden onderneming gewaarborgd zijn.
 
 Artikel 170
 
-[Vervallen per 01-01-1992]
+Artikelen 168 en 169 leden 1, 2 en 5 zijn ook van toepassing indien een materiële transactie wordt aangegaan door een dochtermaatschappij van de vennootschap met een aan de vennootschap verbonden partij.
 
 Artikel 171
 
@@ -2251,8 +2355,6 @@ Artikel 173
 Artikel 174
 
 [Vervallen per 01-01-1992]
-
-Afdeling 8. Het beroep
 
 Artikel 174a
 
@@ -2364,7 +2466,7 @@ Artikel 186
 
 Artikel 187
 
-[Vervallen per 25-11-1988]
+Indien aandelen van de vennootschap of certificaten van aandelen zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, zijn de artikelen 113 lid 6, 114 leden 1 en 3, 114a lid 1, 115 lid 2, 117 leden 6, tweede volzin, en 7, 117a leden 3 en 5, tweede volzin, 117b leden 1 tot en met 4, 117c, 119 leden 1, derde volzin, 2 en 3, 120 leden 5 en 6, 135 leden 1, eerste en tweede volzin, 4 en 9, 135a, 135b, 145 lid 2 en 167 tot en met 170 van toepassing in plaats van de artikelen 223 lid 1, 224 leden 1 en 3, 224a lid 1, 225, 227 lid 5, eerste volzin, 227a lid 3 en 227b. Voor de toepassing van artikelen 168 en 169 lid 3, wordt in plaats van artikel 129a gelezen artikel 239a. Voor de toepassing van artikel 169 lid 4, wordt in plaats van artikelen 129 lid 6, tweede en derde volzin, en 140 lid 5, tweede volzin, gelezen artikelen 239 lid 6, tweede en derde volzin, en 250 lid 5, tweede volzin.
 
 Artikel 188
 
@@ -5099,7 +5201,7 @@ De in artikel 360 lid 3 bedoelde stichtingen en verenigingen vermelden zowel de 
 
 Artikel 383b
 
-In afwijking van artikel 383 gelden de artikelen 383c tot en met 383e voor de naamloze vennootschap, met uitzondering van de naamloze vennootschap waarvan de statuten uitsluitend aandelen op naam kennen, een blokkeringsregeling bevatten en niet toelaten dat met medewerking van de vennootschap certificaten aan toonder worden uitgegeven.
+In afwijking van artikel 383 gelden de artikelen 383c tot en met 383e voor de naamloze vennootschap, met uitzondering van de naamloze vennootschap waarvan de statuten uitsluitend aandelen op naam kennen, een blokkeringsregeling bevatten en niet toelaten dat met medewerking van de vennootschap certificaten aan toonder worden uitgegeven en met uitzondering van de naamloze vennootschap waarvan aandelen of met medewerking van de vennootschap uitgegeven certificaten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.
 
 Artikel 383c
 
