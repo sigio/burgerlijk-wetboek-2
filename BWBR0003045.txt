@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 01-12-2019 t/m 31-12-2019
+Geldend van 01-01-2020 t/m 07-07-2020
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -186,26 +186,27 @@ Artikel 19
 
 Artikel 19a
 
-1.	Een in het handelsregister ingeschreven naamloze vennootschap, besloten vennootschap met beperkte aansprakelijkheid, coöperatie of onderlinge waarborgmaatschappij wordt door een beschikking van de Kamer van Koophandel ontbonden, indien de Kamer is gebleken dat ten minste twee van de hiernavolgende omstandigheden zich voordoen:
-	a.	er staan gedurende ten minste een jaar geen bestuurders van de rechtspersoon in het register ingeschreven, terwijl ook geen opgaaf tot inschrijving is gedaan, dan wel er doet zich, indien er wel bestuurders staan ingeschreven, met betrekking tot alle ingeschreven bestuurders een van de navolgende omstandigheden voor:
-		1°.	bestuurder is overleden,
-		2°.	de bestuurder is ten minste een jaar niet bereikbaar gebleken op het in het register vermelde adres, en evenmin op het in de basisregistratie personen vermelde adres, of betrokkene is niet ingeschreven in de basisregistratie personen;
-	b.	de rechtspersoon is ten minste een jaar in gebreke met de nakoming van de verplichting tot openbaarmaking van de jaarrekening of de balans en de toelichting overeenkomstig de artikelen 394, 396 of 397;
-	c.	de rechtspersoon heeft ten minste een jaar geen gevolg gegeven aan een aanmaning als bedoeld in artikel 9, lid 3 van de Algemene wet inzake rijksbelastingen tot het doen van aangifte voor de vennootschapsbelasting.
+1.	Een in het handelsregister ingeschreven naamloze vennootschap, besloten vennootschap met beperkte aansprakelijkheid, coöperatie, onderlinge waarborgmaatschappij, of vereniging of stichting die een onderneming drijft, wordt door een beschikking van de Kamer van Koophandel ontbonden, indien de Kamer is gebleken dat ten minste twee van de volgende omstandigheden zich voordoen:
+	a.	er staan gedurende ten minste een jaar geen bestuurders van de rechtspersoon in het register ingeschreven, terwijl gedurende die periode ook geen opgaaf tot inschrijving is gedaan, dan wel er doet zich, indien er wel een bestuurder staat ingeschreven, met betrekking tot elke ingeschreven bestuurder ten minste een jaar een of meer van de navolgende omstandigheden voor:
+		1°.	de bestuurder is overleden;
+		2°.	de bestuurder is niet bereikbaar gebleken op het in het register vermelde adres, en evenmin op het in de basisregistratie personen vermelde adres, of betrokkene is niet ingeschreven in de basisregistratie personen;
+	b.	de rechtspersoon is ten minste een jaar in gebreke met de nakoming van de verplichting tot openbaarmaking van de jaarrekening overeenkomstig de artikelen 394, 395a, 396 of 397;
+	c.	de rechtspersoon heeft ten minste een jaar geen gevolg gegeven aan een aanmaning als bedoeld in artikel 9, derde lid, van de Algemene wet inzake rijksbelastingen tot het doen van aangifte voor de vennootschapsbelasting;
+	d.	de rechtspersoon is niet of niet meer bereikbaar gebleken op het in het handelsregister ingeschreven adres, terwijl ook geen opgave tot wijziging van de inschrijving is gedaan.
 
-2.	Een in het handelsregister ingeschreven vereniging of stichting, die niet een onderneming drijft die in het handelsregister staat ingeschreven, wordt door een beschikking van de Kamer van Koophandel ontbonden, indien de Kamer is gebleken dat de omstandigheid, genoemd in het eerste lid, onder a, zich voordoet en zij ten minste een jaar in gebreke is het voor inschrijving in het handelsregister verschuldigde bedrag te voldoen.
+2.	Een in het handelsregister ingeschreven vereniging of stichting, die niet een onderneming drijft die in het handelsregister staat ingeschreven, wordt door een beschikking van de Kamer van Koophandel ontbonden, indien de Kamer is gebleken dat de omstandigheden, bedoeld in lid 1, onder a en d, zich voordoen.
 
-3.	Indien de Kamer op grond van haar bekende gegevens gebleken is dat een rechtspersoon als bedoeld in de leden 1 en 2 voor ontbinding in aanmerking komt, deelt zij de rechtspersoon en de ingeschreven bestuurders bij aangetekende brief aan hun laatst bekende adres mee, dat zij voornemens is tot ontbinding van de rechtspersoon over te gaan, met vermelding van de omstandigheden waarop het voornemen is gegrond. De Kamer schrijft deze mededeling in het register. Als de omstandigheid, bedoeld in het eerste lid, onder a, zich voordoet, doet de Kamer van het voornemen tot ontbinding tevens een mededeling opnemen in de Staatscourant. Voor zover de kosten van deze publikatie niet uit het vermogen van de rechtspersoon kunnen worden voldaan, komen deze ten laste van Onze Minister van Justitie.
+3.	Indien de Kamer op grond van haar bekende gegevens gebleken is dat een rechtspersoon als bedoeld in de leden 1 en 2 voor ontbinding in aanmerking komt, deelt zij de rechtspersoon en de ingeschreven bestuurders bij aangetekende brief aan hun laatst bekende adres mee, dat zij voornemens is tot ontbinding van de rechtspersoon over te gaan, met vermelding van de omstandigheden waarop het voornemen is gegrond. De Kamer schrijft deze mededeling in het register in. Als de omstandigheden, bedoeld in lid 1, onder a en d, zich voordoen, geeft de Kamer van het voornemen tot ontbinding kennis in de Staatscourant. Voor zover de kosten van deze publikatie niet uit het vermogen van de rechtspersoon kunnen worden voldaan, komen deze ten laste van Onze Minister van Veiligheid en Justitie.
 
-4.	Na verloop van acht weken na de dagtekening van de aangetekende brief ontbindt de Kamer de rechtspersoon bij beschikking, tenzij voordien is gebleken dat de omstandigheden die ingevolge het derde lid zijn vermeld, zich niet of niet meer voordoen.
+4.	Na verloop van acht weken na de dagtekening van de aangetekende brief of de publicatie in de Staatscourant ontbindt de Kamer de rechtspersoon bij beschikking, tenzij voordien is gebleken dat de gronden, bedoeld in de leden 1 en 2, voor het voornemen zich niet of niet meer voordoen.
 
-5.	De beschikking wordt bekend gemaakt aan de rechtspersoon en de ingeschreven bestuurders.
+5.	De beschikking wordt bekend gemaakt aan de rechtspersoon en de ingeschreven bestuurders, tenzij de omstandigheden, bedoeld in lid 1, onder a en d, zich voordoen.
 
-6.	De Kamer doet van de ontbinding een mededeling opnemen in de Staatscourant. Lid 3, vierde zin, is van overeenkomstige toepassing.
+6.	De Kamer geeft van de ontbinding kennis in de Staatscourant. Lid 3, vierde zin, is van overeenkomstige toepassing.
 
 7.	Als op grond van artikel 23, lid 1 geen vereffenaars kunnen worden aangewezen, treedt de Kamer op als vereffenaar van het vermogen van de ontbonden rechtspersoon, behoudens het bepaalde in artikel 19, lid 4. Op verzoek van de Kamer benoemt de rechtbank in haar plaats een of meer andere vereffenaars.
 
-8.	Indien tegen een beschikking als bedoeld in lid 4, beroep wordt ingesteld bij het College van Beroep voor het bedrijfsleven schrijft de Kamer dat in het register in. De beslissing op het beroep wordt tevens ingeschreven. Indien de beslissing strekt tot vernietiging van de beschikking doet de Kamer een mededeling daarvan opnemen in de Staatscourant. Gedurende het tijdvak waarin de rechtspersoon na de beschikking tot ontbinding had opgehouden te bestaan, is er een verlengingsgrond als bedoeld in artikel 320 van Boek 3 ten aanzien van de verjaring van rechtsvorderingen van of tegen de rechtspersoon.
+8.	Indien tegen een beschikking als bedoeld in lid 4, beroep wordt ingesteld bij het College van Beroep voor het bedrijfsleven schrijft de Kamer dat in het register in. De beslissing op het beroep wordt tevens ingeschreven. Indien de beslissing strekt tot vernietiging van de beschikking geeft de Kamer kennis daarvan in de Staatscourant. Gedurende het tijdvak waarin de rechtspersoon na de beschikking tot ontbinding had opgehouden te bestaan, is er een verlengingsgrond als bedoeld in artikel 320 van Boek 3 ten aanzien van de verjaring van rechtsvorderingen van of tegen de rechtspersoon.
 
 Artikel 20
 
@@ -2283,16 +2284,7 @@ Afdeling 7. Evenwichtige verdeling van de zetels over vrouwen en mannen
 
 Artikel 166
 
-1.	Bij een evenwichtige verdeling van de zetels van het bestuur en de raad van commissarissen wordt ten minste 30% van de zetels bezet door vrouwen en ten minste 30% door mannen, voor zover deze zetels worden verdeeld over natuurlijke personen.
-
-2.	In een vennootschap, die niet voldoet aan ten minste twee van de vereisten genoemd in artikel 397 lid 1, wordt ten behoeve van een evenwichtige verdeling van de zetels van het bestuur en de raad van commissarissen, voor zover deze zetels worden verdeeld over natuurlijke personen, zoveel mogelijk rekening gehouden met een evenwichtige verdeling over vrouwen en mannen bij:
-	a.	het benoemen en het voordragen van bestuurders als bedoeld in de artikelen 132 lid 1, 133 en 162;
-	b.	het opstellen van een profielschets voor de omvang en samenstelling van de raad van commissarissen alsmede bij het aanwijzen, benoemen, aanbevelen en voordragen van commissarissen als bedoeld in de artikelen 142, 158 leden 3 tot en met 6 en lid 9, en artikel 159;
-	c.	het opstellen van een profielschets voor de niet uitvoerende bestuurders alsmede bij het voordragen, benoemen en aanbevelen van niet uitvoerende bestuurders als bedoeld in artikel 164a lid 1 en 2.
-
-3.	Het tweede lid is van overeenkomstige toepassing op een naamloze vennootschap die tot bestuurder is benoemd in:
-	a.	een naamloze vennootschap of een besloten vennootschap met beperkte aansprakelijkheid, die niet voldoet aan ten minste twee van de vereisten genoemd in artikel 397 lid 1; of
-	b.	een naamloze vennootschap of een besloten vennootschap met beperkte aansprakelijkheid die tot bestuurder is benoemd in een naamloze vennootschap of een besloten vennootschap met beperkte aansprakelijkheid die niet voldoet aan ten minste twee van de vereisten genoemd in artikel 397 lid 1.
+[Vervallen per 01-01-2020]
 
 Afdeling 8. Transacties met verbonden partijen
 
@@ -3433,16 +3425,7 @@ Afdeling 7. Evenwichtige verdeling van de zetels over vrouwen en mannen
 
 Artikel 276
 
-1.	Bij een evenwichtige verdeling van de zetels van het bestuur en de raad van commissarissen wordt ten minste 30% van de zetels bezet door vrouwen en ten minste 30% door mannen, voor zover deze zetels worden verdeeld over natuurlijke personen.
-
-2.	In een vennootschap, die niet voldoet aan ten minste twee van de vereisten genoemd in artikel 397 lid 1, wordt ten behoeve van een evenwichtige verdeling van de zetels van het bestuur en de raad van commissarissen, voor zover deze zetels worden verdeeld over natuurlijke personen, zoveel mogelijk rekening gehouden met een evenwichtige verdeling over vrouwen en mannen bij:
-	a.	het benoemen en het voordragen van bestuurders als bedoeld in de artikelen 242 lid 1, 243 en 272;
-	b.	het opstellen van een profielschets voor de omvang en samenstelling van de raad van commissarissen alsmede bij het aanwijzen, benoemen, aanbevelen en voordragen van commissarissen als bedoeld in de artikelen 252 lid 1 tot en met 3, 268 leden 3 tot en met 6 en lid 9, en artikel 269;
-	c.	het opstellen van een profielschets voor de niet uitvoerende bestuurders alsmede bij het voordragen, benoemen en aanbevelen van niet uitvoerende bestuurders als bedoeld in artikel 274a lid 1 en 2.
-
-3.	Het tweede lid is van overeenkomstige toepassing op een besloten vennootschap met beperkte aansprakelijkheid die tot bestuurder is benoemd in:
-	a.	een naamloze vennootschap of een besloten vennootschap met beperkte aansprakelijkheid, die niet voldoet aan ten minste twee van de vereisten genoemd in artikel 397 lid 1; of
-	b.	een naamloze vennootschap of een besloten vennootschap met beperkte aansprakelijkheid die tot bestuurder is benoemd in een naamloze vennootschap of een besloten vennootschap met beperkte aansprakelijkheid die niet voldoet aan ten minste twee van de vereisten genoemd in artikel 397 lid 1.
+[Vervallen per 01-01-2020]
 
 Artikel 277
 
@@ -5366,11 +5349,6 @@ Artikel 391
 5.	Bij algemene maatregel van bestuur kunnen nadere voorschriften worden gesteld omtrent de inhoud van het bestuursverslag. Deze voorschriften kunnen in het bijzonder betrekking hebben op naleving van een in de algemene maatregel van bestuur aan te wijzen gedragscode en op de inhoud, de openbaarmaking en het accountantsonderzoek van een verklaring inzake corporate governance en een niet-financiële verklaring als bedoeld in richtlijn 2013/34/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende de jaarlijkse financiële overzichten, geconsolideerde financiële overzichten en aanverwante verslagen van bepaalde ondernemingsvormen, tot wijziging van richtlijn 2006/43/EG van het Europees Parlement en de Raad en tot intrekking van richtlijnen 78/660/EEG en 83/349/EEG van de Raad (PbEU 2013, L 182).
 
 6.	De voordracht voor een krachtens lid 5 vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
-
-7.	In het geval de artikelen 166 en 276 op een vennootschap van toepassing zijn en in die vennootschap de zetels in het bestuur of de raad van commissarissen, voor zover deze zetels zijn verdeeld over natuurlijke personen, niet evenwichtig zijn verdeeld over vrouwen en mannen als bedoeld in de artikelen 166 en 276, wordt in het bestuursverslag uiteengezet:
-	a.	waarom de zetels niet evenwichtig zijn verdeeld;
-	b.	op welke wijze de vennootschap heeft getracht tot een evenwichtige verdeling van de zetels te komen; en
-	c.	op welke wijze de vennootschap beoogt in de toekomst een evenwichtige verdeling van de zetels te realiseren.
 
 Afdeling 8. Overige gegevens
 
