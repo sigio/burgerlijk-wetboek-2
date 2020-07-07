@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 01-01-2020 t/m 07-07-2020
+Geldend van 08-07-2020 t/m 02-09-2020
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -3508,7 +3508,9 @@ Artikel 289
 
 Artikel 290
 
-[Vervallen per 01-01-1992]
+1.	Het bestuur van de stichting houdt een register bij waarin de namen en adressen van alle personen worden opgenomen aan wie een uitkering is gedaan die niet meer bedraagt dan 25 procent van het voor uitkering vatbare bedrag in een bepaald boekjaar, alsmede het bedrag van de uitkering en de datum waarop deze uitkering is gedaan.
+
+2.	Het register wordt regelmatig bijgehouden.
 
 Artikel 291
 
