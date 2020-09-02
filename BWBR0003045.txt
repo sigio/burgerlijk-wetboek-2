@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 08-07-2020 t/m 02-09-2020
+Geldend van 03-09-2020 t/m 30-04-2021
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -1691,7 +1691,7 @@ Artikel 117b
 
 Artikel 117c
 
-[Dit onderdeel is nog niet inwerking getreden]
+De vennootschap zendt een elektronische ontvangstbevestiging van een op elektronische wijze uitgebrachte stem aan degene die de stem heeft uitgebracht.
 
 Artikel 118
 
@@ -1752,6 +1752,8 @@ Artikel 120
 	b.	het percentage dat het aantal onder a bedoelde aandelen vertegenwoordigt in het geplaatste kapitaal;
 	c.	het totale aantal geldig uitgebrachte stemmen;
 	d.	het aantal stemmen dat voor en tegen het besluit is uitgebracht, alsmede het aantal onthoudingen.
+
+6.	De vennootschap waarvan aandelen of met medewerking van de vennootschap uitgegeven certificaten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, verstrekt op verzoek van de aandeelhouder of een door die aandeelhouder aangewezen derde na afloop van de algemene vergadering een bevestiging van de geldige registratie en telling van de door die aandeelhouder uitgebrachte stemmen op deze vergadering. De bevestiging wordt verschaft door de vennootschap aan de aandeelhouder of een door die aandeelhouder aangewezen derde die daarom heeft verzocht, tenzij deze informatie hem reeds ter beschikking staat. Het verzoek voor een dergelijke bevestiging wordt uiterlijk drie maanden na afloop van de vergadering bij de vennootschap gedaan.
 
 Artikel 121
 
