@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 03-09-2020 t/m 30-04-2021
+Geldend van 01-05-2021 t/m 30-06-2021
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -550,6 +550,10 @@ Artikel 44
 
 2.	Slechts indien dit uit de statuten voortvloeit, is het bestuur bevoegd te besluiten tot het aangaan van overeenkomsten tot verkrijging, vervreemding en bezwaring van registergoederen, en tot het aangaan van overeenkomsten waarbij de vereniging zich als borg of hoofdelijk medeschuldenaar verbindt, zich voor een derde sterk maakt of zich tot zekerheidstelling voor een schuld van een ander verbindt. De statuten kunnen deze bevoegdheid aan beperkingen en voorwaarden binden. De uitsluiting, beperkingen en voorwaarden gelden mede voor de bevoegdheid tot vertegenwoordiging van de vereniging ter zake van deze handelingen, tenzij de statuten anders bepalen.
 
+Artikel 44a
+
+[Dit onderdeel is nog niet inwerking getreden]
+
 Artikel 45
 
 1.	Het bestuur vertegenwoordigt de vereniging, voor zover uit de wet niet anders voortvloeit.
@@ -567,6 +571,10 @@ De vereniging kan, voor zover uit de statuten niet het tegendeel voortvloeit, te
 Artikel 47
 
 In alle gevallen waarin de vereniging een tegenstrijdig belang heeft met een of meer bestuurders of commissarissen kan de algemene vergadering een of meer personen aanwijzen om de vereniging te vertegenwoordigen.
+
+Artikel 47a
+
+[Dit onderdeel is nog niet inwerking getreden]
 
 Artikel 48
 
@@ -1635,6 +1643,35 @@ Artikel 114a
 
 3.	Tenzij de statuten anders bepalen, wordt aan de eis van schriftelijkheid van het verzoek als bedoeld in lid 1 voldaan indien dit verzoek elektronisch is vastgelegd.
 
+Artikel 114b
+
+1.	Dit artikel is van toepassing op een vennootschap waarvan aandelen zijn toegelaten tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is en die geen gebruik maakt van de mogelijkheid bedoeld in artikel 359b lid 1 onderdeel a.
+
+2.	De vennootschap kan een bedenktijd inroepen in de volgende gevallen:
+	a.	indien een of meer houders van aandelen overeenkomstig artikel 114a dan wel op de voet van artikel 110 lid 1 of overeenkomstig de statuten van de vennootschap verzoekt om behandeling van een voorstel tot benoeming, schorsing of ontslag van een of meer bestuurders of commissarissen, of een voorstel tot wijziging van een of meer statutaire bepalingen die betrekking hebben op benoeming, schorsing of ontslag van bestuurders of commissarissen, dan wel
+	b.	indien een openbaar bod is aangekondigd of uitgebracht op aandelen in het kapitaal van de vennootschap zonder dat over het bod overeenstemming is bereikt met de vennootschap,
+
+en het onder a bedoelde verzoek dan wel het onder b bedoelde bod naar het oordeel van het bestuur wezenlijk in strijd is met het belang van de vennootschap en de met haar verbonden onderneming.
+
+3.	Het met redenen omklede besluit van het bestuur tot het inroepen van de bedenktijd is onderworpen aan de goedkeuring van de raad van commissarissen, indien aanwezig.
+
+4.	Een of meer houders van aandelen die bij het inroepen van de bedenktijd gerechtigd zijn tot agendering ingevolge artikel 114a, kunnen de ondernemingskamer van het gerechtshof Amsterdam verzoeken om beëindiging van de bedenktijd. Artikel 349a lid 1 is met uitzondering van de eerste volzin van toepassing. De ondernemingskamer wijst het verzoek toe:
+	a.	wanneer het bestuur in het licht van de omstandigheden op het moment van het inroepen van de bedenktijd, niet in redelijkheid heeft kunnen oordelen dat het in lid 2 onder a bedoelde verzoek dan wel het in lid 2 onder b bedoelde bod wezenlijk in strijd is met het belang van de vennootschap en de met haar verbonden onderneming;
+	b.	wanneer het bestuur niet langer in redelijkheid kan oordelen dat het voortduren van de bedenktijd kan bijdragen aan een zorgvuldige beleidsbepaling; of
+	c.	wanneer gedurende de bedenktijd een of meer maatregelen actief zijn die naar aard, doel en strekking met de bedenktijd overeenkomen en deze maatregelen niet binnen redelijke termijn na een daartoe strekkend schriftelijk verzoek van deze houders van aandelen zijn beëindigd of opgeschort.
+
+5.	De bedenktijd geldt voor een termijn van ten hoogste tweehonderdvijftig dagen, gerekend vanaf de dag na de uiterste datum waarop overeenkomstig artikel 114a of de statuten van de vennootschap een verzoek als bedoeld in lid 2 onder a voor de eerstvolgende algemene vergadering moet zijn ontvangen dan wel gerekend vanaf uiterlijk de dag na de dag waarop het openbaar bod is uitgebracht als bedoeld in lid 2 onder b. Indien toepassing is gegeven aan artikel 111 vangt de bedenktijd aan op het moment waarop de voorzieningenrechter de verzochte machtiging heeft verleend. Het bestuur kan te allen tijde besluiten de bedenktijd eerder te beëindigen. Lid 3 is van overeenkomstige toepassing. De bedenktijd eindigt in ieder geval de dag na de gestanddoening van een openbaar bod. De grond voor het inroepen van de bedenktijd in een van de in lid 2 genoemde gevallen laat de mogelijkheid tot het inroepen van een bedenktijd op een andere grond onverlet.
+
+6.	Het inroepen van de bedenktijd heeft tot gevolg dat de bevoegdheid van de algemene vergadering bedoeld in de artikelen 121 lid 1, voor zover de statutenwijziging betrekking heeft op benoeming, schorsing of ontslag van bestuurders of commissarissen, 132 lid 1, 134 lid 1, 142 lid 1, 144 lid 1 en 161a lid 1 gedurende de bedenktijd is opgeschort, tenzij de vennootschap het voorstel tot benoeming, schorsing of ontslag van een bestuurder of commissaris bij de oproeping bedoeld in artikel 114 lid 1 onder a als punt ter stemming vermeldt.
+
+7.	Gedurende de bedenktijd vergaart het bestuur alle informatie die nodig is voor een zorgvuldige beleidsbepaling. Daartoe raadpleegt het bestuur in ieder geval de aandeelhouders die bij het inroepen van de bedenktijd tenminste drie honderdste gedeelte van het geplaatste kapitaal vertegenwoordigen en de ondernemingsraad. Indien de geraadpleegde aandeelhouders of de ondernemingsraad aan het bestuur een standpunt kenbaar hebben gemaakt, plaatst het bestuur dit standpunt onverwijld op de website van de vennootschap, voor zover de geraadpleegde partijen daarmee hebben ingestemd. Artikel 107a lid 4 is van overeenkomstige toepassing.
+
+8.	Het bestuur doet verslag van het gevoerde beleid en de gang van zaken sinds het inroepen van de bedenktijd. Uiterlijk een week na de laatste dag van de bedenktijd legt de vennootschap het verslag voor de aandeelhouders ter inzage ten kantore van de vennootschap en plaatst zij het verslag op de website van de vennootschap.
+
+9.	Het in lid 8 bedoelde verslag wordt bij de oproeping van de eerstvolgende algemene vergadering na het verstrijken van de bedenktijd vermeld als onderwerp ter bespreking.
+
+10.	Voor de toepassing van dit artikel worden met aandelen en de houders van aandelen gelijkgesteld de certificaten van aandelen die met medewerking van de vennootschap zijn uitgegeven, respectievelijk de houders van de certificaten van aandelen die met medewerking van de vennootschap zijn uitgegeven.
+
 Artikel 115
 
 1.	Behoudens het bepaalde bij de tweede zin van het eerste lid van artikel 111 van dit Boek, geschiedt de oproeping niet later dan op de vijftiende dag vóór die der vergadering. Was die termijn korter of heeft de oproeping niet plaats gehad, dan kunnen geen wettige besluiten worden genomen, tenzij met algemene stemmen in een vergadering, waarin het gehele geplaatste kapitaal vertegenwoordigd is.
@@ -1813,7 +1850,7 @@ Afdeling 5. Het bestuur van de naamloze vennootschap en het toezicht op het best
 
 Artikel 129
 
-1.	Behoudens beperkingen volgens de statuten is het bestuur belast met het besturen van de vennootschap.
+1.	Behoudens beperkingen volgens de statuten is het bestuur belast met het besturen van de vennootschap. Voor een vennootschap waarvan de aandelen of met medewerking van de vennootschap uitgegeven certificaten van aandelen zijn toegelaten tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is, is daaronder in ieder geval begrepen het bepalen van het beleid en de strategie van de vennootschap.
 
 2.	De statuten kunnen bepalen dat een met name of in functie aangeduide bestuurder meer dan één stem wordt toegekend. Een bestuurder kan niet meer stemmen uitbrengen dan de andere bestuurders tezamen.
 
@@ -2460,7 +2497,7 @@ Artikel 186
 
 Artikel 187
 
-Indien aandelen van de vennootschap of certificaten van aandelen zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, zijn de artikelen 113 lid 6, 114 leden 1 en 3, 114a lid 1, 115 lid 2, 117 leden 6, tweede volzin, en 7, 117a leden 3 en 5, tweede volzin, 117b leden 1 tot en met 4, 117c, 119 leden 1, derde volzin, 2 en 3, 120 leden 5 en 6, 135 leden 1, eerste en tweede volzin, 4 en 9, 135a, 135b, 145 lid 2 en 167 tot en met 170 van toepassing in plaats van de artikelen 223 lid 1, 224 leden 1 en 3, 224a lid 1, 225, 227 lid 5, eerste volzin, 227a lid 3 en 227b. Voor de toepassing van artikelen 168 en 169 lid 3, wordt in plaats van artikel 129a gelezen artikel 239a. Voor de toepassing van artikel 169 lid 4, wordt in plaats van artikelen 129 lid 6, tweede en derde volzin, en 140 lid 5, tweede volzin, gelezen artikelen 239 lid 6, tweede en derde volzin, en 250 lid 5, tweede volzin.
+Indien aandelen van de vennootschap of certificaten van aandelen zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, zijn de artikelen 113 lid 6, 114 leden 1 en 3, 114a lid 1, 114b, 115 lid 2, 117 leden 6, tweede volzin, en 7, 117a leden 3 en 5, tweede volzin, 117b leden 1 tot en met 4, 117c, 119 leden 1, derde volzin, 2 en 3, 120 leden 5 en 6, 129 lid 1, tweede zin, 135 leden 1, eerste en tweede volzin, 4 en 9, 135a, 135b, 145 lid 2 en 167 tot en met 170 van toepassing in plaats van de artikelen 223 lid 1, 224 leden 1 en 3, 224a lid 1, 225, 227 lid 5, eerste volzin, 227a lid 3 en 227b. Voor de toepassing van artikel 114b wordt voor artikelen 132 lid 1, 134 lid 1, 142 lid 1, 144 lid 1 en 161a lid 1 gelezen: artikelen 242 lid 1, 244 lid 1, 252 lid 1, 254 lid 1 en 271a lid 1, en wordt voor de in artikel 114b lid 10 bedoelde certificaten en houders van certificaten gelezen: certificaten en houders van certificaten waaraan respectievelijk aan wie het vergaderrecht bedoeld in artikel 220 lid 2 toekomt. Voor de toepassing van artikelen 168 en 169 lid 3, wordt in plaats van artikel 129a gelezen artikel 239a. Voor de toepassing van artikel 169 lid 4, wordt in plaats van artikelen 129 lid 6, tweede en derde volzin, en 140 lid 5, tweede volzin, gelezen artikelen 239 lid 6, tweede en derde volzin, en 250 lid 5, tweede volzin.
 
 Artikel 188
 
@@ -3520,6 +3557,10 @@ Artikel 291
 
 2.	Slechts indien dit uit de statuten voortvloeit, is het bestuur bevoegd te besluiten tot het aangaan van overeenkomsten tot verkrijging, vervreemding en bezwaring van registergoederen, en tot het aangaan van overeenkomsten waarbij de stichting zich als borg of hoofdelijk medeschuldenaar verbindt, zich voor een derde sterk maakt of zich tot zekerheidstelling voor een schuld van een ander verbindt. De statuten kunnen deze bevoegdheid aan beperkingen en voorwaarden binden. De uitsluiting, beperkingen en voorwaarden gelden mede voor de bevoegdheid tot vertegenwoordiging van de stichting ter zake van deze handelingen, tenzij de statuten anders bepalen.
 
+Artikel 291a
+
+[Dit onderdeel is nog niet inwerking getreden]
+
 Artikel 292
 
 1.	Het bestuur vertegenwoordigt de stichting, voor zover uit de wet niet anders voortvloeit.
@@ -3529,6 +3570,10 @@ Artikel 292
 3.	Bevoegdheid tot vertegenwoordiging die aan het bestuur of aan een bestuurder toekomt, is onbeperkt en onvoorwaardelijk, voor zover uit de wet niet anders voortvloeit. Een wettelijk toegelaten of voorgeschreven beperking van of voorwaarde voor de bevoegdheid tot vertegenwoordiging kan slechts door de stichting worden ingeroepen.
 
 4.	De statuten kunnen ook aan andere personen dan bestuurders bevoegdheid tot vertegenwoordiging toekennen.
+
+Artikel 292a
+
+[Dit onderdeel is nog niet inwerking getreden]
 
 Artikel 293
 
@@ -3599,6 +3644,10 @@ Artikel 298
 2.	De rechtbank kan, hangende het onderzoek, voorlopige voorzieningen in het bestuur treffen en de bestuurder schorsen.
 
 3.	Een door de rechtbank ontslagen bestuurder kan gedurende vijf jaar na het ontslag geen bestuurder van een stichting worden.
+
+Artikel 298a
+
+[Dit onderdeel is nog niet inwerking getreden]
 
 Artikel 299
 
