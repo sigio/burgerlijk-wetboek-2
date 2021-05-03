@@ -1,7 +1,7 @@
 
 
 Burgerlijk Wetboek Boek 2
-Geldend van 01-01-2006 t/m 31-01-2006
+Geldend van 01-01-2007 t/m 31-01-2007
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -246,7 +246,7 @@ Artikel 22a
 
 3.	De beschikking wordt onverwijld, zo mogelijk op dezelfde dag, betekend aan de aandeelhouders en de vennootschap. De griffier draagt zorg voor de inschrijving van de beschikking in het register waarin de rechtspersoon is ingeschreven.
 
-4.	Binnen acht dagen na de betekening in het vorige lid vermeld kunnen de aandeelhouders tegen de beschikking in verzet komen. Het verzet schorst het bevel niet, behoudens de bevoegdheid van de aandeelhouders om daarop in kort geding door de president van de rechtbank te doen beslissen. Verzet tegen de beschikking kan niet gegrond zijn op de bewering dat de aandeelhouder zijn aandelen wil overdragen.
+4.	Binnen acht dagen na de betekening in het vorige lid vermeld kunnen de aandeelhouders tegen de beschikking in verzet komen. Het verzet schorst het bevel niet, behoudens de bevoegdheid van de aandeelhouders om daarop in kort geding door de voorzieningenrechter van de rechtbank te doen beslissen. Verzet tegen de beschikking kan niet gegrond zijn op de bewering dat de aandeelhouder zijn aandelen wil overdragen.
 
 5.	Het verzoek tot ontbinding moet binnen acht dagen nadat deze is ingesteld aan de aandeelhouder worden betekend.
 
@@ -473,6 +473,16 @@ Artikel 38
 
 4.	Tenzij de statuten anders bepalen, kan iemand die krachtens lid 1 of lid 3 stemgerechtigd is, aan een andere stemgerechtigde schriftelijk volmacht verlenen tot het uitbrengen van zijn stem.
 
+5.	Aan de eis van schriftelijkheid van de volmacht wordt voldaan indien de volmacht elektronisch is vastgelegd.
+
+6.	De statuten kunnen bepalen dat iemand die krachtens lid 1 of lid 3 stemgerechtigd is het stemrecht kan uitoefenen door middel van een elektronisch communicatiemiddel.
+
+7.	Voor de toepassing van lid 6 is vereist dat de stemgerechtigde via het elektronisch communicatiemiddel kan worden geïdentificeerd, rechtstreeks kan kennisnemen van de verhandelingen ter vergadering en het stemrecht kan uitoefenen. De statuten kunnen bepalen dat bovendien is vereist dat de stemgerechtigde via het elektronisch communicatiemiddel kan deelnemen aan de beraadslaging.
+
+8.	De statuten kunnen bepalen dat stemmen die voorafgaand aan de algemene vergadering via een elektronisch communicatiemiddel worden uitgebracht, doch niet eerder dan op de dertigste dag voor die van de vergadering, gelijk worden gesteld met stemmen die ten tijde van de vergadering worden uitgebracht.
+
+9.	Bij of krachtens de statuten kunnen voorwaarden worden gesteld aan het gebruik van het elektronisch communicatiemiddel. Indien deze voorwaarden krachtens de statuten worden gesteld, worden deze bij de oproeping bekend gemaakt.
+
 Artikel 39
 
 1.	De statuten kunnen bepalen dat de algemene vergadering zal bestaan uit afgevaardigden die door en uit de leden worden gekozen. De wijze van verkiezing en het aantal van de afgevaardigden worden door de statuten geregeld; elk lid moet middellijk of onmiddellijk aan de verkiezing kunnen deelnemen. De leden 4 en 5 van artikel 37 zijn bij de verkiezing van overeenkomstige toepassing. Artikel 38 lid 3 is van overeenkomstige toepassing op personen die deel uitmaken van andere organen der vereniging en die geen afgevaardigde zijn.
@@ -492,6 +502,10 @@ Artikel 41
 2.	Op schriftelijk verzoek van ten minste een zodanig aantal leden of afgevaardigden als bevoegd is tot het uitbrengen van een tiende gedeelte der stemmen in de algemene vergadering of van een zoveel geringer aantal als bij de statuten is bepaald, is het bestuur verplicht tot het bijeenroepen van een algemene vergadering op een termijn van niet langer dan vier weken na indiening van het verzoek.
 
 3.	Indien aan het verzoek binnen veertien dagen geen gevolg wordt gegeven, kunnen, tenzij in de statuten de wijze van bijeenroeping der algemene vergadering voor dit geval anders is geregeld, de verzoekers zelf tot die bijeenroeping overgaan op de wijze waarop het bestuur de algemene vergadering bijeenroept of bij advertentie in ten minste één ter plaatse waar de vereniging gevestigd is, veelgelezen dagblad. De verzoekers kunnen alsdan anderen dan bestuursleden belasten met de leiding der vergadering en het opstellen der notulen.
+
+4.	Tenzij de statuten anders bepalen, wordt aan de eis van schriftelijkheid van het verzoek bedoeld in lid 2 voldaan indien het verzoek elektronisch is vastgelegd.
+
+5.	Tenzij de statuten anders bepalen kan, indien een lid of afgevaardigde hiermee instemt, de bijeenroeping geschieden door een langs elektronische weg toegezonden leesbaar en reproduceerbaar bericht aan het adres dat door hem voor dit doel is bekend gemaakt.
 
 Artikel 41a
 
@@ -555,7 +569,7 @@ Artikel 48
 
 Artikel 49
 
-1.	Jaarlijks binnen zes maanden na afloop van het boekjaar van een vereniging als bedoeld in artikel 360 lid 3, behoudens verlenging van deze termijn met ten hoogste vijf maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de leden ter inzage ten kantore van de vereniging. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de leden, tenzij de artikelen 396 lid 6, eerste volzin, of 403 voor de vereniging gelden. De termijn kan voor beheerders waaraan ingevolge de Wet toezicht beleggingsinstellingen een vergunning is verleend, bij of krachtens die wet worden bekort.
+1.	Jaarlijks binnen zes maanden na afloop van het boekjaar van een vereniging als bedoeld in artikel 360 lid 3, behoudens verlenging van deze termijn met ten hoogste vijf maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de leden ter inzage ten kantore van de vereniging. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de leden, tenzij de artikelen 396 lid 6, eerste volzin, of 403 voor de vereniging gelden.
 
 2.	De jaarrekening wordt ondertekend door de bestuurders en door de commissarissen; ontbreekt de ondertekening van een of meer hunner, dan wordt daarvan onder opgave van reden melding gemaakt.
 
@@ -655,7 +669,7 @@ Artikel 57a
 
 Artikel 58
 
-1.	Jaarlijks binnen zes maanden na afloop van het boekjaar, behoudens verlenging van deze termijn met ten hoogste vijf maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de leden ter inzage ten kantore van de rechtspersoon. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de leden, tenzij de artikelen 396 lid 6, of 403 voor de rechtspersoon gelden. De termijn kan voor beheerders waaraan ingevolge de Wet toezicht beleggingsinstellingen (Stb. 1990, 380) een vergunning is verleend, bij of krachtens die wet worden bekort. De jaarrekening wordt vastgesteld door de algemene vergadering die het bestuur uiterlijk een maand na afloop van de termijn doet houden. Artikel 48 lid 2 is van overeenkomstige toepassing. Vaststelling van de jaarrekening strekt niet tot kwijting aan een bestuurder onderscheidenlijk commissaris.
+1.	Jaarlijks binnen zes maanden na afloop van het boekjaar, behoudens verlenging van deze termijn met ten hoogste vijf maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de leden ter inzage ten kantore van de rechtspersoon. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de leden, tenzij de artikelen 396 lid 6, of 403 voor de rechtspersoon gelden. De jaarrekening wordt vastgesteld door de algemene vergadering die het bestuur uiterlijk een maand na afloop van de termijn doet houden. Artikel 48 lid 2 is van overeenkomstige toepassing. Vaststelling van de jaarrekening strekt niet tot kwijting aan een bestuurder onderscheidenlijk commissaris.
 
 2.	De opgemaakte jaarrekening wordt ondertekend door de bestuurders en door de commissarissen; ontbreekt de ondertekening van een of meer hunner, dan wordt daarvan onder opgave van reden melding gemaakt.
 
@@ -792,7 +806,7 @@ Artikel 63j
 1.	Aan de goedkeuring van de raad van commissarissen zijn onderworpen de besluiten van het bestuur omtrent:
 	a.	uitgifte van schuldbrieven ten laste van de rechtspersoon;
 	b.	uitgifte van schuldbrieven ten laste van een commanditaire vennootschap of vennootschap onder firma waarvan de rechtspersoon volledig aansprakelijke vennoot is;
-	c.	aanvrage van notering of van intrekking der notering van de schuldbrieven, bedoeld in de onderdelen a en b, in de prijscourant van enige beurs;
+	c.	het aanvragen van toelating van de onder a en b bedoelde schuldbrieven tot de handel op een markt in financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht dan wel het aanvragen van een intrekking van zodanige toelating;
 	d.	het aangaan of verbreken van duurzame samenwerking van de rechtspersoon of een afhankelijke maatschappij met een andere rechtspersoon of vennootschap dan wel als volledig aansprakelijk vennoot in een commanditaire vennootschap of vennootschap onder firma, indien deze samenwerking of verbreking van ingrijpende betekenis is voor de rechtspersoon;
 	e.	het nemen van een deelneming ter waarde van ten minste een vierde van het bedrag van het eigen vermogen volgens de balans met toelichting van de rechtspersoon, door deze of een afhankelijke maatschappij in het kapitaal van een vennootschap, alsmede het ingrijpend vergroten of verminderen van zulk een deelneming;
 	f.	investeringen welke een bedrag vereisen, gelijk aan een vierde van het eigen vermogen volgens de balans met toelichting van de rechtspersoon;
@@ -930,10 +944,10 @@ Artikel 76a
 1.	Onder beleggingsmaatschappij met veranderlijk kapitaal wordt verstaan een naamloze vennootschap,
 	a.	die uitsluitend ten doel heeft haar vermogen zodanig te beleggen dat de risico’s daarvan worden gespreid, ten einde haar aandeelhouders in de opbrengst te doen delen,
 	b.	waarvan het bestuur krachtens de statuten bevoegd is aandelen in haar kapitaal uit te geven, te verwerven en te vervreemden,
-	c.	waarvoor aan een beheerder een vergunning is verleend als bedoeld in artikel 5 van de Wet toezicht beleggingsinstellingen voor plaatsing van haar aandelen, en
+	c.	waarvoor aan een beheerder een vergunning is verleend als bedoeld in de Wet op het financieel toezicht voor plaatsing van haar aandelen, en
 	d.	waarvan de statuten bepalen dat de vennootschap beleggingsmaatschappij met veranderlijk kapitaal is.
 
-2.	De vennootschap doet aan het handelsregister en aan de rechtspersoon waaraan ingevolge artikel 29 van de Wet toezicht beleggingsinstellingen taken en bevoegdheden zijn overgedragen opgave dat zij een beleggingsmaatschappij met veranderlijk kapitaal is. Deze woorden moeten ook in alle geschriften, gedrukte stukken en aankondigingen, waarin de beleggingsmaatschappij met veranderlijk kapitaal partij is of die van haar uitgaan, met uitzondering van telegrammen en reclames, duidelijk bij haar naam worden vermeld.
+2.	De vennootschap doet aan het handelsregister en aan de Stichting Autoriteit Financiële Markten opgave dat zij een beleggingsmaatschappij met veranderlijk kapitaal is. Deze woorden moeten ook in alle geschriften, gedrukte stukken en aankondigingen, waarin de beleggingsmaatschappij met veranderlijk kapitaal partij is of die van haar uitgaan, met uitzondering van telegrammen en reclames, duidelijk bij haar naam worden vermeld.
 
 Artikel 77
 
@@ -973,7 +987,7 @@ Artikel 80a
 
 2.	Voor of bij de oprichting kan storting in vreemd geld slechts geschieden indien de akte van oprichting vermeldt dat storting in vreemd geld is toegestaan; na de oprichting kan dit slechts geschieden met toestemming van de naamloze vennootschap. Storting in een valuta die een eenheid is van de euro krachtens artikel 109L, vierde lid van het Verdrag betreffende de Europese Unie wordt niet beschouwd als storting in vreemd geld.
 
-3.	Met storting in vreemd geld wordt aan de stortingsplicht voldaan voor het bedrag waartegen het gestorte bedrag vrijelijk in Nederlands geld kan worden gewisseld. Bepalend is de wisselkoers op de dag van de storting dan wel, indien vroeger dan een maand voor de oprichting is gestort, op de dag van de oprichting of, na toepassing van de volgende zin, op de daar bedoelde dag. De vennootschap kan storting verlangen tegen de wisselkoers op een bepaalde dag binnen twee maanden voor de laatste dag waarop moet worden gestort, mits de aandelen of certificaten onverwijld na de uitgifte zullen worden opgenomen in de prijscourant van een beurs buiten Nederland.
+3.	Met storting in vreemd geld wordt aan de stortingsplicht voldaan voor het bedrag waartegen het gestorte bedrag vrijelijk in Nederlands geld kan worden gewisseld. Bepalend is de wisselkoers op de dag van de storting dan wel, indien vroeger dan een maand voor de oprichting is gestort, op de dag van de oprichting of, na toepassing van de volgende zin, op de daar bedoelde dag. De vennootschap kan storting verlangen tegen de wisselkoers op een bepaalde dag binnen twee maanden voor de laatste dag waarop moet worden gestort, mits de aandelen of certificaten onverwijld na de uitgifte zullen worden toegelaten tot de handel op een markt in financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, die zijn zetel heeft buiten Nederland.
 
 Artikel 80b
 
@@ -1044,7 +1058,7 @@ Artikel 86b
 
 Artikel 86c
 
-1.	Voor de levering van een aandeel op naam of de levering van een beperkt recht daarop in een vennootschap, waarvan aandelen of certificaten van aandelen zijn toegelaten tot de officiële notering van een gereglementeerde effectenbeurs in de zin van artikel 1, onderdeel e, van de Wet toezicht effectenverkeer 1995, die onder toezicht staat van de overheid of van een door de overheid erkende autoriteit of instelling, of waarvan aandelen of certificaten van aandelen, naar ten tijde van de rechtshandeling op goede gronden kan worden verwacht, daartoe spoedig zullen worden toegelaten, gelden de volgende bepalingen.
+1.	Voor de levering van een aandeel op naam of de levering van een beperkt recht daarop in een vennootschap, waarvan aandelen of certificaten van aandelen zijn toegelaten tot de handel op een markt in financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, of waarvan aandelen of certificaten van aandelen, naar ten tijde van de rechtshandeling op goede gronden kan worden verwacht, daartoe spoedig zullen worden toegelaten, gelden de volgende bepalingen.
 
 2.	Voor de levering van een aandeel op naam of de levering van een beperkt recht daarop zijn vereist een daartoe bestemde akte alsmede, behoudens in het geval dat de vennootschap zelf bij die rechtshandeling partij is, schriftelijke erkenning door de vennootschap van de levering. De erkenning geschiedt in de akte, of door een gedagtekende verklaring houdende de erkenning op de akte of op een notarieel of door de vervreemder gewaarmerkt afschrift of uittreksel daarvan, of op de wijze als bedoeld in lid 3. Met de erkenning staat gelijk de betekening van die akte of dat afschrift of uittreksel aan de vennootschap. Betreft het de levering van niet volgestorte aandelen, dan kan de erkenning slechts geschieden wanneer de akte een vaste dagtekening draagt.
 
@@ -1058,7 +1072,7 @@ Artikel 86d
 
 2.	De houder dient aannemelijk te maken dat het aandeelbewijs is verloren gegaan, onder vermelding van de identiteit van het betrokken aandeelbewijs.
 
-3.	De vennootschap publiceert de aanvraag om een duplicaat in de prijscourant van een beurs als bedoeld in artikel 86c lid 1 of, indien de aandelen daarin niet zijn opgenomen, in een landelijk verspreid dagblad.
+3.	De vennootschap publiceert de aanvraag om een duplicaat in de prijscourant van een markt in financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht als bedoeld in artikel 86c lid 1 of, indien de aandelen daarin niet zijn opgenomen, in een landelijk verspreid dagblad.
 
 4.	Iedere belanghebbende kan binnen zes weken vanaf de dag na de publicatie van de aanvraag door een verzoekschrift aan de rechtbank in verzet komen tegen de verstrekking van het duplicaat.
 
@@ -1127,7 +1141,7 @@ Artikel 89a
 	b.	het nominale bedrag van de in pand te nemen en de reeds gehouden of in pand gehouden eigen aandelen en certificaten daarvan tezamen niet meer dan een tiende van het geplaatste kapitaal bedraagt, en
 	c.	de algemene vergadering van aandeelhouders de pandovereenkomst heeft goedgekeurd.
 
-2.	Dit artikel is niet van toepassing op aandelen en certificaten daarvan die een ingevolge artikel 52 van de Wet toezicht kredietwezen 1992 (Stb. 1992, 722) geregistreerde kredietinstelling als bedoeld in artikel 1, eerste lid, onderdeel a, onder 1°, van die wet in de gewone uitoefening van het kredietbedrijf in pand neemt. Deze aandelen en certificaten blijven buiten beschouwing bij de toepassing van de artikelen 98 lid 2 onder b en 98a lid 3.
+2.	Dit artikel is niet van toepassing op aandelen en certificaten daarvan die een financiële onderneming die in Nederland het bedrijf van bank mag uitoefenen ingevolge de Wet op het financieel toezicht, in de gewone uitoefening van haar bedrijf in pand neemt. Deze aandelen en certificaten blijven buiten beschouwing bij de toepassing van de artikelen 98 lid 2 onder b en 98a lid 3.
 
 Artikel 90
 
@@ -1195,13 +1209,13 @@ Artikel 93a
 
 2.	Indien vreemd geld is gestort, moet uit de verklaring blijken tegen hoeveel geld het vrijelijk kon worden gewisseld op een dag waarop krachtens artikel 80a lid 3 de koers bepalend is voor de stortingsplicht.
 
-3.	Zulk een verklaring kan slechts worden afgelegd door een bankier, die een kredietinstelling is als bedoeld in artikel 1, eerste lid, onderdeel a, onder 1°, van de Wet toezicht kredietwezen 1992 en die hetzij als kredietinstelling is geregistreerd ingevolge artikel 52 van de Wet toezicht kredietwezen 1992, hetzij in een andere lidstaat van de Europese Gemeenschappen of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte is onderworpen aan bedrijfseconomisch toezicht van overheidswege. Zij kan slechts worden afgegeven aan een notaris.
+3.	Een verklaring als bedoeld in lid 1 kan slechts worden afgelegd door een financiële onderneming als bedoeld in artikel 1:1 van de Wet op het financieel toezicht die in de Europese Unie of in een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte het bedrijf van bank mag uitoefenen. De verklaring kan slechts worden afgegeven aan een notaris.
 
 4.	Worden voor de oprichting aan de rekening, bedoeld in onderdeel b van lid 1, bedragen onttrokken, dan zijn de oprichters hoofdelijk jegens de vennootschap verbonden tot vergoeding van die bedragen, totdat de vennootschap de onttrekkingen uitdrukkelijk heeft bekrachtigd.
 
-5.	De notaris moet de bankiers wier verklaring hij heeft ontvangen terstond verwittigen van de oprichting. Indien de oprichting niet doorgaat, moet hij hun de verklaring terugzenden.
+5.	De notaris moet de bank wier verklaring hij heeft ontvangen terstond verwittigen van de oprichting. Indien de oprichting niet doorgaat, moet hij de bank de verklaring terugzenden.
 
-6.	Indien na de oprichting in vreemd geld is gestort, legt de vennootschap binnen twee weken na de storting een verklaring, als bedoeld in lid 2, van een in het derde lid bedoelde bankier neer ten kantore van het handelsregister.
+6.	Indien na de oprichting in vreemd geld is gestort, legt de vennootschap binnen twee weken na de storting een verklaring, als bedoeld in lid 2, van een in het derde lid bedoelde bank neer ten kantore van het handelsregister.
 
 Artikel 94
 
@@ -1246,7 +1260,7 @@ Artikel 94b
 
 4.	De vennootschap legt, binnen acht dagen na de dag waarop de aandelen zijn genomen dan wel waarop de bijstorting opeisbaar werd, de accountantsverklaring bij de inbreng of een afschrift daarvan neer ten kantore van het handelsregister met opgave van de namen van de inbrengers en van het bedrag van het aldus gestorte deel van het geplaatste kapitaal.
 
-5.	Dit artikel is niet van toepassing voor zover de inbreng bestaat uit aandelen of certificaten van aandelen, daarin converteerbare rechten of winstbewijzen van een andere rechtspersoon, waarop de vennootschap een openbaar bod heeft uitgebracht, mits deze effecten of een deel daarvan zijn opgenomen in de prijscourant van een effectenbeurs of geregeld op de incourante markt worden verhandeld.
+5.	Dit artikel is niet van toepassing voor zover de inbreng bestaat uit aandelen of certificaten van aandelen, daarin converteerbare rechten of winstbewijzen van een andere rechtspersoon, waarop de vennootschap een openbaar bod heeft uitgebracht, mits deze effecten of een deel daarvan zijn toegelaten tot de handel op een markt in financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.
 
 Artikel 94c
 
@@ -1288,7 +1302,7 @@ Artikel 96
 
 3.	De vennootschap legt binnen acht dagen na een besluit van de algemene vergadering tot uitgifte of tot aanwijzing een volledige tekst daarvan neer ten kantore van het handelsregister.
 
-4.	De vennootschap doet binnen acht dagen na elke uitgifte van aandelen hiervan opgave ten kantore van het handelsregister, met vermelding van aantal en soort.
+4.	De vennootschap doet binnen acht dagen na afloop van elk kalenderkwartaal ten kantore van het handelsregister opgave van elke uitgifte van aandelen in het afgelopen kalenderkwartaal, met vermelding van aantal en soort.
 
 5.	Dit artikel is van overeenkomstige toepassing op het verlenen van rechten tot het nemen van aandelen, maar is niet van toepassing op het uitgeven van aandelen aan iemand die een voordien reeds verkregen recht tot het nemen van aandelen uitoefent.
 
@@ -1338,7 +1352,7 @@ Artikel 98
 
 6.	De leden 1-4 gelden niet voor aandelen die de vennootschap onder algemene titel verkrijgt.
 
-7.	De leden 2-4 gelden niet voor aandelen die een ingevolge artikel 52 van de Wet toezicht kredietwezen 1992 (Stb. 1992, 722) geregistreerde kredietinstelling als bedoeld in artikel 1, eerste lid, onderdeel a, onder 1°, van die wet in opdracht en voor rekening van een ander verkrijgt.
+7.	De leden 2–4 gelden niet voor aandelen die een financiële onderneming die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van bank mag uitoefenen, in opdracht en voor rekening van een ander verkrijgt.
 
 8.	De leden 2-4 gelden niet voor een beleggingsmaatschappij met veranderlijk kapitaal. Het geplaatste kapitaal van zulk een beleggingsmaatschappij, verminderd met het bedrag van de aandelen die zij zelf houdt, moet ten minste een tiende van het maatschappelijke kapitaal bedragen.
 
@@ -1366,7 +1380,7 @@ Artikel 98c
 
 2.	Het verbod geldt niet indien aandelen of certificaten van aandelen worden genomen of verkregen door of voor werknemers in dienst van de vennootschap of van een groepsmaatschappij.
 
-3.	Het verbod geldt niet voor een ingevolge artikel 52 van de Wet toezicht kredietwezen 1992 (Stb. 1992, 722) geregistreerde kredietinstelling als bedoeld in artikel 1, eerste lid, onderdeel a, onder 1°, van die wet, voor zover zij in de gewone uitoefening van het kredietbedrijf handelt.
+3.	Het verbod geldt niet voor een financiële onderneming die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van bank mag uitoefenen, voorzover zij handelt in de gewone uitoefening van haar bedrijf.
 
 Artikel 98d
 
@@ -1417,7 +1431,7 @@ Artikel 100
 
 Artikel 101
 
-1.	Jaarlijks binnen vijf maanden na afloop van het boekjaar der vennootschap, behoudens verlenging van deze termijn met ten hoogste zes maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de aandeelhouders ter inzage ten kantore van de vennootschap. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de aandeelhouders, tenzij de artikelen 396 lid 6, of 403 voor de vennootschap gelden. De termijn kan voor beheerders waaraan ingevolge de Wet toezicht beleggingsinstellingen (Stb. 1990, 380) een vergunning is verleend, bij of krachtens die wet worden bekort. Het bestuur van de vennootschap waarop de artikelen 158 tot en met 161 en 164 van toepassing zijn, zendt de jaarrekening ook toe aan de in artikel 158 lid 11 bedoelde ondernemingsraad.
+1.	Jaarlijks binnen vijf maanden na afloop van het boekjaar der vennootschap, behoudens verlenging van deze termijn met ten hoogste zes maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de aandeelhouders ter inzage ten kantore van de vennootschap. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de aandeelhouders, tenzij de artikelen 396 lid 6, of 403 voor de vennootschap gelden. Het bestuur van de vennootschap waarop de artikelen 158 tot en met 161 en 164 van toepassing zijn, zendt de jaarrekening ook toe aan de in artikel 158 lid 11 bedoelde ondernemingsraad.
 
 2.	De jaarrekening wordt ondertekend door de bestuurders en door de commissarissen; ontbreekt de ondertekening van een of meer hunner, dan wordt daarvan onder opgave van reden melding gemaakt.
 
@@ -1439,9 +1453,7 @@ Artikel 102
 
 Artikel 103
 
-1.	Indien aandelen van de vennootschap, schuldbrieven of certificaten van deze aandelen of schuldbrieven, die met haar medewerking zijn uitgegeven, zijn opgenomen in de prijscourant van enige beurs, maakt de vennootschap haar halfjaar- en kwartaalcijfers openbaar zodra zij beschikbaar zijn. Deze verplichting geldt niet, zolang deze cijfers slechts aan bestuurders, commissarissen en de ondernemingsraad worden verstrekt.
-
-2.	Zulk een vennootschap maakt het voorstel tot een uitkering op aandelen of op andere effecten en besluiten tot tussentijdse uitkering onverwijld openbaar.
+[Vervallen per 31-12-2006]
 
 Artikel 104
 
@@ -1510,6 +1522,8 @@ Artikel 110
 
 2.	Voor de toepassing van dit artikel worden met houders van aandelen gelijkgesteld de houders van de certificaten van aandelen, welke met medewerking van de vennootschap zijn uitgegeven.
 
+3.	Tenzij de statuten anders bepalen, wordt aan de eis van schriftelijkheid van het verzoek als bedoeld in lid 1 voldaan indien dit verzoek elektronisch is vastgelegd.
+
 Artikel 111
 
 1.	De voorzieningenrechter van de rechtbank verleent, na verhoor of oproeping van de naamloze vennootschap, de verzochte machtiging, indien de verzoekers summierlijk hebben doen blijken, dat de in het vorige artikel gestelde voorwaarden zijn vervuld, en dat zij een redelijk belang hebben bij het houden van de vergadering. De voorzieningenrechter van de rechtbank stelt de vorm en de termijnen voor de oproeping tot de algemene vergadering vast. Hij kan tevens iemand aanwijzen, die met de leiding van de algemene vergadering zal zijn belast.
@@ -1530,6 +1544,10 @@ Artikel 113
 
 3.	De statuten kunnen bepalen dat de houders van aandelen op naam worden opgeroepen door middel van oproepingsbrieven gericht aan de adressen van die aandeelhouders zoals deze zijn vermeld in het register van aandeelhouders.
 
+4.	Tenzij de statuten anders bepalen kan, indien de houder van aandelen op naam alsmede de houder van de certificaten van aandelen, welke met medewerking van de vennootschap zijn uitgegeven, hiermee instemt, de oproeping geschieden door een langs elektronische weg toegezonden leesbaar en reproduceerbaar bericht aan het adres dat door hem voor dit doel aan de vennootschap is bekend gemaakt.
+
+5.	De statuten kunnen bepalen dat de houders van aandelen aan toonder alsmede de houders van de certificaten van aandelen, welke met medewerking van de vennootschap zijn uitgegeven, worden opgeroepen door een langs elektronische weg openbaar gemaakte aankondiging, welke tot aan de algemene vergadering rechtstreeks en permanent toegankelijk is.
+
 Artikel 114
 
 1.	Bij de oproeping worden de te behandelen onderwerpen vermeld of wordt medegedeeld dat de aandeelhouders en de houders van met medewerking van de vennootschap uitgegeven certificaten van haar aandelen er ten kantore van de vennootschap kennis van kunnen nemen.
@@ -1542,11 +1560,13 @@ Artikel 114a
 
 1.	Een onderwerp, waarvan de behandeling schriftelijk is verzocht door een of meer houders van aandelen die daartoe krachtens het volgende lid gerechtigd zijn, wordt opgenomen in de oproeping of op dezelfde wijze aangekondigd indien de vennootschap het verzoek niet later dan op de zestigste dag voor die van de vergadering heeft ontvangen en mits geen zwaarwichtig belang van de vennootschap zich daartegen verzet.
 
-2.	Om behandeling kan worden verzocht door een of meer houders van aandelen die alleen of gezamenlijk ten minste een honderdste gedeelte van het geplaatste kapitaal vertegenwoordigen of, indien de aandelen zijn toegelaten tot de officiële notering van een effectenbeurs in de zin van artikel 1, onderdeel e, van de Wet toezicht effectenverkeer 1995, die onder toezicht staat van de overheid of van een door de overheid erkende autoriteit of instelling, volgens de prijscourant van die effectenbeurs ten minste een waarde vertegenwoordigen van € 50 miljoen. Bij algemene maatregel van bestuur kan dit bedrag worden verhoogd of verlaagd in verband met de ontwikkeling van het loon- en prijspeil.
+2.	Om behandeling kan worden verzocht door een of meer houders van aandelen die alleen of gezamenlijk ten minste een honderdste gedeelte van het geplaatste kapitaal vertegenwoordigen of, indien de aandelen zijn toegelaten tot de handel op een markt in financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht ten minste een waarde vertegenwoordigen van € 50 miljoen. Bij algemene maatregel van bestuur kan dit bedrag worden verhoogd of verlaagd in verband met de ontwikkeling van het loon- en prijspeil.
 
 3.	In de statuten kan het vereiste gedeelte van het kapitaal of de waarde van de aandelen lager worden gesteld en de termijn voor indiening van het verzoek worden verkort.
 
 4.	Voor de toepassing van dit artikel worden met de houders van aandelen gelijkgesteld de houders van de certificaten van aandelen die met medewerking van de vennootschap zijn uitgegeven.
+
+5.	Tenzij de statuten anders bepalen, wordt aan de eis van schriftelijkheid van het verzoek als bedoeld in lid 1 voldaan indien dit verzoek elektronisch is vastgelegd.
 
 Artikel 115
 
@@ -1570,6 +1590,28 @@ Artikel 117
 
 6.	Aan de eis van schriftelijkheid van de volmacht wordt voldaan indien de volmacht elektronisch is vastgelegd.
 
+Artikel 117a
+
+1.	De statuten kunnen bepalen dat iedere aandeelhouder bevoegd is om, in persoon of bij een schriftelijk gevolmachtigde, door middel van een elektronisch communicatiemiddel aan de algemene vergadering deel te nemen, daarin het woord te voeren en het stemrecht uit te oefenen.
+
+2.	Voor de toepassing van lid 1 is vereist dat de aandeelhouder via het elektronisch communicatiemiddel kan worden geïdentificeerd, rechtstreeks kan kennisnemen van de verhandelingen ter vergadering en het stemrecht kan uitoefenen. De statuten kunnen bepalen dat bovendien is vereist dat de aandeelhouder via het elektronisch communicatiemiddel kan deelnemen aan de beraadslaging.
+
+3.	Bij of krachtens de statuten kunnen voorwaarden worden gesteld aan het gebruik van het elektronisch communicatiemiddel. Indien deze voorwaarden krachtens de statuten worden gesteld, worden deze bij de oproeping bekend gemaakt.
+
+4.	Lid 1 tot en met 3 zijn van overeenkomstige toepassing op de rechten van iedere houder van een met medewerking van de vennootschap uitgegeven certificaat van een aandeel.
+
+5.	Aan de eis van schriftelijkheid van de volmacht wordt voldaan indien de volmacht elektronisch is vastgelegd.
+
+Artikel 117b
+
+1.	De statuten kunnen bepalen dat stemmen die voorafgaand aan de algemene vergadering via een elektronisch communicatiemiddel worden uitgebracht gelijk worden gesteld met stemmen die ten tijde van de vergadering worden uitgebracht. Deze stemmen worden niet eerder uitgebracht dan op de in het derde lid bedoelde uiterste dag van registratie.
+
+2.	Voor de toepassing van lid 1 hebben als stem- of vergadergerechtigde te gelden zij die op een bij de bijeenroeping van een algemene vergadering te bepalen tijdstip die rechten hebben en als zodanig zijn ingeschreven in een door het bestuur aangewezen register, ongeacht wie ten tijde van de algemene vergadering de rechthebbenden op de aandelen zijn.
+
+3.	De uiterste dag van de registratie mag niet vroeger worden gesteld dan op de dertigste dag voor die van de vergadering.
+
+4.	Bij de oproeping wordt de dag van de registratie vermeld, alsmede de wijze waarop de stem- of vergadergerechtigden zich kunnen laten registreren en de wijze waarop zij hun rechten kunnen uitoefenen.
+
 Artikel 118
 
 1.	Slechts aandeelhouders hebben stemrecht. Iedere aandeelhouder heeft ten minste één stem. De statuten kunnen bepalen dat een aandeelhouder niet gerechtigd is tot uitoefening van het stemrecht zolang hij in gebreke is te voldoen aan een wettelijke of statutaire verplichting.
@@ -1588,7 +1630,7 @@ Artikel 118
 
 Artikel 118a
 
-1.	Indien met medewerking van de vennootschap certificaten van aandelen zijn uitgegeven die zijn toegelaten tot de officiële notering van een effectenbeurs in de zin van artikel 1, onderdeel e, van de Wet toezicht effectenverkeer 1995, die onder toezicht staat van de overheid of van een door de overheid erkende autoriteit of instelling, wordt de houder van de certificaten op zijn verzoek gevolmachtigd om met uitsluiting van de volmachtgever het stemrecht verbonden aan het betreffende aandeel of de betreffende aandelen uit te oefenen in een in de volmacht aangegeven algemene vergadering. Een aldus gevolmachtigde certificaathouder kan het stemrecht naar eigen inzicht uitoefenen. De artikelen 88 lid 4 en 89 lid 4 zijn niet van toepassing.
+1.	Indien met medewerking van de vennootschap certificaten van aandelen zijn uitgegeven die zijn toegelaten tot de handel op een markt in financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht wordt de houder van de certificaten op zijn verzoek gevolmachtigd om met uitsluiting van de volmachtgever het stemrecht verbonden aan het betreffende aandeel of de betreffende aandelen uit te oefenen in een in de volmacht aangegeven algemene vergadering. Een aldus gevolmachtigde certificaathouder kan het stemrecht naar eigen inzicht uitoefenen. De artikelen 88 lid 4 en 89 lid 4 zijn niet van toepassing.
 
 2.	De stemgerechtigde kan de volmacht slechts beperken, uitsluiten of een gegeven volmacht herroepen indien:
 	a.	een openbaar bod is aangekondigd of uitgebracht op aandelen in het kapitaal van de vennootschap of op certificaten of de gerechtvaardigde verwachting bestaat dat daartoe zal worden overgegaan, zonder dat over het bod overeenstemming is bereikt met de vennootschap;
@@ -1606,9 +1648,9 @@ De stemgerechtigde brengt het besluit tot beperking, intrekking of herroeping ge
 
 Artikel 119
 
-1.	De algemene vergadering van aandeelhouders kan het bestuur voor een periode van ten hoogste vijf jaren machtigen bij de bijeenroeping van een algemene vergadering te bepalen dat voor de toepassing van artikel 117 leden 1 en 2 als stem- of vergadergerechtigde hebben te gelden zij die op een daarbij te bepalen tijdstip die rechten hebben en als zodanig zijn ingeschreven in een door het bestuur aangewezen register, ongeacht wie ten tijde van de algemene vergadering de rechthebbenden op de aandelen of certificaten zijn. De machtiging kan ook voor onbepaalde tijd worden verleend bij de statuten.
+1.	De algemene vergadering van aandeelhouders kan het bestuur voor een periode van ten hoogste vijf jaren machtigen bij de bijeenroeping van een algemene vergadering te bepalen dat voor de toepassing van artikel 117 leden 1 en 2 en artikel 117a leden 1 en 4 als stem- of vergadergerechtigde hebben te gelden zij die op een daarbij te bepalen tijdstip die rechten hebben en als zodanig zijn ingeschreven in een door het bestuur aangewezen register, ongeacht wie ten tijde van de algemene vergadering de rechthebbenden op de aandelen of certificaten zijn. De machtiging kan ook voor onbepaalde tijd worden verleend bij de statuten.
 
-2.	De uiterste dag van registratie mag niet vroeger worden gesteld dan op de zevende dag voor die der vergadering.
+2.	De uiterste dag van registratie mag niet vroeger worden gesteld dan op de dertigste dag voor die der vergadering.
 
 3.	Bij de oproeping voor de vergadering wordt de dag van registratie vermeld alsmede de wijze waarop de stem- of vergadergerechtigden zich kunnen laten registreren en de wijze waarop zij hun rechten kunnen uitoefenen.
 
@@ -1678,7 +1720,9 @@ Gedurende het faillissement der naamloze vennootschap kan in haar statuten geen 
 
 Artikel 128
 
-De statuten kunnen bepalen dat besluitvorming van aandeelhouders op andere wijze dan in een vergadering kan geschieden, tenzij aandelen aan toonder of, met medewerking van de vennootschap, certificaten van aandelen zijn uitgegeven. Indien de statuten een zodanige regeling bevatten, is zulk een besluitvorming slechts mogelijk met algemene stemmen van de stemgerechtigde aandeelhouders. De stemmen kunnen alleen schriftelijk worden uitgebracht.
+1.	De statuten kunnen bepalen dat besluitvorming van aandeelhouders op andere wijze dan in een vergadering kan geschieden, tenzij aandelen aan toonder of, met medewerking van de vennootschap, certificaten van aandelen zijn uitgegeven. Indien de statuten een zodanige regeling bevatten, is zulk een besluitvorming slechts mogelijk met algemene stemmen van de stemgerechtigde aandeelhouders. De stemmen worden schriftelijk uitgebracht.
+
+2.	Tenzij de statuten anders bepalen kunnen de stemmen ook langs elektronische weg worden uitgebracht.
 
 Afdeling 5. Het bestuur van de naamloze vennootschap en het toezicht op het bestuur
 
@@ -1860,7 +1904,7 @@ Artikel 153
 	c.	bij de vennootschap en haar afhankelijke maatschappijen, tezamen in de regel ten minste honderd werknemers in Nederland werkzaam zijn.
 
 3.	De verplichting tot het doen van een opgaaf geldt niet voor:
-	a.	een vennootschap die afhankelijke maatschappij is van een rechtspersoon waarop de artikelen 63f tot en met 63j, de artikelen 158 tot en met 161 en 164 of de artikelen 268 tot en met 271 en 274 van toepassing zijn, danwel een vennootschap die afhankelijke maatschappij is van een Europese naamloze vennootschap in de zin van Verordening (EG) Nr. 2157/2001 (Pb L 294) waarvan in de statuten is bepaald dat de artikelen 158 leden 1 tot en met 12, 159, 161, 161a en 164 van overeenkomstige toepassing zijn,
+	a.	een vennootschap die afhankelijke maatschappij is van een rechtspersoon waarop de artikelen 63f tot en met 63j, de artikelen 158 tot en met 161 en 164 of de artikelen 268 tot en met 271 en 274 van toepassing zijn, een vennootschap die afhankelijke maatschappij is van een Europese naamloze vennootschap in de zin van Verordening (EG) Nr. 2157/2001 (Pb L 294) waarvan in de statuten is bepaald dat de artikelen 158 leden 1 tot en met 12, 159, 161, 161a en 164 van overeenkomstige toepassing zijn, danwel een vennootschap die afhankelijke maatschappij is van een Europese coöperatieve vennootschap in de zin van Verordening (EG) Nr. 1435/2003 (PbEU L 207) waarvan in de statuten is bepaald dat de artikelen 158 leden 1 tot en met 12, 159, 161a en 164 van overeenkomstige toepassing zijn en dat het ontslag van leden van het toezichthoudend orgaan geschiedt door de algemene vergadering, bedoeld in artikel 52 van de Verordening, bij volstrekte meerderheid van de uitgebrachte stemmen vertegenwoordigend ten minste een derde van het totale aantal stemrechten op grond van de statuten,
 	b.	een vennootschap wier werkzaamheid zich uitsluitend of nagenoeg uitsluitend beperkt tot het beheer en de financiering van groepsmaatschappijen, en van haar en hun deelnemingen in andere rechtspersonen, mits de werknemers in dienst van de vennootschap en de groepsmaatschappijen in meerderheid buiten Nederland werkzaam zijn,
 	c.	een vennootschap die uitsluitend of nagenoeg uitsluitend aan een vennootschap als bedoeld onder b of in artikel 263 lid 3 onder b, en aan de in die bepalingen genoemde groepsmaatschappijen en rechtspersonen diensten ten behoeve van het beheer en de financiering verleent, en
 	d.	een vennootschap waarin voor ten minste de helft van het geplaatste kapitaal volgens een onderlinge regeling tot samenwerking wordt deelgenomen door twee of meer rechtspersonen waarop de artikelen 63f tot en met 63j, de artikelen 158 tot en met 161 en 164 of de artikelen 268 tot en met 271 en 274 van toepassing zijn of die afhankelijke maatschappij zijn van zulk een rechtspersoon.
@@ -1932,7 +1976,7 @@ Artikel 158
 
 8.	De ondernemingskamer doet de ondernemingsraad oproepen. Tegen de beslissing van de ondernemingskamer staat geen rechtsmiddel open. De ondernemingskamer kan geen veroordeling in de proceskosten uitspreken.
 
-9.	De algemene vergadering kan bij volstrekte meerderheid van de uitgebrachte stemmen vertegenwoordigend ten minste een derde van het geplaatste kapitaal de voordracht afwijzen. Indien niet ten minste een derde van het geplaatste kapitaal ter vergadering vertegenwoordigd was, kan een nieuwe vergadering worden bijeengeroepen waarin de voordracht kan worden afgewezen met volstrekte meederheid van de uitgebrachte stemmen. Alsdan maakt de raad van commissarissen een nieuwe voordracht op. De leden 5 tot en met 8 zijn van toepassing. Indien de algemene vergadering de voorgedragen persoon niet benoemt en niet besluit tot afwijzing van de voordracht, benoemt de raad van commissarissen de voorgedragen persoon.
+9.	De algemene vergadering kan bij volstrekte meerderheid van de uitgebrachte stemmen, vertegenwoordigend ten minste een derde van het geplaatste kapitaal, de voordracht afwijzen. Indien de aandeelhouders bij volstrekte meerderheid van stemmen hun steun aan de kandidaat onthouden, maar deze meerderheid niet ten minste een derde van het geplaatste kapitaal vertegenwoordigde, kan een nieuwe vergadering worden bijeengeroepen waarin de voordracht kan worden afgewezen met volstrekte meerderheid van stemmen. Alsdan maakt de raad van commissarissen een nieuwe voordracht op. De leden 5 tot en met 8 zijn van toepassing. Indien de algemene vergadering de voorgedragen persoon niet benoemt en niet besluit tot afwijzing van de voordracht, benoemt de raad van commissarissen de voorgedragen persoon.
 
 10.	De algemene vergadering van aandeelhouders kan de bevoegdheid die haar volgens lid 5 toekomt voor een door haar te bepalen duur van telkens ten hoogste twee achtereenvolgende jaren, overdragen aan een commissie van aandeelhouders waarvan zij de leden aanwijst; in dat geval doet de raad van commissarissen aan de commissie de mededeling bedoeld in lid 5. De algemene vergadering kan te allen tijde de overdracht ongedaan maken.
 
@@ -1986,7 +2030,7 @@ Artikel 164
 1.	Aan de goedkeuring van de raad van commissarissen zijn onderworpen de besluiten van het bestuur omtrent:
 	a.	uitgifte en verkrijging van aandelen in en schuldbrieven ten laste van de vennootschap of van schuldbrieven ten laste van een commanditaire vennootschap of vennootschap onder firma waarvan de vennootschap volledig aansprakelijke vennote is;
 	b.	medewerking aan de uitgifte van certificaten van aandelen;
-	c.	aanvrage van notering of van intrekking der notering van de onder a en b bedoelde stukken in de prijscourant van enige beurs;
+	c.	het aanvragen van toelating van de onder a en b bedoelde stukken tot de handel op een markt in financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht dan wel het aanvragen van een intrekking van zodanige toelating;
 	d.	het aangaan of verbreken van duurzame samenwerking van de vennootschap of een afhankelijke maatschappij met een andere rechtspersoon of vennootschap dan wel als volledig aansprakelijke vennote in een commanditaire vennootschap of vennootschap onder firma, indien deze samenwerking of verbreking van ingrijpende betekenis is voor de vennootschap;
 	e.	het nemen van een deelneming ter waarde van ten minste een vierde van het bedrag van het geplaatste kapitaal met de reserves volgens de balans met toelichting van de vennootschap, door haar of een afhankelijke maatschappij in het kapitaal van een andere vennootschap, alsmede het ingrijpend vergroten of verminderen van zulk een deelneming;
 	f.	investeringen welke een bedrag gelijk aan ten minste een vierde gedeelte van het geplaatste kapitaal met de reserves der vennootschap volgens haar balans met toelichting vereisen;
@@ -2381,13 +2425,13 @@ Artikel 203a
 
 2.	Indien vreemd geld is gestort, moet uit de verklaring blijken tegen hoeveel geld het vrijelijk kon worden gewisseld op een dag waarop daarmee krachtens artikel 191a lid 3 kon worden voldaan aan de stortingsplicht.
 
-3.	Zulk een verklaring kan slechts worden afgelegd door een bankier , die een kredietinstelling is als bedoeld in artikel 1, eerste lid, onderdeel a, onder 1°, van de Wet toezicht kredietwezen 1992 en die hetzij als kredietinstelling is geregistreerd ingevolge artikel 52 van de Wet toezicht kredietwezen 1992, hetzij in een lidstaat van de Europese Gemeenschappen of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte is onderworpen aan bedrijfseconomisch toezicht van overheidswege. Zij kan slechts worden afgegeven aan een notaris.
+3.	Een verklaring als bedoeld in het eerste lid kan slechts worden afgelegd door een financiële onderneming als bedoeld in artikel 1:1 van de Wet op het financieel toezicht die in de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte het bedrijf van bank mag uitoefenen. De verklaring kan slechts worden afgegeven aan een notaris.
 
 4.	Worden voor de oprichting aan de rekening, bedoeld in onderdeel b van lid 1, bedragen onttrokken, dan zijn de oprichters hoofdelijk jegens de vennootschap verbonden tot vergoeding van die bedragen, totdat de vennootschap de onttrekkingen uitdrukkelijk heeft bekrachtigd.
 
-5.	De notaris moet de bankiers wier verklaring hij heeft ontvangen terstond verwittigen van de oprichting. Indien de oprichting niet doorgaat, moet hij hun de verklaring terugzenden.
+5.	De notaris moet de bank wier verklaring hij heeft ontvangen terstond verwittigen van de oprichting. Indien de oprichting niet doorgaat, moet hij de bank de verklaring terugzenden.
 
-6.	Indien na de oprichting in vreemd geld is gestort, legt de vennootschap binnen twee weken na de storting een verklaring, als bedoeld in lid 2, van een in het derde lid bedoelde bankier neer ten kantore van het handelsregister.
+6.	Indien na de oprichting in vreemd geld is gestort, legt de vennootschap binnen twee weken na de storting een verklaring, als bedoeld in lid 2, van een in het derde lid bedoelde bank neer ten kantore van het handelsregister.
 
 Artikel 204
 
@@ -2423,7 +2467,7 @@ Artikel 204b
 
 4.	De vennootschap legt, binnen acht dagen na de dag waarop de aandelen zijn genomen dan wel waarop de bijstorting opeisbaar werd, de accountantsverklaring bij de inbreng of een afschrift daarvan neer ten kantore van het handelsregister met opgave van de namen van de inbrengers en van het bedrag van het aldus gestorte deel van het geplaatste kapitaal.
 
-5.	Dit artikel is niet van toepassing voor zover de inbreng bestaat uit aandelen, certificaten van aandelen, daarin converteerbare rechten of winstbewijzen van een andere rechtspersoon, waarop de vennootschap een openbaar bod heeft uitgebracht, mits deze effecten of een deel daarvan zijn opgenomen in de prijscourant van een effectenbeurs of geregeld op de incourante markt worden verhandeld.
+5.	Dit artikel is niet van toepassing voor zover de inbreng bestaat uit aandelen, certificaten van aandelen, daarin converteerbare rechten of winstbewijzen van een andere rechtspersoon, waarop de vennootschap een openbaar bod heeft uitgebracht, mits deze effecten of een deel daarvan zijn toegelaten tot de handel op een markt in financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.
 
 Artikel 204c
 
@@ -2551,7 +2595,7 @@ Artikel 209
 
 Artikel 210
 
-1.	Jaarlijks binnen vijf maanden na afloop van het boekjaar der vennootschap, behoudens verlenging van deze termijn met ten hoogste zes maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de aandeelhouders ter inzage ten kantore van de vennootschap. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de aandeelhouders, tenzij de artikelen 396 lid 6, of 403 voor de vennootschap gelden. De termijn kan voor beheerders waaraan ingevolge de Wet toezicht beleggingsinstellingen (Stb. 1990, 380) een vergunning is verleend, bij of krachtens die wet worden bekort. Het bestuur van de vennootschap waarop de artikelen 268 tot en met 271 en 274 van toepassing zijn, zendt de jaarrekening ook toe aan de in artikel 268 lid 11 bedoelde ondernemingsraad.
+1.	Jaarlijks binnen vijf maanden na afloop van het boekjaar der vennootschap, behoudens verlenging van deze termijn met ten hoogste zes maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de aandeelhouders ter inzage ten kantore van de vennootschap. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de aandeelhouders, tenzij de artikelen 396 lid 6, of 403 voor de vennootschap gelden. Het bestuur van de vennootschap waarop de artikelen 268 tot en met 271 en 274 van toepassing zijn, zendt de jaarrekening ook toe aan de in artikel 268 lid 11 bedoelde ondernemingsraad.
 
 2.	De jaarrekening wordt ondertekend door de bestuurders en door de commissarissen; ontbreekt de ondertekening van een of meer hunner, dan wordt daarvan onder opgave van reden melding gemaakt.
 
@@ -2629,6 +2673,8 @@ Artikel 220
 
 2.	Voor de toepassing van dit artikel worden met houders van aandelen gelijkgesteld de houders van de certificaten op naam van aandelen, welke met medewerking van de vennootschap zijn uitgegeven.
 
+3.	Tenzij de statuten anders bepalen, wordt aan de eis van schriftelijkheid van het verzoek als bedoeld in lid 1 voldaan indien dit verzoek elektronisch is vastgelegd.
+
 Artikel 221
 
 1.	De voorzieningenrechter van de rechtbank verleent, na verhoor of oproeping van de vennootschap, de verzochte machtiging, indien de verzoekers summierlijk hebben doen blijken, dat de in het vorige artikel gestelde voorwaarden zijn vervuld, en dat zij een redelijk belang hebben bij het houden van de vergadering. De voorzieningenrechter van de rechtbank stelt de vorm en de termijnen voor de oproeping tot de algemene vergadering vast. Hij kan tevens iemand aanwijzen, die met de leiding van de algemene vergadering zal zijn belast.
@@ -2647,19 +2693,23 @@ Artikel 223
 
 2.	Zijn er met medewerking van de vennootschap certificaten op naam van haar aandelen uitgegeven, dan worden de houders daarvan opgeroepen door aankondiging in een landelijk verspreid dagblad. De statuten kunnen deze oproeping anders regelen.
 
+3.	Tenzij de statuten anders bepalen kan, indien de houder van aandelen op naam alsmede de houder van de certificaten van aandelen, welke met medewerking van de vennootschap zijn uitgegeven, hiermee instemt, de oproeping geschieden door een langs elektronische weg toegezonden leesbaar en reproduceerbaar bericht aan het adres dat door hem voor dit doel aan de vennootschap is bekend gemaakt.
+
 Artikel 224
 
-1.	De oproepingsbrieven vermelden de te behandelen onderwerpen. Bij de oproeping in een dag- of nieuwsblad worden de te behandelen onderwerpen vermeld of wordt meegedeeld dat de houders van met medewerking van de vennootschap uitgegeven certificaten van haar aandelen er ten kantore van de vennootschap kennis van kunnen nemen.
+1.	De oproeping vermeldt de te behandelen onderwerpen. Bij de oproeping in een dag- of nieuwsblad worden de te behandelen onderwerpen vermeld of wordt meegedeeld dat de houders van met medewerking van de vennootschap uitgegeven certificaten van haar aandelen er ten kantore van de vennootschap kennis van kunnen nemen.
 
 2.	Omtrent onderwerpen waarvan de behandeling niet bij de oproeping of op de zelfde wijze is aangekondigd met inachtneming van de voor oproeping gestelde termijn, kan niet wettig worden besloten, tenzij het besluit met algemene stemmen wordt genomen in een vergadering waarin het gehele geplaatste kapitaal vertegenwoordigd is.
 
-3.	Mededelingen welke krachtens de wet of de statuten aan de algemene vergadering moeten worden gericht, kunnen geschieden door opneming in de oproepingsbrieven alsmede, in voorkomend geval, hetzij in de aankondiging in een dag- of nieuwsblad, hetzij in het stuk dat ter kennisneming ten kantore van de vennootschap is neergelegd, mits daarvan in de aankondiging melding wordt gemaakt.
+3.	Mededelingen welke krachtens de wet of de statuten aan de algemene vergadering moeten worden gericht, kunnen geschieden door opneming in de oproeping alsmede, in voorkomend geval, hetzij in de aankondiging in een dag- of nieuwsblad, hetzij in het stuk dat ter kennisneming ten kantore van de vennootschap is neergelegd, mits daarvan in de aankondiging melding wordt gemaakt.
 
 Artikel 224a
 
 1.	Een onderwerp, waarvan de behandeling schriftelijk is verzocht door een of meer houders van aandelen die alleen of gezamenlijk ten minste een honderdste gedeelte van het geplaatste kapitaal vertegenwoordigen, wordt opgenomen in de oproeping of op dezelfde wijze aangekondigd indien de vennootschap het verzoek niet later dan op de dertigste dag voor die van de vergadering heeft ontvangen en mits geen zwaarwichtig belang van de vennootschap zich daartegen verzet. In de statuten kan het vereiste gedeelte van het kapitaal lager worden gesteld en de termijn voor indiening van het verzoek worden verkort.
 
 2.	Voor de toepassing van dit artikel worden met de houders van aandelen gelijkgesteld de houders van de certificaten van aandelen die met medewerking van de vennootschap zijn uitgegeven.
+
+3.	Tenzij de statuten anders bepalen, wordt aan de eis van schriftelijkheid van het verzoek als bedoeld in lid 1 voldaan indien dit verzoek elektronisch is vastgelegd.
 
 Artikel 225
 
@@ -2680,6 +2730,22 @@ Artikel 227
 4.	De bestuurders en de commissarissen hebben als zodanig in de algemene vergaderingen een raadgevende stem.
 
 5.	Aan de eis van schriftelijkheid van de volmacht wordt voldaan indien de volmacht elektronisch is vastgelegd.
+
+Artikel 227a
+
+1.	De statuten kunnen bepalen dat iedere aandeelhouder bevoegd is om, in persoon of bij een schriftelijk gevolmachtigde, door middel van een elektronisch communicatiemiddel aan de algemene vergadering deel te nemen, daarin het woord te voeren en het stemrecht uit te oefenen.
+
+2.	Voor de toepassing van lid 1 is vereist dat de aandeelhouder via het elektronisch communicatiemiddel kan worden geïdentificeerd, rechtstreeks kan kennisnemen van de verhandelingen ter vergadering en het stemrecht kan uitoefenen. De statuten kunnen bepalen dat bovendien is vereist dat de aandeelhouder via het elektronisch communicatiemiddel kan deelnemen aan de beraadslaging.
+
+3.	Bij of krachtens de statuten kunnen voorwaarden worden gesteld aan het gebruik van het elektronisch communicatiemiddel. Indien deze voorwaarden krachtens de statuten worden gesteld, worden deze bij de oproeping bekend gemaakt.
+
+4.	Lid 1 tot en met 3 zijn van overeenkomstige toepassing op de rechten van een met medewerking van de vennootschap uitgegeven certificaat van een aandeel.
+
+5.	Aan de eis van schriftelijkheid van de volmacht wordt voldaan indien de volmacht elektronisch is vastgelegd.
+
+Artikel 227b
+
+De statuten kunnen bepalen dat stemmen die voorafgaand aan de algemene vergadering via een elektronisch communicatiemiddel worden uitgebracht, doch niet eerder dan op de dertigste dag voor die van de vergadering, gelijk worden gesteld met stemmen die ten tijde van de vergadering worden uitgebracht.
 
 Artikel 228
 
@@ -2765,7 +2831,9 @@ Gedurende het faillissement der vennootschap kan in haar statuten geen wijziging
 
 Artikel 238
 
-De statuten kunnen bepalen dat besluitvorming van aandeelhouders op andere wijze dan in een vergadering kan geschieden, tenzij met medewerking van de vennootschap certificaten op naam van aandelen zijn uitgegeven. Indien de statuten een zodanige regeling bevatten, is zulk een besluitvorming slechts mogelijk met algemene stemmen van de stemgerechtigde aandeelhouders. De stemmen kunnen alleen schriftelijk worden uitgebracht.
+1.	De statuten kunnen bepalen dat besluitvorming van aandeelhouders op andere wijze dan in een vergadering kan geschieden, tenzij met medewerking van de vennootschap certificaten op naam van aandelen zijn uitgegeven. Indien de statuten een zodanige regeling bevatten, is zulk een besluitvorming slechts mogelijk met algemene stemmen van de stemgerechtigde aandeelhouders. De stemmen worden schriftelijk uitgebracht.
+
+2.	Tenzij de statuten anders bepalen kunnen de stemmen ook langs elektronische weg worden uitgebracht.
 
 Afdeling 5. Het bestuur van de vennootschap en het toezicht op het bestuur
 
@@ -2960,7 +3028,7 @@ Artikel 264
 
 4.	In de eerstvolgende vergadering nadat de vennootschap waarop de artikelen 268 tot en met 274 of 268 tot en met 271 en 274 van toepassing zijn gaat voldoen aan de voorwaarden bedoeld in de artikelen 263 lid 3, 264 lid 2, 265 of 265a, doet het bestuur aan de algemene vergadering het voorstel in de statuten de wijze van benoeming en ontslag van commissarissen en de taak en bevoegdheden van de raad van commissarissen te regelen zonder toepassing van de artikelen 268 tot en met 274 respectievelijk de artikelen 268 tot en met 271 en 274, dan wel het voorstel deze artikelen geheel of met uitzondering van artikel 272 te blijven toepassen. Het besluit wordt genomen met volstrekte meerderheid van stemmen. De bevoegdheid van de algemene vergadering tot het nemen van een besluit ter uitvoering van dit artikel kan niet worden beperkt.
 
-5.	Uiterlijk twaalf maanden nadat het besluit bedoeld in lid 4 is genomen, legt het bestuur aan de algemene vergadering een voorstel tot wijziging van de statuten voor. Indien de algemene vergadering geen besluit tot statutenwijziging neemt, stelt de ondernemingskamer van het gerechtshof te Amsterdam op verzoek van degene die daartoe krachtens het volgende lid bevoegd is, de statuten vast.
+5.	Uiterlijk twaalf maanden nadat het besluit bedoeld in lid 4 is genomen, legt het bestuur aan de algemene vergadering een voorstel tot wijziging van de statuten voor. Indien de algemene vergadering geen besluit tot statutenwijziging neemt, stelt de ondernemingskamer van het gerechtshof te Amsterdam op verzoek van degene die daartoe krachtens het volgende lid bevoegd is, de statuten vast. De laatste twee zinnen van lid 4 zijn van overeenkomstige toepassing.
 
 6.	Een verzoek tot vaststelling van de statuten kan worden ingediend door een daartoe aangewezen vertegenwoordiger van het bestuur of van de raad van commissarissen en door degene die gerechtigd is tot agendering ingevolge artikel 224a.
 
@@ -3013,7 +3081,7 @@ Artikel 268
 
 8.	De ondernemingskamer doet de ondernemingsraad oproepen. Tegen de beslissing van de ondernemingskamer staat geen rechtsmiddel open. De ondernemingskamer kan geen veroordeling in de proceskosten uitspreken.
 
-9.	De algemene vergadering kan bij volstrekte meerderheid van de uitgebrachte stemmen vertegenwoordigend ten minste een derde van het geplaatste kapitaal de voordracht afwijzen. Indien niet ten minste een derde van het geplaatste kapitaal ter vergadering vertegenwoordigd was, kan een nieuwe vergadering worden bijeengeroepen waarin de voordracht kan worden afgewezen met volstrekte meederheid van de uitgebrachte stemmen. Alsdan maakt de raad van commissarissen een nieuwe voordracht op. De leden 5 tot en met 8 zijn van toepassing. Indien de algemene vergadering de voorgedragen persoon niet benoemt en niet besluit tot afwijzing van de voordracht, benoemt de raad van commissarissen de voorgedragen persoon.
+9.	De algemene vergadering kan bij volstrekte meerderheid van de uitgebrachte stemmen, vertegenwoordigend ten minste een derde van het geplaatste kapitaal, de voordracht afwijzen. Indien de aandeelhouders bij volstrekte meerderheid van stemmen hun steun aan de kandidaat onthouden, maar deze meerderheid niet ten minste een derde van het geplaatste kapitaal vertegenwoordigde, kan een nieuwe vergadering worden bijeengeroepen waarin de voordracht kan worden afgewezen met volstrekte meerderheid van stemmen. Alsdan maakt de raad van commissarissen een nieuwe voordracht op. De leden 5 tot en met 8 zijn van toepassing. Indien de algemene vergadering de voorgedragen persoon niet benoemt en niet besluit tot afwijzing van de voordracht, benoemt de raad van commissarissen de voorgedragen persoon.
 
 10.	De algemene vergadering van aandeelhouders kan de bevoegdheid die haar volgens lid 5 toekomt voor een door haar te bepalen duur van telkens ten hoogste twee achtereenvolgende jaren, overdragen aan een commissie van aandeelhouders waarvan zij de leden aanwijst; in dat geval geeft de raad van commissarissen aan de commissie de kennisgeving van lid 5. De algemene vergadering kan te allen tijde de overdracht ongedaan maken.
 
@@ -3067,7 +3135,7 @@ Artikel 274
 1.	Aan de goedkeuring van de raad van commissarissen zijn onderworpen de besluiten van het bestuur omtrent:
 	a.	uitgifte en verkrijging van aandelen in en schuldbrieven ten laste van de vennootschap of van schuldbrieven ten laste van een commanditaire vennootschap of vennootschap onder firma waarvan de vennootschap volledig aansprakelijke vennote is;
 	b.	medewerking aan de uitgifte van certificaten op naam van aandelen;
-	c.	aanvrage van notering of van intrekking der notering van de onder a bedoelde schuldbrieven en de onder b bedoelde certificaten in de prijscourant van enige beurs;
+	c.	het aanvragen van toelating van de onder a en b bedoelde schuldbrieven onderscheidenlijk certificaten tot de handel op een markt in financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht dan wel het aanvragen van een intrekking van zodanige toelating;
 	d.	het aangaan of verbreken van duurzame samenwerking van de vennootschap of een afhankelijke maatschappij met een andere rechtspersoon of vennootschap dan wel als volledig aansprakelijke vennote in een commanditaire vennootschap of vennootschap onder firma, indien deze samenwerking of verbreking van ingrijpende betekenis is voor de vennootschap;
 	e.	het nemen van een deelneming ter waarde van ten minste een vierde van het bedrag van het geplaatste kapitaal met de reserves volgens de balans met toelichting van de vennootschap, door haar of een afhankelijke maatschappij in het kapitaal van een andere vennootschap, alsmede het ingrijpend vergroten of verminderen van zulk een deelneming;
 	f.	investeringen welke een bedrag gelijk aan ten minste een vierde gedeelte van het geplaatste kapitaal met de reserves der vennootschap volgens haar balans met toelichting vereisen;
@@ -3239,7 +3307,7 @@ Een stichting die een of meer ondernemingen in stand houdt welke ingevolge de we
 
 Artikel 300
 
-1.	Jaarlijks binnen zes maanden na afloop van het boekjaar van een stichting als bedoeld in artikel 360 lid 3, behoudens verlenging van deze termijn met ten hoogste vijf maanden door het in lid 3 bedoelde orgaan op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor hen die deel uitmaken van het in lid 3 bedoelde orgaan ter inzage ten kantore van de stichting. Binnen deze termijn legt het bestuur ook de krachtens artikel 392 lid 1 toe te voegen gegevens ter inzage voor hen die deel uitmaken van het in lid 3 bedoelde orgaan en het jaarverslag, tenzij artikel 396 lid 6, eerste volzin, voor zover het betreft het jaarverslag, of artikel 403 voor de stichting gelden. De termijn kan voor beheerders waaraan ingevolge de Wet toezicht beleggingsinstellingen een vergunning is verleend, bij of krachtens die wet worden bekort. Zij die deel uitmaken van het in lid 3 bedoelde orgaan kunnen kosteloos een afschrift van deze stukken verkrijgen.
+1.	Jaarlijks binnen zes maanden na afloop van het boekjaar van een stichting als bedoeld in artikel 360 lid 3, behoudens verlenging van deze termijn met ten hoogste vijf maanden door het in lid 3 bedoelde orgaan op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor hen die deel uitmaken van het in lid 3 bedoelde orgaan ter inzage ten kantore van de stichting. Binnen deze termijn legt het bestuur ook de krachtens artikel 392 lid 1 toe te voegen gegevens ter inzage voor hen die deel uitmaken van het in lid 3 bedoelde orgaan en het jaarverslag, tenzij artikel 396 lid 6, eerste volzin, voor zover het betreft het jaarverslag, of artikel 403 voor de stichting gelden. Zij die deel uitmaken van het in lid 3 bedoelde orgaan kunnen kosteloos een afschrift van deze stukken verkrijgen.
 
 2.	De jaarrekening wordt ondertekend door de bestuurders en door hen die deel uitmaken van het toezicht houdende orgaan; ontbreekt de ondertekening van een of meer hunner, dan wordt daarvan onder opgave van reden melding gemaakt.
 
@@ -3392,7 +3460,7 @@ Artikel 316
 
 1.	Ten minste een van de te fuseren rechtspersonen moet, op straffe van gegrondverklaring van een verzet als bedoeld in het volgende lid, voor iedere schuldeiser van deze rechtspersonen die dit verlangt zekerheid stellen of hem een andere waarborg geven voor de voldoening van zijn vordering. Dit geldt niet, indien de schuldeiser voldoende waarborgen heeft of de vermogenstoestand van de verkrijgende rechtspersoon na de fusie niet minder waarborg zal bieden dat de vordering zal worden voldaan, dan er voordien is.
 
-2.	Tot een maand nadat alle te fuseren rechtspersonen de nederlegging van het voorstel tot fusie hebben aangekondigd kan iedere schuldeiser door een verzoekschrift aan de rechtbank tegen het voorstel tot fusie in verzet komen met vermelding van de waarborg die wordt verlangt.
+2.	Tot een maand nadat alle te fuseren rechtspersonen de nederlegging van het voorstel tot fusie hebben aangekondigd kan iedere schuldeiser door een verzoekschrift aan de rechtbank tegen het voorstel tot fusie in verzet komen met vermelding van de waarborg die wordt verlangd.
 
 3.	Voordat de rechter beslist, kan hij de rechtspersonen in de gelegenheid stellen binnen een door hem gestelde termijn een door hem omschreven waarborg te geven.
 
@@ -3498,7 +3566,7 @@ Deze afdeling is van toepassing, indien een naamloze of besloten vennootschap fu
 
 Artikel 325
 
-1.	Indien aandelen of certificaten van aandelen in het kapitaal van een te fuseren vennootschap zijn opgenomen in de prijscourant van een beurs, kan de ruilverhouding afhankelijk zijn van de prijs van die aandelen onderscheidenlijk certificaten op die beurs op een of meer in het voorstel tot fusie te bepalen tijdstippen, gelegen voor de dag waarop de fusie van kracht wordt.
+1.	Indien aandelen of certificaten van aandelen in het kapitaal van een te fuseren vennootschap zijn toegelaten tot de handel op een markt in financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, kan de ruilverhouding afhankelijk zijn van de prijs van die aandelen onderscheidenlijk certificaten op die markt op een of meer in het voorstel tot fusie te bepalen tijdstippen, gelegen voor de dag waarop de fusie van kracht wordt.
 
 2.	Indien krachtens de ruilverhouding van de aandelen recht bestaat op geld of schuldvorderingen, mag het gezamenlijke bedrag daarvan een tiende van het nominale bedrag van de toegekende aandelen niet te boven gaan.
 
@@ -3819,7 +3887,7 @@ Ten tijde van de splitsing moet de waarde van het deel van het vermogen dat de v
 
 Artikel 334x
 
-1.	Indien aandelen of certificaten van aandelen in het kapitaal van een splitsende vennootschap zijn opgenomen in de prijscourant van een beurs, kan de ruilverhouding afhankelijk zijn van de prijs van die aandelen onderscheidenlijk certificaten op die beurs op een of meer in het voorstel tot splitsing te bepalen tijdstippen, gelegen voor de dag waarop de splitsing van kracht wordt.
+1.	Indien aandelen of certificaten van aandelen in het kapitaal van een splitsende vennootschap zijn toegelaten tot de handel op een markt in financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, kan de ruilverhouding afhankelijk zijn van de prijs van die aandelen onderscheidenlijk certificaten op die beurs op een of meer in het voorstel tot splitsing te bepalen tijdstippen, gelegen voor de dag waarop de splitsing van kracht wordt.
 
 2.	Indien krachtens de ruilverhouding van de aandelen recht bestaat op geld of schuldvorderingen, mag het gezamenlijke bedrag daarvan een tiende van het nominale bedrag van de door de betrokken vennootschap toegekende aandelen niet te boven gaan.
 
@@ -4033,7 +4101,7 @@ Tot het indienen van een verzoek als bedoeld in artikel 345 is voorts bevoegd ee
 
 Artikel 348
 
-Indien de rechtspersoon wegens het bedrijf dat hij uitoefent, is onderworpen aan het toezicht van de Pensioen- & Verzekeringskamer of van De Nederlandsche Bank N.V., doet de griffier een afschrift van het verzoekschrift ook aan de toezichthoudende instelling toekomen.
+Indien de rechtspersoon wegens het bedrijf dat hij uitoefent, is onderworpen aan het toezicht van de Nederlandsche Bank N.V., doet de griffier een afschrift van het verzoekschrift ook aan de toezichthoudende instelling toekomen.
 
 Artikel 349
 
@@ -4077,7 +4145,7 @@ Artikel 353
 
 1.	Het verslag van de uitkomst van het onderzoek wordt ter griffie van het gerechtshof te Amsterdam nedergelegd.
 
-2.	De advocaat-generaal bij het gerechtshof, de rechtspersoon, alsmede de verzoekers en hun procureurs, ontvangen een exemplaar van het verslag. In het geval, bedoeld in artikel 348, ontvangt ook de Pensioen- & Verzekeringskamer, onderscheidenlijk De Nederlandsche Bank N.V. een exemplaar van het verslag. De ondernemingskamer kan bepalen dat het verslag voorts geheel of gedeeltelijk ter inzage ligt voor de door haar aan te wijzen andere personen of voor een ieder.
+2.	De advocaat-generaal bij het gerechtshof, de rechtspersoon, alsmede de verzoekers en hun procureurs, ontvangen een exemplaar van het verslag. In het geval, bedoeld in artikel 348, ontvangt ook De Nederlandsche Bank N.V. een exemplaar van het verslag. De ondernemingskamer kan bepalen dat het verslag voorts geheel of gedeeltelijk ter inzage ligt voor de door haar aan te wijzen andere personen of voor een ieder.
 
 3.	Het is aan anderen dan de rechtspersoon verboden mededelingen aan derden te doen uit het verslag, voor zover dat niet voor een ieder ter inzage ligt, tenzij zij daartoe op hun verzoek door de voorzitter van de ondernemingskamer zijn gemachtigd. Een vereniging van werknemers is echter zonder een zodanige machtiging bevoegd tot het verstrekken van mededelingen uit het verslag aan de ondernemingsraad, die aan een door de rechtspersoon gedreven onderneming is verbonden.
 
@@ -4095,7 +4163,7 @@ Artikel 355
 
 3.	De artikelen 348 en 349a zijn van overeenkomstige toepassing.
 
-4.	In het geval, bedoeld in artikel 348, neemt de ondernemingskamer geen beslissing, alvorens de Pensioen- & Verzekeringskamer onderscheidenlijk De Nederlandsche Bank N.V. in de gelegenheid te hebben gesteld over het verzoek te worden gehoord.
+4.	In het geval, bedoeld in artikel 348, neemt de ondernemingskamer geen beslissing, alvorens De Nederlandsche Bank N.V. in de gelegenheid te hebben gesteld over het verzoek te worden gehoord.
 
 5.	De ondernemingskamer kan haar beslissing voor een door haar te bepalen termijn aanhouden, indien de rechtspersoon op zich neemt, bepaalde maatregelen te treffen die een einde maken aan het wanbeleid of die de gevolgen welke daaruit zijn voortgevloeid, zoveel mogelijk ongedaan maken of beperken.
 
@@ -4129,7 +4197,7 @@ Artikel 358
 
 2.	De griffier der ondernemingskamer doet ten kantore van het handelsregister, waar de rechtspersoon of vennootschap is ingeschreven, een afschrift van de beschikkingen der ondernemingskamer nederleggen. Van beschikkingen die niet voorlopig ten uitvoer kunnen worden gelegd, geschiedt de nederlegging zodra zij in kracht van gewijsde zijn gegaan.
 
-3.	In het geval, bedoeld in artikel 348, ontvangt de Pensioen- & Verzekeringskamer, onderscheidenlijk De Nederlandsche Bank N.V. van de griffier een afschrift van de beschikkingen van de ondernemingskamer.
+3.	In het geval, bedoeld in artikel 348, ontvangt De Nederlandsche Bank N.V. van de griffier een afschrift van de beschikkingen van de ondernemingskamer.
 
 Artikel 359
 
@@ -4279,7 +4347,7 @@ Artikel 370
 
 Artikel 371
 
-1.	Behoren tot de vlottende activa aandelen en andere vormen van belangen in niet in de consolidatie betrokken maatschappijen als bedoeld in artikel 361 lid 4, dan worden deze afzonderlijk onder de effecten opgenomen. Vermeld wordt de gezamenlijke waarde van de overige tot de vlottende activa behorende effecten die in de prijscourant van een Nederlandse of buitenlandse beurs zijn opgenomen.
+1.	Behoren tot de vlottende activa aandelen en andere vormen van belangen in niet in de consolidatie betrokken maatschappijen als bedoeld in artikel 361 lid 4, dan worden deze afzonderlijk onder de effecten opgenomen. Vermeld wordt de gezamenlijke waarde van de overige tot de vlottende activa behorende effecten die zijn toegelaten tot de handel op een markt in financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.
 
 2.	Omtrent de effecten wordt vermeld, in hoeverre deze niet ter vrije beschikking van de rechtspersoon staan.
 
@@ -4730,8 +4798,8 @@ Afdeling 11. Vrijstellingen op grond van de omvang van het bedrijf van de rechts
 Artikel 396
 
 1.	De leden 3 tot en met 8 gelden voor een rechtspersoon die op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, heeft voldaan aan twee of drie van de volgende vereisten:
-	a.	de waarde van de activa volgens de balans met toelichting bedraagt, op de grondslag van verkrijgings- en vervaardigingsprijs, niet meer dan € 3 650 000;
-	b.	de netto-omzet over het boekjaar bedraagt niet meer dan € 7 300 000;
+	a.	de waarde van de activa volgens de balans met toelichting bedraagt, op de grondslag van verkrijgings- en vervaardigingsprijs, niet meer dan € 4 400 000;
+	b.	de netto-omzet over het boekjaar bedraagt niet meer dan € 8 800 000;
 	c.	het gemiddeld aantal werknemers over het boekjaar bedraagt minder dan 50.
 
 2.	Voor de toepassing van lid 1 worden meegeteld de waarde van de activa, de netto-omzet en het getal der werknemers van groepsmaatschappijen, die in de consolidatie zouden moeten worden betrokken als de rechtspersoon een geconsolideerde jaarrekening zou moeten opmaken. Dit geldt niet, indien de rechtspersoon artikel 408 toepast.
@@ -4753,8 +4821,8 @@ Artikel 396
 Artikel 397
 
 1.	Behoudens artikel 396 gelden de leden 3 tot en met 7 voor een rechtspersoon die op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, heeft voldaan aan twee of drie van de volgende vereisten:
-	a.	de waarde van de activa volgens de balans met toelichting, bedraagt, op de grondslag van verkrijgings- en vervaardigingsprijs, niet meer dan € 14 600 000;
-	b.	de netto-omzet over het boekjaar bedraagt niet meer dan € 29 200 000;
+	a.	de waarde van de activa volgens de balans met toelichting, bedraagt, op de grondslag van verkrijgings- en vervaardigingsprijs, niet meer dan € 17 500 000;
+	b.	de netto-omzet over het boekjaar bedraagt niet meer dan € 35 000 000;
 	c.	het gemiddeld aantal werknemers over het boekjaar bedraagt minder dan 250.
 
 2.	Voor de toepassing van lid 1 worden meegeteld de waarde van de activa, de netto-omzet en het getal der werknemers van groepsmaatschappijen, die in de consolidatie zouden moeten worden betrokken als de rechtspersoon een geconsolideerde jaarrekening zou moeten opmaken. Dit geldt niet, indien de rechtspersoon artikel 408 toepast.
@@ -4775,9 +4843,9 @@ Artikel 398
 
 2.	Artikel 396 leden 3 tot en met 7 en artikel 397 leden 3 tot en met 7 zijn van toepassing voor zover de algemene vergadering uiterlijk zes maanden na het begin van het boekjaar niet anders heeft besloten.
 
-3.	De artikelen 396 en 397 zijn niet van toepassing op een rechtspersoon:
-	a.	die effecten heeft uitstaan die zijn toegelaten tot de handel op een effectenbeurs als bedoeld in artikel 1, onderdeel e, van de Wet toezicht effectenverkeer 1995; of
-	b.	waarvoor artikel 401 lid 1 geldt.
+3.	De artikelen 396 en 397 zijn niet van toepassing op:
+	a.	een rechtspersoon die effecten heeft uitstaan die zijn toegelaten tot de handel op een markt in financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht; of
+	b.	een beleggingsmaatschappij waarvoor artikel 401 lid 1 geldt.
 
 4.	Bij algemene maatregel van bestuur worden de in artikel 396 lid 1 en artikel 397 lid 1 genoemde bedragen verlaagd, indien het recht van de Europese Gemeenschappen daartoe verplicht, en kunnen zij worden verhoogd, voor zover geoorloofd.
 
@@ -4795,9 +4863,9 @@ Onze Minister van Financiën kan financiële instellingen die geen bank als bedo
 
 Artikel 401
 
-1.	Een beheerder waaraan ingevolge de Wet toezicht beleggingsinstellingen (Stb. 1990, 380) een vergunning is verleend, moet in aanvulling op de bepalingen van deze titel tevens voldoen aan de vereisten voor haar jaarrekening, gesteld bij of krachtens de Wet toezicht beleggingsinstellingen. Voor deze beheerder kan bij of krachtens die wet van artikel 394, tweede, derde en vierde lid, worden afgeweken.
+1.	Een beheerder en een beleggingsmaatschappij waarop het Deel Gedragstoezicht financiële ondernemingen van de Wet op het financieel toezicht van toepassing is, moeten in aanvulling op de bepalingen van deze titel tevens voldoen aan de vereisten voor zijn onderscheidenlijk haar jaarrekening, gesteld bij of krachtens die wet. Voor deze beheerder en beleggingsmaatschappij kan bij of krachtens die wet van de artikelen 394, lid 2, 3 of 4, en 403 worden afgeweken.
 
-2.	Een beheerder als bedoeld in artikel 1, onderdeel e, van de Wet toezicht beleggingsinstellingen mag haar beleggingen tegen actuele waarde waarderen. Nadelige koersverschillen ten opzichte van de voorafgaande balansdatum behoeven niet ten laste van de winst- en verliesrekening te worden gebracht, mits zij op de reserves worden afgeboekt; voordelige koersverschillen mogen op de reserves worden bijgeboekt. De bedragen worden in de balans of in de toelichting vermeld. Onder beleggingsmaatschappij wordt in dit lid verstaan een rechtspersoon die uitsluitend ten doel heeft het vermogen zodanig te beleggen dat de risico’s daarvan worden gespreid, teneinde de leden of aandeelhouders in de opbrengst te doen delen.
+2.	De beleggingen van een beleggingsmaatschappij als bedoeld in artikel 1:1 van de Wet op het financieel toezicht mogen tegen marktwaarde worden gewaardeerd. Nadelige koersverschillen ten opzichte van de voorafgaande balansdatum behoeven niet ten laste van de winst- en verliesrekening te worden gebracht, mits zij op de reserves worden afgeboekt; voordelige koersverschillen mogen op de reserves worden bijgeboekt. De bedragen worden in de balans of in de toelichting vermeld.
 
 3.	Op een beleggingsmaatschappij met veranderlijk kapitaal is artikel 378 lid 3, tweede zin, niet van toepassing.
 
@@ -4875,7 +4943,7 @@ Artikel 407
 
 2.	Consolidatie mag achterwege blijven, indien
 	a.	bij consolidatie de grenzen van artikel 396 niet zouden worden overschreden;
-	b.	geen in de consolidatie te betrekken maatschappij effecten heeft uitstaan die zijn toegelaten tot de handel op een effectenbeurs als bedoeld in artikel 1, onderdeel e, van de Wet toezicht effectenverkeer 1995; en
+	b.	geen in de consolidatie te betrekken maatschappij effecten heeft uitstaan die zijn toegelaten tot de handel op een markt in financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht 1995; en
 	c.	niet binnen zes maanden na de aanvang van het boekjaar daartegen schriftelijk bezwaar bij de rechtspersoon is gemaakt door ten minste een tiende der leden of door houders van ten minste een tiende van het geplaatste kapitaal.
 
 3.	Indien de rechtspersoon groepsmaatschappijen beheert krachtens een regeling tot samenwerking met een rechtspersoon waarvan de financiële gegevens niet in zijn geconsolideerde jaarrekening worden opgenomen, mag hij zijn eigen financiële gegevens buiten de geconsolideerde jaarrekening houden. Dit geldt slechts, indien de rechtspersoon geen andere werkzaamheden heeft dan het beheren en financieren van groepsmaatschappijen en deelnemingen, en indien hij in zijn balans artikel 389 toepast.
@@ -4953,7 +5021,7 @@ Afdeling 14. Bepalingen voor banken
 
 Artikel 415
 
-In deze afdeling wordt onder bank verstaan: de ingevolge artikel 52, tweede lid, onder a, van de Wet toezicht kredietwezen 1992 (Stb. 1992, 722) geregistreerde kredietinstellingen.
+In deze afdeling wordt onder bank verstaan: een financiële onderneming met zetel in Nederland die een vergunning heeft voor het uitoefenen van het bedrijf van kredietinstelling als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.
 
 Artikel 416
 
@@ -5017,7 +5085,7 @@ Een bank mag op de balans onder de passiva onmiddellijk na de voorzieningen een 
 
 Artikel 425
 
-Een bank ten aanzien waarvan een beslissing als bedoeld in artikel 12, eerste lid, van de Wet toezicht kredietwezen 1992 is genomen, behoeft de jaarrekening en het jaarverslag niet volgens de voorschriften van deze titel in te richten, mits de financiële gegevens zijn opgenomen in de geconsolideerde jaarrekening, het jaarverslag en de overige gegevens van de bank op wier aansprakelijkheid de ontheffing is gegrond; de artikelen 393 en 394 gelden niet voor de bank waaraan de ontheffing is verleend. Aan de geconsolideerde jaarrekening worden een jaarverslag en overige gegevens toegevoegd, die betrekking hebben op de in de geconsolideerde jaarrekening begrepen rechtspersonen en instellingen gezamenlijk.
+Een bank waarop een vrijstelling van toepassing is als bedoeld in artikel 3:111, eerste lid, van de Wet op het financieel toezicht, behoeft de jaarrekening en het jaarverslag niet volgens de voorschriften van deze titel in te richten, mits de financiële gegevens zijn opgenomen in de geconsolideerde jaarrekening, het jaarverslag en de overige gegevens van de bank op wier aansprakelijkheid de ontheffing is gegrond; de artikelen 393 en 394 gelden niet voor de bank waaraan de ontheffing is verleend. Aan de geconsolideerde jaarrekening worden een jaarverslag en overige gegevens toegevoegd, die betrekking hebben op de in de geconsolideerde jaarrekening begrepen rechtspersonen en instellingen gezamenlijk.
 
 Artikel 426
 
@@ -5033,7 +5101,7 @@ Afdeling 15. Bepalingen voor verzekeringsmaatschappijen
 
 Artikel 427
 
-1.	In deze afdeling wordt onder verzekeringsmaatschappij verstaan: de rechtspersoon waarop artikel 72 van de Wet toezicht verzekeringsbedrijf 1993 van toepassing is alsmede de rechtspersoon, bedoeld in artikel 14, eerste lid, onder a van die wet alsmede de rechtspersoon waarop artikel 33 van de Wet toezicht natura-uitvaartverzekeringsbedrijf van toepassing is.
+1.	In deze afdeling wordt onder verzekeringsmaatschappij verstaan: een financiële onderneming die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van verzekeraar mag uitoefenen alsmede een financiële onderneming met zetel in Nederland die herverzekeraar is als bedoeld in artikel 1:1 van de Wet op het financieel toezicht en geen vergunning heeft voor het uitoefenen van het bedrijf van verzekeraar als bedoeld in artikel 1:1 van die wet.
 
 2.	Een rechtspersoon die het verzekeringsbedrijf uitoefent, doch die geen verzekeringsmaatschappij is, mag de voor verzekeringsmaatschappijen geldende voorschriften toepassen, indien het in artikel 362 lid 1 bedoelde inzicht daardoor wordt gediend.
 
@@ -5045,9 +5113,9 @@ Artikel 428
 
 2.	Voor verzekeringsmaatschappijen gelden de deelnemingen en de immateriële activa als vaste activa. Andere beleggingen en verdere activa gelden als vaste activa, voor zover zij bestemd zijn om duurzaam voor de bedrijfsuitoefening te worden gebruikt.
 
-3.	Over ontwerpen van een algemene maatregel van bestuur als bedoeld in de artikelen 363 lid 6 of 442 lid 1, voor zover deze strekken ter uitvoering van de bepalingen van deze afdeling, en over een ontwerp van een algemene maatregel van bestuur als bedoeld in artikel 444 lid 2 wordt de Pensioen- & Verzekeringskamer gehoord.
+3.	Over ontwerpen van een algemene maatregel van bestuur als bedoeld in de artikelen 363 lid 6 of 442 lid 1, voor zover deze strekken ter uitvoering van de bepalingen van deze afdeling, en over een ontwerp van een algemene maatregel van bestuur als bedoeld in artikel 444 lid 2 wordt de Nederlandsche Bank N.V. gehoord.
 
-4.	Ten aanzien van een verzekeringsmaatschappij geeft Onze Minister van Economische Zaken geen beslissing op een verzoek om ontheffing als bedoeld in de artikelen 58 lid 5, 101 lid 4, 210 lid 4 of 392 lid 4 dan nadat hij daarover de Pensioen- & Verzekeringskamer heeft gehoord.
+4.	Ten aanzien van een verzekeringsmaatschappij geeft Onze Minister van Economische Zaken geen beslissing op een verzoek om ontheffing als bedoeld in de artikelen 58 lid 5, 101 lid 4, 210 lid 4 of 392 lid 4 dan nadat hij daarover de Nederlandsche Bank N.V. heeft gehoord.
 
 § 2. Voorschriften omtrent de balans en de toelichting daarop
 
@@ -5143,12 +5211,13 @@ Artikel 434
 Artikel 435
 
 1.	Onder de technische voorzieningen worden afzonderlijk opgenomen:
-	a.	de voorziening voor niet-verdiende premies en lopende risico's;
+	a.	de voorziening voor niet-verdiende premies en de voorziening voor lopende risico’s, waaronder de catastrofevoorziening indien deze is getroffen;
 	b.	de voorziening voor levensverzekering;
 	c.	de voorziening voor te betalen schaden of voor te betalen uitkeringen;
 	d.	de voorziening voor winstdeling en kortingen;
-	e.	de egalisatievoorziening, voor zover egalisatie van winsten en verliezen bij of krachtens de wet is toegestaan;
-	f.	de overige technische voorzieningen.
+	e.	de voorziening voor latente winstdelingsverplichtingen;
+	f.	de egalisatievoorziening, voor zover egalisatie van winsten en verliezen bij of krachtens de wet is toegestaan;
+	g.	de overige technische voorzieningen.
 
 2.	Artikel 374 is van toepassing op de verzekeringstechnische voorzieningen, voor zover de aard van de technische voorzieningen zich daartegen niet verzet.
 
@@ -5156,11 +5225,28 @@ Artikel 435
 
 4.	Indien op de technische voorzieningen acquisitiekosten in mindering zijn gebracht, worden deze afzonderlijk vermeld.
 
-5.	Indien de technische voorziening voor lopende risico’s niet wordt opgenomen bij de technische voorziening niet-verdiende premies, wordt zij in de overige technische voorzieningen opgenomen. Tenzij de voorziening voor lopende risico’s van ondergeschikte betekenis is op het geheel van de voorziening niet-verdiende premies wordt de omvang toegelicht.
+5.	Tenzij de voorziening voor lopende risico’s van ondergeschikte betekenis is op het geheel van de voorziening niet-verdiende premies wordt de omvang toegelicht.
 
 6.	In het levensverzekeringsbedrijf behoeft geen technische voorziening voor niet-verdiende premies onderscheidenlijk voor te betalen uitkeringen te worden vermeld.
 
 7.	Onder de technische voorziening levensverzekering mag de voorziening, bedoeld in artikel 374 lid 4, onder b, worden opgenomen. In dat geval wordt in de toelichting het bedrag van de voorziening vermeld.
+
+Artikel 435a
+
+1.	In de toelichting worden mutatieoverzichten opgenomen betreffende:
+	a.	de onder de voorziening voor lopende risico’s opgenomen catastrofevoorziening;
+	b.	de op de technische voorzieningen in mindering gebrachte nog af te schrijven post rentestandkortingen;
+	c.	de nog af te schrijven acquisitiekosten;
+	d.	de voorziening voor latente winstdelingverplichtingen.
+
+2.	Uit elk van de in lid 1 bedoelde overzichten blijkt:
+	a.	het bedrag van de post aan het begin van het boekjaar;
+	b.	de toevoegingen of verminderingen van de post over het boekjaar, gesplitst naar hun aard;
+	c.	het bedrag van de post aan het einde van het boekjaar.
+
+3.	In de toelichting worden de grondslagen voor de vorming en waardering van een voorziening voor latente winstdelingverplichtingen vermeld.
+
+4.	Een verzekeringsmaatschappij met zetel in Nederland die het levensverzekeringsbedrijf uitoefent, vermeldt in een in de toelichting opgenomen overzicht de kwantitatieve uitkomst en de gehanteerde grondslagen van de krachtens de Wet op het financieel toezicht door de Nederlandsche Bank voorgeschreven toets op de toereikendheid van de technische voorzieningen.
 
 Artikel 436
 
@@ -5242,7 +5328,7 @@ Artikel 439
 	a.	de toe- of afneming van de technische voorziening voor levensverzekering voor eigen rekening met afzonderlijke opneming van het herverzekeringsdeel en van de som van beide bedragen;
 	b.	de toe- of afneming van de overige technische voorzieningen.
 
-6.	Tenzij van ondergeschikte betekenis op het geheel van toe- of afneming van de voorziening voor te betalen schaden of uitkeringen, worden de aard en omvang aangegeven van het verloop in het boekjaar van het deel van de voorziening dat betreft de nog niet afgewikkelde schaden uit eerdere boekjaren.
+6.	Tenzij de cumulatieve uitloop over de drie voorgaande boekjaren en de uitloop in het boekjaar telkens minder bedraagt dan tien procent van het resultaat van de technische rekening van het desbetreffende boekjaar, worden in de toelichting in een overzicht per branchegroep vermeld de aard en omvang van de uitloop in het boekjaar van de ten laste van de drie voorgaande boekjaren gevormde voorzieningen voor te betalen schaden of uitkeringen. In dit overzicht worden tevens per branchegroep vermeld de aard en omvang van de totale uitloop in het boekjaar van de ten laste van het vierde voorgaande boekjaar en de boekjaren daarvoor gevormde voorzieningen voor te betalen schaden of uitkeringen. In dit overzicht wordt het effect van toegepaste discontering aangegeven.
 
 Artikel 440
 
@@ -5268,6 +5354,12 @@ Artikel 440
 	c.	het verlies bij verkoop van beleggingen.
 
 6.	Het bedrag van de winstdeling en dat van de kortingen worden in de toelichting opgenomen.
+
+§ 2a. Het overzicht van de samenstelling van het totaalresultaat
+
+Artikel 440a
+
+In aansluiting op de winst- en verliesrekening wordt een overzicht van de samenstelling van het totaalresultaat opgenomen. Het totaalresultaat is gelijk aan het verschil in eigen vermogen tussen de balans aan het begin van het boekjaar en de balans aan het eind van het boekjaar, gecorrigeerd voor kapitaalstortingen en kapitaalonttrekkingen.
 
 § 4. Bijzondere voorschriften omtrent de toelichting
 
@@ -5316,6 +5408,11 @@ telkens indien dat bedrag groter is dan het twintigste deel van het totaal van d
 
 8.	Opgegeven wordt het bedrag van de betaalde en verschuldigde provisies, ongeacht de aard van de provisie.
 
+9.	In de toelichting wordt vermeld:
+	a.	het bedrag van de solvabiliteit waarover de verzekeringsmaatschappij tenminste moet beschikken;
+	b.	het bedrag van de solvabiliteit dat het bestuur van de verzekeringsmaatschappij noodzakelijk acht;
+	c.	het bedrag van de aanwezige solvabiliteit.
+
 § 5. Bijzondere voorschriften omtrent de grondslagen van waardering en van bepaling van het resultaat
 
 Artikel 442
@@ -5328,13 +5425,15 @@ Artikel 442
 
 4.	Indien beleggingen in terreinen en gebouwen op de grondslag van de actuele waarde worden gewaardeerd, behoeft artikel 386 lid 4 niet te worden toegepast. Indien het beleggingen in terreinen en gebouwen in eigen gebruik betreft, wordt in de toelichting op de winst- en verliesrekening het bedrag van de aan deze beleggingen toegerekende opbrengst aangegeven alsmede het toegerekende bedrag van de huisvestingskosten.
 
+5.	De beleggingen, bedoeld in artikel 430 lid 4, onder a, waaronder de beleggingen in converteerbare obligaties en afgeleide financiële instrumenten, voor zover niet bedoeld in artikel 384 lid 8, worden op de grondslag van de actuele waarde gewaardeerd.
+
 Artikel 443
 
-1.	Waardepapieren met een vaste of van de rentestand afhankelijke rente die tot de beleggingen behoren, mogen tegen aflossingswaarde worden gewaardeerd, onverminderd de toepassing van artikel 387 lid 4.
+1.	Waardepapieren met een vaste rente of van de rentestand afhankelijke rente die tot de beleggingen behoren, worden op de grondslag van de actuele waarde of tegen de aflossingswaarde gewaardeerd, onverminderd de toepassing van artikel 387 lid 4. Indien deze waardepapieren geen aflossingswaarde kennen, worden zij op grondslag van de actuele waarde of tegen de verkrijgingsprijs gewaardeerd, onverminderd de toepassing van artikel 387 lid 4.
 
 2.	Indien deze waardepapieren tegen aflossingswaarde op de balans worden opgenomen, wordt het verschil tussen de verkrijgingsprijs en de aflossingswaarde vermeld en over de jaren sinds de aanschaf gespreid als resultaat verantwoord. Het verschil mag ook in één keer als resultaat worden verantwoord, indien de verkrijgingsprijs hoger was dan de aflossingswaarde.
 
-3.	Indien deze waardepapieren voor het einde van de looptijd worden verkocht en de opbrengst wordt aangewend voor de aankoop van soortgelijke waardepapieren, mag het verschil tussen de opbrengst en de boekwaarde gelijkelijk gespreid over de resterende looptijd van de oorspronkelijke waardepapieren als resultaat worden verantwoord. De vorige zin is niet van toepassing indien de waardepapieren op de grondslag van de actuele waarde worden gewaardeerd.
+3.	[Vervallen.]
 
 4.	De vorderingen uit leningen voor welke zakelijke zekerheid is gesteld en de andere vorderingen uit leningen, bedoeld in artikel 430 lid 4, onder d en e, mogen eveneens tegen aflossingswaarde worden gewaardeerd.
 
@@ -5342,7 +5441,7 @@ Artikel 444
 
 1.	De technische voorzieningen worden gewaardeerd op voor de bedrijfstak aanvaardbare grondslagen. Bij de waardering van de technische voorzieningen wordt ervan uitgegaan dat de verzekeringsmaatschappij in staat moet zijn te voldoen aan haar naar maatstaven van redelijkheid en billijkheid voorzienbare verplichtingen uit verzekeringsovereenkomsten. De bepaling van de technische voorziening voor levensverzekering en van die voor periodiek te betalen schaden of uitkeringen geschiedt door terzake deskundigen.
 
-2.	Ten behoeve van verzekeringsmaatschappijen als bedoeld in artikel 14, eerste lid, onder a, van de Wet toezicht verzekeringsbedrijf 1993 worden bij algemene maatregel van bestuur regels gesteld omtrent de waardering van de technische voorziening voor te betalen schaden.
+2.	Ten behoeve van financiële ondernemingen met zetel in Nederland die herverzekeraar zijn als bedoeld in artikel 1:1 van de Wet op het financieel toezicht en geen vergunning hebben voor het uitoefenen van het bedrijf van verzekeraar als bedoeld in artikel 1:1 van die wet, worden bij algemene maatregel van bestuur regels gesteld omtrent de waardering van de technische voorziening voor te betalen schade.
 
 § 6. Bijzondere bepalingen voor de geconsolideerde jaarrekening
 
@@ -5365,3 +5464,79 @@ Artikel 446
 3.	Indien een buitenlandse verzekeringsmaatschappij deel uitmaakt van de groep, mogen de technische voorzieningen van deze maatschappij in de consolidatie worden opgenomen overeenkomstig de waarderingsvoorschriften van haar recht, voor zover dat recht afwijking van die voorschriften niet toestaat. Het gemaakte gebruik van de uitzondering wordt in de toelichting vermeld.
 
 4.	Het derde lid is van overeenkomstige toepassing ten aanzien van de beleggingen waarbij de tot uitkering gerechtigde het beleggingsrisico draagt en ten aanzien van de spaarkasbeleggingen.
+
+Afdeling 16. Rechtspleging
+
+Artikel 447
+
+1.	Op verzoek van degenen die krachtens artikel 448 daartoe bevoegd zijn, kan de ondernemingskamer van het gerechtshof te Amsterdam aan een rechtspersoon of vennootschap als bedoeld in artikel 360 waarop deze titel van toepassing is, een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving of een beleggingsinstelling als bedoeld in artikel 1:1 van de Wet op het financieel toezicht bevelen de jaarrekening, het jaarverslag of de daaraan toe te voegen overige gegevens in te richten overeenkomstig door haar te geven aanwijzingen.
+
+2.	Het verzoek kan slechts worden ingediend op de grond dat de verzoeker van oordeel is dat de in het eerste lid bedoelde stukken niet voldoen aan de bij of krachtens artikel 3 van verordening (EG) 1606/2002 van het Europees Parlement en de Raad van de Europese Unie van 19 juli 2002 betreffende de toepassing van internationale standaarden voor jaarrekeningen (PbEG L 243), deze titel, onderscheidenlijk de Wet op het financieel toezicht gestelde voorschriften. Het verzoekschrift vermeldt in welk opzicht de stukken herziening behoeven.
+
+3.	Het verzoek heeft geen betrekking op een accountantsverklaring als bedoeld in artikel 393 lid 5.
+
+Artikel 448
+
+1.	Tot het indienen van het verzoek is bevoegd:
+	a.	iedere belanghebbende;
+	b.	de advocaat-generaal bij het gerechtshof te Amsterdam in het openbaar belang.
+
+2.	Tot het indienen van het verzoek is voorts bevoegd de Stichting Autoriteit Financiële Markten, voor zover het stukken betreft die betrekking hebben op een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving en met inachtneming van het in artikel 4 van die wet bepaalde.
+
+Artikel 449
+
+1.	Het verzoek wordt ingediend binnen twee maanden na de dag waarop de jaarrekening is vastgesteld. Indien het verzoek wordt gedaan ten aanzien van een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving bedraagt de in de eerste volzin bedoelde termijn zes maanden.
+
+2.	Het verzoek omtrent de jaarrekening die niet is vastgesteld, kan worden gedaan tot twee maanden of, voor zover het een effectenuitgevende instelling betreft als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving, zes maanden na de dag der nederlegging van de jaarrekening ten kantore van het handelsregister. Indien na de dag der nederlegging de jaarrekening alsnog wordt vastgesteld, dan eindigt de termijn twee maanden of, voor zover het een effectenuitgevende instelling betreft als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving, zes maanden na de dag waarop uit een neergelegde mededeling of uit de neergelegde jaarrekening blijkt van die vaststelling.
+
+3.	Indien een bericht als bedoeld in artikel 3, tweede lid, van de Wet toezicht financiële verslaggeving algemeen verkrijgbaar is gesteld, dan eindigt de termijn twee maanden na de dag waarop dit bericht algemeen verkrijgbaar is gesteld op de bij of krachtens dat artikel voorgeschreven wijze, doch niet eerder dan de termijnen, bedoeld lid 1 en lid 2.
+
+4.	Ter zake van tekortkomingen die niet uit de stukken blijken, eindigt de termijn twee maanden of, voor zover het een effectenuitgevende instelling betreft als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving, zes maanden na de dag waarop de indiener van het verzoek daarvan in redelijkheid niet meer onkundig kon zijn, maar uiterlijk twee jaar na verloop van de termijn ingevolge de vorige leden.
+
+Artikel 450
+
+1.	De ondernemingskamer behandelt het verzoek met de meeste spoed. De zaak zal met gesloten deuren worden behandeld; de uitspraak geschiedt in het openbaar.
+
+2.	Bij de bepaling van de dag waarop de behandeling aanvangt bepaalt de ondernemingskamer tevens een termijn waarbinnen de rechtpersoon, vennootschap, effectenuitgevende instelling of beleggingsinstelling, bedoeld in artikel 447, lid 1, waarop het verzoek betrekking heeft, een verweerschrift kan indienen.
+
+3.	Onverminderd de leden 4 tot en met 8 worden andere belanghebbenden dan de rechtpersoon, vennootschap, effectenuitgevende instelling of beleggingsinstelling, bedoeld in artikel 447, lid 1, waarop het verzoek betrekking heeft, niet opgeroepen en kunnen zij geen verweerschrift indienen.
+
+4.	Indien het verzoek wordt gedaan ten aanzien van een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving en het verzoek niet is gedaan door de Stichting Autoriteit Financiële Markten, wordt deze in de gelegenheid gesteld te worden gehoord over de in het verzoek genoemde onderwerpen en, indien artikel 194 van het Wetboek van Burgerlijke rechtsvordering toepassing heeft gevonden, in de gelegenheid gesteld haar mening over het deskundigenbericht aan de ondernemingskamer kenbaar te maken.
+
+5.	De ondernemingskamer beslist niet dan nadat zij de accountant die met het onderzoek van de jaarrekening is belast geweest, in de gelegenheid heeft gesteld te worden gehoord over de in het verzoek genoemde onderwerpen.
+
+6.	De ondernemingskamer geeft, indien het verzoek wordt gedaan ten aanzien van een verzekeraar of kredietinstelling als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, geen beslissing zonder dat de Nederlandsche Bank N.V. in de gelegenheid is gesteld te worden gehoord over de in het verzoek genoemde onderwerpen.
+
+7.	De ondernemingskamer geeft, indien het verzoek wordt gedaan ten aanzien van een beleggingsonderneming als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, geen beslissing zonder De Nederlandsche Bank N.V. en de Stichting Autoriteit Financiële Markten in de gelegenheid te hebben gesteld te worden gehoord over de in het verzoek genoemde onderwerpen.
+
+8.	De ondernemingskamer geeft, indien het verzoek wordt gedaan ten aanzien van een beleggingsinstelling als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, geen beslissing zonder De Nederlandsche Bank N.V. en de Stichting Autoriteit Financiële Markten in de gelegenheid te hebben gesteld te worden gehoord over de in het verzoek genoemde onderwerpen.
+
+Artikel 451
+
+1.	Indien de ondernemingskamer het verzoek toewijst, geeft zij aan de rechtspersoon, vennootschap, of instelling een bevel omtrent de wijze waarop deze de jaarrekening, het jaarverslag of de overige gegevens moet inrichten. Het bevel bevat daaromtrent nauwkeurige aanwijzingen.
+
+2.	De rechtspersoon, vennootschap of instelling is verplicht de stukken met inachtneming van het bevel op te maken en voor zover het de jaarrekening betreft, te besluiten omtrent de vaststelling.
+
+3.	De ondernemingskamer kan, ook ambtshalve, beslissen dat het bevel mede of uitsluitend een of meer toekomstige stukken betreft.
+
+4.	Indien het bevel betrekking heeft op de jaarrekening waarop het verzoek ziet, kan de ondernemingskamer het besluit tot vaststelling van die jaarrekening vernietigen. De ondernemingskamer kan de gevolgen van de vernietiging beperken.
+
+5.	Op verzoek van de rechtspersoon, vennootschap of instelling kan de ondernemingskamer wegens wijziging van omstandigheden haar bevel, voor zover dit betrekking heeft op toekomstige stukken, intrekken. Zij beslist niet dan na degene op wiens verzoek het bevel is gegeven in de gelegenheid te hebben gesteld te worden gehoord.
+
+Artikel 452
+
+1.	Op verzoek van de Stichting Autoriteit Financiële Markten kan de ondernemingskamer van het gerechthof te Amsterdam een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving bevelen aan de verzoeker een nadere toelichting omtrent de toepassing van de bij of krachtens artikel 3 van verordening (EG) 1606/2002 van het Europees Parlement en de Raad van de Europese Unie van 19 juli 2002 betreffende de toepassing van internationale standaarden voor jaarrekeningen (PbEG L 243) of deze titel geldende voorschriften in de jaarrekening, het jaarverslag of in de overige gegevens te verschaffen.
+
+2.	Het verzoek wordt met redenen omkleed en kan worden gedaan tot zes maanden na de dag van deponering bij de Stichting Autoriteit Financiële Markten van de in artikel 447 bedoelde stukken op grond van artikel 5a van de Wet toezicht effectenverkeer 1995 met inachtneming van het in artikel 2 tot en met 4 van de Wet toezicht financiële verslaggeving bepaalde.
+
+3.	De leden 1 en 2 van artikel 450 zijn van overeenkomstige toepassing. Andere belanghebbenden dan de rechtpersoon, vennootschap, effectenuitgevende instelling of beleggingsinstelling, bedoeld in artikel 447, lid 1, waarop het verzoek betrekking heeft, worden niet opgeroepen en kunnen geen verweerschrift indienen.
+
+4.	Indien de ondernemingskamer het verzoek toewijst, kan zij aan de effectenuitgevende instelling een bevel geven omtrent de wijze waarop deze een nadere toelichting omtrent de toepassing van de in het eerste lid bedoeld voorschriften verschaft. De effectenuitgevende instelling is verplicht met inachtneming van het bevel de nadere toelichting te verschaffen.
+
+5.	De ondernemingkamer kan bepalen dat, indien of zolang de effectenuitgevende instelling niet voldoet aan het bevel, de effectenuitgevende instelling aan de Autoriteit Financiële Markten een door de ondernemingskamer vast te stellen dwangsom verbeurt. De artikelen 611a tot en met 611i van het Wetboek van Burgerlijke Rechtsvordering zijn van overeenkomstige toepassing.
+
+Artikel 453
+
+1.	De griffier van de ondernemingskamer doet ten kantore van het handelsregister van de plaats, waar de rechtspersoon, vennootschap of instelling volgens haar statuten haar zetel heeft, een afschrift van de beschikking van de ondernemingskamer neerleggen. Indien de beschikking betrekking heeft op een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving verstrekt de griffier van de ondernemingskamer voorts een afschrift van de beschikking aan de Stichting Autoriteit Financiële Markten. Afschriften van beschikkingen die niet voorlopig ten uitvoer kunnen worden gelegd, worden nedergelegd zodra zij in kracht van gewijsde zijn gegaan.
+
+2.	Tot het instellen van beroep in cassatie tegen de beschikkingen van de ondernemingskamer uit hoofde van deze titel is, buiten de personen, bedoeld in het eerste lid van artikel 426 van het Wetboek van Burgerlijke Rechtsvordering, bevoegd de rechtspersoon, vennootschap of instelling ten aanzien waarvan de ondernemingskamer een beschikking heeft genomen, ongeacht of deze bij de ondernemingskamer is verschenen.
