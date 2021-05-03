@@ -1,7 +1,7 @@
 
 
 Burgerlijk Wetboek Boek 2
-Geldend van 01-05-2004 t/m 29-06-2004
+Geldend van 01-07-2004 t/m 30-09-2004
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -311,7 +311,7 @@ Artikel 24
 
 1.	De boeken, bescheiden en andere gegevensdragers van een ontbonden rechtspersoon moeten worden bewaard gedurende zeven jaren nadat de rechtspersoon heeft opgehouden te bestaan. Bewaarder is degene die bij of krachtens de statuten, dan wel door de algemene vergadering of, als de rechtspersoon een stichting was, door het bestuur als zodanig is aangewezen.
 
-2.	Ontbreekt een bewaarder en is de laatste vereffenaar niet bereid te bewaren, dan wordt een bewaarder, zo mogelijk uit de kring dergenen die bij de rechtspersoon waren betrokken, op verzoek van een belanghebbende benoemd door de kantonrechter binnen wiens rechtsgebied de rechtspersoon woonplaats had. Rechtsmiddelen staan niet open.
+2.	Ontbreekt een bewaarder en is de laatste vereffenaar niet bereid te bewaren, dan wordt een bewaarder, zo mogelijk uit de kring dergenen die bij de rechtspersoon waren betrokken, op verzoek van een belanghebbende benoemd door de kantonrechter van de rechtbank van het arrondissement waarin de rechtspersoon woonplaats had. Rechtsmiddelen staan niet open.
 
 3.	Binnen acht dagen na het ingaan van zijn bewaarplicht moet de bewaarder zijn naam en adres opgeven aan de registers waarin de ontbonden rechtspersoon was ingeschreven.
 
@@ -1547,6 +1547,8 @@ Artikel 117
 
 4.	De bestuurders en de commissarissen hebben als zodanig in de algemene vergaderingen een raadgevende stem.
 
+5.	Aan de eis van schriftelijkheid van de volmacht wordt voldaan indien de volmacht elektronisch is vastgelegd.
+
 Artikel 118
 
 1.	Slechts aandeelhouders hebben stemrecht. Iedere aandeelhouder heeft ten minste één stem. De statuten kunnen bepalen dat een aandeelhouder niet gerechtigd is tot uitoefening van het stemrecht zolang hij in gebreke is te voldoen aan een wettelijke of statutaire verplichting.
@@ -2603,6 +2605,8 @@ Artikel 227
 3.	De statuten kunnen bepalen dat een aandeelhouder niet gerechtigd is tot deelname aan de algemene vergadering zolang hij in gebreke is te voldoen aan een wettelijke of statutaire verplichting. De statuten kunnen bepalen, dat voor bijwoning van de aandeelhoudersvergadering vereist is, dat de aandeelhouder van zijn voornemen hiertoe kennis geeft aan het bestuur van de vennootschap. Bij de oproeping van de vergadering wordt alsdan vermeld de dag waarop de kennisgeving uiterlijk moet geschieden. Deze dag kan niet vroeger worden gesteld dan op de derde dag voor die der vergadering. Indien de statuten een voorschrift overeenkomstig de voorgaande bepalingen van dit lid voor de aandeelhouders bevatten, geldt dat mede voor de houders van de certificaten op naam van aandelen, die met medewerking van de vennootschap zijn uitgegeven.
 
 4.	De bestuurders en de commissarissen hebben als zodanig in de algemene vergaderingen een raadgevende stem.
+
+5.	Aan de eis van schriftelijkheid van de volmacht wordt voldaan indien de volmacht elektronisch is vastgelegd.
 
 Artikel 228
 
@@ -3831,7 +3835,7 @@ Artikel 336
 
 2.	De vordering kan niet worden ingesteld door de vennootschap of een dochtermaatschappij van de vennootschap. De houder van aandelen waarvan de vennootschap of een dochtermaatschappij certificaten houdt, kan de vordering slechts instellen indien en voor zover certificaten door anderen worden gehouden. Een aandeelhouder ten titel van beheer kan de vordering slechts voor door hem beheerde aandelen instellen indien de desbetreffende certificaathouders daarmee tevoren hebben ingestemd.
 
-3.	Tot de kennisneming van de vordering is in eerste aanleg bevoegd de arrondissementsrechtbank van de woonplaats van de vennootschap. Hoger beroep kan uitsluitend worden ingesteld bij de ondernemingskamer van het gerechtshof te Amsterdam. Artikel 344 van het Wetboek van Burgerlijke Rechtsvordering is van toepassing met dien verstande dat voor "een meervoudige kamer" wordt gelezen: de ondernemingskamer.
+3.	Tot de kennisneming van de vordering is in eerste aanleg bevoegd de rechtbank van de woonplaats van de vennootschap. Hoger beroep kan uitsluitend worden ingesteld bij de ondernemingskamer van het gerechtshof te Amsterdam. Artikel 344 van het Wetboek van Burgerlijke Rechtsvordering is van toepassing met dien verstande dat voor "een meervoudige kamer" wordt gelezen: de ondernemingskamer.
 
 4.	De rechter kan zijn beslissing omtrent de vordering voor een door hem te bepalen termijn aanhouden, indien ten processe blijkt dat de vennootschap of één of meer aandeelhouders op zich nemen maatregelen te treffen waardoor het nadeel dat de vennootschap lijdt zoveel mogelijk wordt ongedaan gemaakt of beperkt.
 
