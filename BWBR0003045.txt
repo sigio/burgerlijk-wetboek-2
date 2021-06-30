@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 01-05-2021 t/m 30-06-2021
+Geldend van 01-07-2021 t/m 31-12-2021
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -215,6 +215,10 @@ Artikel 20
 2.	Een rechtspersoon waarvan het doel in strijd is met de openbare orde, wordt door de rechtbank op verzoek van het openbaar ministerie ontbonden. Alvorens de ontbinding uit te spreken kan de rechtbank de rechtspersoon in de gelegenheid stellen binnen een door haar te bepalen termijn zijn doel zodanig te wijzigen dat het niet meer in strijd is met de openbare orde.
 
 3.	Een rechtspersoon vermeld in de lijst, bedoeld in artikel 2, derde lid, van Verordening (EG) nr. 2580/2001 van de Raad van 27 december 2001 (PbEG L 344), in Bijlage I van Verordening (EG) nr. 881/2002 van de Raad van 27 mei 2002 (PbEG L 139) of is vermeld en met een ster aangemerkt in de Bijlage bij het Gemeenschappelijk Standpunt nr. 2001/931 van de Raad van 27 december 2001 (PbEG L 344) is van rechtswege verboden en niet bevoegd tot het verrichten van rechtshandelingen.
+
+Artikel 20a
+
+[Dit onderdeel is nog niet inwerking getreden]
 
 Artikel 21
 
@@ -464,7 +468,7 @@ Artikel 37
 
 3.	De statuten kunnen bepalen, dat een of meer der bestuursleden, mits minder dan de helft, door andere personen dan de leden worden benoemd.
 
-4.	Is in de statuten bepaald dat een bestuurder in een vergadering uit een bindende voordracht moet worden benoemd, dan kan aan die voordracht het bindend karakter worden ontnomen door een met ten minste twee derden van de uitgebrachte stemmen genomen besluit van die vergadering. In de statuten kan worden bepaald dat op deze vergadering ten minste een bepaald aantal stemmen moet kunnen worden uitgebracht; dit aantal mag niet hoger worden gesteld dan twee derden van het aantal stemmen dat door de stemgerechtigden gezamenlijk kan worden uitgebracht.
+4.	Is in de statuten bepaald dat een bestuurder in een vergadering uit een bindende voordracht moet worden benoemd, dan kan aan die voordracht het bindend karakter worden ontnomen door een met ten minste twee derden van de uitgebrachte stemmen genomen besluit van die vergadering. In de statuten kan worden bepaald dat op deze vergadering ten minste een bepaald aantal stemmen moet kunnen worden uitgebracht; dit aantal mag niet hoger worden gesteld dan twee derden van het aantal stemmen dat door de stemgerechtigden gezamenlijk kan worden uitgebracht. Indien de voordracht één kandidaat voor een te vervullen plaats bevat, heeft een besluit over de voordracht tot gevolg dat de kandidaat is benoemd, tenzij het bindende karakter aan de voordracht wordt ontnomen.
 
 5.	Indien ingevolge de statuten een bestuurslid door leden of afdelingen buiten een vergadering wordt benoemd, dan moet aan de leden gelegenheid worden geboden kandidaten te stellen. De statuten kunnen bepalen dat dit recht slechts aan een aantal leden gezamenlijk toekomt, mits hun aantal niet hoger wordt gesteld dan een vijfde van het aantal leden dat aan de verkiezing kan deelnemen. De statuten kunnen voorts bepalen dat aldus gestelde kandidaten slechts zijn benoemd, indien zij ten minste een bepaald aantal stemmen op zich hebben verenigd, mits dit aantal niet groter is dan twee derden van het aantal der uitgebrachte stemmen.
 
@@ -550,6 +554,18 @@ Artikel 44
 
 2.	Slechts indien dit uit de statuten voortvloeit, is het bestuur bevoegd te besluiten tot het aangaan van overeenkomsten tot verkrijging, vervreemding en bezwaring van registergoederen, en tot het aangaan van overeenkomsten waarbij de vereniging zich als borg of hoofdelijk medeschuldenaar verbindt, zich voor een derde sterk maakt of zich tot zekerheidstelling voor een schuld van een ander verbindt. De statuten kunnen deze bevoegdheid aan beperkingen en voorwaarden binden. De uitsluiting, beperkingen en voorwaarden gelden mede voor de bevoegdheid tot vertegenwoordiging van de vereniging ter zake van deze handelingen, tenzij de statuten anders bepalen.
 
+3.	Bij de vervulling van hun taak richten de bestuurders zich naar het belang van de vereniging en de met haar verbonden onderneming of organisatie.
+
+4.	De statuten kunnen bepalen dat een met name of in functie aangeduide bestuurder meer dan één stem wordt toegekend. Een bestuurder kan niet meer stemmen uitbrengen dan de andere bestuurders tezamen.
+
+5.	De statuten bevatten voorschriften omtrent de wijze waarop in de uitoefening van de taken en bevoegdheden voorlopig wordt voorzien in geval van ontstentenis of belet van alle bestuurders. De statuten kunnen deze voorschriften bevatten voor het geval van ontstentenis of belet van een of meer bestuurders. In de statuten kan nader worden bepaald wanneer sprake is van belet. Degene die bij ontstentenis of belet van bestuurders ingevolge een statutaire regeling is aangewezen tot het verrichten van bestuursdaden, wordt voor wat deze bestuursdaden betreft met een bestuurder gelijkgesteld.
+
+6.	Een bestuurder neemt niet deel aan de beraadslaging en besluitvorming indien hij daarbij een direct of indirect persoonlijk belang heeft dat tegenstrijdig is met het belang bedoeld in lid 3. Wanneer hierdoor geen bestuursbesluit kan worden genomen, wordt het besluit genomen door de raad van commissarissen. Bij ontbreken van een raad van commissarissen, wordt het besluit genomen door de algemene vergadering, tenzij de statuten anders bepalen.
+
+7.	Tenzij de statuten anders bepalen, kan de algemene vergadering aan de bestuurders een bezoldiging toekennen.
+
+8.	De bestuurders hebben als zodanig een raadgevende stem in de algemene vergadering.
+
 Artikel 44a
 
 [Dit onderdeel is nog niet inwerking getreden]
@@ -570,11 +586,33 @@ De vereniging kan, voor zover uit de statuten niet het tegendeel voortvloeit, te
 
 Artikel 47
 
-In alle gevallen waarin de vereniging een tegenstrijdig belang heeft met een of meer bestuurders of commissarissen kan de algemene vergadering een of meer personen aanwijzen om de vereniging te vertegenwoordigen.
+1.	Tenzij uitvoering is gegeven aan artikel 44a lid 1, kan bij de statuten worden bepaald dat er een raad van commissarissen zal zijn. Deze kan ook als raad van toezicht worden aangeduid. De raad bestaat uit een of meer natuurlijke personen.
+
+2.	De raad van commissarissen heeft tot taak toezicht te houden op het beleid van het bestuur en de algemene gang van zaken in de vereniging en de met haar verbonden onderneming of organisatie. Hij staat het bestuur met raad terzijde. Bij de vervulling van hun taak richten de commissarissen zich naar het belang van de vereniging en de met haar verbonden onderneming of organisatie.
+
+3.	Tenzij bij de statuten anders is bepaald, is de raad van commissarissen bevoegd iedere door de algemene vergadering benoemde bestuurder te allen tijde te schorsen. Deze schorsing kan te allen tijde door de algemene vergadering worden opgeheven.
+
+4.	De statuten kunnen bepalen dat een met name of in functie aangeduide commissaris meer dan één stem wordt toegekend. Een commissaris kan niet meer stemmen uitbrengen dan de andere commissarissen tezamen.
+
+5.	De statuten bevatten voorschriften omtrent de wijze waarop in de uitoefening van de taken en bevoegdheden voorlopig wordt voorzien in geval van ontstentenis of belet van alle commissarissen. De statuten kunnen deze voorschriften bevatten voor het geval van ontstentenis of belet van een of meer commissarissen. In de statuten kan nader worden bepaald wanneer sprake is van belet. Degene die bij ontstentenis of belet van commissarissen ingevolge een statutaire regeling de taken van een commissaris vervult, wordt voor het vervullen van die taken met een commissaris gelijkgesteld.
+
+6.	De statuten kunnen aanvullende bepalingen omtrent de taak en de bevoegdheden van de raad en zijn leden bevatten.
+
+7.	Een commissaris neemt niet deel aan de beraadslaging en besluitvorming indien hij daarbij een direct of indirect persoonlijk belang heeft dat tegenstrijdig is met het belang van de vereniging en de daaraan verbonden onderneming of organisatie. Wanneer de raad van commissarissen hierdoor geen besluit kan nemen, wordt het besluit genomen door de algemene vergadering, tenzij de statuten anders bepalen.
+
+8.	Tenzij de statuten anders bepalen, kan de algemene vergadering aan de commissarissen als zodanig een bezoldiging toekennen.
+
+9.	Tenzij de statuten de commissarissen stemrecht toekennen, hebben zij als zodanig in de algemene vergadering een raadgevende stem.
+
+10.	Het bestuur verschaft de raad van commissarissen tijdig de voor de uitoefening van diens taak noodzakelijke gegevens.
+
+11.	Het bestuur stelt ten minste een keer per jaar de raad van commissarissen schriftelijk op de hoogte van de hoofdlijnen van het strategisch beleid, van de algemene en financiële risico’s en van de gebruikte beheers- en controlesystemen.
 
 Artikel 47a
 
-[Dit onderdeel is nog niet inwerking getreden]
+1.	Op de benoeming van commissarissen die niet reeds bij de akte van oprichting zijn aangewezen, is artikel 37 van toepassing, tenzij de benoeming overeenkomstig artikel 63f geschiedt. Hetzelfde geldt voor schorsing en ontslag van commissarissen.
+
+2.	Bij een aanbeveling of voordracht tot benoeming van een commissaris worden van de kandidaat meegedeeld zijn leeftijd, zijn beroep, de betrekkingen die hij bekleedt of heeft bekleed voor zover die van belang zijn in verband met de vervulling van de taak van een commissaris. Tevens wordt vermeld aan welke rechtspersonen hij reeds als commissaris is verbonden; indien zich daaronder rechtspersonen bevinden, die tot een zelfde groep behoren, kan met de aanduiding van de groep worden volstaan. De aanbeveling en de voordracht tot benoeming of herbenoeming worden gemotiveerd. Bij herbenoeming wordt rekening gehouden met de wijze waarop de kandidaat zijn taak als commissaris heeft vervuld.
 
 Artikel 48
 
@@ -604,7 +642,15 @@ De vereniging, bedoeld in artikel 360 lid 3, zorgt dat de opgemaakte jaarrekenin
 
 Artikel 50a
 
-De artikelen 131, 138, 139, 149 en 150 zijn van overeenkomstige toepassing in geval van faillissement van een vereniging waarvan de statuten zijn opgenomen in een notariële akte en die aan de heffing van vennootschapsbelasting is onderworpen.
+1.	Ten aanzien van de taakvervulling door bestuurders vindt het bepaalde bij de artikelen 131 en 138 lid 1 en leden 3 tot en met 10 overeenkomstige toepassing.
+
+2.	Ten aanzien van de taakvervulling door bestuurders vindt het bepaalde bij de artikelen 138 lid 2 en 139 overeenkomstige toepassing in geval van:
+	a.	een vereniging waarvan de statuten zijn opgenomen in een notariële akte en die aan de heffing van vennootschapsbelasting is onderworpen; of
+	b.	een vereniging die bij of krachtens de wet verplicht is een financiële verantwoording op te stellen die gelijk of gelijkwaardig is aan een jaarrekening als bedoeld in titel 9.
+
+3.	Ten aanzien van de taakvervulling door commissarissen vindt overeenkomstige toepassing:
+	a.	het bepaalde in lid 1 en lid 2, met dien verstande dat in lid 2 voor artikel 139 moet worden gelezen artikel 150; en
+	b.	het bepaalde in artikel 9.
 
 Artikel 51
 
@@ -664,27 +710,11 @@ Artikel 56
 
 Artikel 57
 
-1.	Bij de statuten kan worden bepaald dat er een raad van commissarissen zal zijn. De raad bestaat uit een of meer natuurlijke personen.
-
-2.	De raad van commissarissen heeft tot taak toezicht te houden op het beleid van het bestuur en op de algemene gang van zaken in de rechtspersoon en de daarmee verbonden onderneming. Hij staat het bestuur met raad ter zijde. Bij de vervulling van hun taak richten de commissarissen zich naar het belang van de rechtspersoon en de daarmee verbonden onderneming.
-
-3.	Tenzij bij de statuten anders is bepaald, is de raad van commissarissen bevoegd iedere door de algemene vergadering benoemde bestuurder te allen tijde te schorsen. Deze schorsing kan te allen tijde door de algemene vergadering worden opgeheven.
-
-4.	Behoudens het bepaalde in artikel 47 vertegenwoordigt de raad van commissarissen de rechtspersoon in andere gevallen van strijdig belang met een of meer bestuurders dan het sluiten of wijzigen van overeenkomsten zoals deze met alle leden in gelijke omstandigheden worden gesloten. De statuten kunnen van deze bepaling afwijken.
-
-5.	De statuten kunnen aanvullende bepalingen omtrent de taak en de bevoegdheden van de raad en van zijn leden bevatten.
-
-6.	Tenzij de statuten anders bepalen, kan de algemene vergadering aan de commissarissen als zodanig een bezoldiging toekennen.
-
-7.	Tenzij de statuten de commissarissen stemrecht toekennen, hebben zij als zodanig in de algemene vergadering slechts raadgevende stem.
-
-8.	Het bestuur verschaft de raad van commissarissen tijdig de voor de uitoefening van diens taak noodzakelijke gegevens.
+[Vervallen per 01-07-2021]
 
 Artikel 57a
 
-1.	Op de benoeming van commissarissen die niet reeds bij de akte van oprichting zijn aangewezen, is artikel 37 van overeenkomstige toepassing, tenzij zij overeenkomstig artikel 63f geschiedt.
-
-2.	Bij een aanbeveling of voordracht tot benoeming van een commissaris worden van de kandidaat medegedeeld zijn leeftijd, zijn beroep en de betrekkingen die hij bekleedt of die hij heeft bekleed voor zover die van belang zijn in verband met de vervulling van de taak van een commissaris. Tevens wordt vermeld aan welke rechtspersonen hij reeds als commissaris is verbonden; indien zich daaronder rechtspersonen bevinden, die tot een zelfde groep behoren, kan met de aanduiding van de groep worden volstaan. De aanbeveling en de voordracht worden met redenen omkleed.
+[Vervallen per 01-07-2021]
 
 Artikel 58
 
@@ -778,7 +808,7 @@ Artikel 63f
 
 4.	De algemene vergadering, de ondernemingsraad en het bestuur kunnen aan de raad van commissarissen personen aanbevelen om als commissaris voor te dragen. De raad van commissarissen deelt hun daartoe tijdig mede, wanneer en ten gevolge waarvan in zijn midden een plaats moet worden vervuld.
 
-5.	De raad van commissarissen geeft aan de algemene vergadering en de ondernemingsraad kennis van de naam van degene die hij voordraagt, met inachtneming van artikel 57a lid 2.
+5.	De raad van commissarissen geeft aan de algemene vergadering en de ondernemingsraad kennis van de naam van degene die hij voordraagt, met inachtneming van artikel 47a lid 2.
 
 6.	De algemene vergadering benoemt de voorgedragen persoon, tenzij de ondernemingsraad binnen twee maanden na de kennisgeving of de algemene vergadering zelf uiterlijk in de eerste vergadering na die twee maanden tegen de voordracht bezwaar maakt:
 	a.	op grond dat de voorschriften van lid 4, tweede volzin, of lid 5 niet behoorlijk zijn nageleefd;
@@ -839,11 +869,9 @@ Artikel 63j
 
 3.	Voor besluiten van de rechtspersoon als bedoeld in de onderdelen d, e, f, j en k van lid 1 is enig besluit vereist van het bestuur.
 
-Afdeling 3. Het beroep
-
 Artikel 63k
 
-[Vervallen per 01-01-2013]
+[Dit onderdeel is nog niet inwerking getreden]
 
 Titel 4. Naamloze vennootschappen
 
@@ -1882,7 +1910,7 @@ Artikel 130
 
 Artikel 131
 
-De rechtbank, binnen welker rechtsgebied de vennootschap haar woonplaats heeft, neemt kennis van alle rechtsvorderingen betreffende de overeenkomst tussen de naamloze vennootschap en de bestuurder, daaronder begrepen de vordering bedoeld bij artikel 138 van dit Boek, waarvan het bedrag onbepaald is of € 25.000 te boven gaat. Dezelfde rechtbank neemt kennis van verzoeken als bedoeld in artikel 685 van Boek 7 betreffende de in de eerste zin genoemde overeenkomst. De zaken, bedoeld in de eerste en tweede volzin, worden niet behandeld en beslist door de kantonrechter.
+De rechtbank, binnen welker rechtsgebied de vennootschap haar woonplaats heeft, neemt kennis van alle rechtsvorderingen betreffende de overeenkomst tussen de naamloze vennootschap en de bestuurder, daaronder begrepen de vordering bedoeld bij artikel 138 van dit Boek, waarvan het bedrag onbepaald is of € 25.000 te boven gaat. Dezelfde rechtbank neemt kennis van verzoeken als bedoeld in artikel 671b en artikel 671c van Boek 7 betreffende de in de eerste zin genoemde overeenkomst. De zaken, bedoeld in de eerste en tweede volzin, worden niet behandeld en beslist door de kantonrechter.
 
 Artikel 132
 
@@ -1926,7 +1954,7 @@ Artikel 134
 
 3.	Een veroordeling tot herstel van de arbeidsovereenkomst tussen naamloze vennootschap en bestuurder kan door de rechter niet worden uitgesproken.
 
-4.	De statuten bevatten voorschriften omtrent de wijze waarop in het bestuur van de vennootschap voorlopig wordt voorzien in geval van ontstentenis of belet van bestuurders. De statuten kunnen deze voorschriften bevatten voor het geval van ontstentenis of belet van een of meer bestuurders.
+4.	De statuten bevatten voorschriften omtrent de wijze waarop in de uitoefening van de taken en bevoegdheden voorlopig wordt voorzien in geval van ontstentenis of belet van alle bestuurders. De statuten kunnen deze voorschriften bevatten voor het geval van ontstentenis of belet van een of meer bestuurders. In de statuten kan nader worden bepaald wanneer sprake is van belet. Degene die bij ontstentenis of belet van bestuurders ingevolge een statutaire regeling is aangewezen tot het verrichten van bestuursdaden, wordt voor wat deze bestuursdaden betreft met een bestuurder gelijkgesteld.
 
 Artikel 134a
 
@@ -2040,9 +2068,9 @@ Artikel 138
 
 5.	Is de omvang van het tekort nog niet bekend, dan kan de rechter, al dan niet met toepassing van het vierde lid, bepalen dat van het tekort tot betaling waarvan hij de bestuurders veroordeelt, een staat wordt opgemaakt overeenkomstig de bepalingen van de zesde titel van het tweede boek van het Wetboek van Burgerlijke Rechtsvordering.
 
-6.	De vordering kan slechts worden ingesteld op grond van onbehoorlijke taakvervulling in de periode van drie jaren voorafgaande aan het faillissement. Een aan de bestuurder verleende kwijting staat aan het instellen van de vordering niet in de weg.
+6.	De vordering kan slechts worden ingesteld op grond van onbehoorlijke taakvervulling in de periode van drie jaren voorafgaande aan het faillissement. Een aan de bestuurder verleende kwijting staat aan het instellen van de vordering niet in de weg. De bestuurder is niet bevoegd tot verrekening met een vordering op de vennootschap.
 
-7.	Met een bestuurder wordt voor de toepassing van dit artikel gelijkgesteld degene die het beleid van de vennootschap heeft bepaald of mede heeft bepaald, als ware hij bestuurder. De vordering kan niet worden ingesteld tegen de door de rechter benoemde bewindvoerder.
+7.	Met een bestuurder wordt voor de toepassing van dit artikel gelijkgesteld degene die het beleid van de vennootschap heeft bepaald of mede heeft bepaald, als ware hij bestuurder. De vordering kan niet worden ingesteld tegen een door de rechter benoemde bewindvoerder of een door de ondernemingskamer van het gerechtshof Amsterdam aangestelde bestuurder als bedoeld in artikel 356, onder c.
 
 8.	Dit artikel laat onverlet de bevoegdheid van de curator tot het instellen van een vordering op grond van de overeenkomst met de bestuurder of op grond van artikel 9.
 
@@ -2140,9 +2168,7 @@ Indien door de jaarrekening een misleidende voorstelling wordt gegeven van de to
 
 Artikel 151
 
-1.	Allen, commissarissen of anderen, die, zonder deel uit te maken van het bestuur der naamloze vennootschap, krachtens enige bepaling der statuten of krachtens besluit der algemene vergadering, voor zekere tijd of onder zekere omstandigheden daden van bestuur verrichten, worden te dien aanzien, wat hun rechten en verplichtingen ten opzichte van de vennootschap en van derden betreft, als bestuurders aangemerkt.
-
-2.	Het goedkeuren van bepaalde bestuurshandelingen of het daartoe machtigen geldt niet als het verrichten van daden van bestuur.
+[Vervallen per 01-07-2021]
 
 Afdeling 6. De raad van commissarissen bij de grote naamloze vennootschap
 
@@ -2189,7 +2215,7 @@ Artikel 154
 
 Artikel 155
 
-1.	In afwijking van artikel 154 geldt artikel 162 niet voor een vennootschap waarin een deelneming voor ten minste de helft van het geplaatste kapitaal wordt gehouden:
+1.	In afwijking van artikel 154 gelden de artikelen 162 en 164a lid 2 niet voor een vennootschap waarin een deelneming voor ten minste de helft van het geplaatste kapitaal wordt gehouden:
 	a.	door een rechtspersoon waarvan de werknemers in meerderheid buiten Nederland werkzaam zijn, of door afhankelijke maatschappijen daarvan
 	b.	volgens een onderlinge regeling tot samenwerking door een aantal van zulke rechtspersonen of maatschappijen, of
 	c.	volgens een onderlinge regeling tot samenwerking door een of meer van zulke rechtspersonen en een of meer rechtspersonen waarvoor artikel 153 lid 3 onder a of artikel 263 lid 3 onder a geldt of waarop de artikelen 63f tot en met 63j, de artikelen 158 tot en met 161 en 164 of de artikelen 268 tot en met 271 en 274 van toepassing zijn.
@@ -2200,7 +2226,7 @@ Artikel 155
 
 Artikel 155a
 
-1.	In afwijking van artikel 154 geldt artikel 162 niet voor een vennootschap waarin:
+1.	In afwijking van artikel 154 gelden de artikelen 162 en 164a lid 2 niet voor een vennootschap waarin:
 	a.	een natuurlijk persoon het gehele geplaatste kapitaal verschaft of doet verschaffen, of twee of meer natuurlijke personen volgens een onderlinge regeling tot samenwerking het gehele geplaatste kapitaal verschaffen of doen verschaffen;
 	b.	een stichting, een vereniging of een rechtspersoon als bedoeld in artikel 1 het gehele geplaatste kapitaal voor eigen rekening verschaft of doet verschaffen, of twee of meer van zulke rechtspersonen volgens een onderlinge regeling tot samenwerking het gehele geplaatste kapitaal voor eigen rekening verschaffen of doen verschaffen.
 
@@ -3117,7 +3143,7 @@ Artikel 240
 
 Artikel 241
 
-De rechtbank, binnen welker rechtsgebied de vennootschap haar woonplaats heeft, neemt kennis van alle rechtsvorderingen betreffende de overeenkomst tussen de vennootschap en de bestuurder, daaronder begrepen de vordering bedoeld bij artikel 248 van dit Boek, waarvan het bedrag onbepaald is of € 25.000 te boven gaat. Dezelfde rechtbank neemt kennis van verzoeken als bedoeld in artikel 685 van Boek 7 betreffende de in de eerste zin genoemde overeenkomst. De zaken, bedoeld in de eerste en tweede volzin, worden niet behandeld en beslist door de kantonrechter.
+De rechtbank, binnen welker rechtsgebied de vennootschap haar woonplaats heeft, neemt kennis van alle rechtsvorderingen betreffende de overeenkomst tussen de vennootschap en de bestuurder, daaronder begrepen de vordering bedoeld bij artikel 248 van dit Boek, waarvan het bedrag onbepaald is of € 25.000 te boven gaat. Dezelfde rechtbank neemt kennis van verzoeken als bedoeld in artikel 671b en artikel 671c van Boek 7 betreffende de in de eerste zin genoemde overeenkomst. De zaken, bedoeld in de eerste en tweede volzin, worden niet behandeld en beslist door de kantonrechter.
 
 Artikel 242
 
@@ -3161,7 +3187,7 @@ Artikel 244
 
 3.	Een veroordeling tot herstel van de arbeidsovereenkomst tussen vennootschap en bestuurder kan door de rechter niet worden uitgesproken.
 
-4.	De statuten moeten voorschriften bevatten omtrent de wijze waarop in het bestuur van de vennootschap voorlopig wordt voorzien in geval van ontstentenis of belet van een of meer bestuurders. De statuten kunnen nader bepalen wanneer er sprake is van belet.
+4.	De statuten bevatten voorschriften omtrent de wijze waarop in de uitoefening van de taken en bevoegdheden voorlopig wordt voorzien in geval van ontstentenis of belet van alle bestuurders. De statuten kunnen deze voorschriften bevatten voor het geval van ontstentenis of belet van een of meer bestuurders. In de statuten kan nader worden bepaald wanneer sprake is van belet. Degene die bij ontstentenis of belet van bestuurders ingevolge een statutaire regeling is aangewezen tot het verrichten van bestuursdaden, wordt voor wat deze bestuursdaden betreft met een bestuurder gelijkgesteld.
 
 Artikel 245
 
@@ -3191,9 +3217,9 @@ Artikel 248
 
 5.	Is de omvang van het tekort nog niet bekend, dan kan de rechter, al dan niet met toepassing van het vierde lid, bepalen dat van het tekort tot betaling waarvan hij de bestuurders veroordeelt, een staat wordt opgemaakt overeenkomstig de bepalingen van de zesde titel van het tweede boek van het Wetboek van Burgerlijke Rechtsvordering.
 
-6.	De vordering kan slechts worden ingesteld op grond van onbehoorlijke taakvervulling in de periode van drie jaren voorafgaande aan het faillissement. Een aan de bestuurder verleende kwijting staat aan het instellen van de vordering niet in de weg.
+6.	De vordering kan slechts worden ingesteld op grond van onbehoorlijke taakvervulling in de periode van drie jaren voorafgaande aan het faillissement. Een aan de bestuurder verleende kwijting staat aan het instellen van de vordering niet in de weg. De bestuurder is niet bevoegd tot verrekening met een vordering op de vennootschap.
 
-7.	Met een bestuurder wordt voor de toepassing van dit artikel gelijkgesteld degene die het beleid van de vennootschap heeft bepaald of mede heeft bepaald, als ware hij bestuurder. De vordering kan niet worden ingesteld tegen de door de rechter benoemde bewindvoerder.
+7.	Met een bestuurder wordt voor de toepassing van dit artikel gelijkgesteld degene die het beleid van de vennootschap heeft bepaald of mede heeft bepaald, als ware hij bestuurder. De vordering kan niet worden ingesteld tegen een door de rechter benoemde bewindvoerder of een door de ondernemingskamer van het gerechtshof Amsterdam aangestelde bestuurder als bedoeld in artikel 356, onder c.
 
 8.	Dit artikel laat onverlet de bevoegdheid van de curator tot het instellen van een vordering op grond van de overeenkomst met de bestuurder of op grond van artikel 9.
 
@@ -3231,7 +3257,7 @@ Artikel 252
 
 3.	Bij een aanbeveling of voordracht tot benoeming van een commissaris worden van de kandidaat medegedeeld zijn leeftijd, zijn beroep, het bedrag aan door hem gehouden aandelen in het kapitaal der vennootschap en de betrekkingen die hij bekleedt of die hij heeft bekleed voor zover die van belang zijn in verband met de vervulling van de taak van een commissaris. Tevens wordt vermeld aan welke rechtspersonen hij reeds als commissaris is verbonden; indien zich daaronder rechtspersonen bevinden, die tot een zelfde groep behoren, kan met de aanduiding van die groep worden volstaan. De aanbeveling en de voordracht tot benoeming of herbenoeming worden gemotiveerd. Bij herbenoeming wordt rekening gehouden met de wijze waarop de kandidaat zijn taak als commissaris heeft vervuld.
 
-4.	De statuten moeten voorschriften bevatten omtrent de wijze waarop in de uitoefening van de taken en bevoegdheden voorlopig wordt voorzien in geval van ontstentenis of belet van een of meer commissarissen. De statuten kunnen nader bepalen wanneer er sprake is van belet.
+4.	De statuten bevatten voorschriften omtrent de wijze waarop in de uitoefening van de taken en bevoegdheden voorlopig wordt voorzien in geval van ontstentenis of belet van alle commissarissen. De statuten kunnen deze voorschriften bevatten voor het geval van ontstentenis of belet van een of meer commissarissen. In de statuten kan nader worden bepaald wanneer sprake is van belet. Degene die bij ontstentenis of belet van commissarissen ingevolge een statutaire regeling de taken van een commissaris vervult, wordt voor het vervullen van die taken met een commissaris gelijkgesteld.
 
 Artikel 252a
 
@@ -3285,9 +3311,7 @@ Indien door de openbaar gemaakte jaarrekening een misleidende voorstelling wordt
 
 Artikel 261
 
-1.	Allen, commissarissen of anderen, die, zonder deel uit te maken van het bestuur der vennootschap, krachtens enige bepaling der statuten of krachtens besluit der algemene vergadering, voor zekere tijd of onder zekere omstandigheden daden van bestuur verrichten, worden te dien aanzien, wat hun rechten en verplichtingen ten opzichte van de vennootschap en van derden betreft, als bestuurders aangemerkt.
-
-2.	Het goedkeuren van bepaalde bestuurshandelingen of het daartoe machtigen geldt niet als het verrichten van daden van bestuur.
+[Vervallen per 01-07-2021]
 
 Afdeling 6. De raad van commissarissen bij de grote besloten vennootschap met beperkte aansprakelijkheid
 
@@ -3334,7 +3358,7 @@ Artikel 264
 
 Artikel 265
 
-1.	In afwijking van artikel 264 geldt artikel 272 niet voor een vennootschap waarin een deelneming voor ten minste de helft van het geplaatste kapitaal wordt gehouden:
+1.	In afwijking van artikel 264 gelden de artikelen 272 en 274a lid 2 niet voor een vennootschap waarin een deelneming voor ten minste de helft van het geplaatste kapitaal wordt gehouden:
 	a.	door een rechtspersoon waarvan de werknemers in meerderheid buiten Nederland werkzaam zijn, of door afhankelijke maatschappijen daarvan
 	b.	volgens een onderlinge regeling tot samenwerking door een aantal van zulke rechtspersonen of maatschappijen, of
 	c.	volgens een onderlinge regeling tot samenwerking door een of meer van zulke rechtspersonen en een of meer rechtspersonen waarvoor artikel 153 lid 3 onder a of artikel 263 lid 3 onder a geldt of waarop de artikelen 63f tot en met 63j, de artikelen 158 tot en met 161 en 164 of de artikelen 268 tot en met 271 en 274 van toepassing zijn.
@@ -3345,7 +3369,7 @@ Artikel 265
 
 Artikel 265a
 
-1.	In afwijking van artikel 264 geldt artikel 272 niet voor een vennootschap waarin:
+1.	In afwijking van artikel 264 gelden de artikelen 272 en 274a lid 2 niet voor een vennootschap waarin:
 	a.	een natuurlijk persoon het gehele geplaatste kapitaal verschaft of doet verschaffen, of twee of meer natuurlijke personen volgens een onderlinge regeling tot samenwerking het gehele geplaatste kapitaal verschaffen of doen verschaffen;
 	b.	een stichting, een vereniging of een rechtspersoon als bedoeld in artikel 1 het gehele geplaatste kapitaal voor eigen rekening verschaft of doet verschaffen, of twee of meer van zulke rechtspersonen volgens een onderlinge regeling tot samenwerking het gehele geplaatste kapitaal voor eigen rekening verschaffen of doen verschaffen.
 
@@ -3525,7 +3549,7 @@ Artikel 286
 4.	De statuten moeten inhouden:
 	a.	de naam der stichting, met het woord stichting als deel van de naam;
 	b.	het doel der stichting;
-	c.	de wijze van benoeming en ontslag der bestuurders;
+	c.	de wijze van benoeming en ontslag van bestuurders en, indien er een raad van commissarissen wordt ingesteld, de wijze van benoeming en ontslag van commissarissen;
 	d.	de gemeente in Nederland waar zij haar zetel heeft;
 	e.	de bestemming van het overschot na vereffening van de stichting in geval van ontbinding, of de wijze waarop de bestemming zal worden vastgesteld.
 
@@ -3557,6 +3581,16 @@ Artikel 291
 
 2.	Slechts indien dit uit de statuten voortvloeit, is het bestuur bevoegd te besluiten tot het aangaan van overeenkomsten tot verkrijging, vervreemding en bezwaring van registergoederen, en tot het aangaan van overeenkomsten waarbij de stichting zich als borg of hoofdelijk medeschuldenaar verbindt, zich voor een derde sterk maakt of zich tot zekerheidstelling voor een schuld van een ander verbindt. De statuten kunnen deze bevoegdheid aan beperkingen en voorwaarden binden. De uitsluiting, beperkingen en voorwaarden gelden mede voor de bevoegdheid tot vertegenwoordiging van de stichting ter zake van deze handelingen, tenzij de statuten anders bepalen.
 
+3.	Bij de vervulling van hun taak richten de bestuurders zich naar het belang van de stichting en de met haar verbonden onderneming of organisatie.
+
+4.	De statuten kunnen bepalen dat een met name of in functie aangeduide bestuurder meer dan één stem wordt toegekend. Een bestuurder kan niet meer stemmen uitbrengen dan de andere bestuurders tezamen.
+
+5.	De statuten bevatten voorschriften omtrent de wijze waarop in de uitoefening van de taken en bevoegdheden voorlopig wordt voorzien in geval van ontstentenis of belet van alle bestuurders. De statuten kunnen deze voorschriften bevatten voor het geval van ontstentenis of belet van een of meer bestuurders. In de statuten kan nader worden bepaald wanneer sprake is van belet. Degene die bij ontstentenis of belet van bestuurders ingevolge een statutaire regeling is aangewezen tot het verrichten van bestuursdaden, wordt voor wat deze bestuursdaden betreft met een bestuurder gelijkgesteld.
+
+6.	Een bestuurder neemt niet deel aan de beraadslaging en besluitvorming indien hij daarbij een direct of indirect persoonlijk belang heeft dat tegenstrijdig is met het belang bedoeld in lid 3. Wanneer hierdoor geen bestuursbesluit kan worden genomen, wordt het besluit genomen door de raad van commissarissen. Bij ontbreken van een raad van commissarissen, wordt het besluit genomen door het bestuur onder schriftelijke vastlegging van de overwegingen die aan het besluit ten grondslag liggen, tenzij de statuten anders bepalen.
+
+7.	De statuten kunnen bepalen dat aan bestuurders een bezoldiging wordt toegekend.
+
 Artikel 291a
 
 [Dit onderdeel is nog niet inwerking getreden]
@@ -3573,7 +3607,27 @@ Artikel 292
 
 Artikel 292a
 
-[Dit onderdeel is nog niet inwerking getreden]
+1.	Tenzij uitvoering is gegeven aan artikel 291a lid 1, kan bij de statuten worden bepaald dat er een raad van commissarissen zal zijn. Deze kan ook als raad van toezicht worden aangeduid. De raad bestaat uit een of meer natuurlijke personen.
+
+2.	De raad van commissarissen heeft tot taak toezicht te houden op het beleid van het bestuur en de algemene gang van zaken in de stichting en de met haar verbonden onderneming of organisatie. Hij staat het bestuur met raad terzijde. Bij de vervulling van hun taak richten de commissarissen zich naar het belang van de stichting en de met haar verbonden onderneming of organisatie.
+
+3.	Tenzij bij de statuten anders is bepaald, is de raad van commissarissen bevoegd iedere bestuurder te allen tijde te schorsen. De schorsing kan te allen tijde worden opgeheven door het orgaan dat of de persoon die bevoegd is tot benoeming.
+
+4.	De statuten kunnen bepalen dat een met name of in functie aangeduide commissaris meer dan één stem wordt toegekend. Een commissaris kan niet meer stemmen uitbrengen dan de andere commissarissen tezamen.
+
+5.	De statuten bevatten voorschriften omtrent de wijze waarop in de uitoefening van de taken en bevoegdheden voorlopig wordt voorzien in geval van ontstentenis of belet van alle commissarissen. De statuten kunnen deze voorschriften bevatten voor het geval van ontstentenis of belet van een of meer commissarissen. In de statuten kan nader worden bepaald wanneer sprake is van belet. Degene die bij ontstentenis of belet van commissarissen ingevolge een statutaire regeling de taken van een commissaris vervult, wordt voor het vervullen van die taken met een commissaris gelijkgesteld.
+
+6.	De statuten kunnen aanvullende bepalingen omtrent de taak en de bevoegdheden van de raad en zijn leden bevatten.
+
+7.	Een commissaris neemt niet deel aan de beraadslaging en besluitvorming indien hij daarbij een direct of indirect persoonlijk belang heeft dat tegenstrijdig is met het belang van de stichting en de daaraan verbonden onderneming of organisatie. Wanneer de raad van commissarissen hierdoor geen besluit kan nemen, wordt het besluit genomen door de raad onder schriftelijke vastlegging van de overwegingen die aan het besluit ten grondslag liggen, tenzij de statuten anders bepalen.
+
+8.	De statuten kunnen bepalen dat aan de commissarissen als zodanig een bezoldiging wordt toegekend.
+
+9.	Bij een aanbeveling of voordracht tot benoeming van een commissaris worden van de kandidaat meegedeeld zijn leeftijd, zijn beroep, de betrekkingen die hij bekleedt of heeft bekleed voor zover die van belang zijn in verband met de vervulling van de taak van een commissaris. Tevens wordt vermeld aan welke rechtspersonen hij reeds als commissaris is verbonden; indien zich daaronder rechtspersonen bevinden, die tot een zelfde groep behoren, kan met de aanduiding van de groep worden volstaan. De aanbeveling en de voordracht tot benoeming of herbenoeming worden gemotiveerd. Bij herbenoeming wordt rekening gehouden met de wijze waarop de kandidaat zijn taak als commissaris heeft vervuld.
+
+10.	Het bestuur verschaft de raad van commissarissen tijdig de voor de uitoefening van diens taak noodzakelijke gegevens.
+
+11.	Het bestuur stelt ten minste een keer per jaar de raad van commissarissen schriftelijk op de hoogte van de hoofdlijnen van het strategisch beleid, van de algemene en financiële risico’s en van de gebruikte beheers- en controlesystemen.
 
 Artikel 293
 
@@ -3637,17 +3691,19 @@ Artikel 297b
 
 Artikel 298
 
-1.	Een bestuurder die:
-	a.	iets doet of nalaat in strijd met de bepalingen van de wet of van de statuten, dan wel zich schuldig maakt aan wanbeheer, of
-	b.	niet of niet behoorlijk voldoet aan een door de voorzieningenrechter van de rechtbank, ingevolge artikel 297, gegeven bevel, kan door de rechtbank worden ontslagen. Dit kan geschieden op verzoek van het openbaar ministerie of iedere belanghebbende.
+1.	Een bestuurder kan op verzoek van een belanghebbende of van het openbaar ministerie door de rechtbank worden ontslagen wegens verwaarlozing van zijn taak, wegens andere gewichtige redenen, wegens ingrijpende wijziging van omstandigheden op grond waarvan het voortduren van zijn bestuurderschap in redelijkheid niet kan worden geduld of wegens het niet of niet behoorlijk voldoen aan een door de voorzieningenrechter van de rechtbank ingevolge artikel 297 gegeven bevel.
 
 2.	De rechtbank kan, hangende het onderzoek, voorlopige voorzieningen in het bestuur treffen en de bestuurder schorsen.
 
-3.	Een door de rechtbank ontslagen bestuurder kan gedurende vijf jaar na het ontslag geen bestuurder van een stichting worden.
+3.	Een door de rechtbank ontslagen bestuurder kan gedurende vijf jaar na het ontslag geen bestuurder of commissaris van een stichting worden, tenzij de bestuurder mede gelet op de aan anderen toebedeelde taken geen ernstig verwijt kan worden gemaakt.
+
+4.	Het in de voorgaande leden bepaalde is van overeenkomstige toepassing op commissarissen.
 
 Artikel 298a
 
-[Dit onderdeel is nog niet inwerking getreden]
+1.	Een veroordeling tot herstel van de arbeidsovereenkomst tussen de stichting en de bestuurder kan door de rechter niet worden uitgesproken.
+
+2.	Het in het voorgaande lid bepaalde is van overeenkomstige toepassing op commissarissen.
 
 Artikel 299
 
@@ -3671,7 +3727,15 @@ Artikel 300
 
 Artikel 300a
 
-De artikelen 131, 138, 139, 149 en 150 zijn van overeenkomstige toepassing in geval van faillissement van een stichting die aan de heffing van vennootschapsbelasting is onderworpen.
+1.	Ten aanzien van de taakvervulling door bestuurders vindt het bepaalde bij de artikelen 131 en 138 lid 1 en leden 3 tot en met 10 overeenkomstige toepassing.
+
+2.	Ten aanzien van de taakvervulling door bestuurders vindt het bepaalde bij de artikelen 138 lid 2 en 139 overeenkomstige toepassing in geval van:
+	a.	een stichting die aan de heffing van vennootschapsbelasting is onderworpen; of
+	b.	een stichting die bij of krachtens de wet verplicht is een financiële verantwoording op te stellen die gelijk of gelijkwaardig is aan een jaarrekening als bedoeld in titel 9.
+
+3.	Ten aanzien van de taakvervulling door commissarissen vindt overeenkomstige toepassing:
+	a.	het bepaalde in lid 1 en lid 2, met dien verstande dat in lid 2 voor artikel 139 moet worden gelezen artikel 150; en
+	b.	het bepaalde in artikel 9.
 
 Artikel 301
 
