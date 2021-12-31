@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 01-07-2021 t/m 31-12-2021
+Geldend van 01-01-2022 t/m 30-09-2022
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -210,15 +210,27 @@ Artikel 19a
 
 Artikel 20
 
-1.	Een rechtspersoon waarvan de werkzaamheid in strijd is met de openbare orde, wordt door de rechtbank op verzoek van het openbaar ministerie verboden verklaard en ontbonden.
+1.	Een rechtspersoon waarvan het doel of de werkzaamheid in strijd is met de openbare orde, wordt door de rechtbank op verzoek van het openbaar ministerie verboden verklaard en ontbonden.
 
-2.	Een rechtspersoon waarvan het doel in strijd is met de openbare orde, wordt door de rechtbank op verzoek van het openbaar ministerie ontbonden. Alvorens de ontbinding uit te spreken kan de rechtbank de rechtspersoon in de gelegenheid stellen binnen een door haar te bepalen termijn zijn doel zodanig te wijzigen dat het niet meer in strijd is met de openbare orde.
+2.	In ieder geval in strijd met de openbare orde is het doel dat of de werkzaamheid die leidt of klaarblijkelijk dreigt te leiden tot een bedreiging van de nationale veiligheid of de internationale rechtsorde of tot de ontwrichting van de democratische rechtsstaat of het openbaar gezag.
 
-3.	Een rechtspersoon vermeld in de lijst, bedoeld in artikel 2, derde lid, van Verordening (EG) nr. 2580/2001 van de Raad van 27 december 2001 (PbEG L 344), in Bijlage I van Verordening (EG) nr. 881/2002 van de Raad van 27 mei 2002 (PbEG L 139) of is vermeld en met een ster aangemerkt in de Bijlage bij het Gemeenschappelijk Standpunt nr. 2001/931 van de Raad van 27 december 2001 (PbEG L 344) is van rechtswege verboden en niet bevoegd tot het verrichten van rechtshandelingen.
+3.	In strijd met de openbare orde wordt vermoed te zijn het doel dat of de werkzaamheid die leidt of klaarblijkelijk dreigt te leiden tot aantasting van de menselijke waardigheid, geweld of het aanzetten tot haat of discriminatie.
+
+4.	Een rechtspersoon vermeld in de lijst, bedoeld in artikel 2, derde lid, van Verordening (EG) nr. 2580/2001 van de Raad van 27 december 2001 (PbEG L 344), in Bijlage I van Verordening (EG) nr. 881/2002 van de Raad van 27 mei 2002 (PbEG L 139) of is vermeld en met een ster aangemerkt in de Bijlage bij het Gemeenschappelijk Standpunt nr. 2001/931 van de Raad van 27 december 2001 (PbEG L 344) is van rechtswege verboden en niet bevoegd tot het verrichten van rechtshandelingen.
+
+5.	Bij de verbodenverklaring kan de rechter de betrokken rechtspersoon en degenen die krachtens de wet en de statuten bij zijn organisatie zijn betrokken in het belang van de openbare orde bevelen om bepaalde maatregelen te nemen of gedragingen na te laten, uiterlijk totdat over de verboden verklaring onherroepelijk is beslist.
+
+6.	De verbodenverklaring en de daarbij gegeven bevelen zijn uitvoerbaar bij voorraad. Het instellen van een rechtsmiddel schorst de werking niet.
 
 Artikel 20a
 
-[Dit onderdeel is nog niet inwerking getreden]
+1.	De bestuurder van een verboden verklaarde rechtspersoon, kan gedurende ten minste drie jaar nadat de verbodenverklaring in kracht van gewijsde is gegaan, geen bestuurder of commissaris van enige rechtspersoon zijn of worden, tenzij betrokkene naar het oordeel van de rechter in de gegeven omstandigheden geen ernstig verwijt kan worden gemaakt. Met een bestuurder wordt voor de toepassing van dit artikel gelijk gesteld degene die het beleid van de rechtspersoon heeft bepaald of mede heeft bepaald, als ware hij bestuurder.
+
+2.	De rechtbank regelt zo nodig alle overige gevolgen van het door haar uitgesproken bestuursverbod.
+
+3.	De griffier van de rechtbank, of bij hoger beroep, van het gerechtshof, biedt de onherroepelijke uitspraak waarin een bestuursverbod is opgelegd met bekwame spoed aan de Kamer van Koophandel aan, die zo nodig terstond tot uitschrijving van betrokkene uit het handelsregister overgaat. Tevens wordt het bestuursverbod geregistreerd bij het handelsregister.
+
+4.	Artikel 106c van de Faillissementswet is van overeenkomstige toepassing, met dien verstande dat waar in artikel 106c van de Faillissementswet wordt verwezen naar een verzoek of vordering tot het opleggen van een bestuursverbod wordt gelezen een verzoek tot verbodenverklaring van een rechtspersoon.
 
 Artikel 21
 
@@ -287,7 +299,7 @@ Artikel 23a
 
 Artikel 23b
 
-1.	De vereffenaar draagt hetgeen na de voldoening der schuldeisers van het vermogen van de ontbonden rechtspersoon is overgebleven, in verhouding tot ieders recht over aan hen die krachtens de statuten daartoe zijn gerechtigd, of anders aan de leden of aandeelhouders. Heeft geen ander recht op het overschot, dan keert hij het uit aan de Staat, die het zoveel mogelijk overeenkomstig het doel van de rechtspersoon besteedt.
+1.	De vereffenaar draagt hetgeen na de voldoening der schuldeisers van het vermogen van de ontbonden rechtspersoon is overgebleven, in verhouding tot ieders recht over aan hen die krachtens de statuten daartoe zijn gerechtigd, of anders aan de leden of aandeelhouders. Heeft geen ander recht op het overschot, dan keert hij het uit aan de Staat, die het zoveel mogelijk overeenkomstig het doel van de rechtspersoon besteedt. In afwijking van het voorgaande kan de rechter die een rechtspersoon op grond van artikel 20 verboden verklaart, bepalen dat de vereffenaar na ontbinding het overschot uitkeert aan de Staat.
 
 2.	De vereffenaar stelt een rekening en verantwoording op van de vereffening, waaruit de omvang en samenstelling van het overschot blijken. Zijn er twee of meer gerechtigden tot het overschot, dan stelt de vereffenaar een plan van verdeling op dat de grondslagen der verdeling bevat.
 
@@ -2122,6 +2134,20 @@ Artikel 142a
 
 3.	De nietigheid van de benoeming op grond van de vorige leden heeft geen gevolgen voor de rechtsgeldigheid van de besluitvorming waaraan is deelgenomen.
 
+Artikel 142b
+
+1.	Dit artikel is van toepassing op een vennootschap waarvan aandelen of certificaten van aandelen zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht in Nederland.
+
+2.	Zolang de raad van commissarissen niet voor ten minste een derde van het aantal leden uit mannen bestaat en voor ten minste een derde van het aantal leden uit vrouwen, kan een persoon wiens benoeming de verhouding tussen het aantal mannen en vrouwen in de raad van commissarissen niet evenwichtiger zou maken, niet tot commissaris worden benoemd, tenzij sprake is van een herbenoeming binnen acht jaar na het jaar van benoeming of van uitzonderlijke omstandigheden als bedoeld in artikel 135a lid 5. Indien het aantal leden van de raad van commissarissen niet door drie deelbaar is, wordt het naastgelegen hogere getal dat wel door drie deelbaar is in aanmerking genomen voor de vaststelling van het aantal leden bedoeld in de vorige zin. De vorige zinnen gelden niet indien de raad van commissarissen bestaat uit één persoon.
+
+3.	Indien toepassing is gegeven aan artikel 129a, zijn de vorige leden van overeenkomstige toepassing op niet-uitvoerende bestuurders.
+
+4.	Voor de toepassing van leden 2 en 3 geldt een tijdelijke aanstelling overeenkomstig artikel 349a lid 2 of artikel 356 onder c niet als benoeming en telt de aangestelde commissaris of niet-uitvoerende bestuurder niet mee.
+
+5.	De nietigheid van een benoeming wegens strijd met lid 2 of lid 3 heeft geen gevolgen voor de rechtsgeldigheid van de besluitvorming waaraan is deelgenomen.
+
+6.	Een benoeming in geval van uitzonderlijke omstandigheden als bedoeld in lid 2 geldt voor de duur van ten hoogste twee jaar.
+
 Artikel 143
 
 Bij de statuten kan worden bepaald dat een of meer commissarissen, doch ten hoogste een derde van het gehele aantal, zullen worden benoemd door anderen dan de algemene vergadering. Is de benoeming van commissarissen geregeld overeenkomstig de artikelen 158 en 159 van dit Boek, dan vindt de vorige zin geen toepassing.
@@ -2349,7 +2375,15 @@ Afdeling 7. Evenwichtige verdeling van de zetels over vrouwen en mannen
 
 Artikel 166
 
-[Vervallen per 01-01-2020]
+1.	Dit artikel is van toepassing op een vennootschap die op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, niet heeft voldaan aan ten minste twee van de vereisten, bedoeld in artikel 397 leden 1 en 2.
+
+2.	De vennootschap stelt passende en ambitieuze doelen in de vorm van een streefcijfer vast om de verhouding tussen het aantal mannen en vrouwen in het bestuur en de raad van commissarissen, alsmede bij nader door de vennootschap te bepalen categorieën werknemers in leidinggevende functies, evenwichtiger te maken. Indien het bestuur en de raad van commissarissen bestaan uit één persoon, kan een streefcijfer worden vastgesteld voor beide organen gezamenlijk. Indien artikel 142b lid 2 of 3 van toepassing is, behoeft voor de raad van commissarissen dan wel de niet-uitvoerende bestuurders geen streefcijfer te worden vastgesteld.
+
+3.	De vennootschap stelt een plan op om de in het vorige lid gestelde doelen te bereiken.
+
+4.	Jaarlijks binnen tien maanden na afloop van het boekjaar, rapporteert de vennootschap aan de Sociaal economische Raad over het aantal mannen en vrouwen dat aan het eind van het boekjaar deel uitmaakt van het bestuur en de raad van commissarissen, alsmede van de nader door de vennootschap te bepalen categorieën werknemers in leidinggevende functies, de doelen in de vorm van een streefcijfer, het plan om deze doelen te bereiken en als één of meer doelen niet zijn bereikt, de redenen daarvoor.
+
+5.	Een tot een groep behorende vennootschap behoeft niet te voldoen aan de leden 2 tot en met 4, mits de vennootschap die aan het hoofd staat van de groep in plaats van de groepsmaatschappij aan de uit deze leden voortvloeiende verplichtingen uitvoering geeft, al dan niet voor de betreffende groepsmaatschappijen gezamenlijk.
 
 Afdeling 8. Transacties met verbonden partijen
 
@@ -2523,7 +2557,7 @@ Artikel 186
 
 Artikel 187
 
-Indien aandelen van de vennootschap of certificaten van aandelen zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, zijn de artikelen 113 lid 6, 114 leden 1 en 3, 114a lid 1, 114b, 115 lid 2, 117 leden 6, tweede volzin, en 7, 117a leden 3 en 5, tweede volzin, 117b leden 1 tot en met 4, 117c, 119 leden 1, derde volzin, 2 en 3, 120 leden 5 en 6, 129 lid 1, tweede zin, 135 leden 1, eerste en tweede volzin, 4 en 9, 135a, 135b, 145 lid 2 en 167 tot en met 170 van toepassing in plaats van de artikelen 223 lid 1, 224 leden 1 en 3, 224a lid 1, 225, 227 lid 5, eerste volzin, 227a lid 3 en 227b. Voor de toepassing van artikel 114b wordt voor artikelen 132 lid 1, 134 lid 1, 142 lid 1, 144 lid 1 en 161a lid 1 gelezen: artikelen 242 lid 1, 244 lid 1, 252 lid 1, 254 lid 1 en 271a lid 1, en wordt voor de in artikel 114b lid 10 bedoelde certificaten en houders van certificaten gelezen: certificaten en houders van certificaten waaraan respectievelijk aan wie het vergaderrecht bedoeld in artikel 220 lid 2 toekomt. Voor de toepassing van artikelen 168 en 169 lid 3, wordt in plaats van artikel 129a gelezen artikel 239a. Voor de toepassing van artikel 169 lid 4, wordt in plaats van artikelen 129 lid 6, tweede en derde volzin, en 140 lid 5, tweede volzin, gelezen artikelen 239 lid 6, tweede en derde volzin, en 250 lid 5, tweede volzin.
+Indien aandelen van de vennootschap of certificaten van aandelen zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, zijn de artikelen 113 lid 6, 114 leden 1 en 3, 114a lid 1, 114b, 115 lid 2, 117 leden 6, tweede volzin, en 7, 117a leden 3 en 5, tweede volzin, 117b leden 1 tot en met 4, 117c, 119 leden 1, derde volzin, 2 en 3, 120 leden 5 en 6, 129 lid 1, tweede zin, 135 leden 1, eerste en tweede volzin, 4 en 9, 135a, 135b, 142b, 145 lid 2 en 167 tot en met 170 van toepassing in plaats van de artikelen 223 lid 1, 224 leden 1 en 3, 224a lid 1, 225, 227 lid 5, eerste volzin, 227a lid 3 en 227b. Voor de toepassing van artikel 114b wordt voor artikelen 132 lid 1, 134 lid 1, 142 lid 1, 144 lid 1 en 161a lid 1 gelezen: artikelen 242 lid 1, 244 lid 1, 252 lid 1, 254 lid 1 en 271a lid 1, en wordt voor de in artikel 114b lid 10 bedoelde certificaten en houders van certificaten gelezen: certificaten en houders van certificaten waaraan respectievelijk aan wie het vergaderrecht bedoeld in artikel 220 lid 2 toekomt. Voor de toepassing van artikelen 168 en 169 lid 3, wordt in plaats van artikel 129a gelezen artikel 239a. Voor de toepassing van artikel 169 lid 4, wordt in plaats van artikelen 129 lid 6, tweede en derde volzin, en 140 lid 5, tweede volzin, gelezen artikelen 142b, 239 lid 6, tweede en derde volzin, en 250 lid 5, tweede volzin.
 
 Artikel 188
 
@@ -3488,7 +3522,15 @@ Afdeling 7. Evenwichtige verdeling van de zetels over vrouwen en mannen
 
 Artikel 276
 
-[Vervallen per 01-01-2020]
+1.	Dit artikel is van toepassing op een vennootschap die op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, niet heeft voldaan aan ten minste twee van de vereisten, bedoeld in artikel 397 leden 1 en 2.
+
+2.	De vennootschap stelt passende en ambitieuze doelen in de vorm van een streefcijfer vast om de verhouding tussen het aantal mannen en vrouwen in het bestuur ende raad van commissarissen, alsmede bij nader door de vennootschap te bepalen categorieën werknemers in leidinggevende functies, evenwichtiger te maken. Indien het bestuur en de raad van commissarissen bestaan uitéén persoon, kan een streefcijfer worden vastgesteld voor beide organen gezamenlijk. Indien artikel 142b lid 2 of 3 van toepassing is, behoeft voor de raad van commissarissen dan wel de niet-uitvoerende bestuurders geen streefcijfer te worden vastgesteld.
+
+3.	De vennootschap stelt een plan op om de in het vorige lid gestelde doelen te bereiken.
+
+4.	Jaarlijks binnen tien maanden na afloop van het boekjaar, rapporteert de vennootschap aan de Sociaal economische Raad over het aantal mannen en vrouwen dat aan het eind van het boekjaar deel uitmaakt van het bestuur en de raad van commissarissen, alsmede van de nader door de vennootschap te bepalen categorieën werknemers in leidinggevende functies, de doelen in de vorm van een streefcijfer, het plan om deze doelen te bereiken en als één of meer doelen niet zijn bereikt, de redenen daarvoor.
+
+5.	Een tot een groep behorende vennootschap behoeft niet te voldoen aan de leden 2 tot en met 4, mits de vennootschap die aan het hoofd staat van de groep in plaats van de groepsmaatschappij aan de uit deze leden voortvloeiende verplichtingen uitvoering geeft, al dan niet voor de betreffende groepsmaatschappijen gezamenlijk.
 
 Artikel 277
 
