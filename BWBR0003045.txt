@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 01-01-2022 t/m 30-09-2022
+Geldend van 01-10-2022 t/m 03-11-2022
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -470,7 +470,7 @@ Artikel 36
 
 3.	Een lid kan voorts zijn lidmaatschap met onmiddellijke ingang opzeggen binnen een maand nadat een besluit waarbij zijn rechten zijn beperkt of zijn verplichtingen zijn verzwaard, hem is bekend geworden of medegedeeld; het besluit is alsdan niet op hem van toepassing. Deze bevoegdheid tot opzegging kan de leden bij de statuten worden ontzegd voor het geval van wijziging van de daar nauwkeurig omschreven rechten en verplichtingen en voorts in het algemeen voor het geval van wijziging van geldelijke rechten en verplichtingen.
 
-4.	Een lid kan zijn lidmaatschap ook met onmiddellijke ingang opzeggen binnen een maand nadat hem een besluit is meegedeeld tot omzetting van de vereniging is een andere rechtsvorm, tot fusie of tot splitsing.
+4.	Een lid kan zijn lidmaatschap ook met onmiddellijke ingang opzeggen binnen een maand nadat hem een besluit is meegedeeld tot omzetting van de vereniging in een andere rechtsvorm, tot fusie of tot splitsing.
 
 Artikel 37
 
@@ -1273,7 +1273,7 @@ Artikel 93
 
 3.	Indien de vennootschap haar verplichtingen uit de bekrachtigde rechtshandeling niet nakomt, zijn degenen die namens de op te richten vennootschap handelden hoofdelijk aansprakelijk voor de schade die de derde dientengevolge lijdt, indien zij wisten of redelijkerwijs konden weten dat de vennootschap haar verplichtingen niet zou kunnen nakomen, onverminderd de aansprakelijkheid terzake van de bestuurders wegens de bekrachtiging. De wetenschap dat de vennootschap haar verplichtingen niet zou kunnen nakomen, wordt vermoed aanwezig te zijn, wanneer de vennootschap binnen een jaar na de oprichting in staat van faillissement wordt verklaard.
 
-4.	De oprichters kunnen de vennootschap in de akte van oprichting slechts verbinden door het uitgeven van aandelen, het aanvaarden van stortingen daarop, het aanstellen van bestuurders, het benoemen van commissarissen en het verrichten van rechtshandelingen als bedoeld in artikel 94 lid 1. Indien een oprichter hierbij onvoldoende zorgvuldigheid heeft betracht, zijn de artikelen 9 en 138 van overeenkomstige toepassing.
+4.	De oprichters kunnen de vennootschap in de akte van oprichting slechts verbinden door het uitgeven van aandelen, het aanvaarden van stortingen daarop, het aanstellen van bestuurders, het benoemen van commissarissen, het betalen van kosten die met de oprichting verband houden en het verrichten van rechtshandelingen als bedoeld in artikel 94 lid 1. Indien een oprichter hierbij onvoldoende zorgvuldigheid heeft betracht, zijn de artikelen 9 en 138 van overeenkomstige toepassing.
 
 Artikel 93a
 
@@ -2116,7 +2116,7 @@ Artikel 142
 
 1.	De commissarissen die niet reeds bij de akte van oprichting zijn aangewezen, worden benoemd door de algemene vergadering. De statuten kunnen de kring van benoembare personen beperken door eisen te stellen waaraan de commissarissen moeten voldoen. De eisen kunnen terzijde worden gesteld door een besluit van de algemene vergadering genomen met twee derden van de uitgebrachte stemmen die meer dan de helft van het geplaatste kapitaal vertegenwoordigen.
 
-2.	De eerste twee leden van artikel 133 zijn van overeenkomstige toepassing, tenzij de leden van de raad van commissarissen worden benoemd met inachtneming van artikel 158 of toepassing wordt gegeven aan artikel 164a.
+2.	De eerste drie leden van artikel 133 zijn van overeenkomstige toepassing, tenzij de leden van de raad van commissarissen worden benoemd met inachtneming van artikel 158 of toepassing wordt gegeven aan artikel 164a.
 
 3.	Bij een aanbeveling of voordracht tot benoeming van een commissaris worden van de kandidaat medegedeeld zijn leeftijd, zijn beroep, het bedrag aan door hem gehouden aandelen in het kapitaal der vennootschap en de betrekkingen die hij bekleedt of die hij heeft bekleed voor zover die van belang zijn in verband met de vervulling van de taak van een commissaris. Tevens wordt vermeld aan welke rechtspersonen hij reeds als commissaris is verbonden; indien zich daaronder rechtspersonen bevinden, die tot een zelfde groep behoren, kan met de aanduiding van de groep worden volstaan. De aanbeveling en de voordracht tot benoeming of herbenoeming worden gemotiveerd. Bij herbenoeming wordt rekening gehouden met de wijze waarop de kandidaat zijn taak als commissaris heeft vervuld.
 
@@ -2557,7 +2557,7 @@ Artikel 186
 
 Artikel 187
 
-Indien aandelen van de vennootschap of certificaten van aandelen zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, zijn de artikelen 113 lid 6, 114 leden 1 en 3, 114a lid 1, 114b, 115 lid 2, 117 leden 6, tweede volzin, en 7, 117a leden 3 en 5, tweede volzin, 117b leden 1 tot en met 4, 117c, 119 leden 1, derde volzin, 2 en 3, 120 leden 5 en 6, 129 lid 1, tweede zin, 135 leden 1, eerste en tweede volzin, 4 en 9, 135a, 135b, 142b, 145 lid 2 en 167 tot en met 170 van toepassing in plaats van de artikelen 223 lid 1, 224 leden 1 en 3, 224a lid 1, 225, 227 lid 5, eerste volzin, 227a lid 3 en 227b. Voor de toepassing van artikel 114b wordt voor artikelen 132 lid 1, 134 lid 1, 142 lid 1, 144 lid 1 en 161a lid 1 gelezen: artikelen 242 lid 1, 244 lid 1, 252 lid 1, 254 lid 1 en 271a lid 1, en wordt voor de in artikel 114b lid 10 bedoelde certificaten en houders van certificaten gelezen: certificaten en houders van certificaten waaraan respectievelijk aan wie het vergaderrecht bedoeld in artikel 220 lid 2 toekomt. Voor de toepassing van artikelen 168 en 169 lid 3, wordt in plaats van artikel 129a gelezen artikel 239a. Voor de toepassing van artikel 169 lid 4, wordt in plaats van artikelen 129 lid 6, tweede en derde volzin, en 140 lid 5, tweede volzin, gelezen artikelen 142b, 239 lid 6, tweede en derde volzin, en 250 lid 5, tweede volzin.
+Indien aandelen van de vennootschap of certificaten van aandelen zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, zijn de artikelen 113 lid 6, 114 leden 1 en 3, 114a lid 1, 114b, 115 lid 2, 117 leden 6, tweede volzin, en 7, 117a leden 3 en 5, tweede volzin, 117b leden 1 tot en met 4, 117c, 119 leden 1, derde volzin, 2 en 3, 120 leden 5 en 6, 129 lid 1, tweede zin, 135 leden 1, eerste en tweede volzin, 4 en 9, 135a, 135b, 142b, 145 lid 2 en 167 tot en met 170 van toepassing in plaats van de artikelen 223 lid 1, 224 leden 1 en 3, 224a lid 1, 225, 227 lid 5, eerste volzin, 227a lid 3 en 227b. Voor de toepassing van artikel 114b wordt voor artikelen 132 lid 1, 134 lid 1, 142 lid 1, 144 lid 1 en 161a lid 1 gelezen: artikelen 242 lid 1, 244 lid 1, 252 lid 1, 254 lid 1 en 271a lid 1, en wordt voor de in artikel 114b lid 10 bedoelde certificaten en houders van certificaten gelezen: certificaten en houders van certificaten waaraan respectievelijk aan wie het vergaderrecht bedoeld in artikel 220 lid 2 toekomt. Voor de toepassing van artikelen 142b, 168 en 169 lid 3, wordt in plaats van artikel 129a gelezen artikel 239a. Voor de toepassing van artikel 169 lid 4, wordt in plaats van artikelen 129 lid 6, tweede en derde volzin, en 140 lid 5, tweede volzin, gelezen artikelen 239 lid 6, tweede en derde volzin, en 250 lid 5, tweede volzin.
 
 Artikel 188
 
@@ -6405,7 +6405,7 @@ Artikel 453
 
 Artikel 454
 
-1.	Op verzoek van de Stichting Autoriteit Financiële Markten kan de ondernemingskamer van het gerechtshof te Amsterdam aan een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving bevelen een bericht als bedoeld in artikel 3, tweede lid, van de Wet toezicht financiële verslaggeving algemeen verkrijgbaar te stellen.
+1.	Op verzoek van de Stichting Autoriteit Financiële Markten kan de ondernemingskamer van het gerechtshof Amsterdam aan een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving bevelen een bericht als bedoeld in artikel 3, tweede lid, van de Wet toezicht financiële verslaggeving algemeen verkrijgbaar te stellen.
 
 2.	De Stichting Autoriteit Financiële Markten kan het verzoek slechts indienen op de grond dat de financiële verslaggeving als bedoeld in artikel 1, onderdeel d, van de Wet toezicht financiële verslaggeving niet voldoet aan de daaraan ingevolgde artikel 3 van verordening (EG) 1606/2002 van het Europees Parlement en Raad van de Europese Unie van 19 juli 2002 betreffende de toepassing van internationale standaarden voor jaarrekeningen (PbEG L 243), deze titel, of de artikelen 5:25c, tweede, vierde of vijfde lid, 5:25d, tweede of vierde tot en met tiende lid, 5:25e, artikel 5:25v, eerste lid, of artikel 5:25w van de Wet op het financieel toezicht gestelde voorschriften. Het verzoek vermeldt in welk opzicht de financiële verslaggeving als bedoeld in de vorige volzin niet voldoet.
 
