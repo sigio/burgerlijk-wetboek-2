@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 01-10-2022 t/m 03-11-2022
+Geldend van 04-11-2022 t/m 21-02-2023
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -1721,6 +1721,8 @@ Artikel 115
 3.	De statuten van een entiteit als bedoeld in artikel 3A:2, onderdelen a tot en met e, van de Wet op het financieel toezicht kunnen in afwijking van leden 1 en 2 bepalen dat de oproeping voor een vergadering voor een besluit tot uitgifte van aandelen niet later dan de tiende dag vóór die der vergadering geschiedt, indien voldaan is aan de voorwaarden om maatregelen op te leggen op grond van artikel 1:75a van die wet en de uitgifte van aandelen noodzakelijk is om te voorkomen dat aan de voorwaarden voor afwikkeling, bedoeld in artikel 3A:18, eerste lid, van die wet wordt voldaan.
 
 4.	Voor een besluit van de algemene vergadering tot wijziging van de statuten voor de toepassing van het derde lid, is een meerderheid van ten minste twee derden der uitgebrachte stemmen vereist.
+
+5.	Het derde en vierde lid zijn van overeenkomstige toepassing op de statuten van een centrale tegenpartij als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, indien is voldaan aan de voorwaarden van artikel 18, eerste lid, aanhef van de verordening herstel en afwikkeling centrale tegenpartijen bedoeld in artikel 1:1 van de Wet op het financieel toezicht en de uitgifte van aandelen noodzakelijk is om te voorkomen dat aan de voorwaarden voor afwikkeling, bedoeld in artikel 22, eerste lid, van die verordening wordt voldaan.
 
 Artikel 116
 
