@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 04-11-2022 t/m 21-02-2023
+Geldend van 22-02-2023 t/m 30-04-2023
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -1978,7 +1978,7 @@ Artikel 134a
 
 Artikel 135
 
-1.	De vennootschap heeft een beleid op het terrein van bezoldiging van het bestuur. Het beleid wordt vastgesteld door de algemene vergadering. In het bezoldigingsbeleid komen ten minste de in artikel 383c tot en met e omschreven onderwerpen aan de orde, voor zover deze het bestuur betreffen. In afwijking van de vorige zin komen in het bezoldigingsbeleid van een vennootschap waarvan aandelen of met medewerking van de vennootschap uitgegeven certificaten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, de in artikel 135a lid 6 omschreven onderwerpen aan de orde.
+1.	De vennootschap heeft een beleid op het terrein van bezoldiging van het bestuur. Het beleid wordt vastgesteld door de algemene vergadering. In het bezoldigingsbeleid komen ten minste de in artikel 383c tot en met e omschreven onderwerpen aan de orde, voor zover deze het bestuur betreffen. In afwijking van de vorige zin komen in het bezoldigingsbeleid van een vennootschap waarvan aandelen of met medewerking van de vennootschap uitgegeven certificaten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, met uitzondering van beleggingsmaatschappijen met veranderlijk kapitaal, de in artikel 135a lid 6 omschreven onderwerpen aan de orde.
 
 2.	Indien de vennootschap krachtens wettelijke bepalingen een ondernemingsraad heeft ingesteld, wordt het voorstel tot vaststelling van het bezoldigingsbeleid niet aan de algemene vergadering aangeboden, dan nadat de ondernemingsraad tijdig voor de datum van oproeping als bedoeld in artikel 114 in de gelegenheid is gesteld hierover een standpunt te bepalen. Het standpunt van de ondernemingsraad wordt, gelijktijdig met het voorstel tot vaststelling van het bezoldigingsbeleid, aan de algemene vergadering aangeboden. De voorzitter of een door hem aangewezen lid van de ondernemingsraad kan het standpunt van de ondernemingsraad in de algemene vergadering toelichten. Het ontbreken van dat standpunt tast de besluitvorming inzake het bezoldigingsbeleid niet aan.
 
@@ -1998,7 +1998,7 @@ Artikel 135
 
 Artikel 135a
 
-1.	Dit artikel is van toepassing op het bezoldigingsbeleid van de vennootschap waarvan aandelen of met medewerking van de vennootschap uitgegeven certificaten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.
+1.	Dit artikel is van toepassing op het bezoldigingsbeleid van de vennootschap waarvan aandelen of met medewerking van de vennootschap uitgegeven certificaten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, met uitzondering van beleggingsmaatschappijen met veranderlijk kapitaal.
 
 2.	Het bezoldigingsbeleid wordt ten minste iedere vier jaar na vaststelling, opnieuw aan de algemene vergadering voorgelegd ter vaststelling. Voor een besluit tot vaststelling van het bezoldigingsbeleid is een meerderheid van ten minste drie vierden van de uitgebrachte stemmen vereist, tenzij in de statuten een lagere meerderheid is voorgeschreven.
 
@@ -2035,7 +2035,7 @@ Artikel 135a
 
 Artikel 135b
 
-1.	De vennootschap waarvan de aandelen of met medewerking van de vennootschap uitgegeven certificaten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, stelt jaarlijks een duidelijk en begrijpelijk bezoldigingsverslag op met een overzicht van alle bezoldigingen die in het voorgaande boekjaar aan individuele bestuurders zijn toegekend of verschuldigd zijn.
+1.	De vennootschap waarvan de aandelen of met medewerking van de vennootschap uitgegeven certificaten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, met uitzondering van beleggingsmaatschappijen met veranderlijk kapitaal, stelt jaarlijks een duidelijk en begrijpelijk bezoldigingsverslag op met een overzicht van alle bezoldigingen die in het voorgaande boekjaar aan individuele bestuurders zijn toegekend of verschuldigd zijn.
 
 2.	Het bezoldigingsverslag wordt aan de jaarlijkse algemene vergadering voorgelegd ter adviserende stemming. In het bezoldigingsverslag licht de vennootschap toe hoe met de vorige stemming van de algemene vergadering rekening is gehouden.
 
@@ -2391,7 +2391,7 @@ Afdeling 8. Transacties met verbonden partijen
 
 Artikel 167
 
-1.	Deze afdeling is van toepassing op vennootschappen waarvan aandelen of met medewerking van de vennootschap uitgegeven certificaten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.
+1.	Deze afdeling is van toepassing op vennootschappen waarvan aandelen of met medewerking van de vennootschap uitgegeven certificaten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, met uitzondering van beleggingsmaatschappijen met veranderlijk kapitaal.
 
 2.	Voor de toepassing van deze afdeling wordt onder een verbonden partij verstaan een verbonden partij als bedoeld in de door de International Accounting Standards Board vastgestelde en door de Europese Commissie goedgekeurde standaarden.
 
