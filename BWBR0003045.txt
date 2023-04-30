@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 2
 Geraadpleegd op 06-08-2023.
-Geldend van 22-02-2023 t/m 30-04-2023
+Geldend van 01-05-2023 t/m heden
 
 Burgerlijk Wetboek Boek 2, Rechtspersonen
 
@@ -4627,18 +4627,6 @@ Artikel 337
 
 Artikel 338
 
-[Red: Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.]
-
-1.	Nadat het oproepingsbericht aan hem is betekend en tot de dag waarop het vonnis onherroepelijk is geworden, kan de verweerder zijn aandelen niet vervreemden, verpanden of daarop een vruchtgebruik vestigen, tenzij de eisers daarvoor toestemming verlenen. Indien de eisers de toestemming weigeren, kan de rechter voor wie het geschil aanhangig is op vordering van verweerder de toestemming verlenen, indien verweerder bij de rechtshandeling een redelijk belang heeft. Tegen de beslissing van de rechter staat geen hogere voorziening open.
-
-2.	Nadat de vordering is toegewezen, kan de verweerder de aandelen slechts overdragen met inachtneming van de artikelen 339 tot en met 341.
-
-3.	Een voorlopige voorziening als bedoeld in artikel 223 van het Wetboek van Burgerlijke Rechtsvordering kan worden getroffen met werking tot het tijdstip dat de aandelen worden overgedragen. Een vordering tot het treffen van een voorlopige voorziening wordt met de meeste spoed behandeld.
-
-[Red: Voor overige gevallen luidt het artikel als volgt:]
-
-Artikel 338
-
 1.	Nadat de dagvaarding aan hem is betekend en tot de dag waarop het vonnis onherroepelijk is geworden, kan de verweerder zijn aandelen niet vervreemden, verpanden of daarop een vruchtgebruik vestigen, tenzij de eisers daarvoor toestemming verlenen. Indien de eisers de toestemming weigeren, kan de rechter voor wie het geschil aanhangig is op vordering van verweerder de toestemming verlenen, indien verweerder bij de rechtshandeling een redelijk belang heeft. Tegen de beslissing van de rechter staat geen hogere voorziening open.
 
 2.	Nadat de vordering is toegewezen, kan de verweerder de aandelen slechts overdragen met inachtneming van de artikelen 339 tot en met 341.
@@ -4687,21 +4675,9 @@ Artikel 341a
 
 Artikel 342
 
-[Red: Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.]
-
 1.	Een of meer houders van aandelen die alleen of gezamenlijk ten minste een derde van het geplaatste kapitaal verschaffen, kunnen van een stemgerechtigde vruchtgebruiker of pandhouder van een aandeel in rechte vorderen dat het stemrecht op het aandeel overgaat op de houder van het aandeel, indien die vruchtgebruiker of pandhouder door zijn gedragingen het belang van de vennootschap zodanig schaadt dat in redelijkheid niet kan worden geduld dat hij het stemrecht blijft uitoefenen.
 
-2.	Een afschrift van het oproepingsbericht moet onverwijld door de eisers aan de houder van het aandeel, die niet zelf tevens eiser is, worden betekend bij exploot. Artikel 336, leden 2, 3 en 4 en artikel 339 lid 2 zijn van toepassing en de artikelen 337 en 338 leden 1 en 3, tweede volzin, zijn van overeenkomstige toepassing, in dier voege dat in het geval van artikel 338 lid 1 de vruchtgebruiker of pandhouder het vruchtgebruik of het pandrecht niet op een ander kan doen overgaan.
-
-3.	Indien de vordering tot overgang van het stemrecht is toegewezen, vindt de overgang plaats door het in kracht van gewijsde gaan van het vonnis.
-
-[Red: Voor overige gevallen luidt het artikel als volgt:]
-
-Artikel 342
-
-1.	Een of meer houders van aandelen die alleen of gezamenlijk ten minste een derde van het geplaatste kapitaal verschaffen, kunnen van een stemgerechtigde vruchtgebruiker of pandhouder van een aandeel in rechte vorderen dat het stemrecht op het aandeel overgaat op de houder van het aandeel, indien die vruchtgebruiker of pandhouder door zijn gedragingen het belang van de vennootschap zodanig schaadt dat in redelijkheid niet kan worden geduld dat hij het stemrecht blijft uitoefenen.
-
-2.	Een afschrift van het exploit van dagvaarding moet onverwijld door eisers aan de houder van het aandeel, die niet zelf tevens eiser is, worden betekend. Artikel 336, leden 2, 3 en 4 en artikel 339 lid 2 zijn van toepassing en de artikelen 337 en 338 leden 1 en 3, tweede volzin, zijn van overeenkomstige toepassing, in dier voege dat in het geval van artikel 338 lid 1 de vruchtgebruiker of pandhouder het vruchtgebruik of het pandrecht niet op een ander kan doen overgaan.
+2.	Een afschrift van het exploot van dagvaarding moet onverwijld door eisers aan de houder van het aandeel, die niet zelf tevens eiser is, worden betekend. Artikel 336, leden 2, 3 en 4 en artikel 339 lid 2 zijn van toepassing en de artikelen 337 en 338 leden 1 en 3, tweede volzin, zijn van overeenkomstige toepassing, in dier voege dat in het geval van artikel 338 lid 1 de vruchtgebruiker of pandhouder het vruchtgebruik of het pandrecht niet op een ander kan doen overgaan.
 
 3.	Indien de vordering tot overgang van het stemrecht is toegewezen, vindt de overgang plaats door het in kracht van gewijsde gaan van het vonnis.
 
